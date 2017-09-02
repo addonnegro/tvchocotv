@@ -159,7 +159,7 @@
 <title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series Estrenos[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
-  <name>makelist2</name>
+  <name>makelist</name>
   <listrepeat><![CDATA[
   <SetViewMode>55</SetViewMode>
         <title>[makelist2.param1]</title>
@@ -168,7 +168,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>=========================================AQUI PONES TU RAW DE SERIES.xml======================================</page>
+<page>http://diskokosmiko.mx/elchocolate/dragon-ball-super-completo-75466</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -180,15 +180,15 @@
     <fanart>[makelist2.param3]</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>[makelist2.param2]/list,1,15</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<page>[http://diskokosmiko.mx/[makelist.param2]</page>
 <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>[makelist2.param4]/[makelist.param2]</referer>
+<referer>http://diskokosmiko.mx/elchocolate/dragon-ball-super-completo-75466</referer>
 <connection>keep-alive</connection>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
