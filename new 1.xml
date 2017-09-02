@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>lista españa2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://xc.cobra-iptv.com:25461/live/belgium-v2/Uxf2oTL0bW/795.ts</link>
-<externallink></externallink>
-</item>
-
-<item>
 <title>[COLOR navy][COLOR brown]MOVISTAR +[/COLOR]</title>
 <thumbnail>https://github.com/elchocolate/tvchocotv/commit/ba562a8711df9ab7e67b7e394dbe6b57be01ed22#diff-bc6f93c5e7fdaa04ba75dfcc308f7691</thumbnail>
 <fanart>https://github.com/elchocolate/tvchocotv/commit/ba562a8711df9ab7e67b7e394dbe6b57be01ed22#diff-bc6f93c5e7fdaa04ba75dfcc308f7691</fanart>
@@ -25,7 +17,7 @@
 </item>
 
 <item>
-<title>pelis</title>
+<title>peliculas</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>ignoreme</link>
