@@ -31,3 +31,12 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/new%2012.xml</externallink>
 </item>
+
+
+item>
+<title>series</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/SeriesDisko.xml</externallink>
+</item>
