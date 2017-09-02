@@ -1,0 +1,379 @@
+#EXTM3U
+#EXTINF:-1,ES: ANDALUCIA TV
+http://104.245.96.214:8000/live/Clemente/clemente/315.ts
+#EXTINF:-1,ES: LA 1
+http://104.245.96.214:8000/live/Clemente/clemente/337.ts
+#EXTINF:-1,ES: LA 2
+http://104.245.96.214:8000/live/Clemente/clemente/336.ts
+#EXTINF:-1,ES: #O
+http://104.245.96.214:8000/live/Clemente/clemente/349.ts
+#EXTINF:-1,ES: 40 TV
+http://104.245.96.214:8000/live/Clemente/clemente/317.ts
+#EXTINF:-1,ES: A&E
+http://104.245.96.214:8000/live/Clemente/clemente/316.ts
+#EXTINF:-1,ES: AMC
+http://104.245.96.214:8000/live/Clemente/clemente/348.ts
+#EXTINF:-1,ES: Antena 3
+http://104.245.96.214:8000/live/Clemente/clemente/187.ts
+#EXTINF:-1,ES: AXN
+http://104.245.96.214:8000/live/Clemente/clemente/347.ts
+#EXTINF:-1,ES: AXN WHITE
+http://104.245.96.214:8000/live/Clemente/clemente/346.ts
+#EXTINF:-1,ES: BARCA TV
+http://104.245.96.214:8000/live/Clemente/clemente/882.ts
+#EXTINF:-1,ES: BEIN La Liga HD
+http://104.245.96.214:8000/live/Clemente/clemente/264.ts
+#EXTINF:-1,ES: BEIN SPORTS SPAIN HD
+http://104.245.96.214:8000/live/Clemente/clemente/160.ts
+#EXTINF:-1,ES: BOING
+http://104.245.96.214:8000/live/Clemente/clemente/345.ts
+#EXTINF:-1,ES: CALLE 13
+http://104.245.96.214:8000/live/Clemente/clemente/344.ts
+#EXTINF:-1,ES: COCINA
+http://104.245.96.214:8000/live/Clemente/clemente/343.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://104.245.96.214:8000/live/Clemente/clemente/342.ts
+#EXTINF:-1,ES: COSMO
+http://104.245.96.214:8000/live/Clemente/clemente/341.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+http://104.245.96.214:8000/live/Clemente/clemente/313.ts
+#EXTINF:-1,ES: CUATRO
+http://104.245.96.214:8000/live/Clemente/clemente/340.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://104.245.96.214:8000/live/Clemente/clemente/314.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://104.245.96.214:8000/live/Clemente/clemente/312.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://104.245.96.214:8000/live/Clemente/clemente/311.ts
+#EXTINF:-1,ES: DISNEY XD
+http://104.245.96.214:8000/live/Clemente/clemente/310.ts
+#EXTINF:-1,ES: DIVINITY
+http://104.245.96.214:8000/live/Clemente/clemente/309.ts
+#EXTINF:-1,ES: ENERGY
+http://104.245.96.214:8000/live/Clemente/clemente/308.ts
+#EXTINF:-1,ES: FDF
+http://104.245.96.214:8000/live/Clemente/clemente/307.ts
+#EXTINF:-1,ES: FOX
+http://104.245.96.214:8000/live/Clemente/clemente/306.ts
+#EXTINF:-1,ES: FOX LIFE
+http://104.245.96.214:8000/live/Clemente/clemente/339.ts
+#EXTINF:-1,ES: GOL
+http://104.245.96.214:8000/live/Clemente/clemente/265.ts
+#EXTINF:-1,ES: HISTORIA
+http://104.245.96.214:8000/live/Clemente/clemente/305.ts
+#EXTINF:-1,ES: HOLLYWOOD
+http://104.245.96.214:8000/live/Clemente/clemente/338.ts
+#EXTINF:-1,ES: La Sexta
+http://104.245.96.214:8000/live/Clemente/clemente/188.ts
+#EXTINF:-1,ES: LaLigaTV BAR
+http://104.245.96.214:8000/live/Clemente/clemente/161.ts
+#EXTINF:-1,ES: M20
+http://104.245.96.214:8000/live/Clemente/clemente/304.ts
+#EXTINF:-1,ES: M6 MUSIC
+http://104.245.96.214:8000/live/Clemente/clemente/303.ts
+#EXTINF:-1,ES: Mega
+http://104.245.96.214:8000/live/Clemente/clemente/263.ts
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+http://104.245.96.214:8000/live/Clemente/clemente/159.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+http://104.245.96.214:8000/live/Clemente/clemente/156.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://104.245.96.214:8000/live/Clemente/clemente/335.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://104.245.96.214:8000/live/Clemente/clemente/334.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+http://104.245.96.214:8000/live/Clemente/clemente/333.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://104.245.96.214:8000/live/Clemente/clemente/332.ts
+#EXTINF:-1,ES: Movistar F1
+http://104.245.96.214:8000/live/Clemente/clemente/189.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+http://104.245.96.214:8000/live/Clemente/clemente/158.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://104.245.96.214:8000/live/Clemente/clemente/157.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+http://104.245.96.214:8000/live/Clemente/clemente/331.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+http://104.245.96.214:8000/live/Clemente/clemente/302.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
+http://104.245.96.214:8000/live/Clemente/clemente/301.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://104.245.96.214:8000/live/Clemente/clemente/330.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://104.245.96.214:8000/live/Clemente/clemente/329.ts
+#EXTINF:-1,ES: MOVISTAR XTRA
+http://104.245.96.214:8000/live/Clemente/clemente/328.ts
+#EXTINF:-1,ES: NAT GEO
+http://104.245.96.214:8000/live/Clemente/clemente/327.ts
+#EXTINF:-1,ES: NAT GEO WILD
+http://104.245.96.214:8000/live/Clemente/clemente/326.ts
+#EXTINF:-1,ES: NEOX
+http://104.245.96.214:8000/live/Clemente/clemente/300.ts
+#EXTINF:-1,ES: NICKELODEON
+http://104.245.96.214:8000/live/Clemente/clemente/325.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+http://104.245.96.214:8000/live/Clemente/clemente/299.ts
+#EXTINF:-1,ES: NOVA
+http://104.245.96.214:8000/live/Clemente/clemente/324.ts
+#EXTINF:-1,ES: ODISEA HD
+http://104.245.96.214:8000/live/Clemente/clemente/298.ts
+#EXTINF:-1,ES: PANDA
+http://104.245.96.214:8000/live/Clemente/clemente/297.ts
+#EXTINF:-1,ES: PARAMOUNT
+http://104.245.96.214:8000/live/Clemente/clemente/296.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://104.245.96.214:8000/live/Clemente/clemente/183.ts
+#EXTINF:-1,ES: SYFY
+http://104.245.96.214:8000/live/Clemente/clemente/323.ts
+#EXTINF:-1,ES: TCM
+http://104.245.96.214:8000/live/Clemente/clemente/322.ts
+#EXTINF:-1,ES: TELECINCO
+http://104.245.96.214:8000/live/Clemente/clemente/321.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://104.245.96.214:8000/live/Clemente/clemente/320.ts
+#EXTINF:-1,ES: TNT
+http://104.245.96.214:8000/live/Clemente/clemente/319.ts
+#EXTINF:-1,ES: TOROSTV HD
+http://104.245.96.214:8000/live/Clemente/clemente/155.ts
+#EXTINF:-1,ES: VH1
+http://104.245.96.214:8000/live/Clemente/clemente/295.ts
+#EXTINF:-1,ES: VIAJAR
+http://104.245.96.214:8000/live/Clemente/clemente/318.ts
+#EXTINF:-1,ES: VIRGIN TV
+http://104.245.96.214:8000/live/Clemente/clemente/294.ts
+#EXTINF:-1,ESPN
+http://104.245.96.214:8000/live/Clemente/clemente/89.ts
+#EXTINF:-1,ESPN 2
+http://104.245.96.214:8000/live/Clemente/clemente/90.ts
+#EXTINF:-1,ESPN 3
+http://104.245.96.214:8000/live/Clemente/clemente/86.ts
+#EXTINF:-1,ESPN ARGENTINA HD
+http://104.245.96.214:8000/live/Clemente/clemente/494.ts
+#EXTINF:-1,ESPN 2 ARGENTINA HD
+http://104.245.96.214:8000/live/Clemente/clemente/495.ts
+#EXTINF:-1,ESPN 3 ARGENTINA HD
+http://104.245.96.214:8000/live/Clemente/clemente/496.ts
+#EXTINF:-1,ESPN Plus Argentina
+http://104.245.96.214:8000/live/Clemente/clemente/959.ts
+#EXTINF:-1,ESPN Deportes
+http://104.245.96.214:8000/live/Clemente/clemente/239.ts
+#EXTINF:-1,ESPN Plus
+http://104.245.96.214:8000/live/Clemente/clemente/85.ts
+#EXTINF:-1,Estrellas
+http://104.245.96.214:8000/live/Clemente/clemente/9.ts
+#EXTINF:-1,FilmZone
+http://104.245.96.214:8000/live/Clemente/clemente/73.ts
+#EXTINF:-1,Foro TV
+http://104.245.96.214:8000/live/Clemente/clemente/10.ts
+#EXTINF:-1,Fox
+http://104.245.96.214:8000/live/Clemente/clemente/16.ts
+#EXTINF:-1,Fox Action
+http://104.245.96.214:8000/live/Clemente/clemente/66.ts
+#EXTINF:-1,Fox Action op2
+http://104.245.96.214:8000/live/Clemente/clemente/991.ts
+#EXTINF:-1,Fox Cinema
+http://104.245.96.214:8000/live/Clemente/clemente/68.ts
+#EXTINF:-1,Fox Classics
+http://104.245.96.214:8000/live/Clemente/clemente/69.ts
+#EXTINF:-1,FOX Comedy
+http://104.245.96.214:8000/live/Clemente/clemente/150.ts
+#EXTINF:-1,FOX Deportes
+http://104.245.96.214:8000/live/Clemente/clemente/240.ts
+#EXTINF:-1,FOX Family
+http://104.245.96.214:8000/live/Clemente/clemente/210.ts
+#EXTINF:-1,Fox Life
+http://104.245.96.214:8000/live/Clemente/clemente/35.ts
+#EXTINF:-1,Fox Movies
+http://104.245.96.214:8000/live/Clemente/clemente/67.ts
+#EXTINF:-1,Fox SD
+http://104.245.96.214:8000/live/Clemente/clemente/25.ts
+#EXTINF:-1,Fox Series
+http://104.245.96.214:8000/live/Clemente/clemente/65.ts
+#EXTINF:-1,Fox Sports Argentina HD
+http://104.245.96.214:8000/live/Clemente/clemente/292.ts
+#EXTINF:-1,Fox Sports 2 Argentina HD
+http://104.245.96.214:8000/live/Clemente/clemente/493.ts
+#EXTINF:-1,Fox Sports 3 Argentina
+http://104.245.96.214:8000/live/Clemente/clemente/960.ts
+#EXTINF:-1,Fox Sports Mexico HD
+http://104.245.96.214:8000/live/Clemente/clemente/964.ts
+#EXTINF:-1,Fox Sports Uruguay HD
+http://104.245.96.214:8000/live/Clemente/clemente/958.ts
+#EXTINF:-1,Fox Sports
+http://104.245.96.214:8000/live/Clemente/clemente/87.ts
+#EXTINF:-1,Fox Sports 2
+http://104.245.96.214:8000/live/Clemente/clemente/88.ts
+#EXTINF:-1,Fox Sports 3
+http://104.245.96.214:8000/live/Clemente/clemente/278.ts
+#EXTINF:-1,FOX SPORTS SUR (CHILE)
+http://104.245.96.214:8000/live/Clemente/clemente/121.ts
+#EXTINF:-1,FOX SPORTS 2 SUR
+http://104.245.96.214:8000/live/Clemente/clemente/127.ts
+#EXTINF:-1,FX
+http://104.245.96.214:8000/live/Clemente/clemente/20.ts
+#EXTINF:-1,FX SD
+http://104.245.96.214:8000/live/Clemente/clemente/30.ts
+#EXTINF:-1,Gala TV
+http://104.245.96.214:8000/live/Clemente/clemente/11.ts
+#EXTINF:-1,Glitz
+http://104.245.96.214:8000/live/Clemente/clemente/34.ts
+#EXTINF:-1,Golden
+http://104.245.96.214:8000/live/Clemente/clemente/72.ts
+#EXTINF:-1,Golden Edge
+http://104.245.96.214:8000/live/Clemente/clemente/79.ts
+#EXTINF:-1,GolTV
+http://104.245.96.214:8000/live/Clemente/clemente/260.ts
+#EXTINF:-1,H2
+http://104.245.96.214:8000/live/Clemente/clemente/140.ts
+#EXTINF:-1,HBO 2
+http://104.245.96.214:8000/live/Clemente/clemente/125.ts
+#EXTINF:-1,HBO FAMILY
+http://104.245.96.214:8000/live/Clemente/clemente/124.ts
+#EXTINF:-1,HBO
+http://104.245.96.214:8000/live/Clemente/clemente/123.ts
+#EXTINF:-1,HBO PLUS
+http://104.245.96.214:8000/live/Clemente/clemente/126.ts
+#EXTINF:-1,HBO PLUS OESTE
+http://104.245.96.214:8000/live/Clemente/clemente/122.ts
+#EXTINF:-1,HBO Signature
+http://104.245.96.214:8000/live/Clemente/clemente/112.ts
+#EXTINF:-1,History
+http://104.245.96.214:8000/live/Clemente/clemente/53.ts
+#EXTINF:-1,Investigation Discovery
+http://104.245.96.214:8000/live/Clemente/clemente/31.ts
+#EXTINF:-1,iSat
+http://104.245.96.214:8000/live/Clemente/clemente/83.ts
+#EXTINF:-1,Lifetime
+http://104.245.96.214:8000/live/Clemente/clemente/60.ts
+#EXTINF:-1,MAX UP
+http://104.245.96.214:8000/live/Clemente/clemente/151.ts
+#EXTINF:-1,MAX Prime
+http://104.245.96.214:8000/live/Clemente/clemente/498.ts
+#EXTINF:-1,MTV
+http://104.245.96.214:8000/live/Clemente/clemente/96.ts
+#EXTINF:-1,MTV hits
+http://104.245.96.214:8000/live/Clemente/clemente/97.ts
+#EXTINF:-1,MTV Live HD
+http://104.245.96.214:8000/live/Clemente/clemente/93.ts
+#EXTINF:-1,Multimedios
+http://104.245.96.214:8000/live/Clemente/clemente/15.ts
+#EXTINF:-1,MundoFOX
+http://104.245.96.214:8000/live/Clemente/clemente/212.ts
+#EXTINF:-1,NatGeo Wild
+http://104.245.96.214:8000/live/Clemente/clemente/54.ts
+#EXTINF:-1,National Geographic Channel
+http://104.245.96.214:8000/live/Clemente/clemente/59.ts
+#EXTINF:-1,Nick Jr
+http://104.245.96.214:8000/live/Clemente/clemente/42.ts
+#EXTINF:-1,Nick2
+http://104.245.96.214:8000/live/Clemente/clemente/45.ts
+#EXTINF:-1,Nickelodeon
+http://104.245.96.214:8000/live/Clemente/clemente/46.ts
+#EXTINF:-1,NickToons
+http://104.245.96.214:8000/live/Clemente/clemente/44.ts
+#EXTINF:-1,Paramount
+http://104.245.96.214:8000/live/Clemente/clemente/213.ts
+#EXTINF:-1,PE: AMERICA TELEVISION
+http://104.245.96.214:8000/live/Clemente/clemente/101.ts
+#EXTINF:-1,PE: ATV
+http://104.245.96.214:8000/live/Clemente/clemente/139.ts
+#EXTINF:-1,PE: NEXTV
+http://104.245.96.214:8000/live/Clemente/clemente/235.ts
+#EXTINF:-1,PE: Frecuencia Latina
+http://104.245.96.214:8000/live/Clemente/clemente/1045.ts
+#EXTINF:-1,PE: Frecuencia Latina op2
+http://104.245.96.214:8000/live/Clemente/clemente/111.ts
+#EXTINF:-1,PE: GolPeru
+http://104.245.96.214:8000/live/Clemente/clemente/234.ts
+#EXTINF:-1,PE: Panamericana
+http://104.245.96.214:8000/live/Clemente/clemente/238.ts
+#EXTINF:-1,PE: Peru Magico
+http://104.245.96.214:8000/live/Clemente/clemente/233.ts
+#EXTINF:-1,PE: TV Peru
+http://104.245.96.214:8000/live/Clemente/clemente/237.ts
+#EXTINF:-1,PR: ABC
+http://104.245.96.214:8000/live/Clemente/clemente/867.ts
+#EXTINF:-1,PR: MegaTV
+http://104.245.96.214:8000/live/Clemente/clemente/865.ts
+#EXTINF:-1,PR: NBC
+http://104.245.96.214:8000/live/Clemente/clemente/866.ts
+#EXTINF:-1,PR: Telemundo 2
+http://104.245.96.214:8000/live/Clemente/clemente/504.ts
+#EXTINF:-1,PR: Univision
+http://104.245.96.214:8000/live/Clemente/clemente/864.ts
+#EXTINF:-1,PR: Wapa 2
+http://104.245.96.214:8000/live/Clemente/clemente/863.ts
+#EXTINF:-1,PR: Wapa
+http://104.245.96.214:8000/live/Clemente/clemente/503.ts
+#EXTINF:-1,RD: Digital 15
+http://104.245.96.214:8000/live/Clemente/clemente/250.ts
+#EXTINF:-1,RD: Teleantillas
+http://104.245.96.214:8000/live/Clemente/clemente/249.ts
+#EXTINF:-1,RD: Telecentro
+http://104.245.96.214:8000/live/Clemente/clemente/248.ts
+#EXTINF:-1,RD: Telenord 10
+http://104.245.96.214:8000/live/Clemente/clemente/247.ts
+#EXTINF:-1,RD: Telenord 12
+http://104.245.96.214:8000/live/Clemente/clemente/246.ts
+#EXTINF:-1,RD: Telesistema
+http://104.245.96.214:8000/live/Clemente/clemente/245.ts
+#EXTINF:-1,RD: Teletica
+http://104.245.96.214:8000/live/Clemente/clemente/242.ts
+#EXTINF:-1,RD: Teleunion
+http://104.245.96.214:8000/live/Clemente/clemente/244.ts
+#EXTINF:-1,RD: Teleuniverso
+http://104.245.96.214:8000/live/Clemente/clemente/243.ts
+#EXTINF:-1,Ritmoson
+http://104.245.96.214:8000/live/Clemente/clemente/99.ts
+#EXTINF:-1,SKYSports 16 (solo eventos)
+http://104.245.96.214:8000/live/Clemente/clemente/267.ts
+#EXTINF:-1,SKYSports 17 (solo eventos)
+http://104.245.96.214:8000/live/Clemente/clemente/266.ts
+#EXTINF:-1,SKYSports 24
+http://104.245.96.214:8000/live/Clemente/clemente/268.ts
+#EXTINF:-1,Sony
+http://104.245.96.214:8000/live/Clemente/clemente/17.ts
+#EXTINF:-1,Space
+http://104.245.96.214:8000/live/Clemente/clemente/76.ts
+#EXTINF:-1,Space SD
+http://104.245.96.214:8000/live/Clemente/clemente/81.ts
+#EXTINF:-1,Studio Universal
+http://104.245.96.214:8000/live/Clemente/clemente/82.ts
+#EXTINF:-1,SyFy
+http://104.245.96.214:8000/live/Clemente/clemente/29.ts
+#EXTINF:-1,TBS
+http://104.245.96.214:8000/live/Clemente/clemente/37.ts
+#EXTINF:-1,TCM
+http://104.245.96.214:8000/live/Clemente/clemente/84.ts
+#EXTINF:-1,TDN
+http://104.245.96.214:8000/live/Clemente/clemente/143.ts
+#EXTINF:-1,Teleformula
+http://104.245.96.214:8000/live/Clemente/clemente/14.ts
+#EXTINF:-1,Telehit
+http://104.245.96.214:8000/live/Clemente/clemente/94.ts
+#EXTINF:-1,Telemundo
+http://104.245.96.214:8000/live/Clemente/clemente/146.ts
+#EXTINF:-1,Telemundo Internacional
+http://104.245.96.214:8000/live/Clemente/clemente/147.ts
+#EXTINF:-1,Telemundo USA
+http://104.245.96.214:8000/live/Clemente/clemente/1994.ts
+#EXTINF:-1,TIIN
+http://104.245.96.214:8000/live/Clemente/clemente/50.ts
+#EXTINF:-1,TLC Discovery
+http://104.245.96.214:8000/live/Clemente/clemente/64.ts
+#EXTINF:-1,TLnovelas
+http://104.245.96.214:8000/live/Clemente/clemente/38.ts
+#EXTINF:-1,TNT
+http://104.245.96.214:8000/live/Clemente/clemente/71.ts
+#EXTINF:-1,TNT Series
+http://104.245.96.214:8000/live/Clemente/clemente/32.ts
+#EXTINF:-1,Tooncast
+http://104.245.96.214:8000/live/Clemente/clemente/51.ts
+#EXTINF:-1,Tru TV
+http://104.245.96.214:8000/live/Clemente/clemente/22.ts
+#EXTINF:-1,TVE Internacional
+http://104.245.96.214:8000/live/Clemente/clemente/92.ts
+#EXTINF:-1,UFC
+http://104.245.96.214:8000/live/Clemente/clemente/116.ts
+#EXTINF:-1,UK: BOX Nation
+http://104.245.96.214:8000/live/Clemente/clemente/173.ts
