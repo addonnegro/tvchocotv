@@ -156,7 +156,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Juego De Tronos[/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]bola de dragon[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -167,7 +167,7 @@
 <thumbnail>http://idg.bg/test/pcw/2016/12/5/26301-Google-Play--Best-of-2016-6-GoT.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/elchocolate/dragon-ball-super-completo-75466/list,1</page>
+<page>http://diskokosmiko.mx/elchocolate/dragon-ball-super-completo-75466</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -185,7 +185,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/elchocolate/dragon-ball-super-completo-75466/list,1</referer>
+<referer>http://diskokosmiko.mx/elchocolate/dragon-ball-super-completo-75466</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
