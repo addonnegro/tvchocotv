@@ -4,7 +4,7 @@
 <title>tve1</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://xc.cobra-iptv.com:25461/live/belgium-v2/Uxf2oTL0bW/795.ts</link>
+<link>http://212.178.96.210:3130/playlist.m3u8</link>
 <externallink></externallink>
 </item>
 
@@ -12,8 +12,8 @@
 <title>lista españa</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://212.178.96.210:3130/playlist.m3u8</link>
-<externallink></externallink>
+<link></link>
+<externallink>http://212.178.96.210:3130/playlist.m3u8</externallink>
 </item>
 
 <item>
