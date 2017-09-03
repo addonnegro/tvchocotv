@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1,ES:COSMO_HD
+http://xtream.hopto.me:9000/live/9/9/7812.ts
+#EXTINF:-1,ES:Antena 3
+http://xtream.hopto.me:9000/live/9/9/12139.ts
+#EXTINF:-1,ES:Antena 3 Intern
+http://xtream.hopto.me:9000/live/9/9/12138.ts
+#EXTINF:-1,ES:cuatro
+http://xtream.hopto.me:9000/live/9/9/12137.ts
+#EXTINF:-1,ES:LA SEXTA
+http://xtream.hopto.me:9000/live/9/9/12135.ts
+#EXTINF:-1,ES:NEOX
+http://xtream.hopto.me:9000/live/9/9/12133.ts
+#EXTINF:-1,ES:SPAIN - MEGA 7
+http://xtream.hopto.me:9000/live/9/9/12134.ts
+#EXTINF:-1,ES:Telecinco
+http://xtream.hopto.me:9000/live/9/9/12136.ts
+#EXTINF:-1,ES:MOVISTAR--F1
+http://xtream.hopto.me:9000/live/9/9/7826.ts
+#EXTINF:-1,ES:MOVISTAR--SERIES-XTRA
+http://xtream.hopto.me:9000/live/9/9/7841.ts
+#EXTINF:-1,ES:MOVISTAR-XTRA
+http://xtream.hopto.me:9000/live/9/9/7844.ts
+#EXTINF:-1,ES:MOVISTAR-DEPORTES-1
+http://xtream.hopto.me:9000/live/9/9/7817.ts
+#EXTINF:-1,ES:MOVISTAR-DISNEY-CHANNEL
+http://xtream.hopto.me:9000/live/9/9/7820.ts
+#EXTINF:-1,ES:MOVISTAR_DISNEY
+http://xtream.hopto.me:9000/live/9/9/7822.ts
+#EXTINF:-1,ES:TAQUILLA_1
+http://xtream.hopto.me:9000/live/9/9/8031.ts
+#EXTINF:-1,ES:TAQUILLA_2
+http://xtream.hopto.me:9000/live/9/9/8030.ts
+#EXTINF:-1,ES:TAQUILLA_3
+http://xtream.hopto.me:9000/live/9/9/8029.ts
+#EXTINF:-1,ES:ACCION_HD
+http://xtream.hopto.me:9000/live/9/9/7842.ts
+#EXTINF:-1,ES:CANAL_ACTION
+http://xtream.hopto.me:9000/live/9/9/10543.ts
+#EXTINF:-1,ES:CANAL_COMEDIA_HD
+http://xtream.hopto.me:9000/live/9/9/10542.ts
+#EXTINF:-1,ES:CANAL_DEPORTES
+http://xtream.hopto.me:9000/live/9/9/10544.ts
+#EXTINF:-1,ES:CANAL_ESTRENOS
+http://xtream.hopto.me:9000/live/9/9/10545.ts
+#EXTINF:-1,ES:BeIN LALIGA
+http://xtream.hopto.me:9000/live/9/9/10546.ts
+#EXTINF:-1,ES:Toros Tv
+http://xtream.hopto.me:9000/live/9/9/10547.ts
+#EXTINF:-1,ES:Fox Life
+http://xtream.hopto.me:9000/live/9/9/10550.ts
+#EXTINF:-1,ES:CANAL_SERIES_HD
+http://xtream.hopto.me:9000/live/9/9/10548.ts
+#EXTINF:-1,ES:CANAL_XTRA_HD
+http://xtream.hopto.me:9000/live/9/9/10549.ts
+#EXTINF:-1,ES:MEGA
+http://xtream.hopto.me:9000/live/9/9/10551.ts
+#EXTINF:-1,ES:DCINE
+http://xtream.hopto.me:9000/live/9/9/10552.ts
+#EXTINF:-1,ES:HOLLYWOOD_HD
+http://xtream.hopto.me:9000/live/9/9/10553.ts
 #EXTINF:-1,ES: ANDALUCIA TV
 http://104.245.96.214:8000/live/Clemente/clemente/315.ts
 #EXTINF:-1,ES: LA 1
