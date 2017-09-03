@@ -5,14 +5,14 @@
 </item>
 
 	<item>
-		<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]GAME OF THRONES[/COLOR]</title>
+		<title>COLOR skyblue]JUEGO DE TRONOS[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
 			<listrepeat><![CDATA[
 			<title>[makelist.param3]</title>
 			<link>$doregex[getUrl]</link>
-			<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/GOTThumbnail.png?raw=true</thumbnail>
+			<thumbnail>http://icon-icons.com/icons2/357/PNG/512/Game_of_Thrones_512x512_36547.png</thumbnail>
 			<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/GOTFanart.jpg?raw=true</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
