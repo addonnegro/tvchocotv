@@ -125,8 +125,8 @@
   <listrepeat><![CDATA[
         <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
         <link>$doregex[getUrl]</link>
-                <thumbnail>[makelist2.param3]</thumbnail>
-    <fanart>[makelist2.param3]</fanart>
+                <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
+    <fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>[makelist2.param2]/list,1,15</page>
