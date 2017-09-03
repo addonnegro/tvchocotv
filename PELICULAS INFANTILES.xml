@@ -52,8 +52,9 @@
 <urlsolve>http://powvideo.net/embed-bnweczg4ndwo-954x562.html</urlsolve>
 <thumbnail>https://image.tmdb.org/t/p/w185/3tKg0bMIsbaqa4nV9oUSMtnTduv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w185/yOQ2KnZQvXpM6RPiEjovY6syeTd.jpg</fanart>
-</item
+</item>
 
+<item>
 >#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.diariodevenusville.com/wp-content/uploads/2017/06/GRU-MI-VILLANO-FAVORITO-3-poster-6.jpg", GURU MI VILLANO FAVORITO 3
@@ -94,3 +95,4 @@ http://streamcloud.eu/x1ed2g54a3rs
 http://streamcloud.eu/ccullqh201k0
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwOTI3Nzk5OV5BMl5BanBnXkFtZTgwMzY3NDMyODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg", AMITYVILLE THE AWAKENING [ingles, Sin Subtitulos -Agregar]
 plugin://plugin.video.youtube/play/?video_id=vILQIGf7290
+</item>
