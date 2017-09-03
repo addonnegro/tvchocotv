@@ -139,7 +139,7 @@
 <item>
 <title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series Retro[/COLOR]</title>
 <link>$doregex[makelist2]</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/NARCO%20T1%20T2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/series%20retro.xml</externallink>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
