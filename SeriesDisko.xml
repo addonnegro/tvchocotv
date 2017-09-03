@@ -1,5 +1,5 @@
  <item>
-<title>[COLOR yellow][COLOR  lime]•  [/COLOR] 1Series[/COLOR]</title>
+<title>[COLOR yellow][COLOR  lime]•  [/COLOR] Series Retro[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
   <name>makelist2</name>
@@ -137,7 +137,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series Retro[/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/series%20retro.xml</externallink>
 <regex>
