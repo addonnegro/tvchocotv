@@ -25,7 +25,24 @@
 </item>
 
 <item>
-<title>  </title>
+<title> [COLOR yellow]A[/COLOR][COLOR white]I[/COLOR][COLOR red]DA[/COLOR] </title>
+<thumbnail>http://i89.servimg.com/u/f89/13/69/51/58/aida10.jpg</thumbnail>
+<fanart></fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/Aida.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR yellow]ALLI[/COLOR] [COLOR white]ABA[/COLOR][COLOR red]JO[/COLOR] </title>
+<urlsolve></urlsolve>
+<fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/ALLIABAJJO.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR yellow]7[/COLOR] [COLOR white]VI[/COLOR][COLOR red]VIDAS[/COLOR] </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -34,7 +51,7 @@
 </item>
 
 <item>
-<title>  </title>
+<title> [COLOR yellow]7[/COLOR] [COLOR white]VI[/COLOR][COLOR red]VIDAS[/COLOR] </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -43,7 +60,7 @@
 </item>
 
 <item>
-<title>  </title>
+<title> [COLOR yellow]7[/COLOR] [COLOR white]VI[/COLOR][COLOR red]VIDAS[/COLOR] </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -52,25 +69,7 @@
 </item>
 
 <item>
-<title>  </title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>  </title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>  </title>
+<title> [COLOR yellow]7[/COLOR] [COLOR white]VI[/COLOR][COLOR red]VIDAS[/COLOR] </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
