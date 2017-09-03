@@ -105,7 +105,7 @@
 
 <item>
 <title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series Retro[/COLOR]</title>
-<link>$doregex[makelist2]</link>
+<link>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/NARCOS.xml</link>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
