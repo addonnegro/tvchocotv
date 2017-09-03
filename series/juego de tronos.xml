@@ -5,7 +5,7 @@
 </item>
 
 	<item>
-		<title>COLOR skyblue]JUEGO DE TRONOS[/COLOR]</title>
+		<title>[COLOR skyblue]JUEGO DE TRONOS[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
