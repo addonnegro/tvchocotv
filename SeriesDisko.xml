@@ -116,7 +116,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>=========================================AQUI PONES TU RAW DE SERIES.xml======================================</page>
+<page>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/NARCOS.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -146,7 +146,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>[makelist2.param4]/[makelist.param2]</page>
-<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
+<referer>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/NARCOS.xml</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
