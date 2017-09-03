@@ -150,7 +150,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/NARCOS.xml</page>
+<page>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/series%20retro.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -180,7 +180,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>[makelist2.param4]/[makelist.param2]</page>
-<referer>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/NARCOS.xml</referer>
+<referer>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/series%20retro.xml</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
