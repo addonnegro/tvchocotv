@@ -125,8 +125,8 @@
   <listrepeat><![CDATA[
         <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
         <link>$doregex[getUrl]</link>
-                <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
-    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+                <thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>[makelist2.param2]/list,1,15</page>
