@@ -65,15 +65,68 @@
 </item>
 
 <item>
-<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
-
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR red]CSI[/COLOR] [COLOR yellow]MIAMI[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR yellow]LAS [/COLOR][COLOR red]TEMPORADAS[/COLOR]</title>
+<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+<fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
 <link>ignoreme</link>
-<externallink></externallink>
+<externallink>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</externallink>
 </item>
 
+------------------------------------------------------------------------------------------------------------------------
+
 <item>
+<title>[COLOR cyan]CSI[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+  <SetViewMode>55</SetViewMode>
+        <title>[makelist2.param1]</title>
+<link>$doregex[makelist]</link>
+        <thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
+<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
+        <link>$doregex[getUrl]</link>
+                <thumbnail>[makelist2.param3]</thumbnail>
+    <fanart>[makelist2.param3]</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>[makelist2.param4]/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>[makelist2.param4]/[makelist.param2]</page>
+<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-p42-EqL-8uI/WXtX4KunXJI/AAAAAAAAAGc/xQFVLjQJJMwGEuqg49jDh3MmpJtONXq4gCLcBGAs/s1600/Series%2BInfantiles.png</thumbnail>
+</item>
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
 <title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
 
 <thumbnail></thumbnail>
