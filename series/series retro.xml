@@ -75,9 +75,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]csi[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]CSI[/COLOR] [COLOR yellow]NUEVA[/COLOR] [COLOR red]YORK[/COLOR] [COLOR yellow]español[/COLOR] [COLOR red]todas[/COLOR] [COLOR yellow]temporadas[/COLOR]</title>
+<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+<thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
    	<genre>
 
 
@@ -87,8 +87,8 @@
       <listrepeat><![CDATA[
                <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</fanart>
-<thumbnail>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+<thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/chinchetas/csi-nueva-york-espanol-todas-temporadas-81989/list,1,5</page>
@@ -105,217 +105,82 @@
 </regex>	
 </item>
 
+------------------------------------------------------------------------------------------------------------------------
 
 
-<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
+
+------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
+   <title>COLOR red]CSI[/COLOR] [COLOR yellow]MIAMI[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR yellow]LAS [/COLOR][COLOR red]TEMPORADAS[/COLOR]</title>
+<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+<fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
+   	<genre>
 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+<fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
 </item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
+   <title>[COLOR red]CSI[/COLOR] [COLOR yellow]NUEVA[/COLOR] [COLOR red]YORK[/COLOR] [COLOR yellow]español[/COLOR] [COLOR red]todas[/COLOR] [COLOR yellow]temporadas[/COLOR]</title>
+<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+<thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
+   	<genre>
 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+<thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/chinchetas/csi-nueva-york-espanol-todas-temporadas-81989/list,1,5</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
 </item>
 
-<item>
-<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
-
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
-
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink></externallink>
-</item>
+------------------------------------------------------------------------------------------------------------------------
