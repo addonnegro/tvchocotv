@@ -75,57 +75,37 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR cyan]CSI[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-  <name>makelist2</name>
-  <listrepeat><![CDATA[
-  <SetViewMode>55</SetViewMode>
-        <title>[makelist2.param1]</title>
+   <title>[COLOR red]csi[/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+   	<genre>
+
+
 <link>$doregex[makelist]</link>
-        <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
-<cookieJar></cookieJar>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</fanart>
+<thumbnail>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/chinchetas/csi-nueva-york-espanol-todas-temporadas-81989/list,1,5</page>
+      <cookieJar></cookieJar>
 </regex>
 <regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
-        <link>$doregex[getUrl]</link>
-                <thumbnail>[makelist2.param3]</thumbnail>
-    <fanart>[makelist2.param3]</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>[makelist2.param4]/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>[makelist2.param4]/[makelist.param2]</page>
-<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://4.bp.blogspot.com/-p42-EqL-8uI/WXtX4KunXJI/AAAAAAAAAGc/xQFVLjQJJMwGEuqg49jDh3MmpJtONXq4gCLcBGAs/s1600/Series%2BInfantiles.png</thumbnail>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
 </item>
 
 
---------------------------------------------------------------------------------------------------------------------------
 
 <title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR][COLOR yellow][/COLOR]</title>
 
