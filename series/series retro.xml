@@ -48,14 +48,6 @@
 <externallink>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805</externallink>
 </item>
 
-<item>
-<title>[COLOR red]LAS[/COLOR] [COLOR yellow]VEGAS[/COLOR] [COLOR red]todas[/COLOR] [COLOR yellow]temporadas[/COLOR]</title>
-<thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-bqBWgTfv8cE/VCbEyusRGmI/AAAAAAAAI6U/tKhEq6mHmOo/s1600/2235.jpg</fanart>
-<link>ignoreme</link>
-<externallink>http://diskokosmiko.mx/chinchetas/las-vegas-castellano-todas-temporadas-41458/list,1,5</externallink>
-</item>
-
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -172,9 +164,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow][/COLOR] [COLOR red][/COLOR] [COLOR yellow] [/COLOR][COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]The[/COLOR] [COLOR yellow]Walking[/COLOR] [COLOR red]Dead[/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+<fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
    	<genre>
 
 
@@ -184,11 +176,11 @@
       <listrepeat><![CDATA[
                <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-               <fanart></fanart>
+               <thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+<fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
