@@ -774,9 +774,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]DAREDEVIL[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>http://www.themuseatdreyfoos.com/wp-content/uploads/2016/03/marvels-daredevil.jpg</thumbnail>
+<fanart>http://www.themuseatdreyfoos.com/wp-content/uploads/2016/03/marvels-daredevil.jpg</fanart>
    	<genre>
 
 
@@ -786,11 +786,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>http://www.themuseatdreyfoos.com/wp-content/uploads/2016/03/marvels-daredevil.jpg</thumbnail>
+<fanart>http://www.themuseatdreyfoos.com/wp-content/uploads/2016/03/marvels-daredevil.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/daredevil-serie-espanol-69343</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -991,6 +991,218 @@
 
 
 
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red]DOCTORA[/COLOR] [COLOR red]EN [/COLOR] [COLOR red]ALABAMAS[/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51CmCA9W7SL.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51CmCA9W7SL.jpg</fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51CmCA9W7SL.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51CmCA9W7SL.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/chinchetas/doctora-en-alabama-espanol-71075</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red]LOS[/COLOR] [COLOR red] 100[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>http://www.culturaencadena.com/images/stories/contenido_2014_01/the100b.jpg</thumbnail>
+<fanart>http://www.culturaencadena.com/images/stories/contenido_2014_01/the100b.jpg</fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.culturaencadena.com/images/stories/contenido_2014_01/the100b.jpg</thumbnail>
+<fanart>http://www.culturaencadena.com/images/stories/contenido_2014_01/the100b.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red]EXPEDIENTE[/COLOR] [COLOR red] X[/COLOR] [COLOR red]TODAS LAS TEMPORADAS[/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+<fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+<fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+<fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
 
 
 
