@@ -318,7 +318,45 @@
 
 
 
+------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
+<item>
+   <title>[COLOR red]SIN[/COLOR] [COLOR yellow]TETAS [/COLOR] [COLOR red]NO HAY[/COLOR] [COLOR yellow]PARAISO[/COLOR]</title>
+<thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SHIRKAM/sin-tetas-no-hay-paraiso-completa-75999/list,1,2</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
 
 
 
