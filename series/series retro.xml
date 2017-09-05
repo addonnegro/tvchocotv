@@ -880,7 +880,7 @@
 <fanart>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/fear-the-walking-dead-espanol-71104</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -954,7 +954,7 @@
 
 
 <item>
-   <title>[COLOR red]EL[/COLOR] [COLOR red]MEN[/COLOR][COLOR red]TA[/COLOR]LIS[COLOR red]TA[/COLOR]</title>
+   <title>[COLOR red]EL[/COLOR] [COLOR red]MEN[/COLOR][COLOR red]TA[/COLOR][COLOR red]LIS[/COLOR][COLOR red]TA[/COLOR]</title>
 <thumbnail>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</fanart>
    	<genre>
