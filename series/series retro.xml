@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR red]NARCOS[/COLOR]</title>
+<title>[COLOR red][COLOR red]NARCOS[/COLOR]</title>
 <thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
 <fanart>http://www.queveoennetflix.com/wp-content/uploads/2015/10/narcos-larga.png</fanart>
 <link>ignoreme</link>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]JUEGO[/COLOR] [COLOR white]DE[/COLOR] [COLOR red]TRONOS[/COLOR]</title>
+<title>[COLOR red]JUEGO[/COLOR] [COLOR red]DE[/COLOR] [COLOR red]TRONOS[/COLOR]</title>
 <thumbnail>https://cdn2.areajugones.es/wp-content/uploads/2017/03/juego-de-tronos.png</thumbnail>
 <fanart>https://i.imgur.com/TFXFy6z.png</fanart>
 <link>ignoreme</link>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title> [COLOR yellow]7[/COLOR] [COLOR white]VI[/COLOR][COLOR red]DAS[/COLOR] </title>
+<title> [COLOR red]7[/COLOR] [COLOR red]VI[/COLOR][COLOR red]DAS[/COLOR] </title>
 <thumbnail>http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg</thumbnail>
 <fanart></fanart>
 <link>ignoreme</link>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title> [COLOR yellow]A[/COLOR][COLOR white]I[/COLOR][COLOR red]DA[/COLOR] </title>
+<title> [COLOR red]A[/COLOR][COLOR red]I[/COLOR][COLOR red]DA[/COLOR] </title>
 <thumbnail>http://i89.servimg.com/u/f89/13/69/51/58/aida10.jpg</thumbnail>
 <fanart></fanart>
 <link>ignoreme</link>
@@ -41,7 +41,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]CSI[/COLOR] [COLOR yellow]NUEVA[/COLOR] [COLOR red]YORK[/COLOR]</title>
+   <title>[COLOR red]CSI[/COLOR] [COLOR red]NUEVA[/COLOR] [COLOR red]YORK[/COLOR]</title>
 <fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
 <thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
    	<genre>
@@ -51,7 +51,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
 <fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
 <thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
@@ -79,7 +79,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]CSI[/COLOR] [COLOR yellow]MIAMI[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR yellow]LAS [/COLOR][COLOR red]TEMPORADAS[/COLOR]</title>
+   <title>[COLOR red]CSI[/COLOR] [COLOR red]MIAMI[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR red]LAS [/COLOR][COLOR red]TEMPORADAS[/COLOR]</title>
 <thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
 <fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
    	<genre>
@@ -89,7 +89,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
 <thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
 <fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
@@ -120,7 +120,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]LAS[/COLOR] [COLOR yellow]VEGAS[/COLOR] [COLOR red]todas[/COLOR] [COLOR yellow]temporadas[/COLOR]</title>
+   <title>[COLOR red]LAS[/COLOR] [COLOR red]VEGAS[/COLOR] [COLOR red]todas[/COLOR] [COLOR red]temporadas[/COLOR]</title>
 <thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-bqBWgTfv8cE/VCbEyusRGmI/AAAAAAAAI6U/tKhEq6mHmOo/s1600/2235.jpg</fanart>
    	<genre>
@@ -130,7 +130,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-bqBWgTfv8cE/VCbEyusRGmI/AAAAAAAAI6U/tKhEq6mHmOo/s1600/2235.jpg</fanart>
@@ -159,7 +159,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]The[/COLOR] [COLOR yellow]Walking[/COLOR] [COLOR red]Dead[/COLOR]</title>
+   <title>[COLOR red]The[/COLOR] [COLOR red]Walking[/COLOR] [COLOR red]Dead[/COLOR]</title>
 <thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
 <fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
    	<genre>
@@ -169,7 +169,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
 <fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
@@ -199,7 +199,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title> [COLOR yellow]ALLI[/COLOR] [COLOR white]ABA[/COLOR][COLOR red]JO[/COLOR] </title>
+   <title> [COLOR red]ALLI[/COLOR] [COLOR red]ABA[/COLOR][COLOR red]JO[/COLOR] </title>
 <thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
    	<genre>
@@ -209,7 +209,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
@@ -243,7 +243,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]PERDONAME [/COLOR] [COLOR yellow]SEÑOR[/COLOR]</title>
+   <title>[COLOR red]PERDONAME [/COLOR] [COLOR red]SEÑOR[/COLOR]</title>
 <thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
 <fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
    	<genre>
@@ -253,7 +253,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
                <fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
@@ -281,7 +281,7 @@
 
 
 <item>
-   <title>[COLOR red]THE[/COLOR] [COLOR yellow]FLASH [/COLOR] [COLOR red]COMPLETA[/COLOR]</title>
+   <title>[COLOR red]THE[/COLOR] [COLOR red]FLASH [/COLOR] [COLOR red]COMPLETA[/COLOR]</title>
 <thumbnail>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/44808.jpg</thumbnail>
 <fanart>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/30462.jpg</fanart>
    	<genre>
@@ -291,7 +291,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail></thumbnail>
                <fanart></fanart>
@@ -326,7 +326,7 @@
 
 
 <item>
-   <title>[COLOR red]SIN[/COLOR] [COLOR yellow]TETAS [/COLOR] [COLOR red]NO HAY[/COLOR] [COLOR yellow]PARAISO[/COLOR]</title>
+   <title>[COLOR red]SIN[/COLOR] [COLOR red]TETAS [/COLOR] [COLOR red]NO HAY[/COLOR] [COLOR red]PARAISO[/COLOR]</title>
 <thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</fanart>
    	<genre>
@@ -336,7 +336,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</fanart>
@@ -370,7 +370,7 @@
 
 
 <item>
-   <title>[COLOR red]MI[/COLOR][COLOR yellow]LLE[/COLOR][COLOR red]NIUM[/COLOR] [COLOR yellow]SERIE[/COLOR]</title>
+   <title>[COLOR red]MI[/COLOR][COLOR red]LLE[/COLOR][COLOR red]NIUM[/COLOR] [COLOR red]SERIE[/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</fanart>
    	<genre>
@@ -380,7 +380,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</fanart>
@@ -413,7 +413,7 @@
 
 
 <item>
-   <title>[COLOR red]PA[/COLOR][COLOR yellow]CI[/COLOR][COLOR red]FIC[/COLOR] [COLOR yellow]BLUE[/COLOR]</title>
+   <title>[COLOR red]PA[/COLOR][COLOR red]CI[/COLOR][COLOR red]FIC[/COLOR] [COLOR red]BLUE[/COLOR]</title>
 <thumbnail>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</thumbnail>
 <fanart>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</fanart>
    	<genre>
@@ -423,7 +423,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</thumbnail>
 <fanart>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</fanart>
@@ -456,7 +456,7 @@
 
 
 <item>
-   <title>[COLOR red]MAD[/COLOR] [COLOR yellow] MEN[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR yellow]LAS TEMPORADAS[/COLOR]</title>
+   <title>[COLOR red]MAD[/COLOR] [COLOR red] MEN[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR red]LAS TEMPORADAS[/COLOR]</title>
 <thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
 <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</fanart>
    	<genre>
@@ -466,7 +466,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
 <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</fanart>
@@ -501,7 +501,7 @@
 
 
 <item>
-   <title>[COLOR red]LA[/COLOR] [COLOR yellow] CU[/COLOR][COLOR red]PU[/COLOR][COLOR yellow]LA[/COLOR]</title>
+   <title>[COLOR red]LA[/COLOR] [COLOR red] CU[/COLOR][COLOR red]PU[/COLOR][COLOR red]LA[/COLOR]</title>
 <thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
 <fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
    	<genre>
@@ -511,7 +511,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
 <fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
@@ -544,7 +544,7 @@
 
 
 <item>
-   <title>[COLOR red]PS[/COLOR][COLOR yellow]Y[/COLOR][COLOR red]CH[/COLOR]</title>
+   <title>[COLOR red]PS[/COLOR][COLOR red]Y[/COLOR][COLOR red]CH[/COLOR]</title>
 <thumbnail>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</thumbnail>
 <fanart>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</fanart>
    	<genre>
@@ -554,7 +554,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://vignette3.wikia.nocookie.net/p__/images/d/d1/Psych_usa_wallpaper_1024.jpg/revision/latest?cb=20131119160305&path-prefix=psychusa</thumbnail>
 <fanart>https://vignette3.wikia.nocookie.net/p__/images/d/d1/Psych_usa_wallpaper_1024.jpg/revision/latest?cb=20131119160305&path-prefix=psychusa</fanart>
@@ -592,7 +592,7 @@
 
 
 <item>
-   <title>[COLOR red]JAG[/COLOR] [COLOR yellow] ALERTA[/COLOR] [COLOR red]ROJA[/COLOR]</title>
+   <title>[COLOR red]JAG[/COLOR] [COLOR red] ALERTA[/COLOR] [COLOR red]ROJA[/COLOR]</title>
 <thumbnail>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</thumbnail>
 <fanart>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</fanart>
    	<genre>
@@ -602,7 +602,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</thumbnail>
 <fanart>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</fanart>
@@ -637,7 +637,7 @@
 
 
 <item>
-   <title>[COLOR red]WALKER[/COLOR] [COLOR yellow] TEXAS[/COLOR] [COLOR red]RANGER[/COLOR]</title>
+   <title>[COLOR red]WALKER[/COLOR] [COLOR red] TEXAS[/COLOR] [COLOR red]RANGER[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
 <fanart>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</fanart>
    	<genre>
@@ -647,7 +647,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
 <fanart>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</fanart>
@@ -685,7 +685,7 @@
 
 
 <item>
-   <title>[COLOR red]LOS[/COLOR] [COLOR yellow]MISTERIOS [/COLOR] [COLOR red]DE[/COLOR] [COLOR yellow]LAURA[/COLOR]</title>
+   <title>[COLOR red]LOS[/COLOR] [COLOR red]MISTERIOS [/COLOR] [COLOR red]DE[/COLOR] [COLOR red]LAURA[/COLOR]</title>
 <thumbnail>http://adrianperales.com/wp-content/uploads/2014/06/laura.jpg</thumbnail>
 <fanart>http://adrianperales.com/wp-content/uploads/2014/06/laura.jpg</fanart>
    	<genre>
@@ -695,7 +695,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://adrianperales.com/wp-content/uploads/2014/06/laura.jpg</thumbnail>
 <fanart>http://adrianperales.com/wp-content/uploads/2014/06/laura.jpg</fanart>
@@ -726,7 +726,7 @@
 
 
 <item>
-   <title>[COLOR red]HER[/COLOR][COLOR yellow]CU[/COLOR][COLOR red]LES[/COLOR]</title>
+   <title>[COLOR red]HER[/COLOR][COLOR red]CU[/COLOR][COLOR red]LES[/COLOR]</title>
 <thumbnail>http://as00.epimg.net/epik/imagenes/2017/05/10/portada/1494428029_076866_1494428139_noticia_normal.jpg</thumbnail>
 <fanart>http://as00.epimg.net/epik/imagenes/2017/05/10/portada/1494428029_076866_1494428139_noticia_normal.jpg</fanart>
    	<genre>
@@ -736,7 +736,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://as00.epimg.net/epik/imagenes/2017/05/10/portada/1494428029_076866_1494428139_noticia_normal.jpg</thumbnail>
 <fanart>http://as00.epimg.net/epik/imagenes/2017/05/10/portada/1494428029_076866_1494428139_noticia_normal.jpg</fanart>
@@ -774,7 +774,7 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
+   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
    	<genre>
@@ -784,7 +784,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail></thumbnail>
 <fanart></fanart>
@@ -816,7 +816,7 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
+   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
    	<genre>
@@ -826,7 +826,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail></thumbnail>
 <fanart></fanart>
@@ -864,7 +864,7 @@
 
 
 <item>
-   <title>[COLOR red]FEAR[/COLOR] [COLOR yellow] THE[/COLOR] [COLOR red]WALKING[/COLOR] [COLOR yellow]DEAD[/COLOR]</title>
+   <title>[COLOR red]FEAR[/COLOR] [COLOR red] THE[/COLOR] [COLOR red]WALKING[/COLOR] [COLOR red]DEAD[/COLOR]</title>
 <thumbnail>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</thumbnail>
 <fanart>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</fanart>
    	<genre>
@@ -874,7 +874,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</thumbnail>
 <fanart>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</fanart>
@@ -906,7 +906,7 @@
 
 
 <item>
-   <title>[COLOR red]EL[/COLOR] [COLOR yellow]MINISTERIO [/COLOR] [COLOR red]DEL[/COLOR] [COLOR yellow]TIEMPO[/COLOR]</title>
+   <title>[COLOR red]EL[/COLOR] [COLOR red]MINISTERIO [/COLOR] [COLOR red]DEL[/COLOR] [COLOR red]TIEMPO[/COLOR]</title>
 <thumbnail>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</thumbnail>
 <fanart>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</fanart>
    	<genre>
@@ -916,7 +916,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</thumbnail>
 <fanart>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</fanart>
@@ -954,7 +954,7 @@
 
 
 <item>
-   <title>[COLOR red]EL[/COLOR] [COLOR yellow]MEN[/COLOR][COLOR red]TA[/COLOR]LIS[COLOR yellow]TA[/COLOR]</title>
+   <title>[COLOR red]EL[/COLOR] [COLOR red]MEN[/COLOR][COLOR red]TA[/COLOR]LIS[COLOR red]TA[/COLOR]</title>
 <thumbnail>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</fanart>
    	<genre>
@@ -964,7 +964,7 @@
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</fanart>
