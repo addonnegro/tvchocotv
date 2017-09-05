@@ -774,96 +774,6 @@
 
 
 <item>
-   <title>[COLOR red]RR[/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
    <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -988,6 +898,45 @@
 
 
 
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+<fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -995,6 +944,64 @@
 
 
 
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red]ASE[/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+<fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<type name="folder">
 <item>
 <name>[COLOR white] --- Peaky Blinders - Serie Netflix [/COLOR]</name>
 <link>http://pastebin.com/raw/eb7T5iU1</link>
@@ -1003,7 +1010,7 @@
 </item>
 </type>
 
-
+<type name="folder">
 <item>
 <name>[COLOR green] --- Silicon Valley - Serie [/COLOR]</name>
 <link>http://pastebin.com/raw/89ZpkTRN</link>
@@ -1012,7 +1019,7 @@
 </item>
 </type>
 
-
+<type name="folder">
 <item>
 <name>[COLOR pink] --- Banshee - Serie [/COLOR]</name>
 <link>http://pastebin.com/raw/MDPM3JJg</link>
@@ -1021,7 +1028,7 @@
 </item>
 </type>
 
-
+<type name="folder">
 <item>
 <name>[COLOR red] --- True Detective - Serie [/COLOR]</name>
 <link>http://pastebin.com/raw/T16NzB4f</link>
