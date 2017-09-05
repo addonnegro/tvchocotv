@@ -32,13 +32,6 @@
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/Aida.xml</externallink>
 </item>
 
-<item>
-<title> [COLOR yellow]ALLI[/COLOR] [COLOR white]ABA[/COLOR][COLOR red]JO[/COLOR] </title>
-<thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/ALLIABAJJO.xml</externallink>
-</item>
 
 
 
@@ -281,6 +274,49 @@
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<item>
+   <title>[COLOR red]THE[/COLOR] [COLOR yellow]FLASH [/COLOR] [COLOR red]COMPLETA[/COLOR]</title>
+<thumbnail>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/44808.jpg</thumbnail>
+<fanart>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/30462.jpg</fanart>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+               <fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SHIRKAM/the-flash-completa-81278/list,1,3</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
