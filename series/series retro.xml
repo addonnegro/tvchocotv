@@ -211,8 +211,8 @@
       <listrepeat><![CDATA[
                <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-               <fanart></fanart>
+               <thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/SHIRKAM/alli-abajo-completa-47244/list,1,2</page>
@@ -243,9 +243,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow][/COLOR] [COLOR red][/COLOR] [COLOR yellow] [/COLOR][COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]PERDONAME [/COLOR] [COLOR yellow]SEÑOR[/COLOR]</title>
+<thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
+<fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
    	<genre>
 
 
@@ -255,11 +255,11 @@
       <listrepeat><![CDATA[
                <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-               <fanart></fanart>
+               <thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
+               <fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/SHIRKAM/perdoname-senor-completa-78374</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
