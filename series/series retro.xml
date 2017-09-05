@@ -976,9 +976,9 @@
 <regex>
       <name>finalURL</name>
       <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://pastebin.com/[makelist.param2]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <referer>http://pastebin.com/</referer>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
