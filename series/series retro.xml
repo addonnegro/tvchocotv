@@ -816,9 +816,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]CUENTAME[/COLOR] [COLOR red]COMO [/COLOR] [COLOR red]PASO[/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>http://static.blogocio.net/series/p/o/1035.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/_OPi3eIGIbNU/TQf40R4VpEI/AAAAAAAAAAs/gfTOVLqpN8M/s1600/BSO_Cuentame_La_Serie--Frontal.jpg</fanart>
    	<genre>
 
 
@@ -828,11 +828,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>http://static.blogocio.net/series/p/o/1035.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/_OPi3eIGIbNU/TQf40R4VpEI/AAAAAAAAAAs/gfTOVLqpN8M/s1600/BSO_Cuentame_La_Serie--Frontal.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/cuentame-como-paso-todas-temp-70022</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
