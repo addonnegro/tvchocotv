@@ -1623,9 +1623,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]VIS AVIS[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>http://www.pandora-magazine.com/wp-content/uploads/2015/04/0.jpg</thumbnail>
+<fanart>http://www.pandora-magazine.com/wp-content/uploads/2015/04/0.jpg</fanart>
    	<genre>
 
 
@@ -1635,11 +1635,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>http://www.pandora-magazine.com/wp-content/uploads/2015/04/0.jpg</thumbnail>
+<fanart>http://www.pandora-magazine.com/wp-content/uploads/2015/04/0.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/vis-a-vis-35356</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1667,7 +1667,7 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+   <title>[COLOR red]SERIES SIGUIENTE[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
    	<genre>
@@ -1683,7 +1683,7 @@
 <fanart></fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/vis-a-vis-35356</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
