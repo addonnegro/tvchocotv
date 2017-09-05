@@ -954,7 +954,7 @@
 
 
 <item>
-   <title>[COLOR red]ASE[/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
+   <title>[COLOR red]ASEER[/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
    	<genre>
@@ -970,7 +970,7 @@
 <fanart></fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://pastebin.com/raw/eb7T5iU1</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
