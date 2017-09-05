@@ -864,9 +864,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]FEAR[/COLOR] [COLOR yellow] THE[/COLOR] [COLOR red]WALKING[/COLOR] [COLOR yellow]DEAD[/COLOR]</title>
+<thumbnail>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</thumbnail>
+<fanart>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</fanart>
    	<genre>
 
 
@@ -876,8 +876,8 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</thumbnail>
+<fanart>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page></page>
