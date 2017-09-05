@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-
+<channels>
+<channel>
 <item>
 <title>tvchoco</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://cdn2.cnet.com/img/uGIqNE9vM8JIbTJEWNZwhYqA6Ww=/fit-in/770x578/2017/02/21/e8ebfde7-2c39-41ff-bb2f-66a670dfdc4a/crackle-movies.jpg</thumbnail>
+<fanart>https://cdn2.cnet.com/img/uGIqNE9vM8JIbTJEWNZwhYqA6Ww=/fit-in/770x578/2017/02/21/e8ebfde7-2c39-41ff-bb2f-66a670dfdc4a/crackle-movies.jpg</fanart>
 </item>
 
 
@@ -6946,3 +6946,5 @@
 <thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2011/04/una-bala-en-la-cabeza-cartel1.jpg</thumbnail>
 <fanart>http://www.labutaca.net/peliculas/wp-content/uploads/2011/04/una-bala-en-la-cabeza-cartel1.jpg</fanart>
 </item>
+</channel>
+</channels>
