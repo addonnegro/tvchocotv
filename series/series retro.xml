@@ -456,9 +456,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]MAD[/COLOR] [COLOR yellow] MEN[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR yellow]LAS TEMPORADAS[/COLOR]</title>
+<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
+<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</fanart>
    	<genre>
 
 
@@ -468,11 +468,11 @@
       <listrepeat><![CDATA[
                <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
+<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/mad-men-todas-temporadas-espanol-79155/list,1,4</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -501,9 +501,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]LA[/COLOR] [COLOR yellow] CU[/COLOR][COLOR red]PU[/COLOR][COLOR yellow]LA[/COLOR]</title>
+<thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
+<fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
    	<genre>
 
 
@@ -513,11 +513,11 @@
       <listrepeat><![CDATA[
                <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
+<fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/la-cupula-espanol-77281</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
