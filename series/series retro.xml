@@ -222,7 +222,7 @@
                <fanart></fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/ALLIABAJJO.xml</page>
+      <page>http://diskokosmiko.mx/SHIRKAM/alli-abajo-completa-47244/list,1,2</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
