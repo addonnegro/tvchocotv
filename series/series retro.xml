@@ -954,9 +954,9 @@
 
 
 <item>
-   <title>[COLOR red]ASEEREJGE[/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]EL[/COLOR] [COLOR yellow]MEN[/COLOR][COLOR red]TA[/COLOR]LIS[COLOR yellow]TA[/COLOR]</title>
+<thumbnail>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</fanart>
    	<genre>
 
 
@@ -966,11 +966,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/the-mentalist-el-mentalista-la-serie-completa-en-dvd-D_NQ_NP_377201-MLU20290541648_042015-F.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://pastebin.com/raw/eb7T5iU1</page>
+      <page>http://diskokosmiko.mx/chinchetas/el-mentalista-espanol-71476</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -996,47 +996,6 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-<type name="folder">
-<item>
-<name>[COLOR white] --- Peaky Blinders - Serie Netflix [/COLOR]</name>
-<link>http://pastebin.com/raw/eb7T5iU1</link>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/29/fc/96/29fc96b029a3bfad715bc3ef8050979b.jpg</fanart>    
-<icon>https://app.istreamguide.com/system/images/posters/000/027/345/original/2ec1ca6ad5aaed4e5f5d8351c3981bc0fc17a01c.jpg?1426267806</icon>
-</item>
-</type>
-
-<type name="folder">
-<item>
-<name>[COLOR green] --- Silicon Valley - Serie [/COLOR]</name>
-<link>http://pastebin.com/raw/89ZpkTRN</link>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/51pvg%2B-SBBL._SX940_.jpg</fanart>    
-<icon>https://images-na.ssl-images-amazon.com/images/I/51pvg%2B-SBBL._SX940_.jpg</icon>
-</item>
-</type>
-
-<type name="folder">
-<item>
-<name>[COLOR pink] --- Banshee - Serie [/COLOR]</name>
-<link>http://pastebin.com/raw/MDPM3JJg</link>
-<fanart>http://www.guardaserie.online/fanart/290-banshee-ao-streaming.jpg</fanart>    
-<icon>http://www.seriehd.co/wp-content/uploads/2015/11/banshee-203x300.jpg</icon>
-</item>
-</type>
-
-<type name="folder">
-<item>
-<name>[COLOR red] --- True Detective - Serie [/COLOR]</name>
-<link>http://pastebin.com/raw/T16NzB4f</link>
-<fanart>http://www-deadline-com.vimg.net/wp-content/uploads/2014/04/true-detective__140415184301.jpg</fanart>    
-<icon>http://www.altastreaming.com/uploads/posts/2016-04/1461489572_true-detective-streaming.jpeg</icon>
-</item>
-</type>
-
-</data>
 
 
