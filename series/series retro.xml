@@ -906,9 +906,9 @@
 
 
 <item>
-   <title>[COLOR red][/COLOR] [COLOR yellow] [/COLOR] [COLOR red][/COLOR] [COLOR yellow][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]EL[/COLOR] [COLOR yellow]MINISTERIO [/COLOR] [COLOR red]DEL[/COLOR] [COLOR yellow]TIEMPO[/COLOR]</title>
+<thumbnail>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</thumbnail>
+<fanart>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</fanart>
    	<genre>
 
 
@@ -918,11 +918,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR yellow][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</thumbnail>
+<fanart>http://americanuestra.com/wp-content/uploads/2015/06/el-ministerio-del-teimpo-avance-nueva-serie-tve.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/chinchetas/el-ministerio-del-tiempo-71112</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
