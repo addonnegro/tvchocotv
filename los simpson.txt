@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27
+http://cecegeek.com/wp-content/uploads/2017/01/cecelogo.jpg
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x1
+https://goo.gl/uWNAav
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x2
+https://goo.gl/S93GYf
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x3
+https://goo.gl/6NIHB5
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x4
+https://goo.gl/c4PH7Y
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x5
+https://goo.gl/k32dOm
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x6
+https://goo.gl/BbpRQ6
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x7
+https://goo.gl/ARsf3H
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x8
+https://goo.gl/0TB7XU
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x9
+https://goo.gl/YLEyrX
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x10
+https://goo.gl/7lGwq4
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x11
+https://goo.gl/4xmcEt
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x12
+https://goo.gl/qXQNK1
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x13
+https://goo.gl/SnUK0K
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x14
+https://goo.gl/lB5pzB
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x15
+https://goo.gl/HBjcGl
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x16
+https://goo.gl/noxZYb
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x17
+https://goo.gl/67vKHz
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x18
+https://goo.gl/pdY8GD
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x19
+https://goo.gl/eip7RU
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x20
+https://goo.gl/kj8dQR
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x21
+https://goo.gl/t7Xph7
+#EXTINF:-1 tvg-logo="http://seriesnid.net/wp-content/uploads/2016/02/Los-Simpsons-Temporada-27-Poster.jpg" group-title="Estrenos",Los Simpson Temporada 27 Cap. 1x22
+https://goo.gl/GbkghR
