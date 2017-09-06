@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white]AGENDA DE DEPORTES  [/B][/COLOR][COLOR yellow] ARENAVISION[/COLOR]</title>
+<title>[COLOR RED]AGENDA DE DEPORTES   ARENAVISION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR orange][makelist.param1][/COLOR] [COLOR white][makelist.param3][/COLOR] [COLOR yellow] Arenavision |avezy.tk|[/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=ArenaSports+[makelist.param3]+Arenavision</link>
+<item><title> [COLOR red][makelist.param1]  [/COLOR]  [COLOR yellow][makelist.param2] [/COLOR]  [COLOR red][makelist.param3] [/COLOR]  [COLOR yellow][makelist.param4] [/COLOR] [COLOR red][B][makelist.param5] [/B] [/COLOR]   [COLOR yellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=TVCHOCO+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.top/[makelist.param6]</page>
+			<referer>http://arenavision.top/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
-<page>https://avezy.tk/</page>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.top/guide</page>
 <Agent>Mozilla</Agent>
-</regex>
+<referer>http://arenavision.top</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
 <fanart>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</fanart>
 <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail> 
-</item>
+</item>	
+ 
+
+
+
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
