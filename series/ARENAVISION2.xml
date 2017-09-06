@@ -11,7 +11,7 @@
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://arenavision.in/guide[makelist.param6]</page>
-			<referer>http://arenavision.in/</referer>
+			<referer>http://arenavision.in/guide</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
@@ -20,7 +20,7 @@
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
 <page>http://arenavision.in/guide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision.in/</referer>
+<referer>http://arenavision.in/guide</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
