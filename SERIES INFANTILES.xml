@@ -295,9 +295,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]CAMPEONES OLIVER Y BENJI[/COLOR]</title>
+<fanart>http://es.web.img3.acsta.net/pictures/14/06/11/09/57/078574.jpg</fanart>
+<thumbnail>http://es.web.img3.acsta.net/pictures/14/06/11/09/57/078574.jpg</thumbnail>
    	<genre>
 
 
@@ -307,11 +307,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://es.web.img3.acsta.net/pictures/14/06/11/09/57/078574.jpg</fanart>
+<thumbnail>http://es.web.img3.acsta.net/pictures/14/06/11/09/57/078574.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/gemma-valencia/oliver-y-benji-castellano-67282</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -340,9 +340,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]BABY LOONEY TUNES[/COLOR]</title>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/e7/fb/2b/e7fb2bde072984028015740713d7bf71.jpg</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e7/fb/2b/e7fb2bde072984028015740713d7bf71.jpg</thumbnail>
    	<genre>
 
 
@@ -352,11 +352,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/e7/fb/2b/e7fb2bde072984028015740713d7bf71.jpg</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e7/fb/2b/e7fb2bde072984028015740713d7bf71.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/gemma-valencia/baby-looney-tunes-castellano-78182/list,1,1</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -381,9 +381,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]SAILOR MOON[/COLOR]</title>
+<fanart>http://grilloporteno.com/wp-content/uploads/2017/06/7-36.jpg</fanart>
+<thumbnail>http://grilloporteno.com/wp-content/uploads/2017/06/7-36.jpg</thumbnail>
    	<genre>
 
 
@@ -393,11 +393,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://grilloporteno.com/wp-content/uploads/2017/06/7-36.jpg</fanart>
+<thumbnail>http://grilloporteno.com/wp-content/uploads/2017/06/7-36.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/gemma-valencia/sailor-moon-castellano-67351</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
