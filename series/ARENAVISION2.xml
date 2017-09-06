@@ -10,7 +10,7 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.in/av[makelist.param6]</page>
+			<page>http://arenavision.in/av0[makelist.param6]</page>
 			<referer>http://arenavision.in/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
@@ -44,7 +44,7 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av02</page>
+<page>http://www.arenavision.in/02</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -57,7 +57,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av3</page>
+<page>http://www.arenavision.in/03</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -70,7 +70,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av4</page>
+<page>http://www.arenavision.in/av04</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -83,7 +83,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av5</page>
+<page>http://www.arenavision.in/av05</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -96,7 +96,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av6</page>
+<page>http://www.arenavision.in/av06</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -109,7 +109,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av7</page>
+<page>http://www.arenavision.in/av07</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -122,7 +122,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av8</page>
+<page>http://www.arenavision.in/av08</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
@@ -135,7 +135,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av9</page>
+<page>http://www.arenavision.in/av09</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
