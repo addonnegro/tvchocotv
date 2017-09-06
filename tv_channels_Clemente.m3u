@@ -1,379 +1,359 @@
 #EXTM3U
-#EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/315.ts
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/337.ts
-#EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/336.ts
-#EXTINF:-1,ES: #O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/349.ts
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/317.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/316.ts
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/348.ts
-#EXTINF:-1,ES: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/187.ts
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/347.ts
-#EXTINF:-1,ES: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/346.ts
-#EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/882.ts
-#EXTINF:-1,ES: BEIN La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/264.ts
-#EXTINF:-1,ES: BEIN SPORTS SPAIN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/160.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/345.ts
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/344.ts
-#EXTINF:-1,ES: COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/343.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/342.ts
-#EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/341.ts
-#EXTINF:-1,ES: CRIMEN INVESTIGACION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/313.ts
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/340.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/314.ts
-#EXTINF:-1,ES: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/312.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/311.ts
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/310.ts
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/309.ts
-#EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/308.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/307.ts
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/306.ts
-#EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/339.ts
-#EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/265.ts
-#EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/305.ts
-#EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/338.ts
-#EXTINF:-1,ES: La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/188.ts
-#EXTINF:-1,ES: LaLigaTV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/161.ts
-#EXTINF:-1,ES: M20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/304.ts
-#EXTINF:-1,ES: M6 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/303.ts
-#EXTINF:-1,ES: Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/263.ts
-#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/159.ts
-#EXTINF:-1,ES: MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/156.ts
-#EXTINF:-1,ES: MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/335.ts
-#EXTINF:-1,ES: MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/334.ts
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/333.ts
-#EXTINF:-1,ES: MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/332.ts
-#EXTINF:-1,ES: Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/189.ts
-#EXTINF:-1,ES: MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/158.ts
-#EXTINF:-1,ES: MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/157.ts
-#EXTINF:-1,ES: MOVISTAR MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/331.ts
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/302.ts
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/301.ts
-#EXTINF:-1,ES: MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/330.ts
-#EXTINF:-1,ES: MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/329.ts
-#EXTINF:-1,ES: MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/328.ts
-#EXTINF:-1,ES: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/327.ts
-#EXTINF:-1,ES: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/326.ts
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/300.ts
-#EXTINF:-1,ES: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/325.ts
-#EXTINF:-1,ES: NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/299.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/324.ts
-#EXTINF:-1,ES: ODISEA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/298.ts
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/297.ts
-#EXTINF:-1,ES: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/296.ts
-#EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/183.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/323.ts
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/322.ts
-#EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/321.ts
-#EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/320.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/319.ts
-#EXTINF:-1,ES: TOROSTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/155.ts
-#EXTINF:-1,ES: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/295.ts
-#EXTINF:-1,ES: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/318.ts
-#EXTINF:-1,ES: VIRGIN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/294.ts
-#EXTINF:-1,ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/89.ts
-#EXTINF:-1,ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/90.ts
-#EXTINF:-1,ESPN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/86.ts
-#EXTINF:-1,ESPN ARGENTINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/494.ts
-#EXTINF:-1,ESPN 2 ARGENTINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/495.ts
-#EXTINF:-1,ESPN 3 ARGENTINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/496.ts
-#EXTINF:-1,ESPN Plus Argentina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/959.ts
-#EXTINF:-1,ESPN Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/239.ts
-#EXTINF:-1,ESPN Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/85.ts
-#EXTINF:-1,Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/9.ts
-#EXTINF:-1,FilmZone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/73.ts
-#EXTINF:-1,Foro TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/10.ts
-#EXTINF:-1,Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/16.ts
-#EXTINF:-1,Fox Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/66.ts
-#EXTINF:-1,Fox Action op2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/991.ts
-#EXTINF:-1,Fox Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/68.ts
-#EXTINF:-1,Fox Classics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/69.ts
-#EXTINF:-1,FOX Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/150.ts
-#EXTINF:-1,FOX Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/240.ts
-#EXTINF:-1,FOX Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/210.ts
-#EXTINF:-1,Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/35.ts
-#EXTINF:-1,Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/67.ts
-#EXTINF:-1,Fox SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/25.ts
-#EXTINF:-1,Fox Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/65.ts
-#EXTINF:-1,Fox Sports Argentina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/292.ts
-#EXTINF:-1,Fox Sports 2 Argentina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/493.ts
-#EXTINF:-1,Fox Sports 3 Argentina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/960.ts
-#EXTINF:-1,Fox Sports Mexico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/964.ts
-#EXTINF:-1,Fox Sports Uruguay HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/958.ts
-#EXTINF:-1,Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/87.ts
-#EXTINF:-1,Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/88.ts
-#EXTINF:-1,Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/278.ts
-#EXTINF:-1,FOX SPORTS SUR (CHILE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/121.ts
-#EXTINF:-1,FOX SPORTS 2 SUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/127.ts
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/20.ts
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/30.ts
-#EXTINF:-1,Gala TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/11.ts
-#EXTINF:-1,Glitz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/34.ts
-#EXTINF:-1,Golden
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/72.ts
-#EXTINF:-1,Golden Edge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/79.ts
-#EXTINF:-1,GolTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/260.ts
-#EXTINF:-1,H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/140.ts
-#EXTINF:-1,HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/125.ts
-#EXTINF:-1,HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/124.ts
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/123.ts
-#EXTINF:-1,HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/126.ts
-#EXTINF:-1,HBO PLUS OESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/122.ts
-#EXTINF:-1,HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/112.ts
-#EXTINF:-1,History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/53.ts
-#EXTINF:-1,Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/31.ts
-#EXTINF:-1,iSat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/83.ts
-#EXTINF:-1,Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/60.ts
-#EXTINF:-1,MAX UP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/151.ts
-#EXTINF:-1,MAX Prime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/498.ts
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/96.ts
-#EXTINF:-1,MTV hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/97.ts
-#EXTINF:-1,MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/93.ts
-#EXTINF:-1,Multimedios
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/15.ts
-#EXTINF:-1,MundoFOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/212.ts
-#EXTINF:-1,NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/54.ts
-#EXTINF:-1,National Geographic Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/59.ts
-#EXTINF:-1,Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/42.ts
-#EXTINF:-1,Nick2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/45.ts
-#EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/46.ts
-#EXTINF:-1,NickToons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/44.ts
-#EXTINF:-1,Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/213.ts
-#EXTINF:-1,PE: AMERICA TELEVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/101.ts
-#EXTINF:-1,PE: ATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/139.ts
-#EXTINF:-1,PE: NEXTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/235.ts
-#EXTINF:-1,PE: Frecuencia Latina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/1045.ts
-#EXTINF:-1,PE: Frecuencia Latina op2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/111.ts
-#EXTINF:-1,PE: GolPeru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/234.ts
-#EXTINF:-1,PE: Panamericana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/238.ts
-#EXTINF:-1,PE: Peru Magico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/233.ts
-#EXTINF:-1,PE: TV Peru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/237.ts
-#EXTINF:-1,PR: ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/867.ts
-#EXTINF:-1,PR: MegaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/865.ts
-#EXTINF:-1,PR: NBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/866.ts
-#EXTINF:-1,PR: Telemundo 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/504.ts
-#EXTINF:-1,PR: Univision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/864.ts
-#EXTINF:-1,PR: Wapa 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/863.ts
-#EXTINF:-1,PR: Wapa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/503.ts
-#EXTINF:-1,RD: Digital 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/250.ts
-#EXTINF:-1,RD: Teleantillas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/249.ts
-#EXTINF:-1,RD: Telecentro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/248.ts
-#EXTINF:-1,RD: Telenord 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/247.ts
-#EXTINF:-1,RD: Telenord 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/246.ts
-#EXTINF:-1,RD: Telesistema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/245.ts
-#EXTINF:-1,RD: Teletica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/242.ts
-#EXTINF:-1,RD: Teleunion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/244.ts
-#EXTINF:-1,RD: Teleuniverso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/243.ts
-#EXTINF:-1,Ritmoson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/99.ts
-#EXTINF:-1,SKYSports 16 (solo eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/267.ts
-#EXTINF:-1,SKYSports 17 (solo eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/266.ts
-#EXTINF:-1,SKYSports 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/268.ts
-#EXTINF:-1,Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/17.ts
-#EXTINF:-1,Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/76.ts
-#EXTINF:-1,Space SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/81.ts
-#EXTINF:-1,Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/82.ts
-#EXTINF:-1,SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/29.ts
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/37.ts
-#EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/84.ts
-#EXTINF:-1,TDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/143.ts
-#EXTINF:-1,Teleformula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/14.ts
-#EXTINF:-1,Telehit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/94.ts
-#EXTINF:-1,Telemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/146.ts
-#EXTINF:-1,Telemundo Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/147.ts
-#EXTINF:-1,Telemundo USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/1994.ts
-#EXTINF:-1,TIIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/50.ts
-#EXTINF:-1,TLC Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/64.ts
-#EXTINF:-1,TLnovelas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/38.ts
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/71.ts
-#EXTINF:-1,TNT Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/32.ts
-#EXTINF:-1,Tooncast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/51.ts
-#EXTINF:-1,Tru TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/22.ts
-#EXTINF:-1,TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/92.ts
-#EXTINF:-1,UFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/116.ts
-#EXTINF:-1,UK: BOX Nation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/Clemente/clemente/173.ts
+
+CANALES EN CASTELLANO
+#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR ANDALUCIA HD
+https://youtu.be/uPJZtdlTaR0
+#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
+http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/chunklist.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+I
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",BEIN SPORTS NEWS HD
+https://www.youtube.com/watch?v=Ram-J4i1QHQ
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",SKY NEWS
+https://www.youtube.com/watch?v=y60wDzZt8yg
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",NASA TV
+https://www.youtube.com/watch?v=wwMDvPCGeE0
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",C5N
+https://www.youtube.com/watch?v=yc702qA1CPw
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",APRENDE ALGO NUEVO AHORA MISMO 24 HORAS
+https://www.youtube.com/watch?v=vntB-6mZdNQ
+#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",DINOSAURIOS 24/7
+https://www.youtube.com/watch?v=1QOErTDciuQ
+
+#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",LIFE TV HD
+http://163.172.15.219:1935/live/lifetvesp387/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG:
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
+
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
+
+#EXTINF:-1 group-title="LISTA DE EVENTOS ARENAVISION",EJECUTAR DESDE TELEGRAM @W3U_bot . SEGUIR LAS INSTRUCCIONES Y DARLE A LOS TRES PUNTOS DE LA PARTE SUPERIOR EN COMPARTIR TU TELEFONO COMO MEDIDA DE SEGURIDAD Y EL BOT TE DA LA LISTA DE DEPORTES PERSONALIZADA. (INSTALAR APP ACESTREAM Y VLC)
+
+#EXTINF:-1 group-title="LISTA DE EVENTOS SOPCAST Y ACESTREAM",EJECUTAR DESDE TELEGRAM @sopcast . AUNQUE EL BOT ESTE EN RUSO NO IMPORTA. UNA VEZ DENTRO VEREIS LOS ENLACES PARA SOPCAST Y ACESTREAM (EN ACESTREAM COPIA EL ENLACE POR COMPLETO. EN SOPCAST PUEDES COPIARLO POR COMPLETO O SOLO LA CIFRA DE LOS SEIS NUMEROS FINALES QUE ESTAN DESPUES DE LA BARRA. COMO POR EJEMPLO /137037. (INSTALAR APP SOPCAST Y VLC)
+
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LA LIGA TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/22.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 1
+http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 2
+http://edge9.verliga11.pw/live/verliga2/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/29.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
+http://51.15.144.38:6999/play/a027
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD 2
+http://51.15.144.38:6999/play/a01m
+
+#EXTINF:-1 group-title="CANALES MUSICALES",DANCE TV
+http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",RADIO ONE HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&amp;rebase=on
+#EXTINF:-1 group-title="CANALES MUSICALES",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CANALES MUSICALES",RADIO MONTECARLO
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",THT MUSIC
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CANALES MUSICALES",MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",MI MUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",TELEMUSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",VIBBE
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",THE VOICE
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",PORTALFOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES",VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP & COUNTRY
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP HITS
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",R&B SOUL
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",ROCK
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",MEXICANA
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP LATINO
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",TROPICALES
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",ALTERNATIVE
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",BRITS + HITS
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",DANCE/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",HIP-HOP AND R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",HIT LIST
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",INDIE
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",METAL
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",RAP
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",TODAY
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",90S
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",MC PLAY
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",AYM SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",TYC SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",PORTO CANAL
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",PX SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ABU DHABI SPORTS
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ABU DHABI SPORTS 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",SPORTS TV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ADULTOS (+18)",ADULT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/44.ts
+#EXTINF:-1 group-title="ADULTOS (+18)",ADULT 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/45.ts
+
+
+#EXTINF:-1 group-title="ADULTOS (+18)",DP HD
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1 group-title="ADULTOS (+18)",DUSK
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/49.ts
+
+#EXTINF:-1 group-title="ADULTOS (+18)",FETISH 1
+http://admin.fetishbox.com/_content/6664_Bobbi_Dana_Winter_Vendetta_md.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",FRENCH LOVER TV
+http://91.211.143.214:3333/play/a006
+
+#EXTINF:-1 group-title="ADULTOS (+18)",PORNEQ
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ADULTOS (+18)",SIRIN
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/46.ts
+
+#EXTINF:-1 group-title="ADULTOS (+18)",CHICHI MEDINA
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",CHLOE FOSTER
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",DAKOTA SKYE
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",DEMIDA
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",DUSYA
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 2
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 3
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 4
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 5
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 6
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 7
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 8
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 9
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 10
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 11
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 12
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 13
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 14
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 15
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4
+
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 16
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 17
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4
+                    
+#EXTINF:-1 group-title="ADULTOS (+18)",XXX 18
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/19
