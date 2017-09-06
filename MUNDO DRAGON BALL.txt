@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red][COLOR red]*SECCION DE DANI MUNDO DRAGON BALL*[/COLOR]</title>
+<title>[COLOR yellow]*SECCION DE DANI MUNDO DRAGON BALL*[/COLOR]</title>
 <thumbnail>http://chambalabs.com//wp-content/uploads/2015/10/dragon-ball-z-4.jpg</thumbnail>
 <fanart>http://chambalabs.com//wp-content/uploads/2015/10/dragon-ball-z-4.jpg</fanart>
 <link>ignoreme</link>
