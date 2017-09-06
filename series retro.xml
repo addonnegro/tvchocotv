@@ -1668,8 +1668,8 @@
 
 <item>
    <title>[COLOR red]SERIES SIGUIENTE[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://previews.123rf.com/images/hemantraval/hemantraval1206/hemantraval120600022/13975128-Aqua-Blue-Glassy-Button-Icono-Siguiente-Foto-de-archivo.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/hemantraval/hemantraval1206/hemantraval120600022/13975128-Aqua-Blue-Glassy-Button-Icono-Siguiente-Foto-de-archivo.jpg</fanart>
    	<genre>
 
 
@@ -1679,19 +1679,19 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>https://previews.123rf.com/images/hemantraval/hemantraval1206/hemantraval120600022/13975128-Aqua-Blue-Glassy-Button-Icono-Siguiente-Foto-de-archivo.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/hemantraval/hemantraval1206/hemantraval120600022/13975128-Aqua-Blue-Glassy-Button-Icono-Siguiente-Foto-de-archivo.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas</page>
+      <page>https://pastebin.com/raw/FdvXJ8pP</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
       <name>finalURL</name>
       <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>https://pastebin.com/[makelist.param2]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <referer>https://pastebin.com/</referer>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1701,7 +1701,6 @@
 
 
 
-
 ------------------------------------------------------------------------------------------------------------------------
 
 
@@ -1709,7 +1708,7 @@
 
 
 
-<item>
+item>
    <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -1754,7 +1753,7 @@
 
 
 
-<item>
+item>
    <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -1800,7 +1799,7 @@
 
 
 
-<item>
+item>
    <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
