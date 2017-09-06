@@ -10,7 +10,7 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.in/av0[makelist.param6]</page>
+			<page>http://arenavision.in/guide[makelist.param6]</page>
 			<referer>http://arenavision.in/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
