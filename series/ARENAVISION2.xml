@@ -6,7 +6,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[blue][makelist.param1] - [makelist.param2][/COLOR] [COLOR white][makelist.param3]:[/COLOR] [makelist.param4] [makelist.param5] [COLOR blue]AV[makelist.param6][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+<item><title>[color blue][makelist.param1] - [makelist.param2][/COLOR] [COLOR white][makelist.param3]:[/COLOR] [makelist.param4] [makelist.param5] [COLOR blue]AV[makelist.param6][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -31,7 +31,7 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.in/acestream1</page>
+<page>http://arenavision.in/01</page>
 <referer>http://arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
