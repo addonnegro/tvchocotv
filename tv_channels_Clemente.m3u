@@ -1,359 +1,707 @@
 #EXTM3U
 
-CANALES EN CASTELLANO
-#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR ANDALUCIA HD
-https://youtu.be/uPJZtdlTaR0
-#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
-http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",PARAMOUNT CHANNEL
-http://paramount.live.flumotion.com/live/chunklist.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-I
-#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",BEIN SPORTS NEWS HD
-https://www.youtube.com/watch?v=Ram-J4i1QHQ
-#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",SKY NEWS
-https://www.youtube.com/watch?v=y60wDzZt8yg
-#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",NASA TV
-https://www.youtube.com/watch?v=wwMDvPCGeE0
-#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",C5N
-https://www.youtube.com/watch?v=yc702qA1CPw
-#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",APRENDE ALGO NUEVO AHORA MISMO 24 HORAS
-https://www.youtube.com/watch?v=vntB-6mZdNQ
-#EXTINF:-1 group-title="CANALES EN DIRECTO DE YOUTUBE",DINOSAURIOS 24/7
-https://www.youtube.com/watch?v=1QOErTDciuQ
+#EXTINF:-1,[000] Movistar+
+http://83.39.205.3:4022/udp/239.0.0.77:8208
+#EXTINF:-1,[001] La 1
+http://83.39.205.3:4022/udp/239.0.0.76:8208
+#EXTINF:-1,[002] La 2
+http://83.39.205.3:4022/udp/239.0.0.2:8208
+#EXTINF:-1,[003] Antena 3
+http://83.39.205.3:4022/udp/239.0.0.3:8208
+#EXTINF:-1,[004] Cuatro
+http://83.39.205.3:4022/udp/239.0.0.4:8208
+#EXTINF:-1,[005] Tele 5
+http://83.39.205.3:4022/udp/239.0.0.5:8208
+#EXTINF:-1,[006] La Sexta
+http://83.39.205.3:4022/udp/239.0.0.58:8208
+#EXTINF:-1,[007] #0
+http://83.39.205.3:4022/udp/239.0.0.108:8208
+Comunidad de Madrid
 
-#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",LIFE TV HD
-http://163.172.15.219:1935/live/lifetvesp387/playlist.m3u8
+#EXTINF:-1,[008] Telemadrid *
+http://83.39.205.3:4022/udp/239.0.0.25:8208
+#EXTINF:-1,[009] La Otra *
+http://83.39.205.3:4022/udp/239.0.0.26:8208
 
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG:
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts
+Cataluña
 
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
-
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
-
-#EXTINF:-1 group-title="LISTA DE EVENTOS ARENAVISION",EJECUTAR DESDE TELEGRAM @W3U_bot . SEGUIR LAS INSTRUCCIONES Y DARLE A LOS TRES PUNTOS DE LA PARTE SUPERIOR EN COMPARTIR TU TELEFONO COMO MEDIDA DE SEGURIDAD Y EL BOT TE DA LA LISTA DE DEPORTES PERSONALIZADA. (INSTALAR APP ACESTREAM Y VLC)
-
-#EXTINF:-1 group-title="LISTA DE EVENTOS SOPCAST Y ACESTREAM",EJECUTAR DESDE TELEGRAM @sopcast . AUNQUE EL BOT ESTE EN RUSO NO IMPORTA. UNA VEZ DENTRO VEREIS LOS ENLACES PARA SOPCAST Y ACESTREAM (EN ACESTREAM COPIA EL ENLACE POR COMPLETO. EN SOPCAST PUEDES COPIARLO POR COMPLETO O SOLO LA CIFRA DE LOS SEIS NUMEROS FINALES QUE ESTAN DESPUES DE LA BARRA. COMO POR EJEMPLO /137037. (INSTALAR APP SOPCAST Y VLC)
-
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN SPORTS HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LA LIGA TV HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/22.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 1
-http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 2
-http://edge9.verliga11.pw/live/verliga2/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/29.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD
-http://51.15.144.38:6999/play/a027
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",TOROS TV HD 2
-http://51.15.144.38:6999/play/a01m
-
-#EXTINF:-1 group-title="CANALES MUSICALES",DANCE TV
-http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",RADIO ONE HD
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&amp;rebase=on
-#EXTINF:-1 group-title="CANALES MUSICALES",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CANALES MUSICALES",RADIO MONTECARLO
-http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",THT MUSIC
-http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CANALES MUSICALES",MELODY CHANNEL
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",MI MUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",TELEMUSICA
-http://186.155.200.118:1935/live/telemusica/livestream.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",TOP LATINO
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",VIBBE
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",THE VOICE
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",PORTALFOXMIX TV
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES",VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP & COUNTRY
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP HITS
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",R&B SOUL
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",ROCK
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",MEXICANA
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",POP LATINO
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",TROPICALES
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",ALTERNATIVE
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",BRITS + HITS
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",DANCE/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",HIP-HOP AND R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",HIT LIST
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",INDIE
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",METAL
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",RAP
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",TODAY
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",90S
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1 group-title="CANALES MUSICALES MUSIC CHOICE",MC PLAY
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,[008] TV3 *
+http://83.39.205.3:4022/udp/239.0.0.23:8208
+#EXTINF:-1,[009] 8tv *
+http://83.39.205.3:4022/udp/239.0.0.82:8208
+#EXTINF:-1,[156] Super 3/33 *
+http://83.39.205.3:4022/udp/239.0.0.24:8208
+#EXTINF:-1,[157] Esport3 *
+http://83.39.205.3:4022/udp/239.0.0.51:8208
+#EXTINF:-1,[158] 3/24 *
+http://83.39.205.3:4022/udp/239.0.0.61:8208
+#EXTINF:-1,[159] Xarxa Televisions *
+http://83.39.205.3:4022/udp/239.0.0.9:8208
+#EXTINF:-1,[160] betevé *
+http://83.39.205.3:4022/udp/239.0.0.110:8208
 
 
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",AYM SPORTS
-https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",REDBULL TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",TYC SPORTS
-https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",BETIS TV
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",PORTO CANAL
-http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",CHELSEA TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",PX SPORTS
-https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ABU DHABI SPORTS
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",ABU DHABI SPORTS 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 group-title="VARIOS CANALES DE DEPORTES",SPORTS TV
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+Euskadi
+
+#EXTINF:-1,[008] ETB 1 *
+http://83.39.205.3:4022/udp/239.0.0.35:8208
+#EXTINF:-1,[009] ETB 2 *
+http://83.39.205.3:4022/udp/239.0.0.36:8208
+
+Andalucía
+
+#EXTINF:-1,[008] Canal Sur *
+http://83.39.205.3:4022/udp/239.0.0.49:8208
+#EXTINF:-1,[009] Andalucía Televisión *
+http://83.39.205.3:4022/udp/239.0.0.50:8208
+
+Islas Canarias
+
+#EXTINF:-1,[008] TV Canaria *
+http://83.39.205.3:4022/udp/239.0.0.54:8208
+
+Castilla La Mancha
+
+#EXTINF:-1,[008] CMT *
+http://83.39.205.3:4022/udp/239.0.0.55:8208
+
+Galicia
+
+#EXTINF:-1,[008] TV Galicia *
+http://83.39.205.3:4022/udp/239.0.0.53:8208
+
+Islas Baleares
+
+#EXTINF:-1,[008] IB3 *
+http://83.39.205.3:4022/udp/239.0.0.56:8208
+
+Aragón
+
+#EXTINF:-1,[008] Aragón TV *
+http://83.39.205.3:4022/udp/239.0.0.88:8208
+
+Murcia
+
+#EXTINF:-1,[008] 7 Región de Murcia *
+http://83.39.205.3:4022/udp/239.0.0.87:8208
+
+Asturias
+
+#EXTINF:-1,[008] TV Principado de Asturias *
+http://83.39.205.3:4022/udp/239.0.0.86:8208
+
+Extremadura
+
+#EXTINF:-1,[008] Extremadura TV *
+http://83.39.205.3:4022/udp/239.0.0.73:8208
+
+Castilla y León
+
+#EXTINF:-1,[008] Castilla y León 7 *
+http://83.39.205.3:4022/udp/239.0.0.109:8208
+
+Comunidad Valenciana
+
+#EXTINF:-1, [008] TV Mediterráneo *
+http://83.39.205.3:4022/udp/239.0.3.34:8208
+
+#EXTINF:-1,[010] beIN LaLiga
+http://83.39.205.3:4022/udp/239.0.0.252:8208
+#EXTINF:-1,[013] FOX
+http://83.39.205.3:4022/udp/239.0.0.74:8208
+#EXTINF:-1,[014] AXN
+http://83.39.205.3:4022/udp/239.0.0.14:8208
+#EXTINF:-1,[015] TNT
+http://83.39.205.3:4022/udp/239.0.0.44:8208
+#EXTINF:-1,[016] Comedy Central
+http://83.39.205.3:4022/udp/239.0.0.68:8208
+#EXTINF:-1,[017] Calle 13
+http://83.39.205.3:4022/udp/239.0.0.13:8208
+#EXTINF:-1,[018] COSMO
+http://83.39.205.3:4022/udp/239.0.0.15:8208
+#EXTINF:-1,[019] AMC
+http://83.39.205.3:4022/udp/239.0.0.8:8208
+#EXTINF:-1,[020] FOX life
+http://83.39.205.3:4022/udp/239.0.0.43:8208
+#EXTINF:-1,[021] AXN White
+http://83.39.205.3:4022/udp/239.0.0.62:8208
+#EXTINF:-1,[022] Syfy
+http://83.39.205.3:4022/udp/239.0.0.111:8208
+#EXTINF:-1,[023] Non Stop People
+http://83.39.205.3:4022/udp/239.0.0.212:8208
+#EXTINF:-1,[024] MTV España
+http://83.39.205.3:4022/udp/239.0.0.211:8208
+#EXTINF:-1,[025] FDF
+http://83.39.205.3:4022/udp/239.0.0.84:8208
+#EXTINF:-1,[026] Neox
+http://83.39.205.3:4022/udp/239.0.0.107:8208
+#EXTINF:-1,[027] Atreseries
+http://83.39.205.3:4022/udp/239.0.3.29:8208
+#EXTINF:-1,[028] Energy
+http://83.39.205.3:4022/udp/239.0.0.59:8208
+#EXTINF:-1,[029] M. eSports
+http://83.39.205.3:4022/udp/239.0.3.30:8208
+#EXTINF:-1,[030] Movistar James Bond
+http://83.39.205.3:4022/udp/239.0.1.188:8208
+#EXTINF:-1,[037] TCM
+http://83.39.205.3:4022/udp/239.0.6.5:8208
+#EXTINF:-1,[038] Hollywood
+http://83.39.205.3:4022/udp/239.0.0.16:8208
+#EXTINF:-1,[039] Sundance Channel
+http://83.39.205.3:4022/udp/239.0.0.102:8208
+#EXTINF:-1,[040] DARK
+http://83.39.205.3:4022/udp/239.0.0.39:8208
+#EXTINF:-1,[041] 13 TV
+http://83.39.205.3:4022/udp/239.0.0.91:8208
+#EXTINF:-1,[042] Ten
+http://83.39.205.3:4022/udp/239.0.0.34:8208
+#EXTINF:-1,[043] Paramount Channel
+http://83.39.205.3:4022/udp/239.0.0.90:8208
+#EXTINF:-1,[044] DEPORTES
+http://83.39.205.3:4022/udp/239.0.3.33:8208
+#EXTINF:-1,[047] beIN LaLiga
+http://83.39.205.3:4022/udp/239.0.0.252:8208
+#EXTINF:-1,[048] beIN LaLiga 1
+http://83.39.205.3:4022/udp/239.0.0.253:8208
+#EXTINF:-1,[049] beIN LaLiga 2
+http://83.39.205.3:4022/udp/239.0.0.254:8208
+#EXTINF:-1,[050] beIN SPORTS
+http://83.39.205.3:4022/udp/239.0.3.100:8208
+#EXTINF:-1,[051] beIN MAX 1
+http://83.39.205.3:4022/udp/239.0.3.101:8208
+#EXTINF:-1,[052] beIN MAX 2
+http://83.39.205.3:4022/udp/239.0.3.102:8208
+#EXTINF:-1,[053] Real Madrid TV 
+http://83.39.205.3:4022/udp/239.0.0.83:8208
+#EXTINF:-1,[060] Eurosport 1
+http://83.39.205.3:4022/udp/239.0.0.18:8208
+#EXTINF:-1,[061] Eurosport 2
+http://83.39.205.3:4022/udp/239.0.0.37:8208
+#EXTINF:-1,[062] GOL
+http://83.39.205.3:4022/udp/239.0.0.7:8208
+#EXTINF:-1,[063] Teledeporte
+http://83.39.205.3:4022/udp/239.0.0.79:8208
+#EXTINF:-1,[064] Fútbol Replay
+http://83.39.205.3:4022/udp/239.0.0.97:8208
+#EXTINF:-1,[070] National Geographic
+http://83.39.205.3:4022/udp/239.0.0.103:8208
+#EXTINF:-1,[071] NAT GEO Wild
+http://83.39.205.3:4022/udp/239.0.0.89:8208
+#EXTINF:-1,[072] Historia
+http://83.39.205.3:4022/udp/239.0.0.19:8208
+#EXTINF:-1,[073] Discovery Channel
+http://83.39.205.3:4022/udp/239.0.0.21:8208
+#EXTINF:-1,[074] ODISEA
+http://83.39.205.3:4022/udp/239.0.0.22:8208
+#EXTINF:-1,[075] A&E
+http://83.39.205.3:4022/udp/239.0.0.38:8208
+#EXTINF:-1,[076] Viajar
+http://83.39.205.3:4022/udp/239.0.0.20:8208
+#EXTINF:-1,[077] Discovery Max
+http://83.39.205.3:4022/udp/239.0.0.32:8208
+#EXTINF:-1,[078] Crimen + Investigación
+http://83.39.205.3:4022/udp/239.0.0.57:8208
+#EXTINF:-1,[079] CGTN Español
+http://83.39.205.3:4022/udp/239.0.0.65:8208
+#EXTINF:-1,[080] Cocina
+http://83.39.205.3:4022/udp/239.0.0.27:8208
+#EXTINF:-1,[081] Decasa
+http://83.39.205.3:4022/udp/239.0.0.71:8208
+#EXTINF:-1,[082] DKISS 
+http://83.39.205.3:4022/udp/239.0.0.6:8208
+#EXTINF:-1,[083] Divinity
+http://83.39.205.3:4022/udp/239.0.0.48:8208
+#EXTINF:-1,[084] Nova
+http://83.39.205.3:4022/udp/239.0.0.106:8208
+#EXTINF:-1,[085] MEGA
+http://83.39.205.3:4022/udp/239.0.3.31:8208
+#EXTINF:-1,[086] BeMad
+http://83.39.205.3:4022/udp/239.0.0.17:8208
+#EXTINF:-1,[087] Garage TV
+http://83.39.205.3:4022/udp/239.0.0.99:8208
+#EXTINF:-1,[088] Canal Orbe 21
+http://83.39.205.3:4022/udp/239.0.0.45:8208
+#EXTINF:-1,[090] Baby TV
+http://83.39.205.3:4022/udp/239.0.0.113:8208
+#EXTINF:-1,[091] Disney Junior
+http://83.39.205.3:4022/udp/239.0.0.10:8208
+#EXTINF:-1,[092] Canal Panda
+http://83.39.205.3:4022/udp/239.0.0.117:8208
+#EXTINF:-1,[093] Nick Jr
+http://83.39.205.3:4022/udp/239.0.0.115:8208
+#EXTINF:-1,[094] Nickelodeon
+http://83.39.205.3:4022/udp/239.0.0.69:8208
+#EXTINF:-1,[095] Disney XD
+http://83.39.205.3:4022/udp/239.0.0.11:8208
+#EXTINF:-1,[096] Disney Channel
+http://83.39.205.3:4022/udp/239.0.0.64:8208
+#EXTINF:-1,[097] Boing
+http://83.39.205.3:4022/udp/239.0.0.66:8208
+#EXTINF:-1,[098] Clan TVE
+http://83.39.205.3:4022/udp/239.0.0.80:8208
+#EXTINF:-1,[105] VH1
+http://83.39.205.3:4022/udp/239.0.0.75:8208
+#EXTINF:-1,[112] Canal 24 Horas
+http://83.39.205.3:4022/udp/239.0.0.78:8208
+#EXTINF:-1,[113] BBC world
+http://83.39.205.3:4022/udp/239.0.0.30:8208
+#EXTINF:-1,[114] CNNi
+http://83.39.205.3:4022/udp/239.0.0.40:8208
+#EXTINF:-1,[115] Fox News
+http://83.39.205.3:4022/udp/239.0.7.65:8208
+#EXTINF:-1,[116] Euronews
+http://83.39.205.3:4022/udp/239.0.0.28:8208
+#EXTINF:-1,[117] Al Jazeera
+http://83.39.205.3:4022/udp/239.0.7.66:8208
+#EXTINF:-1,[118] France 24
+http://83.39.205.3:4022/udp/239.0.7.67:8208
+#EXTINF:-1,[119] Russia Today 
+http://83.39.205.3:4022/udp/239.0.7.68:8208
+#EXTINF:-1,[120] CNBC Europe
+http://83.39.205.3:4022/udp/239.0.7.69:8208
+#EXTINF:-1,[122] TV5 Monde Europe
+http://83.39.205.3:4022/udp/239.0.0.31:8208
+#EXTINF:-1,[123] Bloomberg
+http://83.39.205.3:4022/udp/239.0.0.29:8208
+#EXTINF:-1,[124] Intereconomía TV
+http://83.39.205.3:4022/udp/239.0.0.63:8208
+#EXTINF:-1,[125] Libertad Digital
+http://83.39.205.3:4022/udp/239.0.0.85:8208
+#EXTINF:-1,[129] CNC World
+http://83.39.205.3:4022/udp/239.0.0.221:8208
+#EXTINF:-1,[143] EWTN
+http://83.39.205.3:4022/udp/239.0.0.72:8208
+#EXTINF:-1,[150] Canal Sur Andalucía
+http://83.39.205.3:4022/udp/239.0.0.1:8208
+#EXTINF:-1,[151] Galicia TV Europa
+http://83.39.205.3:4022/udp/239.0.3.37:8208
+#EXTINF:-1,[152] Canal Extremadura SAT
+http://83.39.205.3:4022/udp/239.0.0.52:8208
+#EXTINF:-1,[153] TV3CAT
+http://83.39.205.3:4022/udp/239.0.3.36:8208
+#EXTINF:-1,[154] ETB Sat
+http://83.39.205.3:4022/udp/239.0.0.60:8208
+#EXTINF:-1,[155] Aragón TV Int
+http://83.39.205.3:4022/udp/239.0.0.81:8208
+#EXTINF:-1,[200] La Tienda en Casa
+http://83.39.205.3:4022/udp/239.0.0.98:8208
+#EXTINF:-1, [011] Movistar Series
+http://83.39.205.3:4022/udp/239.0.5.4:8208
+#EXTINF:-1, [012] Movistar Series Xtra
+http://83.39.205.3:4022/udp/239.0.3.20:8208
+#EXTINF:-1, [031] Movistar Estrenos
+http://83.39.205.3:4022/udp/239.0.3.40:8208
+#EXTINF:-1, [032] Movistar Xtra
+http://83.39.205.3:4022/udp/239.0.3.41:8208
+#EXTINF:-1, [033] Movistar Acción
+http://83.39.205.3:4022/udp/239.0.3.42:8208
+#EXTINF:-1, [034] Movistar Comedia
+http://83.39.205.3:4022/udp/239.0.3.43:8208
+#EXTINF:-1, [035] Movistar DCine
+http://83.39.205.3:4022/udp/239.0.3.44:8208
+#EXTINF:-1, [036] Movistar Cine Español
+http://83.39.205.3:4022/udp/239.0.3.45:8208
+#EXTINF:-1, [045] Movistar Fútbol
+http://83.39.205.3:4022/udp/239.0.6.8:8208
+#EXTINF:-1, [046] Movistar Partidazo
+http://83.39.205.3:4022/udp/239.0.4.129:8208
+#EXTINF:-1, [047] beIN La Liga
+http://83.39.205.3:4022/udp/239.0.0.252:8208
+#EXTINF:-1, [048] beIN LaLiga 1
+http://83.39.205.3:4022/udp/239.0.0.253:8208
+#EXTINF:-1, [049] beIN LaLiga 2
+http://83.39.205.3:4022/udp/239.0.0.254:8208
+#EXTINF:-1, [050] beIN SPORTS
+http://83.39.205.3:4022/udp/239.0.3.100:8208
+#EXTINF:-1, [051] beIN MAX 1 
+http://83.39.205.3:4022/udp/239.0.3.101:8208
+#EXTINF:-1, [052] beIN MAX 2
+http://83.39.205.3:4022/udp/239.0.3.102:8208
+
+#EXTINF:-1, [176] Multifútbol 1
+http://83.39.205.3:4022/udp/239.0.0.124:8208
+#EXTINF:-1, [177] Multifútbol 2
+http://83.39.205.3:4022/udp/239.0.0.123:8208
+#EXTINF:-1, [178] Multifútbol 3
+http://83.39.205.3:4022/udp/239.0.3.3:8208
+#EXTINF:-1, [179] Multifútbol 4
+http://83.39.205.3:4022/udp/239.0.3.4:8208
+#EXTINF:-1, [180] Multifútbol 5
+http://83.39.205.3:4022/udp/239.0.3.5:8208
+#EXTINF:-1, [181] Multifútbol 6
+http://83.39.205.3:4022/udp/239.0.3.6:8208
+#EXTINF:-1, [182] Multifútbol 7
+http://83.39.205.3:4022/udp/239.0.3.7:8208
+#EXTINF:-1, [183] Multifútbol 8
+http://83.39.205.3:4022/udp/239.0.0.46:8208
+#EXTINF:-1, [184] Multifútbol 9
+http://83.39.205.3:4022/udp/239.0.0.42:8208
+#EXTINF:-1, [186] beIN MAX 3
+http://83.39.205.3:4022/udp/239.0.3.103:8208
+#EXTINF:-1, [187] beIN MAX 4
+http://83.39.205.3:4022/udp/239.0.3.104:8208
+#EXTINF:-1, [188] beIN MAX 5
+http://83.39.205.3:4022/udp/239.0.3.105:8208
+#EXTINF:-1, [189] beIN MAX 6
+http://83.39.205.3:4022/udp/239.0.3.106:8208
+#EXTINF:-1, [190] beIN MAX 7
+http://83.39.205.3:4022/udp/239.0.3.107:8208
+#EXTINF:-1, [191] beIN MAX 8
+http://83.39.205.3:4022/udp/239.0.3.108:8208
+#EXTINF:-1, [055] Movistar Deportes 1
+http://83.39.205.3:4022/udp/239.0.4.193:8208
+#EXTINF:-1, [056] Movistar Deportes 2
+http://83.39.205.3:4022/udp/239.0.5.5:8208
+#EXTINF:-1, [057] Movistar F1 
+http://83.39.205.3:4022/udp/239.0.1.246:8208
+#EXTINF:-1, [058] Movistar MotoGP
+http://83.39.205.3:4022/udp/239.0.3.38:8208
+#EXTINF:-1, [059] Movistar Golf
+http://83.39.205.3:4022/udp/239.0.5.2:8208
+#EXTINF:-1, [068] Multideporte 1
+http://83.39.205.3:4022/udp/239.0.7.1:8208
+
+#EXTINF:-1, [192] Multideporte 2
+http://83.39.205.3:4022/udp/239.0.7.2:8208
+#EXTINF:-1, [193] Multideporte 3
+http://83.39.205.3:4022/udp/239.0.7.3:8208
+#EXTINF:-1, [194] Multideporte 4
+http://83.39.205.3:4022/udp/239.0.7.4:8208
+#EXTINF:-1, [195] Multideporte 5
+http://83.39.205.3:4022/udp/239.0.7.5:8208
+#EXTINF:-1, [196] Multideporte 6
+http://83.39.205.3:4022/udp/239.0.7.132:8208
+#EXTINF:-1, [197] Multideporte 7
+http://83.39.205.3:4022/udp/239.0.7.133:8208
+#EXTINF:-1,[000] Movistar+ HD
+http://83.39.205.3:4022/udp/239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+http://83.39.205.3:4022/udp/239.0.0.185:8208
+#EXTINF:-1,[003] Antena 3 HD
+http://83.39.205.3:4022/udp/239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+http://83.39.205.3:4022/udp/239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+http://83.39.205.3:4022/udp/239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+http://83.39.205.3:4022/udp/239.0.0.187:8208
+#EXTINF:-1,[007] #0 HD
+http://83.39.205.3:4022/udp/239.0.5.187:8208
 
 
-#EXTINF:-1 group-title="ADULTOS (+18)",ADULT HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/44.ts
-#EXTINF:-1 group-title="ADULTOS (+18)",ADULT 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/45.ts
+AUTONÓMICOS HD
+
+Cataluña
+
+#EXTINF:-1,[008] TV3 HD *
+http://83.39.205.3:4022/udp/239.0.5.186:8208
 
 
-#EXTINF:-1 group-title="ADULTOS (+18)",DP HD
-http://62.210.113.177:19000/udp/238.0.100.6:5000
-#EXTINF:-1 group-title="ADULTOS (+18)",DUSK
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/49.ts
+#EXTINF:-1,[010] beIN LaLiga HD
+http://83.39.205.3:4022/udp/239.0.5.252:8208
+#EXTINF:-1,[013] FOX HD
+http://83.39.205.3:4022/udp/239.0.9.134:8208
+#EXTINF:-1,[014] AXN HD
+http://83.39.205.3:4022/udp/239.0.9.131:8208
+#EXTINF:-1,[015] TNT HD
+http://83.39.205.3:4022/udp/239.0.5.87:8208
+#EXTINF:-1,[016] Comedy Central HD
+http://83.39.205.3:4022/udp/239.0.0.174:8208
+#EXTINF:-1,[017] Calle 13 HD
+http://83.39.205.3:4022/udp/239.0.5.74:8208
+#EXTINF:-1,[018] COSMO HD
+http://83.39.205.3:4022/udp/239.0.5.71:8208
+#EXTINF:-1,[019] AMC HD
+http://83.39.205.3:4022/udp/239.0.9.132:8208
+#EXTINF:-1,[020] FOX life HD
+http://83.39.205.3:4022/udp/239.0.0.165:8208
+#EXTINF:-1,[021] AXN White HD
+http://83.39.205.3:4022/udp/239.0.5.79:8208
+#EXTINF:-1,[022] Syfy HD
+http://83.39.205.3:4022/udp/239.0.5.75:8208
+#EXTINF:-1,[023] Non Stop People HD
+http://83.39.205.3:4022/udp/239.0.5.170:8208
+#EXTINF:-1,[027] Atreseries HD
+http://83.39.205.3:4022/udp/239.0.0.190:8208
+#EXTINF:-1,[029] M. eSports HD
+http://83.39.205.3:4022/udp/239.0.0.178:8208
+#EXTINF:-1,[030] Movistar James Bond HD
+http://83.39.205.3:4022/udp/239.0.5.193:8208
+#EXTINF:-1,[037] TCM HD
+http://83.39.205.3:4022/udp/239.0.5.89:8208
+#EXTINF:-1,[038] Hollywood HD 
+http://83.39.205.3:4022/udp/239.0.5.76:8208
+#EXTINF:-1,[039] Sundance Channel HD
+http://83.39.205.3:4022/udp/239.0.5.72:8208
+#EXTINF:-1,[044] DEPORTES HD
+http://83.39.205.3:4022/udp/239.0.0.180:8208
+#EXTINF:-1,[047] beIN LaLiga HD
+http://83.39.205.3:4022/udp/239.0.5.252:8208
+#EXTINF:-1,[048] beIN LaLiga 1 HD
+http://83.39.205.3:4022/udp/239.0.5.253:8208
+#EXTINF:-1,[049] beIN LaLiga 2 HD
+http://83.39.205.3:4022/udp/239.0.5.254:8208
+#EXTINF:-1,[050] beIN SPORTS HD
+http://83.39.205.3:4022/udp/239.0.9.80:8208
+#EXTINF:-1,[051] beIN MAX 1 HD
+http://83.39.205.3:4022/udp/239.0.9.81:8208
+#EXTINF:-1,[052] beIN MAX 2 HD
+http://83.39.205.3:4022/udp/239.0.9.82:8208
+#EXTINF:-1,[053] Real Madrid TV HD
+http://83.39.205.3:4022/udp/239.0.0.179:8208
+#EXTINF:-1,[060] Eurosport 1 HD
+http://83.39.205.3:4022/udp/239.0.9.135:8208
+#EXTINF:-1,[060] Eurosport 1 HD Nuevos paquetes
+http://83.39.205.3:4022/udp/239.0.9.144:8208
+#EXTINF:-1,[061] Eurosport 2 HD
+http://83.39.205.3:4022/udp/239.0.5.105:8208
+#EXTINF:-1,[062] GOL HD
+http://83.39.205.3:4022/udp/239.0.5.189:8208
+#EXTINF:-1,[063] Teledeporte HD
+http://83.39.205.3:4022/udp/239.0.0.188:8208
+#EXTINF:-1,[070] National Geographic HD
+http://83.39.205.3:4022/udp/239.0.5.78:8208
+#EXTINF:-1,[071] Nat Geo Wild HD
+http://83.39.205.3:4022/udp/239.0.9.136:8208
+#EXTINF:-1,[073] Discovery Channel HD
+http://83.39.205.3:4022/udp/239.0.5.77:8208
+#EXTINF:-1,[074] Odisea HD
+http://83.39.205.3:4022/udp/239.0.5.82:8208
+#EXTINF:-1,[076] Viajar HD
+http://83.39.205.3:4022/udp/239.0.5.73:8208
+#EXTINF:-1,[086] BeMad HD
+http://83.39.205.3:4022/udp/239.0.0.182:8208
+#EXTINF:-1,[096] Disney Channel HD
+http://83.39.205.3:4022/udp/239.0.0.173:8208
 
-#EXTINF:-1 group-title="ADULTOS (+18)",FETISH 1
-http://admin.fetishbox.com/_content/6664_Bobbi_Dana_Winter_Vendetta_md.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",FRENCH LOVER TV
-http://91.211.143.214:3333/play/a006
 
-#EXTINF:-1 group-title="ADULTOS (+18)",PORNEQ
-http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",SEXTATION
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+-PAQUETE SERIES HD-  
 
 
-#EXTINF:-1 group-title="ADULTOS (+18)",SIRIN
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/46.ts
+#EXTINF:-1, [011] Movistar Series HD
+http://83.39.205.3:4022/udp/239.0.5.250:8208
+#EXTINF:-1, [012] Movistar Series Xtra HD
+http://83.39.205.3:4022/udp/239.0.5.83:8208
 
-#EXTINF:-1 group-title="ADULTOS (+18)",CHICHI MEDINA
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",CHLOE FOSTER
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
 
-#EXTINF:-1 group-title="ADULTOS (+18)",DAKOTA SKYE
-http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",DEMIDA
-http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+-PAQUETE CINE HD- 
 
-#EXTINF:-1 group-title="ADULTOS (+18)",DUSYA
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 1
-http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 2
-http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 3
-http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4
+#EXTINF:-1, [031] Movistar Estrenos HD
+http://83.39.205.3:4022/udp/239.0.5.111:8208
+#EXTINF:-1, [032] Movistar Xtra HD
+http://83.39.205.3:4022/udp/239.0.5.112:8208
+#EXTINF:-1, [033] Movistar Acción HD
+http://83.39.205.3:4022/udp/239.0.5.113:8208
+#EXTINF:-1, [034] Movistar Comedia HD
+http://83.39.205.3:4022/udp/239.0.5.114:8208
+#EXTINF:-1, [035] Movistar DCine HD
+http://83.39.205.3:4022/udp/239.0.5.115:8208
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 4
-http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 5
-http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 6
-http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 7
-http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4
+-PAQUETE FÚTBOL HD-  
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 8
-http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 9
-http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 10
-http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 11
-http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4
+#EXTINF:-1, [045] Movistar Futbol HD
+http://83.39.205.3:4022/udp/239.0.6.14:8208
+#EXTINF:-1, [046] Movistar Partidazo HD
+http://83.39.205.3:4022/udp/239.0.5.84:8208
+#EXTINF:-1, [047] beIN LaLiga HD
+http://83.39.205.3:4022/udp/239.0.5.252:8208
+#EXTINF:-1, [048] beIN LaLiga 1 HD
+http://83.39.205.3:4022/udp/239.0.5.253:8208
+#EXTINF:-1, [049] beIN LaLiga 2 HD
+http://83.39.205.3:4022/udp/239.0.5.254:8208
+#EXTINF:-1, [050] beIN SPORTS HD
+http://83.39.205.3:4022/udp/239.0.9.80:8208
+#EXTINF:-1, [051] beIN MAX 1 HD
+http://83.39.205.3:4022/udp/239.0.9.81:8208
+#EXTINF:-1, [052] beIN MAX 2 HD
+http://83.39.205.3:4022/udp/239.0.9.82:8208
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 12
-http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 13
-http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 14
-http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 15
-http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4
 
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 16
-http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 17
-http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4
-                    
-#EXTINF:-1 group-title="ADULTOS (+18)",XXX 18
-http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/19
+
+-PAQUETE DEPORTES HD- (Antes Energía HD)
+
+
+#EXTINF:-1, [055] Movistar Deportes 1 HD
+http://83.39.205.3:4022/udp/239.0.5.248:8208
+#EXTINF:-1, [056] Movistar Deportes 2 HD
+http://83.39.205.3:4022/udp/239.0.5.245:8208
+#EXTINF:-1, [057] Movistar F1 HD 
+http://83.39.205.3:4022/udp/239.0.5.246:8208
+#EXTINF:-1, [058] Movistar MotoGP HD
+http://83.39.205.3:4022/udp/239.0.5.107:8208
+#EXTINF:-1, [059] Movistar Golf HD
+http://83.39.205.3:4022/udp/239.0.5.249:8208
+
+
+
+CANALES A LA CARTA (Hay que contratarlos aparte)
+
+
+#EXTINF:-1, [054] Barça TV
+http://83.39.205.3:4022/udp/239.0.3.65:8208
+#EXTINF:-1, [065] Caza y Pesca
+http://83.39.205.3:4022/udp/239.0.3.1:8208
+#EXTINF:-1, [066] Iberalia
+http://83.39.205.3:4022/udp/239.0.5.1:8208
+#EXTINF:-1, [067] Toros TV
+http://83.39.205.3:4022/udp/239.0.1.140:8208
+#EXTINF:-1, [107] Mezzo
+http://83.39.205.3:4022/udp/239.0.4.65:8208
+#EXTINF:-1, [109] Classica
+http://83.39.205.3:4022/udp/239.0.3.193:8208
+#EXTINF:-1, [111] Playboy TV
+http://83.39.205.3:4022/udp/239.0.5.3:8208
+#EXTINF:-1, [134] Telefe Internacional
+http://83.39.205.3:4022/udp/239.0.8.3:8208
+#EXTINF:-1, [135] Canal Estrellas
+http://83.39.205.3:4022/udp/239.0.8.193:8208
+#EXTINF:-1, [137] TV Record
+http://83.39.205.3:4022/udp/239.0.8.2:8208
+#EXTINF:-1, [138] TV Chile Internacional
+http://83.39.205.3:4022/udp/239.0.8.1:8208
+#EXTINF:-1, [139] Nuestra Tele
+http://83.39.205.3:4022/udp/239.0.7.131:8208
+#EXTINF:-1, [141] Cubavision
+http://83.39.205.3:4022/udp/239.0.8.67:8208
+#EXTINF:-1, [142] teleSUR
+http://83.39.205.3:4022/udp/239.0.8.69:8208
+
+
+HD
+
+#EXTINF:-1, [065] Caza y Pesca HD
+http://83.39.205.3:4022/udp/239.0.6.54:8208
+#EXTINF:-1, [066] Iberalia HD
+http://83.39.205.3:4022/udp/239.0.5.188:8208
+#EXTINF:-1, [067] Toros TV HD
+http://83.39.205.3:4022/udp/239.0.0.191:8208
+#EXTINF:-1, [109] Classica HD
+http://83.39.205.3:4022/udp/239.0.9.137:8208
+
+
+
+CANALES PARA LOCALES PUBLICOS (BAR)
+
+
+#EXTINF:-1, [445] LaLiga TV Bar
+http://83.39.205.3:4022/udp/239.0.3.111:8208
+#EXTINF:-1, [446] LaLiga TV Bar 1
+http://83.39.205.3:4022/udp/239.0.3.112:8208
+#EXTINF:-1, [447] LaLiga TV Bar 2
+http://83.39.205.3:4022/udp/239.0.3.113:8208
+#EXTINF:-1, [448] LaLiga TV Bar 3
+http://83.39.205.3:4022/udp/239.0.3.114:8208
+#EXTINF:-1, [449] LaLiga TV Bar 4
+http://83.39.205.3:4022/udp/239.0.3.115:8208
+#EXTINF:-1, [451] LaLiga TV Bar 5
+http://83.39.205.3:4022/udp/239.0.3.116:8208
+#EXTINF:-1, [452] LaLiga TV Bar 6
+http://83.39.205.3:4022/udp/239.0.3.117:8208
+#EXTINF:-1, [453] LaLiga TV Bar 7
+http://83.39.205.3:4022/udp/239.0.3.118:8208
+#EXTINF:-1, [454] LaLiga TV Bar 8
+http://83.39.205.3:4022/udp/239.0.3.119:8208
+
+
+HD
+
+#EXTINF:-1, [445] LaLiga TV Bar HD
+http://83.39.205.3:4022/udp/239.0.9.91:8208
+
+
+
+
+
+FORMULA 1  2017 (DEPORTES -Antes Paquetes TV Energía , Total y Combina2) 
+
+
+SD     
+
+#EXTINF:-1, [057] Movistar F1
+http://83.39.205.3:4022/udp/239.0.1.246:8208
+
+#EXTINF:-1, [220]  Multicamara 1 F1
+http://83.39.205.3:4022/udp/239.0.1.236:8208
+#EXTINF:-1, [221]  Multi 1 F1
+http://83.39.205.3:4022/udp/239.0.1.230:8208
+#EXTINF:-1, [222]  Multi 2 F1
+http://83.39.205.3:4022/udp/239.0.1.231:8208
+#EXTINF:-1, [223]  Multi 3 F1
+http://83.39.205.3:4022/udp/239.0.1.232:8208
+#EXTINF:-1, [224]  Multi 4 F1
+http://83.39.205.3:4022/udp/239.0.1.233:8208
+#EXTINF:-1, [225] Multi 5 F1
+http://83.39.205.3:4022/udp/239.0.1.234:8208
+#EXTINF:-1, [226]  Multi 6 F1
+http://83.39.205.3:4022/udp/239.0.1.235:8208
+
+HD   
+
+#EXTINF:-1, [057] Movistar F1 HD
+http://83.39.205.3:4022/udp/239.0.5.246:8208
+
+#EXTINF:-1, [220] Multicamara 1 HD F1
+http://83.39.205.3:4022/udp/239.0.5.121:8208
+#EXTINF:-1, [221] Multi 1 HD  F1 
+http://83.39.205.3:4022/udp/239.0.5.230:8208
+#EXTINF:-1, [222] Multi 2 HD  F1 
+http://83.39.205.3:4022/udp/239.0.5.122:8208
+#EXTINF:-1, [223] Multi 3 HD  F1 
+http://83.39.205.3:4022/udp/239.0.5.117:8208
+#EXTINF:-1, [224] Multi 4 HD F1 
+http://83.39.205.3:4022/udp/239.0.5.118:8208
+#EXTINF:-1, [225] Multi 5 HD  F1 
+http://83.39.205.3:4022/udp/239.0.5.119:8208
+#EXTINF:-1, [226] Multi 6 HD  F1 
+http://83.39.205.3:4022/udp/239.0.5.120:8208
+
+
+MOTO GP  2017 (DEPORTES - Antes Paquetes TV Energía , Total y Combina2)
+
+
+SD   
+
+#EXTINF:-1, [058] Movistar MotoGP
+http://83.39.205.3:4022/udp/239.0.3.38:8208
+
+#EXTINF:-1, [260] Multicamara 1 MotoGP
+http://83.39.205.3:4022/udp/239.0.1.154:8208
+#EXTINF:-1, [261] Multi 1 MotoGP
+http://83.39.205.3:4022/udp/239.0.1.155:8208
+#EXTINF:-1, [262] Multi 2 MotoGP 
+http://83.39.205.3:4022/udp/239.0.1.156:8208
+#EXTINF:-1, [263] Multi 3 MotoGP
+http://83.39.205.3:4022/udp/239.0.1.157:8208
+#EXTINF:-1, [264] Multi 4 MotoGP
+http://83.39.205.3:4022/udp/239.0.1.158:8208
+#EXTINF:-1, [265] Multi 5 MotoGP
+http://83.39.205.3:4022/udp/239.0.1.159:8208
+#EXTINF:-1, [266] Multi 6 MotoGP
+http://83.39.205.3:4022/udp/239.0.1.160:8208
+
+
+HD   
+
+#EXTINF:-1, [058] Movistar MotoGP HD
+http://83.39.205.3:4022/udp/239.0.5.107:8208
+#EXTINF:-1, [058] Movistar MotoGP HD Degustacion
+http://83.39.205.3:4022/udp/239.0.0.167:8208
+
+#EXTINF:-1, [260] Multicamara 1 HD MotoGP
+http://83.39.205.3:4022/udp/239.0.5.154:8208
+#EXTINF:-1, [261] Multi 1 HD MotoGP 
+http://83.39.205.3:4022/udp/239.0.5.155:8208
+#EXTINF:-1, [262] Multi 2 HD MotoGP
+http://83.39.205.3:4022/udp/239.0.5.156:8208
+#EXTINF:-1, [263] Multi 3 HD MotoGP
+http://83.39.205.3:4022/udp/239.0.5.157:8208
+#EXTINF:-1, [264] Multi 4 HD MotoGP 
+http://83.39.205.3:4022/udp/239.0.5.158:8208
+#EXTINF:-1, [265] Multi 5 HD MotoGP
+http://83.39.205.3:4022/udp/239.0.5.159:8208
+#EXTINF:-1, [266] Multi 6 HD MotoGP
+http://83.39.205.3:4022/udp/239.0.5.160:8208
