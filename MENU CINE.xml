@@ -28,3 +28,21 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/PELICULAS%20COMIC.xml</externallink>
 </item>
+
+
+
+<item>
+<title>[COLOR red]TRAILERS DE[/COLOR] [COLOR yellow]PELICULAS EN[/COLOR] [COLOR red]ESPAÑOL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param2]</title>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
+                        <thumbnail>http://www.mubis.es/media/users/2558/74942/pregunta-sencilla-veis-trailers-de-cine-por-lo-general-original.png</thumbnail>
+         ]]></listrepeat>
+            <expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
+            <page>https://www.youtube.com/user/TrailersInSpanish/playlists</page>
+            <cookieJar></cookieJar>
+</regex>
+</item>
