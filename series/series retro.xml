@@ -1575,8 +1575,8 @@
 
 <item>
    <title>[COLOR red]LOS PROTEGIDOS[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>http://diskokosmiko.mx/chinchetas/los-protegidos-todas-temporadas-45114</thumbnail>
-<fanart>http://diskokosmiko.mx/chinchetas/los-protegidos-todas-temporadas-45114</fanart>
+<thumbnail>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</thumbnail>
+<fanart>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</fanart>
    	<genre>
 
 
@@ -1586,8 +1586,8 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail>http://diskokosmiko.mx/chinchetas/los-protegidos-todas-temporadas-45114</thumbnail>
-<fanart>http://diskokosmiko.mx/chinchetas/los-protegidos-todas-temporadas-45114</fanart>
+               <thumbnail>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</thumbnail>
+<fanarthttp://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page></page>
@@ -1683,7 +1683,7 @@
 <fanart></fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/vis-a-vis-35356</page>
+      <page>http://diskokosmiko.mx/chinchetas</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
