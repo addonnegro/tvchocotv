@@ -4,9 +4,6 @@
 
 
 
-
-
-
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
@@ -744,7 +741,7 @@ item>
 
 
 item>
-   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+   <title>[COLOR red]CASADOS A PRIMERA VISTA TEMPORADA 2[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail>https://www.ecestaticos.com/image/clipping/992/558/3ff077922393803d084a9f46d15f92bf/casados-a-primera-vista-estrena-su-tercera-temporada-el-lunes-9-de-enero.jpg</thumbnail>
 <fanart>https://www.ecestaticos.com/image/clipping/992/558/3ff077922393803d084a9f46d15f92bf/casados-a-primera-vista-estrena-su-tercera-temporada-el-lunes-9-de-enero.jpg</fanart>
    	<genre>
@@ -800,9 +797,9 @@ item>
 
 
 item>
-   <title>[COLOR red][/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+   <title>[COLOR red]CUARTO MILENIO[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</thumbnail>
+<fanart>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</fanart>
    	<genre>
 
 
@@ -812,11 +809,11 @@ item>
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-<fanart></fanart>
+               <thumbnail>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</thumbnail>
+<fanart>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/lokario1/cuarto-milenio-12130/list,1,7</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
