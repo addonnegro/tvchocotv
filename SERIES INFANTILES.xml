@@ -26,7 +26,7 @@
 <thumbnail>http://1.bp.blogspot.com/-rmDhn-A9AeE/Uq9VGWuahkI/AAAAAAAAAzQ/aMKkL54tq84/s1600/Osos-Gummi.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/los-osos-gummi-20263</page>
+      <page>http://diskokosmiko.mx/naredo/los-osos-gummi-20263/list,1,3</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -67,7 +67,7 @@
 <thumbnail>http://3.bp.blogspot.com/--vKDNESFGaU/U7ygn7HUNII/AAAAAAAALRM/g2NznDJMOxk/s1600/sc2-seriesytv.tv.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/scooby-doo-donde-estas-20480</page>
+      <page>http://diskokosmiko.mx/naredo/scooby-doo-donde-estas-20480/list,1,2</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -104,7 +104,7 @@
 <thumbnail>http://1.bp.blogspot.com/-RLtu2La61U4/Vd8-sk3Ax0I/AAAAAAABl10/wQMzjsFjpn4/s1600/81rTQNmbn8L._SL1500_.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/zorro-generacion-z-serie-69413</page>
+      <page>http://diskokosmiko.mx/naredo/zorro-generacion-z-serie-69413/list,1,2</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -147,7 +147,7 @@
 <thumbnail>http://orig05.deviantart.net/9432/f/2012/335/0/b/__come_at_me_bro___dp_vector_by_phantom_ice-d5mq5gx.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/danny-phantom-serie-animada-71110</page>
+      <page>http://diskokosmiko.mx/naredo/danny-phantom-serie-animada-71110/list,1,3</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -223,7 +223,7 @@
 <thumbnail>http://i0.kym-cdn.com/photos/images/original/001/149/102/6f3.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/tom-y-jerry-71041</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/tom-y-jerry-71041/list,1,7</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -264,7 +264,7 @@
 <thumbnail>http://i2.esmas.com/2017/06/22/930531/caballeros-del-zodiaco-01-1920x1080.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/los-caballeros-del-zoodiaco-castellano-68130</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/los-caballeros-del-zoodiaco-castellano-68130/list,1,5</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -311,7 +311,7 @@
 <thumbnail>http://es.web.img3.acsta.net/pictures/14/06/11/09/57/078574.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/oliver-y-benji-castellano-67282</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/oliver-y-benji-castellano-67282/list,1,6</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -356,7 +356,7 @@
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e7/fb/2b/e7fb2bde072984028015740713d7bf71.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/baby-looney-tunes-castellano-78182</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/baby-looney-tunes-castellano-78182/list,1,3</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -397,7 +397,7 @@
 <thumbnail>http://grilloporteno.com/wp-content/uploads/2017/06/7-36.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/sailor-moon-castellano-67351</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/sailor-moon-castellano-67351/list,1,9</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -441,7 +441,7 @@
 <thumbnail>http://4.bp.blogspot.com/-GyJf93jwyls/UYElJHQ5MYI/AAAAAAAAIuA/976VEgxnSr8/s1600/South+Park.PNG</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/south-park-espanol-77628</page>
+      <page>http://diskokosmiko.mx/chinchetas/south-park-espanol-77628/list,1,10</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -532,7 +532,7 @@
 <thumbnail>http://www.wikimexico.com/storage/app/uploads/public/559/98e/6b3/55998e6b3c49d046478352.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gabriel67/heidi-30141</page>
+      <page>http://diskokosmiko.mx/gabriel67/heidi-30141/list,1,3</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -642,7 +642,7 @@
 <thumbnail>https://ep00.epimg.net/cultura/imagenes/2014/05/09/television/1399615260_139961_1399615260_noticia_normal.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gabriel67/ulises-31-30066</page>
+      <page>http://diskokosmiko.mx/gabriel67/ulises-31-30066/list,1,2</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -691,7 +691,7 @@
 <thumbnail>http://www.laregion.es/media/laregion/images/2014/12/11/2014121119462048123.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gabriel67/mazinger-z-30063</page>
+      <page>http://diskokosmiko.mx/gabriel67/mazinger-z-30063/list,1,4</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -745,7 +745,7 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81fypaWlChL.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gabriel67/erase-una-vez-el-hombre-30150</page>
+      <page>http://diskokosmiko.mx/gabriel67/erase-una-vez-el-hombre-30150/list,1,2</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -831,7 +831,7 @@
 <thumbnail>https://losmuertevideanos.files.wordpress.com/2012/02/712c0-wallpaper1.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gabriel67/marco-30178</page>
+      <page>http://diskokosmiko.mx/gabriel67/marco-30178/list,1,3</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -875,7 +875,7 @@
 <thumbnail>http://i0.kym-cdn.com/entries/icons/original/000/006/419/Lazy-Town-Logo.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/trivianita/lazy-town-78792</page>
+      <page>http://diskokosmiko.mx/trivianita/lazy-town-78792/list,1,3</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
