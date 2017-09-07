@@ -104,7 +104,7 @@
 <thumbnail>http://1.bp.blogspot.com/-RLtu2La61U4/Vd8-sk3Ax0I/AAAAAAABl10/wQMzjsFjpn4/s1600/81rTQNmbn8L._SL1500_.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/zorro-generacion-z-serie-69413/list,1,2</page>
+      <page>http://diskokosmiko.mx/naredo/zorro-generacion-z-serie-69413</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -147,7 +147,7 @@
 <thumbnail>http://orig05.deviantart.net/9432/f/2012/335/0/b/__come_at_me_bro___dp_vector_by_phantom_ice-d5mq5gx.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/danny-phantom-serie-animada-71110/list,1,1</page>
+      <page>http://diskokosmiko.mx/naredo/danny-phantom-serie-animada-71110</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -187,7 +187,7 @@
 <thumbnail>http://1.bp.blogspot.com/-ggb5VjGfr1s/U7Mr17EBO5I/AAAAAAAADTk/mTXPeg8Pg0c/s1600/ducktales-wallpaper1.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/patoaventuras-20237/list,1,2</page>
+      <page>http://diskokosmiko.mx/naredo/patoaventuras-20237</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -223,7 +223,7 @@
 <thumbnail>http://i0.kym-cdn.com/photos/images/original/001/149/102/6f3.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/tom-y-jerry-71041/list,1,1</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/tom-y-jerry-71041</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -264,7 +264,7 @@
 <thumbnail>http://i2.esmas.com/2017/06/22/930531/caballeros-del-zodiaco-01-1920x1080.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/los-caballeros-del-zoodiaco-castellano-68130/list,1,1</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/los-caballeros-del-zoodiaco-castellano-68130</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -356,7 +356,7 @@
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e7/fb/2b/e7fb2bde072984028015740713d7bf71.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/gemma-valencia/baby-looney-tunes-castellano-78182/list,1,1</page>
+      <page>http://diskokosmiko.mx/gemma-valencia/baby-looney-tunes-castellano-78182</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -441,7 +441,7 @@
 <thumbnail>http://4.bp.blogspot.com/-GyJf93jwyls/UYElJHQ5MYI/AAAAAAAAIuA/976VEgxnSr8/s1600/South+Park.PNG</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://4.bp.blogspot.com/-GyJf93jwyls/UYElJHQ5MYI/AAAAAAAAIuA/976VEgxnSr8/s1600/South+Park.PNG</page>
+      <page>http://diskokosmiko.mx/chinchetas/south-park-espanol-77628</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -773,9 +773,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]LA PANTERA ROSA[/COLOR]</title>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/20/ec/5e/20ec5e2dd1172b5d304a9aa1d1913c36.jpg</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/20/ec/5e/20ec5e2dd1172b5d304a9aa1d1913c36.jpg</thumbnail>
    	<genre>
 
 
@@ -785,11 +785,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/20/ec/5e/20ec5e2dd1172b5d304a9aa1d1913c36.jpg</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/20/ec/5e/20ec5e2dd1172b5d304a9aa1d1913c36.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/gabriel67/la-pantera-rosa-30228</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -815,9 +815,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]MARCO[/COLOR]</title>
+<fanart>https://losmuertevideanos.files.wordpress.com/2012/02/712c0-wallpaper1.jpg</fanart>
+<thumbnail>https://losmuertevideanos.files.wordpress.com/2012/02/712c0-wallpaper1.jpg</thumbnail>
    	<genre>
 
 
@@ -827,11 +827,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://losmuertevideanos.files.wordpress.com/2012/02/712c0-wallpaper1.jpg</fanart>
+<thumbnail>https://losmuertevideanos.files.wordpress.com/2012/02/712c0-wallpaper1.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/gabriel67/marco-30178</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -859,9 +859,9 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+   <title>[COLOR red]LAZY TOWN[/COLOR]</title>
+<fanart>http://i0.kym-cdn.com/entries/icons/original/000/006/419/Lazy-Town-Logo.jpg</fanart>
+<thumbnail>http://i0.kym-cdn.com/entries/icons/original/000/006/419/Lazy-Town-Logo.jpg</thumbnail>
    	<genre>
 
 
@@ -871,11 +871,11 @@
       <listrepeat><![CDATA[
               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i0.kym-cdn.com/entries/icons/original/000/006/419/Lazy-Town-Logo.jpg</fanart>
+<thumbnail>http://i0.kym-cdn.com/entries/icons/original/000/006/419/Lazy-Town-Logo.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/trivianita/lazy-town-78792</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
