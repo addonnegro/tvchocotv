@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item> 
-<title>[COLOR orange]****** NUEVO ADDON TVCHOCO VERSION DE PRUEBA EN BREVE EN LA PRIMERA VERSION [/COLOR][COLOR YELLOW]******[/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>https://2.bp.blogspot.com/-4GoKIbvPrYw/WbATnodtv_I/AAAAAAAAEcM/u0mrZEikqqs-6ytcmgjoNTmmgXKcNFGVACLcBGAs/s1600/icon.png</thumbnail>
-<fanart>https://2.bp.blogspot.com/-4GoKIbvPrYw/WbATnodtv_I/AAAAAAAAEcM/u0mrZEikqqs-6ytcmgjoNTmmgXKcNFGVACLcBGAs/s1600/icon.png</fanart>
-<externallink></externallink>	
-</item>
 
 <item> 
 <title>[COLOR orange]*** QUIERO DAR LAS GRACIAS A NUESTRO GRAN AMIGO TOPO POR LA AYUDA QUE ME HA PRESTADO GRACIAS[/COLOR][COLOR YELLOW]******[/COLOR] </title>
@@ -66,6 +58,15 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/ARENAVISION2.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR yellow]COSAS DE LA TELE[/COLOR]</title>
+<thumbnail>https://previews.123rf.com/images/sooolnce/sooolnce1203/sooolnce120300008/12901477-Programas-de-dibujos-animados-conjunto-Foto-de-archivo.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/sooolnce/sooolnce1203/sooolnce120300008/12901477-Programas-de-dibujos-animados-conjunto-Foto-de-archivo.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/MUNDO%20DRAGON%20BALL.xml</externallink>
+</item>
+
 
 <item>
 <title>[COLOR yellow]MUNDO DRAGON BALL BY DANI Y POLO *GRACIAS DANI*[/COLOR]</title>
