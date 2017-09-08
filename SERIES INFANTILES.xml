@@ -27,7 +27,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
       <connection>keep-alive</connection> 
@@ -74,7 +74,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>      
 	  <connection>keep-alive</connection>  
@@ -125,7 +125,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
       <connection>keep-alive</connection> 
@@ -146,12 +146,12 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B]HEIDIrd - DIBUJOS ANIMADOS[/B]</title>
+<title>[COLOR red]HEIDI - DIBUJOS ANIMADOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
 		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
@@ -166,22 +166,21 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection> 
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
 <regex>
-<name>tok</name>
+<name>ok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
 		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
-</item>genes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
 </item>
 
 
@@ -224,7 +223,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -235,7 +234,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -266,7 +265,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -277,7 +276,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -319,7 +318,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -330,7 +329,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -378,7 +377,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -389,7 +388,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -427,7 +426,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -438,7 +437,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -476,7 +475,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -487,7 +486,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -525,7 +524,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -536,7 +535,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -573,7 +572,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -584,52 +583,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
-		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
-</item>
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
-		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -643,12 +597,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
@@ -669,7 +617,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -680,7 +628,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -700,8 +648,6 @@
 
 
 
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
@@ -722,7 +668,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -733,59 +679,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
-		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
-</item>
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
-		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -807,6 +701,56 @@
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
+		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
+		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
+</item>
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -829,7 +773,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -840,7 +784,62 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
+		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
+</item>
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
+		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -923,7 +922,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -934,7 +933,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -981,7 +980,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -992,7 +991,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -1058,7 +1057,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -1069,7 +1068,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -1125,7 +1124,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -1136,7 +1135,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -1193,7 +1192,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -1204,7 +1203,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -1249,7 +1248,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -1260,7 +1259,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -1310,7 +1309,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1350,7 +1349,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1386,7 +1385,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1427,7 +1426,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1474,7 +1473,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1519,7 +1518,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1560,7 +1559,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1604,7 +1603,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1645,7 +1644,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1695,7 +1694,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1749,7 +1748,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1805,7 +1804,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1854,7 +1853,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1908,7 +1907,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1952,7 +1951,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -1994,7 +1993,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -2038,7 +2037,7 @@
 <regex>
       <name>getUrl</name>
       <expres>DownloadUrl":"([^"]+)</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection> 
       <x-req>XMLHttpRequest</x-req>
@@ -2069,7 +2068,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2080,7 +2079,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2112,7 +2111,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2123,7 +2122,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2151,7 +2150,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2162,7 +2161,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2191,7 +2190,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2202,7 +2201,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2237,7 +2236,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2248,7 +2247,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2274,7 +2273,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2285,7 +2284,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2323,7 +2322,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2334,7 +2333,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2361,7 +2360,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2372,7 +2371,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2399,7 +2398,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2410,7 +2409,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2437,7 +2436,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2448,7 +2447,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2479,7 +2478,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2490,7 +2489,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2516,7 +2515,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2527,7 +2526,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2559,7 +2558,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2570,7 +2569,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2596,7 +2595,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2607,7 +2606,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2633,7 +2632,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2644,7 +2643,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2673,7 +2672,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2684,7 +2683,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2716,7 +2715,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2727,7 +2726,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2761,7 +2760,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2772,7 +2771,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2799,7 +2798,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2810,7 +2809,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2836,7 +2835,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2847,7 +2846,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2873,7 +2872,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2884,7 +2883,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
@@ -2923,7 +2922,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection> 
@@ -2934,7 +2933,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <referer>http://diskokosmiko.mx</referer>
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
