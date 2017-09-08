@@ -143,7 +143,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
 		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
@@ -203,7 +203,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e4/68/43/e468438b32813efbec244ee006c1d2a7.jpg</thumbnail>
 		<fanart>https://s-media-cache-ak0.pinimg.com/originals/e4/68/43/e468438b32813efbec244ee006c1d2a7.jpg</fanart>
@@ -245,7 +245,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
@@ -298,7 +298,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://art-s.nflximg.net/c69ed/e1b5c6928d438b79dde5c2db416603afd32c69ed.jpg</thumbnail>
 		<fanart>http://4.bp.blogspot.com/-Tw5F165Zy4M/Upxen6BG10I/AAAAAAAAxu4/fwnBxmyrPMA/s1600/banner%2Binspector%2Bgadget.png</fanart>
@@ -357,7 +357,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://pics.filmaffinity.com/seton_dobutsuki_kuma_no_ko_jacky_jackie_nuca_tv_series-324003112-large.jpg</thumbnail>
 		<fanart>http://1.bp.blogspot.com/-GeXMDhNaPuM/Uno_2RaeT4I/AAAAAAAABuA/ozcVx9IhRt4/s1600/02grislejackynuca.jpg</fanart>
@@ -406,7 +406,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/2/0/8435153739026/tsp20130924181445/La-abeja-Maya-Volumen-1.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/4Iq2lB9_IV4/maxresdefault.jpg</fanart>
@@ -455,7 +455,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://pics.filmaffinity.com/La_aldea_del_arce_Serie_de_TV-328614957-large.jpg</thumbnail>
 		<fanart>https://s-media-cache-ak0.pinimg.com/originals/23/c6/81/23c6818278a8589fac1901627486e811.jpg</fanart>
@@ -504,7 +504,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
 		<fanart>http://www.peliculas.in/wp-content/uploads/2014/07/La-banda-de-Mozart-660x330.jpg</fanart>
@@ -593,7 +593,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://4.bp.blogspot.com/-bIJpmwMV4q4/U-03Wg7cdpI/AAAAAAAAAwo/MPxmNeEBb4Q/s1600/Ver-La-Princesa-Sofia-Erase-una-vez-una-princesa-Online.jpg</thumbnail>
 		<fanart>https://i0.wp.com/todopeques.net/wp-content/uploads/2014/07/sofiaposter2-e1412016311412.jpg</fanart>
@@ -651,7 +651,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://pics.filmaffinity.com/la_llamada_de_los_gnomos_tv_series-920025586-large.jpg</thumbnail>
 		<fanart>http://3.bp.blogspot.com/-AZZm1it4j-U/T_mVfNFfNCI/AAAAAAAAeQ0/Z0u1tHpitUA/s1600/la-llamada-de-los-gnomos.jpg</fanart>
@@ -728,7 +728,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://1.bp.blogspot.com/-1kCNfM0D8Z4/VQaqZug_lwI/AAAAAAABqOw/JqlfLjtWFJM/s1600/Las-Aventuras-de-Tintin-21-aventuras-de-Tintin-3-largometrajes-en-Blu-ray_hv_big.png</thumbnail>
 		<fanart>http://1.bp.blogspot.com/-1kCNfM0D8Z4/VQaqZug_lwI/AAAAAAABqOw/JqlfLjtWFJM/s1600/Las-Aventuras-de-Tintin-21-aventuras-de-Tintin-3-largometrajes-en-Blu-ray_hv_big.png</fanart>
@@ -795,7 +795,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://images.moviesdistribucion.com/200x200/53/53037.gif</thumbnail>
 		<fanart>http://vignette3.wikia.nocookie.net/doblaje/images/d/d5/Pájaroloco.jpg</fanart>
@@ -863,7 +863,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://www.serietv.es/images/serie/GC/las-nuevas-aventuras-de-lucky-luke-2001-G.jpg</thumbnail>
 		<fanart>http://www.serietv.es/images/serie/GC/las-nuevas-aventuras-de-lucky-luke-2001-G.jpg</fanart>
@@ -919,7 +919,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://static.filmin.es/images/media/14735/1/poster_0_3_900x0.jpg</thumbnail>
 		<fanart>https://static.filmin.es/images/media/14735/1/poster_0_3_900x0.jpg</fanart>
@@ -1739,7 +1739,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://www.videogamers.com.mx/wp-content/uploads/Strawberry_Shortcake_Berry_Best_in_Show_poster_ingles.jpg</thumbnail>
 		<fanart>http://www.videogamers.com.mx/wp-content/uploads/Strawberry_Shortcake_Berry_Best_in_Show_poster_ingles.jpg</fanart>
@@ -1782,7 +1782,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/912OJkRkfLL._SY445_.jpg</thumbnail>
 		<fanart>http://img.rtve.es/imagenes/encierro-ruy/1342793964319.jpg</fanart>
@@ -1821,7 +1821,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 <thumbnail>http://www.cinematecacubana.com/ProdImages/1722sandokan%20la%20peliculaL.jpg</thumbnail>
 <fanart>http://s10.images.www.tvn.hu/2010/02/19/12/31/www.tvn.hu_9d07befaf94c5f2154cd2efa9b337e60.jpg</fanart>
@@ -1861,7 +1861,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://i58.tinypic.com/oaybnq.jpg</thumbnail>
 		<fanart>http://www.keluegobarraalguien.es/wp-content/uploads/2015/03/sherlock-holmes-miyazaki.jpg</fanart>
@@ -1907,7 +1907,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51B5qcZ0rjL._SY300_QL70_.jpg</thumbnail>
 		<fanart>https://images-na.ssl-images-amazon.com/images/I/51B5qcZ0rjL._SY300_QL70_.jpg</fanart>
@@ -1944,7 +1944,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://www.pandora-magazine.com/wp-content/uploads/2014/02/310.jpg</thumbnail>
 		<fanart>http://www.pandora-magazine.com/wp-content/uploads/2014/02/310.jpg</fanart>
@@ -1993,7 +1993,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://imagessl1.casadellibro.com/m/ig/1/4775781.jpg</thumbnail>
 		<fanart>https://imagessl1.casadellibro.com/m/ig/1/4775781.jpg</fanart>
@@ -2031,7 +2031,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://i.pinimg.com/236x/fe/33/23/fe332387c14f1500d0104b1db9466d5a--turtles-ninjas-teenage-mutant-ninja-turtles.jpg</thumbnail>
 		<fanart>https://i.pinimg.com/236x/fe/33/23/fe332387c14f1500d0104b1db9466d5a--turtles-ninjas-teenage-mutant-ninja-turtles.jpg</fanart>
@@ -2069,7 +2069,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://pics.filmaffinity.com/los_fruittis_tv_series-655130633-mmed.jpg</thumbnail>
 		<fanart>https://pics.filmaffinity.com/los_fruittis_tv_series-655130633-mmed.jpg</fanart>
@@ -2107,7 +2107,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://seriesblanco.com/files/uploads/3127.jpg</thumbnail>
 		<fanart>http://www.wikiceuta.com/wp-content/uploads/mundo-yupi-ceuta1-1024x614_c.jpg</fanart>
@@ -2149,7 +2149,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://www.benitomovieposter.com/catalog/images/movieposter/138646.jpg</thumbnail>
 		<fanart>http://www.benitomovieposter.com/catalog/images/movieposter/138646.jpg</fanart>
@@ -2186,7 +2186,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/21/6b/8d/216b8d1fb388b9031d91c47068972724--lucky-luke.jpg</thumbnail>
 		<fanart>http://orig15.deviantart.net/1e0b/f/2008/204/0/f/lucky_luke_01_by_angelcostavillacrez.jpg</fanart>
@@ -2229,7 +2229,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://image7.casadellibro.com/m/ig/7/2796777.jpg</thumbnail>
 		<fanart>http://kinirokay.com/wp-content/uploads/2013/02/Marco1.jpg</fanart>
@@ -2266,7 +2266,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://seriesblanco.com/files/uploads/3377.jpg</thumbnail>
 		<fanart>https://seriesblanco.com/files/uploads/3377.jpg</fanart>
@@ -2303,7 +2303,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://mortadelo-filemon.es/images/photos/Articulos/Cine/Serie2014.jpg</thumbnail>
 		<fanart>http://mortadelo-filemon.es/images/photos/Articulos/Cine/Serie2014.jpg</fanart>
@@ -2343,7 +2343,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://image.tmdb.org/t/p/w500/jI18Nv0heh04U2IGnpr8QRoe5lJ.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/w780/nleRzruUaup7P2wMkMiLyJW8rAD.jpg</fanart>
@@ -2386,7 +2386,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/21/0f/a4/210fa440304a656daf8b6f0ce7b822ea--cartoon-wallpaper-iphone-wallpaper.jpg</thumbnail>
 		<fanart>https://vignette2.wikia.nocookie.net/tomandjerry/images/6/6e/The_Tom_and_Jerry_Show_2014_Boomerang_poster.jpg</fanart>
@@ -2431,7 +2431,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://pics.filmaffinity.com/Patoaventuras_Serie_de_TV-970934278-large.jpg</thumbnail>
 		<fanart>http://pics.filmaffinity.com/Patoaventuras_Serie_de_TV-970934278-large.jpg</fanart>
@@ -2469,7 +2469,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/7b/00/2e/7b002ecfb60c1c9c6757cf1996732213--peter-pan-peter-otoole.jpg</thumbnail>
 		<fanart>https://s-media-cache-ak0.pinimg.com/736x/7b/00/2e/7b002ecfb60c1c9c6757cf1996732213--peter-pan-peter-otoole.jpg</fanart>
@@ -2506,7 +2506,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://www.c1n3.org/h/hellbom01o/Images/1974%20Pippi%20Calzaslargas%20(Album%20Cromos)%20(esp)%2000a%20PORTADA.jpg</thumbnail>
 		<fanart>https://bauldeloslibrosasombrosos.files.wordpress.com/2015/12/pippi_463555c4.jpg</fanart>
@@ -2543,7 +2543,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://ae01.alicdn.com/kf/HTB11hUVQFXXXXaiaXXXq6xXFXXXE/Popeye-el-marino-de-la-vendimia-retro-Cartel-Retro-arte-de-La-Pared-Decoraci&oacute;n-Del-hogar.jpg</thumbnail>
 		<fanart>https://ae01.alicdn.com/kf/HTB11hUVQFXXXXaiaXXXq6xXFXXXE/Popeye-el-marino-de-la-vendimia-retro-Cartel-Retro-arte-de-La-Pared-Decoraci&oacute;n-Del-hogar.jpg</fanart>
@@ -2593,7 +2593,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title><title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://pics.filmaffinity.com/rainbow_brite_tv_series-182873758-large.jpg</thumbnail>
 		<fanart>https://pics.filmaffinity.com/rainbow_brite_tv_series-182873758-large.jpg</fanart>
