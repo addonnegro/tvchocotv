@@ -2,6 +2,12 @@
 
 
 
+
+
+
+
+
+
 <item>
 <link>http://$doregex[url]|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Mobile Safari/537.36/</link>
 <regex>
@@ -14,7 +20,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://streamango.com/f/ppncccsa
  source = requests.get(url, headers = headers).text
  return re.findall('src:"\/\/(.*?)"', source)[0].replace('\/','/')
 ]]></expres>
-<page></page>
+<page>https://streamango.com/f/ppncccsacrbdabpp/Ver_El_gran_peque_o_2015_Online_y_descargar_gratis_HD_1080p_mp4</page>
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2015/05-mayo/Littleboy_Poster.jpg</thumbnail> 
