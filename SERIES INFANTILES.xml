@@ -30,7 +30,7 @@
       <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-      <connection>keep-alive</connection>
+      <connection>keep-alive</connection>    <accept>*/*</accept>
       <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
@@ -40,7 +40,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 
@@ -57,13 +57,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-   <title>[COLOR red]SCOOBY DOO ¿DONDE ESTAS?
-[/COLOR]</title>
-<fanart>http://3.bp.blogspot.com/--vKDNESFGaU/U7ygn7HUNII/AAAAAAAALRM/g2NznDJMOxk/s1600/sc2-seriesytv.tv.jpg</fanart>
-<thumbnail>http://3.bp.blogspot.com/--vKDNESFGaU/U7ygn7HUNII/AAAAAAAALRM/g2NznDJMOxk/s1600/sc2-seriesytv.tv.jpg</thumbnail>
-   	<genre>
-
-
+<title>[COLOR red]SCOOBY DOO ¿DONDE ESTAS?[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
       <name>makelist</name>
@@ -79,13 +73,27 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>      
+	  <connection>keep-alive</connection>  
+	  <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
-</regex>	
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>    <accept>*/*</accept>
+<cookieJar></cookieJar>
+</regex>
+
+                 <fanart>http://3.bp.blogspot.com/--vKDNESFGaU/U7ygn7HUNII/AAAAAAAALRM/g2NznDJMOxk/s1600/sc2-seriesytv.tv.jpg</fanart>
+                 <thumbnail>http://3.bp.blogspot.com/--vKDNESFGaU/U7ygn7HUNII/AAAAAAAALRM/g2NznDJMOxk/s1600/sc2-seriesytv.tv.jpg</thumbnail>
+	
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -111,7 +119,7 @@
       <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-      <connection>keep-alive</connection>
+      <connection>keep-alive</connection> 
       <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
@@ -121,7 +129,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 
@@ -165,7 +173,7 @@
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
       <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
       <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-      <connection>keep-alive</connection>
+      <connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 	  <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
@@ -203,7 +211,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -213,7 +221,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
@@ -263,7 +271,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -273,7 +281,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e4/68/43/e468438b32813efbec244ee006c1d2a7.jpg</thumbnail>
@@ -305,7 +313,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -315,7 +323,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail></thumbnail>
@@ -358,7 +366,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -368,7 +376,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://art-s.nflximg.net/c69ed/e1b5c6928d438b79dde5c2db416603afd32c69ed.jpg</thumbnail>
@@ -417,7 +425,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -427,7 +435,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://pics.filmaffinity.com/seton_dobutsuki_kuma_no_ko_jacky_jackie_nuca_tv_series-324003112-large.jpg</thumbnail>
@@ -466,7 +474,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -476,7 +484,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/2/0/8435153739026/tsp20130924181445/La-abeja-Maya-Volumen-1.jpg</thumbnail>
@@ -515,7 +523,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -525,7 +533,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://pics.filmaffinity.com/La_aldea_del_arce_Serie_de_TV-328614957-large.jpg</thumbnail>
@@ -564,7 +572,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -574,7 +582,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61PiwUvehFL._SY445_.jpg</thumbnail>
@@ -653,7 +661,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -663,7 +671,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 			<thumbnail>http://4.bp.blogspot.com/-bIJpmwMV4q4/U-03Wg7cdpI/AAAAAAAAAwo/MPxmNeEBb4Q/s1600/Ver-La-Princesa-Sofia-Erase-una-vez-una-princesa-Online.jpg</thumbnail>
@@ -711,7 +719,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -721,7 +729,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://pics.filmaffinity.com/la_llamada_de_los_gnomos_tv_series-920025586-large.jpg</thumbnail>
@@ -788,7 +796,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -798,7 +806,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://1.bp.blogspot.com/-1kCNfM0D8Z4/VQaqZug_lwI/AAAAAAABqOw/JqlfLjtWFJM/s1600/Las-Aventuras-de-Tintin-21-aventuras-de-Tintin-3-largometrajes-en-Blu-ray_hv_big.png</thumbnail>
@@ -855,7 +863,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -865,7 +873,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://images.moviesdistribucion.com/200x200/53/53037.gif</thumbnail>
@@ -923,7 +931,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -933,7 +941,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://www.serietv.es/images/serie/GC/las-nuevas-aventuras-de-lucky-luke-2001-G.jpg</thumbnail>
@@ -979,7 +987,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -989,7 +997,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://static.filmin.es/images/media/14735/1/poster_0_3_900x0.jpg</thumbnail>
@@ -1036,10 +1044,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1076,10 +1084,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1112,10 +1120,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1153,10 +1161,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1200,10 +1208,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1245,10 +1253,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1286,10 +1294,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1330,10 +1338,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1371,10 +1379,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1421,10 +1429,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1475,10 +1483,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1531,10 +1539,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1580,10 +1588,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1634,10 +1642,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1678,10 +1686,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1720,10 +1728,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1764,10 +1772,10 @@
 </regex>
 <regex>
       <name>getUrl</name>
-      <expres>Url":"(.*?)"</expres>
+      <expres>DownloadUrl":"([^"]+)</expres>
       <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+      <referer>http://diskokosmiko.mx/[makelist.param2]</referer>       <connection>keep-alive</connection>    <accept>*/*</accept>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
@@ -1799,7 +1807,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -1809,7 +1817,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://www.videogamers.com.mx/wp-content/uploads/Strawberry_Shortcake_Berry_Best_in_Show_poster_ingles.jpg</thumbnail>
@@ -1842,7 +1850,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -1852,7 +1860,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/912OJkRkfLL._SY445_.jpg</thumbnail>
@@ -1881,7 +1889,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -1891,7 +1899,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.cinematecacubana.com/ProdImages/1722sandokan%20la%20peliculaL.jpg</thumbnail>
@@ -1921,7 +1929,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -1931,7 +1939,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 				<thumbnail>http://i58.tinypic.com/oaybnq.jpg</thumbnail>
@@ -1967,7 +1975,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -1977,7 +1985,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51B5qcZ0rjL._SY300_QL70_.jpg</thumbnail>
@@ -2004,7 +2012,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2014,7 +2022,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://www.pandora-magazine.com/wp-content/uploads/2014/02/310.jpg</thumbnail>
@@ -2053,7 +2061,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2063,7 +2071,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://imagessl1.casadellibro.com/m/ig/1/4775781.jpg</thumbnail>
@@ -2091,7 +2099,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2101,7 +2109,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://i.pinimg.com/236x/fe/33/23/fe332387c14f1500d0104b1db9466d5a--turtles-ninjas-teenage-mutant-ninja-turtles.jpg</thumbnail>
@@ -2129,7 +2137,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2139,7 +2147,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 				<thumbnail>https://pics.filmaffinity.com/los_fruittis_tv_series-655130633-mmed.jpg</thumbnail>
@@ -2167,7 +2175,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2177,7 +2185,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://seriesblanco.com/files/uploads/3127.jpg</thumbnail>
@@ -2209,7 +2217,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2219,7 +2227,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://www.benitomovieposter.com/catalog/images/movieposter/138646.jpg</thumbnail>
@@ -2246,7 +2254,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2256,7 +2264,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/21/6b/8d/216b8d1fb388b9031d91c47068972724--lucky-luke.jpg</thumbnail>
@@ -2289,7 +2297,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2299,7 +2307,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://image7.casadellibro.com/m/ig/7/2796777.jpg</thumbnail>
@@ -2326,7 +2334,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2336,7 +2344,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://seriesblanco.com/files/uploads/3377.jpg</thumbnail>
@@ -2363,7 +2371,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2373,7 +2381,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://mortadelo-filemon.es/images/photos/Articulos/Cine/Serie2014.jpg</thumbnail>
@@ -2403,7 +2411,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2413,7 +2421,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://image.tmdb.org/t/p/w500/jI18Nv0heh04U2IGnpr8QRoe5lJ.jpg</thumbnail>
@@ -2446,7 +2454,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2456,7 +2464,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 				<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/21/0f/a4/210fa440304a656daf8b6f0ce7b822ea--cartoon-wallpaper-iphone-wallpaper.jpg</thumbnail>
@@ -2491,7 +2499,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2501,7 +2509,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 	<thumbnail>http://pics.filmaffinity.com/Patoaventuras_Serie_de_TV-970934278-large.jpg</thumbnail>
@@ -2529,7 +2537,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2539,7 +2547,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/7b/00/2e/7b002ecfb60c1c9c6757cf1996732213--peter-pan-peter-otoole.jpg</thumbnail>
@@ -2566,7 +2574,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2576,7 +2584,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>http://www.c1n3.org/h/hellbom01o/Images/1974%20Pippi%20Calzaslargas%20(Album%20Cromos)%20(esp)%2000a%20PORTADA.jpg</thumbnail>
@@ -2603,7 +2611,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2613,7 +2621,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://ae01.alicdn.com/kf/HTB11hUVQFXXXXaiaXXXq6xXFXXXE/Popeye-el-marino-de-la-vendimia-retro-Cartel-Retro-arte-de-La-Pared-Decoraci&oacute;n-Del-hogar.jpg</thumbnail>
@@ -2653,7 +2661,7 @@
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -2663,7 +2671,7 @@
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection>
+<connection>keep-alive</connection>    <accept>*/*</accept>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://pics.filmaffinity.com/rainbow_brite_tv_series-182873758-large.jpg</thumbnail>
