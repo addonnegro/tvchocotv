@@ -233,7 +233,7 @@
 
 
 <item>
-<title>[COLOR red]Z[/COLOR]</title>
+<title>[COLOR red][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
