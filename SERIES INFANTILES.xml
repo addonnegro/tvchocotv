@@ -146,7 +146,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B]HEIDI - DIBUJOS ANIMADOS[/B]</title>
+<title>[B]HEIDIrd - DIBUJOS ANIMADOS[/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
