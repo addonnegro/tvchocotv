@@ -146,12 +146,12 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR red]HEIDI - DIBUJOS ANIMADOS[/COLOR]</title>
+<title>[B]HEIDI - DIBUJOS ANIMADOS[/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
 		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
@@ -163,24 +163,25 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
+<connection>keep-alive</connection>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
 <regex>
-<name>ok</name>
+<name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
+<connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
 		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
+</item>genes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
 </item>
 
 
