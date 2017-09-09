@@ -19,9 +19,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision.top/guide</page>
+<page>http://arenavision.in/guide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision.top</referer>
+<referer>http://arenavision.in/guide</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
 <fanart>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</fanart>
