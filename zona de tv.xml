@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR yellow]CANALES DE TV ESPAÑA[/COLOR]</title>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
+<fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/tv_channels_Clemente.m3u</externallink>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]CANALES DE TV ESPAÑA 2[/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
+<fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/canales%20kodi.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR red]CANALES DEL MUNDO[/COLOR] [COLOR red][/COLOR]</title>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
+<fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/canales%20kodi.xml</externallink>
+</item>
+
