@@ -38,157 +38,314 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
 
-<item>
-   <title>[COLOR red]CSI[/COLOR] [COLOR red]NUEVA[/COLOR] [COLOR red]YORK[/COLOR]</title>
-<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+
+</item>
+
+	<item>
+		<title>[COLOR red]CSI NUEVA YORK[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
 <thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/csi-nueva-york-espanol-todas-temporadas-81989/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<fanart>http://2.bp.blogspot.com/-PoKdhy2mNdU/TcmThV5tPYI/AAAAAAAAAss/Jw14A56g01g/s1600/CSI_NY.png</fanart>
 <thumbnail>https://cdn.arenabg.com/resize/500/-/var/assets/posters/2012-10/d04b956937a3bd2ec1c095e500e7eb59ed6092ed.jpg</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/csi-nueva-york-espanol-todas-temporadas-81989/list,1,5</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-<item>
-   <title>[COLOR red]CSI[/COLOR] [COLOR red]MIAMI[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR red]LAS [/COLOR][COLOR red]TEMPORADAS[/COLOR]</title>
-<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]CSI MIAMI[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
 <fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://cache.coverbrowser.com/image/bestselling-movies-2006/80-1.jpg</thumbnail>
 <fanart>https://cdn.suwalls.com/wallpapers/tv-shows/csi-crime-scene-investigation-818-1920x1080.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/csi-miami-espanol-todas-temporadas-80383/list,1,10</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-<item>
-   <title>[COLOR red]LAS[/COLOR] [COLOR red]VEGAS[/COLOR] [COLOR red]todas[/COLOR] [COLOR red]temporadas[/COLOR]</title>
-<thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]LAS[/COLOR] [COLOR red]VEGAS[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-bqBWgTfv8cE/VCbEyusRGmI/AAAAAAAAI6U/tKhEq6mHmOo/s1600/2235.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/las-vegas-castellano-todas-temporadas-41458/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-bqBWgTfv8cE/VCbEyusRGmI/AAAAAAAAI6U/tKhEq6mHmOo/s1600/2235.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/las-vegas-castellano-todas-temporadas-41458/list,1,5</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-<item>
-   <title>[COLOR red]The[/COLOR] [COLOR red]Walking[/COLOR] [COLOR red]Dead[/COLOR]</title>
-<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]The[/COLOR] [COLOR red]Walking[/COLOR] [COLOR red]Dead[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
 <fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
 <fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
+	<item>
+		<title>[COLOR red]ALLI[/COLOR] [COLOR red]ABA[/COLOR][COLOR red]JO[/COLOR] </title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/SHIRKAM/alli-abajo-completa-47244/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------
 
 
@@ -196,82 +353,66 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
-
-<item>
-   <title> [COLOR red]ALLI[/COLOR] [COLOR red]ABA[/COLOR][COLOR red]JO[/COLOR] </title>
-<thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/581128076555350017/TzPHuOiR.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SHIRKAM/alli-abajo-completa-47244/list,1,2</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-<item>
-   <title>[COLOR red]PERDONAME [/COLOR] [COLOR red]SEÑOR[/COLOR]</title>
-<thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]PERDONAME [/COLOR] [COLOR red]SEÑOR[/COLOR</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
 <fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
-   	<genre>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/SHIRKAM/perdoname-senor-completa-78374</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
+<fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
+	</item>
 
 
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/series-tv/2017/mayo/grabacion-perdoname-senor-paz-vega-stany-coppet-jesus-castro/cartel-perdoname-senor/11725201-1-esl-ES/cartel-perdoname-senor1_gallery_r.jpg</thumbnail>
-               <fanart>https://album.mediaset.es/eimg/2017/05/10/E3e95ReHdUrvVjPOAzkTs6.jpg?w=1024</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SHIRKAM/perdoname-senor-completa-78374</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -280,212 +421,377 @@
 
 
 
-<item>
-   <title>[COLOR red]THE[/COLOR] [COLOR red]FLASH [/COLOR] [COLOR red]COMPLETA[/COLOR]</title>
-<thumbnail>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/44808.jpg</thumbnail>
+</item>
+
+	<item>
+		<title>[COLOR red]THE[/COLOR] [COLOR red]FLASH [/COLOR] [COLOR red]COMPLETA[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/44808.jpg</thumbnail>
 <fanart>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/30462.jpg</fanart>
-   	<genre>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/SHIRKAM/the-flash-completa-81278/list,1,3</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/44808.jpg</thumbnail>
+<fanart>http://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/30462.jpg</fanart>
+	</item>
 
 
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail></thumbnail>
-               <fanart></fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SHIRKAM/the-flash-completa-81278/list,1,3</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]SIN[/COLOR] [COLOR red]TETAS [/COLOR] [COLOR red]NO HAY[/COLOR] [COLOR red]PARAISO[/COLOR]</title>
-<thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]SIN[/COLOR] [COLOR red]TETAS [/COLOR] [COLOR red]NO HAY[/COLOR] [COLOR red]PARAISO[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/SHIRKAM/sin-tetas-no-hay-paraiso-completa-75999/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/sin_tetas_no_hay_paraiso_tv_series-852569642-large.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SHIRKAM/sin-tetas-no-hay-paraiso-completa-75999/list,1,2</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]MI[/COLOR][COLOR red]LLE[/COLOR][COLOR red]NIUM[/COLOR] [COLOR red]SERIE[/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]MI[/COLOR][COLOR red]LLE[/COLOR][COLOR red]NIUM[/COLOR] [COLOR red]SERIE[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/millenium-serie-espanol-79580/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Qef9HJrr3-Y/Tb12Lsgh60I/AAAAAAAADas/dF5SkYKFurs/s1600/Millennium007.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/millenium-serie-espanol-79580</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]PA[/COLOR][COLOR red]CI[/COLOR][COLOR red]FIC[/COLOR] [COLOR red]BLUE[/COLOR]</title>
-<thumbnail>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]PA[/COLOR][COLOR red]CI[/COLOR][COLOR red]FIC[/COLOR] [COLOR red]BLUE[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</thumbnail>
 <fanart>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/pacific-bue-todas-temporadas-espanol-78053/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</thumbnail>
 <fanart>http://as01.epimg.net/tikitakas/imagenes/2017/07/30/portada/1501417409_052003_1501417482_noticia_normal.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/pacific-bue-todas-temporadas-espanol-78053/list,1,5</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]MAD[/COLOR] [COLOR red] MEN[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR red]LAS TEMPORADAS[/COLOR]</title>
-<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]MAD[/COLOR] [COLOR red] MEN[/COLOR] [COLOR red]TODAS[/COLOR] [COLOR red]LAS TEMPORADAS[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
 <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/mad-men-todas-temporadas-espanol-79155/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</thumbnail>
 <fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/05/mad-men1.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/mad-men-todas-temporadas-espanol-79155/list,1,4</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 </item>
 
+	<item>
+		<title>[COLOR red]LA[/COLOR] [COLOR red] CU[/COLOR][COLOR red]PU[/COLOR][COLOR red]LA[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
+<fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/la-cupula-espanol-77281</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
+<fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------
 
 
@@ -493,181 +799,194 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]LA[/COLOR] [COLOR red] CU[/COLOR][COLOR red]PU[/COLOR][COLOR red]LA[/COLOR]</title>
-<thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
-<fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</thumbnail>
-<fanart>https://kinefilia.files.wordpress.com/2014/07/la-cupula-0.jpg?w=450&h=225</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/la-cupula-espanol-77281</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]PS[/COLOR][COLOR red]Y[/COLOR][COLOR red]CH[/COLOR]</title>
-<thumbnail>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]PS[/COLOR][COLOR red]Y[/COLOR][COLOR red]CH[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</thumbnail>
 <fanart>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</fanart>
-   	<genre>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/psych-espanol-todas-temporadas-75642/list,1,6</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</thumbnail>
+<fanart>http://cdn.planeta.guru/comunidad/wp-content/uploads/2017/01/Psych-1920x1080-Imagen-principal.jpg</fanart>
+	</item>
 
 
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://vignette3.wikia.nocookie.net/p__/images/d/d1/Psych_usa_wallpaper_1024.jpg/revision/latest?cb=20131119160305&path-prefix=psychusa</thumbnail>
-<fanart>https://vignette3.wikia.nocookie.net/p__/images/d/d1/Psych_usa_wallpaper_1024.jpg/revision/latest?cb=20131119160305&path-prefix=psychusa</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/psych-espanol-todas-temporadas-75642/list,1,6</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]JAG[/COLOR] [COLOR red] ALERTA[/COLOR] [COLOR red]ROJA[/COLOR]</title>
-<thumbnail>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]JAG[/COLOR] [COLOR red] ALERTA[/COLOR] [COLOR red]ROJA[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</thumbnail>
 <fanart>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/jag-alerta-roja-todas-temp-espanol-73667/list,1,9</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</thumbnail>
 <fanart>http://images2.coveralia.com/dvd/j/JAG_Alerta_Roja_Primera_Temporada-Caratula.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/jag-alerta-roja-todas-temp-espanol-73667</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 </item>
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-<item>
-   <title>[COLOR red]WALKER[/COLOR] [COLOR red] TEXAS[/COLOR] [COLOR red]RANGER[/COLOR]</title>
-<thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
+	<item>
+		<title>[COLOR red]WALKER[/COLOR] [COLOR red] TEXAS[/COLOR] [COLOR red]RANGER[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
 <fanart>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/walker-texas-ranger-espanol-72150/list,1,7</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
 <fanart>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chinchetas/walker-texas-ranger-espanol-72150</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
+	</item>
 
-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
