@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+
+<item>
+<title>[COLOR yellow]CANALES BEIN SPORT DEL MUNDO[/COLOR]</title>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
+<fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/tv_channels_Adel_Taraji.m3u</externallink>
+</item>
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
 <item>
 <title>[COLOR red]AGENDA DE DEPORTES   ARENAVISION[/COLOR]</title>
 <link>$doregex[makelist]</link>
