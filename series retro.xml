@@ -161,7 +161,7 @@
 			<listrepeat><![CDATA[
 			<title>[makelist.param3]</title>
 			<link>$doregex[getUrl]</link>
-			thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
+			<thumbnail>http://images2.fanpop.com/images/photos/3000000/Las-Vegas-las-vegas-the-series-3036688-1280-1024.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-bqBWgTfv8cE/VCbEyusRGmI/AAAAAAAAI6U/tKhEq6mHmOo/s1600/2235.jpg</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
