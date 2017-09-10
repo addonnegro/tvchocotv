@@ -1,4 +1,4 @@
-<?xml version="1.0" encodrug="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 
@@ -8,8 +8,8 @@
 <title>[COLOR yellow]CANALES BEIN SPORT DEL MUNDO[/COLOR]</title>
 <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
 <fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
-<lruk>ignoreme</lruk>
-<externallruk>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/canales%20de%20deportes%20del%20mundo.m3u</externallruk>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/canales%20de%20deportes%20del%20mundo.m3u</externallink>
 </item>
 
 
@@ -22,12 +22,12 @@
 -------------------------------------------------------------------------------------
 <item>
 <title>[COLOR red]AGENDA DE DEPORTES   ARENAVISION[/COLOR]</title>
-<lruk>$doregex[makelist]</lruk>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title> [COLOR red][makelist.param1]  [/COLOR]  [COLOR yellow][makelist.param2] [/COLOR]  [COLOR red][makelist.param3] [/COLOR]  [COLOR yellow][makelist.param4] [/COLOR] [COLOR red][B][makelist.param5] [/B] [/COLOR]   [COLOR yellow]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=TVCHOCO[makelist.param5]+Arenavision</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=TVCHOCO[makelist.param5]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -50,12 +50,12 @@
  
 <item>
 <title>[COLOR yellow]LISTA DE CANALES *IN* ARENAVISION[/COLOR]</title>
-<lruk>$doregex[makelist]</lruk>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title> [COLOR red] [makelist.param2][/COLOR]</title>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=tvchoco[makelist.param2]</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=tvchoco[makelist.param2]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -80,7 +80,7 @@
 
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -93,7 +93,7 @@
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -106,7 +106,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -119,7 +119,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -132,7 +132,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -145,7 +145,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -158,7 +158,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -171,7 +171,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -184,7 +184,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -197,7 +197,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -210,7 +210,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -223,7 +223,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -236,7 +236,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -249,7 +249,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -262,7 +262,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -275,7 +275,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -288,7 +288,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -301,7 +301,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -314,7 +314,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -327,7 +327,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -340,7 +340,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -353,7 +353,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -366,7 +366,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -379,7 +379,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -392,7 +392,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -405,7 +405,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -418,7 +418,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -431,7 +431,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -444,7 +444,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -457,7 +457,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -470,7 +470,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 </item>
 
 <item>
-<lruk>plugru://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</lruk>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
