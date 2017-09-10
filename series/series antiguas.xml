@@ -628,18 +628,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]V invasion extraterrestre 1985[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://4.bp.blogspot.com/-PYi_4y9t81Y/UcC9-L9wzDI/AAAAAAAAAvA/KVeMDPeyqQQ/s1600/v2.jpg</thumbnail>
+		<fanart>http://4.bp.blogspot.com/-PYi_4y9t81Y/UcC9-L9wzDI/AAAAAAAAAvA/KVeMDPeyqQQ/s1600/v2.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/trivianita/v-invasion-extraterrestre-1985-el-rockero-70206/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -661,8 +661,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://4.bp.blogspot.com/-PYi_4y9t81Y/UcC9-L9wzDI/AAAAAAAAAvA/KVeMDPeyqQQ/s1600/v2.jpg</thumbnail>
+		<fanart>http://4.bp.blogspot.com/-PYi_4y9t81Y/UcC9-L9wzDI/AAAAAAAAAvA/KVeMDPeyqQQ/s1600/v2.jpg</fanart>
 </item>
 
 
@@ -682,18 +682,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red][LA CASA DE LOS LIOS/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://pics.filmaffinity.com/la_casa_de_los_lios_tv_series-240558816-large.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/la_casa_de_los_lios_tv_series-240558816-large.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/trivianita/la-casa-de-los-lios-el-rockero-70162/list,1,6</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -715,8 +715,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://pics.filmaffinity.com/la_casa_de_los_lios_tv_series-240558816-large.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/la_casa_de_los_lios_tv_series-240558816-large.jpg</fanart>
 </item>
 
 
@@ -737,18 +737,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]PEPA Y PEPE[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://blogs.lasprovincias.es/elsindromededarrin/wp-content/uploads/sites/21/2013/06/pepa-y-pepe1.jpg</thumbnail>
+		<fanart>http://blogs.lasprovincias.es/elsindromededarrin/wp-content/uploads/sites/21/2013/06/pepa-y-pepe1.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/trivianita/pepa-y-pepe-69792/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -770,8 +770,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://blogs.lasprovincias.es/elsindromededarrin/wp-content/uploads/sites/21/2013/06/pepa-y-pepe1.jpg</thumbnail>
+		<fanart>http://blogs.lasprovincias.es/elsindromededarrin/wp-content/uploads/sites/21/2013/06/pepa-y-pepe1.jpg</fanart>
 </item>
 
 
@@ -790,18 +790,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]Twin Peaks [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://s2.dmcdn.net/jpiUY.jpg</thumbnail>
+		<fanart>http://s2.dmcdn.net/jpiUY.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/trivianita/twin-peaks-69709/list,1,3</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -823,8 +823,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://s2.dmcdn.net/jpiUY.jpg</thumbnail>
+		<fanart>http://s2.dmcdn.net/jpiUY.jpg</fanart>
 </item>
 
 
@@ -844,18 +844,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]Ana y los siete[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2016/11/28/television/1480337554_061990_1480337617_noticia_normal.jpg</thumbnail>
+		<fanart>http://cadenaser00.epimg.net/ser/imagenes/2016/11/28/television/1480337554_061990_1480337617_noticia_normal.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/trivianita/ana-y-los-siete-69616/list,1,4</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -877,8 +877,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2016/11/28/television/1480337554_061990_1480337617_noticia_normal.jpg</thumbnail>
+		<fanart>http://cadenaser00.epimg.net/ser/imagenes/2016/11/28/television/1480337554_061990_1480337617_noticia_normal.jpg</fanart>
 </item>
 
 
