@@ -44,6 +44,115 @@
 --------------------------------------------------------------------------------------------------------------
 
 
+
+
+<item>
+<title>[COLOR red]PELICULAS COMEDIA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://4.bp.blogspot.com/-aCgOg-kx-0I/Tff2JueHOxI/AAAAAAAAAaE/TYFqq3yNYis/s1600/superhero_movie01.jpg</thumbnail>
+		<fanart>http://4.bp.blogspot.com/-aCgOg-kx-0I/Tff2JueHOxI/AAAAAAAAAaE/TYFqq3yNYis/s1600/superhero_movie01.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://4.bp.blogspot.com/-aCgOg-kx-0I/Tff2JueHOxI/AAAAAAAAAaE/TYFqq3yNYis/s1600/superhero_movie01.jpg</thumbnail>
+		<fanart>http://4.bp.blogspot.com/-aCgOg-kx-0I/Tff2JueHOxI/AAAAAAAAAaE/TYFqq3yNYis/s1600/superhero_movie01.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
+<item>
+<title>[COLOR red]PELICULAS DE AVENTURAS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://www.lifeder.com/wp-content/uploads/2016/07/peliculas-aventuras-324x160.jpg</thumbnail>
+		<fanart>https://www.lifeder.com/wp-content/uploads/2016/07/peliculas-aventuras-324x160.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-aventuras-el-rockero-30698/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://www.lifeder.com/wp-content/uploads/2016/07/peliculas-aventuras-324x160.jpg</thumbnail>
+		<fanart>https://www.lifeder.com/wp-content/uploads/2016/07/peliculas-aventuras-324x160.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 <item>
 <title>[COLOR red]PELICULAS DE ACCION[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -83,12 +192,118 @@
 </item>
 
 
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red]PELICULAS DE SUSPENSE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://image.afcdn.com/album/D20170222/las-mejores-peliculas-de-suspense-de-la-historia-phalbm25094301_w660.jpg</thumbnail>
+		<fanart>https://image.afcdn.com/album/D20170222/las-mejores-peliculas-de-suspense-de-la-historia-phalbm25094301_w660.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-suspense-hdripel-rockero-30176/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://image.afcdn.com/album/D20170222/las-mejores-peliculas-de-suspense-de-la-historia-phalbm25094301_w660.jpg</thumbnail>
+		<fanart>https://image.afcdn.com/album/D20170222/las-mejores-peliculas-de-suspense-de-la-historia-phalbm25094301_w660.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red]PELICULAS DE ESPIRITUS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://www.lemiaunoir.com/wp-content/uploads/2016/07/peliculas_terror.png</thumbnail>
+		<fanart>https://www.lemiaunoir.com/wp-content/uploads/2016/07/peliculas_terror.png</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-espiritus-hdripel-rockero-30185/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://www.lemiaunoir.com/wp-content/uploads/2016/07/peliculas_terror.png</thumbnail>
+		<fanart>https://www.lemiaunoir.com/wp-content/uploads/2016/07/peliculas_terror.png</fanart>
+</item>
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
 
 <item>
-<title>[COLOR RED]ESTRENOS[/COLOR]</title>
+<title>[COLOR RED]ESTRENOS 2017[/COLOR]</title>
 <thumbnail>https://1.bp.blogspot.com/-zFg63XFcl14/WSYN0DgmiVI/AAAAAAAAB74/GGhzcyPf-qcxsgKaBtEHYV0cu0_G7nOWQCLcB/s1600/peliculas-estrenos-gratis.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-zFg63XFcl14/WSYN0DgmiVI/AAAAAAAAB74/GGhzcyPf-qcxsgKaBtEHYV0cu0_G7nOWQCLcB/s1600/peliculas-estrenos-gratis.jpg</fanart>
 <link>ignoreme</link>
