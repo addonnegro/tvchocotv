@@ -11,8 +11,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>https://pbs.twimg.com/profile_images/2780118249/56b9dfa325ad2280055d119092d71ebe_400x400.png</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/2780118249/56b9dfa325ad2280055d119092d71ebe_400x400.png</fanart>
+		<thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/08/27/46/0d/cine-callao.jpg</thumbnail>
+<fanart>https://media-cdn.tripadvisor.com/media/photo-s/08/27/46/0d/cine-callao.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/chinchetas/peliculas-espanol-32573/list,1,159</page>
@@ -53,8 +53,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://www.alfabetajuega.com/abj_public_files/multimedia/imagenes/201307/46678.repor_directores_cine_videojuegos.jpg</thumbnail>
-  <fanart>https://www.grupbalana.com/content/imgsxml/galerias/salas/9/tab-aribauclubvestbul895.jpg</fanart>
+		<thumbnail>http://images.teinteresa.es/deportes/futbol/hotel-propia-sala-cine_TINIMA20120605_0283_5.jpg</thumbnail>
+  <fanart>http://images.teinteresa.es/deportes/futbol/hotel-propia-sala-cine_TINIMA20120605_0283_5.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/chinchetas/peliculas-espanol-32573/list,1,159</page>
