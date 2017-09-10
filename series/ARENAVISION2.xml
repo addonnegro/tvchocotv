@@ -68,9 +68,9 @@
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
-<page>http://arenavision.top/guide</page>
+<page></page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision.top</referer>
+<referer></referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
  <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
