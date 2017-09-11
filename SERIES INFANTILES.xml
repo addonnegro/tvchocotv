@@ -2,19 +2,26 @@
 
 
 
+
+
+
+
+
+
+
 <item>
-<title>[COLOR red]LAS TORTUGAS NINJA[/COLOR]</title>
+<title>[COLOR red]EL HOMBRE INVISIBLE SERIE ANIMADA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://fotografias.neox.atresmedia.com/clipping/cmsimages01/2014/10/15/D8C44168-8932-4931-9634-A6CFD50AAA14/58.jpg</thumbnail>
-		<fanart>http://fotografias.neox.atresmedia.com/clipping/cmsimages01/2014/10/15/D8C44168-8932-4931-9634-A6CFD50AAA14/58.jpg</fanart>
+		<thumbnail>https://i.ytimg.com/vi/VtUbINJfePU/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/VtUbINJfePU/maxresdefault.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/lokario1/las-tortugas-ninja-11953/list,1,9</page>
+<page>http://diskokosmiko.mx/naredo/el-hombre-invisible-serie-animada-71107/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -36,12 +43,9 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
-		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
+		<thumbnail>https://i.ytimg.com/vi/VtUbINJfePU/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/VtUbINJfePU/maxresdefault.jpg</fanart>
 </item>
-
-
-
 
 
 
@@ -50,123 +54,6 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
-
-
-
-<item>
-<title>[COLOR red]HEIDI - DIBUJOS ANIMADOS[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
-		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/Cuspide/heidi-t-u-48218/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>https://cloud10.todocoleccion.online/comics/fot/2007/05/09/4944013.jpg</thumbnail>
-		<fanart>https://ep00.epimg.net/cultura/imagenes/2015/03/30/television/1427737715_702046_1427742140_noticia_normal.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]OLIVER Y BENJI [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/08/03/Recortada/img_isota_20160803-115244_imagenes_lv_otras_fuentes_captaintsubasab-kJ3B-U403662224584ELD-992x558@LaVanguardia-Web.jpg</thumbnail>
-		<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/08/03/Recortada/img_isota_20160803-115244_imagenes_lv_otras_fuentes_captaintsubasab-kJ3B-U403662224584ELD-992x558@LaVanguardia-Web.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/oliver-y-benji-espanol-77494/list,1,6</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/08/03/Recortada/img_isota_20160803-115244_imagenes_lv_otras_fuentes_captaintsubasab-kJ3B-U403662224584ELD-992x558@LaVanguardia-Web.jpg</thumbnail>
-		<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/08/03/Recortada/img_isota_20160803-115244_imagenes_lv_otras_fuentes_captaintsubasab-kJ3B-U403662224584ELD-992x558@LaVanguardia-Web.jpg</fanart>
-</item>
-
-
-
-
-
-
 
 
 
@@ -188,18 +75,18 @@
 
 
 <item>
-<title>[COLOR red]WILLY FOG[/COLOR]</title>
+<title>[COLOR red]DANNY PHANTOM SERIE ANIMADA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://1.bp.blogspot.com/-T1Ja8SHLJbY/Uu4Y3dZ0f-I/AAAAAAAAEFE/MlCzHHw8m0c/s1600/La-vuelta-al-mundo-de-Willy-Fog.jpg</thumbnail>
-		<fanart>http://1.bp.blogspot.com/-T1Ja8SHLJbY/Uu4Y3dZ0f-I/AAAAAAAAEFE/MlCzHHw8m0c/s1600/La-vuelta-al-mundo-de-Willy-Fog.jpg</fanart>
+		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/38/38/cc/3838cc77c4f116147fd3788814075e04.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/38/38/cc/3838cc77c4f116147fd3788814075e04.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/willy-fog-73111/list,1,3</page>
+<page>http://diskokosmiko.mx/naredo/danny-phantom-serie-animada-71110/list,1,3</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -221,85 +108,9 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>http://1.bp.blogspot.com/-T1Ja8SHLJbY/Uu4Y3dZ0f-I/AAAAAAAAEFE/MlCzHHw8m0c/s1600/La-vuelta-al-mundo-de-Willy-Fog.jpg</thumbnail>
-		<fanart>http://1.bp.blogspot.com/-T1Ja8SHLJbY/Uu4Y3dZ0f-I/AAAAAAAAEFE/MlCzHHw8m0c/s1600/La-vuelta-al-mundo-de-Willy-Fog.jpg</fanart>
+		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/38/38/cc/3838cc77c4f116147fd3788814075e04.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/38/38/cc/3838cc77c4f116147fd3788814075e04.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]DARTACAN Y LOS 3 MOSQUEPERROS[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://image.tmdb.org/t/p/original/38rrmhKXBqREhBbRAEFAoYiqJOx.jpg</thumbnail>
-		<fanart>http://image.tmdb.org/t/p/original/38rrmhKXBqREhBbRAEFAoYiqJOx.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/dartacan-y-los-3-mosqueperros-73104/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://image.tmdb.org/t/p/original/38rrmhKXBqREhBbRAEFAoYiqJOx.jpg</thumbnail>
-		<fanart>http://image.tmdb.org/t/p/original/38rrmhKXBqREhBbRAEFAoYiqJOx.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -323,27 +134,19 @@
 
 
 
-
-
-
-
-
-
-
-
 <item>
-<title>[COLOR red]LA ALDEA DEL ARCE [/COLOR]</title>
+<title>[COLOR red]LA LEYENDA DEL DRAGON SERIE ANIMADA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://www.nostalgia80.com/wp-content/uploads/2015/11/la-aldea-del-arce.jpg</thumbnail>
-		<fanart>http://www.nostalgia80.com/wp-content/uploads/2015/11/la-aldea-del-arce.jpg</fanart>
+		<thumbnail>http://es-pic1.ciao.com/es/6394192.jpg</thumbnail>
+		<fanart>http://es-pic1.ciao.com/es/6394192.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/la-aldea-del-arce-espanol-68797/list,1,3</page>
+<page>http://diskokosmiko.mx/naredo/la-leyenda-del-dragon-serie-animada-77712/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -365,188 +168,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>http://www.nostalgia80.com/wp-content/uploads/2015/11/la-aldea-del-arce.jpg</thumbnail>
-		<fanart>http://www.nostalgia80.com/wp-content/uploads/2015/11/la-aldea-del-arce.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]CHICHO TERREMOTO[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/640x580xchicho.jpg.pagespeed.ic.NlCHdbyw4Z.jpg</thumbnail>
-		<fanart>http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/640x580xchicho.jpg.pagespeed.ic.NlCHdbyw4Z.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/chicho-terremoto-59518/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/640x580xchicho.jpg.pagespeed.ic.NlCHdbyw4Z.jpg</thumbnail>
-		<fanart>http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/640x580xchicho.jpg.pagespeed.ic.NlCHdbyw4Z.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]ERASE UNA VEZ LOS INVENTORES[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://images2.coveralia.com/dvd/e/Erase_Una_Vez_Los_Inventores_Volumen_2-Caratula.jpg</thumbnail>
-		<fanart>http://images2.coveralia.com/dvd/e/Erase_Una_Vez_Los_Inventores_Volumen_2-Caratula.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/erase-una-vez-los-inventores-51132/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://images2.coveralia.com/dvd/e/Erase_Una_Vez_Los_Inventores_Volumen_2-Caratula.jpg</thumbnail>
-		<fanart>http://images2.coveralia.com/dvd/e/Erase_Una_Vez_Los_Inventores_Volumen_2-Caratula.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]ERASE UNA VEZ EL HOMBRE[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</thumbnail>
-		<fanart>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/erase-una-vez-el-hombre-51129/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</thumbnail>
-		<fanart>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</fanart>
+		<thumbnail>http://es-pic1.ciao.com/es/6394192.jpg</thumbnail>
+		<fanart>http://es-pic1.ciao.com/es/6394192.jpg</fanart>
 </item>
 
 
@@ -584,6 +207,11 @@
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
@@ -592,18 +220,18 @@
 
 
 <item>
-<title>[COLOR red]ERASE UNA VEZ EL CUERPO HUMANO[/COLOR]</title>
+<title>[COLOR red]ACADEMIA DE TITANES SERIE ANIMADA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>https://losojosdenoemi.files.wordpress.com/2014/06/eraseh_c11.jpg</thumbnail>
-		<fanart>https://losojosdenoemi.files.wordpress.com/2014/06/eraseh_c11.jpg</fanart>
+		<thumbnail>http://fdzeta.com/data/MetaMirrorCache/_BookshopDVDcovers_Class_of_the_Titans.jpg</thumbnail>
+		<fanart>http://fdzeta.com/data/MetaMirrorCache/_BookshopDVDcovers_Class_of_the_Titans.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chinchetas/erase-una-vez-el-cuerpo-humano-51127/list,1,2</page>
+<page>http://diskokosmiko.mx/naredo/academia-de-titanes-serie-animada-77736/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -625,13 +253,9 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>https://losojosdenoemi.files.wordpress.com/2014/06/eraseh_c11.jpg</thumbnail>
-		<fanart>https://losojosdenoemi.files.wordpress.com/2014/06/eraseh_c11.jpg</fanart>
+		<thumbnail>http://fdzeta.com/data/MetaMirrorCache/_BookshopDVDcovers_Class_of_the_Titans.jpg</thumbnail>
+		<fanart>http://fdzeta.com/data/MetaMirrorCache/_BookshopDVDcovers_Class_of_the_Titans.jpg</fanart>
 </item>
-
-
-
-
 
 
 
@@ -646,22 +270,19 @@
 
 
 
-
-
-
 <item>
-<title>[COLOR red]LA BANDA DE MOZART SERIE[/COLOR]</title>
+<title>[COLOR red]GARFIELD (serie de dibujos)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://4.bp.blogspot.com/-EENLq7xLBcM/UQVkYTiw__I/AAAAAAAAAeQ/GSflGLqpHnw/s1600/1280_x_1024_copia_77.jpg</thumbnail>
-		<fanart>http://4.bp.blogspot.com/-EENLq7xLBcM/UQVkYTiw__I/AAAAAAAAAeQ/GSflGLqpHnw/s1600/1280_x_1024_copia_77.jpg</fanart>
+		<thumbnail>http://2.bp.blogspot.com/-irLVvL21904/TV1yrif6mfI/AAAAAAAABWg/ncHJBUugqVM/s1600/garfield_pose.jpg</thumbnail>
+		<fanart>http://2.bp.blogspot.com/-irLVvL21904/TV1yrif6mfI/AAAAAAAABWg/ncHJBUugqVM/s1600/garfield_pose.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/la-banda-de-mozart-serie-78056/list,1,2</page>
+<page>http://diskokosmiko.mx/chinchetas/garfield-serie-de-dibujos-72592/list,1,5</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -683,175 +304,10 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>http://4.bp.blogspot.com/-EENLq7xLBcM/UQVkYTiw__I/AAAAAAAAAeQ/GSflGLqpHnw/s1600/1280_x_1024_copia_77.jpg</thumbnail>
-		<fanart>http://4.bp.blogspot.com/-EENLq7xLBcM/UQVkYTiw__I/AAAAAAAAAeQ/GSflGLqpHnw/s1600/1280_x_1024_copia_77.jpg</fanart>
+		<thumbnail>http://2.bp.blogspot.com/-irLVvL21904/TV1yrif6mfI/AAAAAAAABWg/ncHJBUugqVM/s1600/garfield_pose.jpg</thumbnail>
+		<fanart>http://2.bp.blogspot.com/-irLVvL21904/TV1yrif6mfI/AAAAAAAABWg/ncHJBUugqVM/s1600/garfield_pose.jpg</fanart>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]LOS MISTERIOS DE ARCHIE SERIE[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/41/0a/19/410a19f4754fbcd996495d2a89f9c3d5.jpg</thumbnail>
-		<fanart>https://s-media-cache-ak0.pinimg.com/originals/41/0a/19/410a19f4754fbcd996495d2a89f9c3d5.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/los-misterios-de-archie-serie-71275/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/41/0a/19/410a19f4754fbcd996495d2a89f9c3d5.jpg</thumbnail>
-		<fanart>https://s-media-cache-ak0.pinimg.com/originals/41/0a/19/410a19f4754fbcd996495d2a89f9c3d5.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red]EL SHOW DE LA PEQUEÑA LULÚ[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://elnoti.com/wp-content/uploads/2016/12/TVNX_00357318_0213537_4_1000x500-show_banner_featured_lg.png</thumbnail>
-		<fanart>http://elnoti.com/wp-content/uploads/2016/12/TVNX_00357318_0213537_4_1000x500-show_banner_featured_lg.png</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/el-show-de-la-pequena-lulu-serie-animada-71065/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://elnoti.com/wp-content/uploads/2016/12/TVNX_00357318_0213537_4_1000x500-show_banner_featured_lg.png</thumbnail>
-		<fanart>http://elnoti.com/wp-content/uploads/2016/12/TVNX_00357318_0213537_4_1000x500-show_banner_featured_lg.png</fanart>
-</item>
 
 
 
@@ -864,26 +320,19 @@
 
 
 
-
-
-
-
-
-
-
 <item>
-<title>[COLOR red]FERDY,LA HORMIGA SERIE ANIME[/COLOR]</title>
+<title>[COLOR red]SOUTH PARK[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://3.bp.blogspot.com/_d4PnHiIoq00/Sw3ZdzlU2QI/AAAAAAAAGF0/0KevrzO86kc/w1200-h630-p-k-no-nu/ferdyhormiga.jpg</thumbnail>
-		<fanart>http://3.bp.blogspot.com/_d4PnHiIoq00/Sw3ZdzlU2QI/AAAAAAAAGF0/0KevrzO86kc/w1200-h630-p-k-no-nu/ferdyhormiga.jpg</fanart>
+		<thumbnail>http://www.tbo.com/storyimage/TB/20150708/ARTICLE/150709358/AR/0/AR-150709358.jpg</thumbnail>
+		<fanart>http://www.tbo.com/storyimage/TB/20150708/ARTICLE/150709358/AR/0/AR-150709358.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/ferdyla-hormiga-serie-anime-70870/list,1,1</page>
+<page>http://diskokosmiko.mx/chinchetas/south-park-espanol-77628/list,1,10</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -905,8 +354,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>http://3.bp.blogspot.com/_d4PnHiIoq00/Sw3ZdzlU2QI/AAAAAAAAGF0/0KevrzO86kc/w1200-h630-p-k-no-nu/ferdyhormiga.jpg</thumbnail>
-		<fanart>http://3.bp.blogspot.com/_d4PnHiIoq00/Sw3ZdzlU2QI/AAAAAAAAGF0/0KevrzO86kc/w1200-h630-p-k-no-nu/ferdyhormiga.jpg</fanart>
+		<thumbnail>http://www.tbo.com/storyimage/TB/20150708/ARTICLE/150709358/AR/0/AR-150709358.jpg</thumbnail>
+		<fanart>http://www.tbo.com/storyimage/TB/20150708/ARTICLE/150709358/AR/0/AR-150709358.jpg</fanart>
 </item>
 
 
@@ -928,43 +377,6 @@
 
 
 
-<item>
-<title>[COLOR red]el-inspector-fabre SERIE[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://photos1.blogger.com/img/53/3508/320/InspectorFabre1.jpg</thumbnail>
-		<fanart>http://photos1.blogger.com/img/53/3508/320/InspectorFabre1.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/el-inspector-fabre-serie-anime-70863/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://photos1.blogger.com/img/53/3508/320/InspectorFabre1.jpg</thumbnail>
-		<fanart>http://photos1.blogger.com/img/53/3508/320/InspectorFabre1.jpg</fanart>
-</item>
 
 
 
@@ -972,162 +384,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+11111111111111111111111111111111111111111111111111
