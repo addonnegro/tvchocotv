@@ -1096,7 +1096,7 @@
 </item>
 
 	<item>
-		<title>[COLOR red]DAREDEVIL[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red]</title>
+		<title>[COLOR red]DAREDEVIL[/COLOR] </title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
