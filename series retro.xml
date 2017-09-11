@@ -16,13 +16,7 @@
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/juego%20de%20tronos.xml</externallink>
 </item>
 
-<item>
-<title> [COLOR red]7[/COLOR] [COLOR red]VI[/COLOR][COLOR red]DAS[/COLOR] </title>
-<thumbnail>http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg</thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/7Vidas.xml</externallink>
-</item>
+
 
 <item>
 <title> [COLOR red]A[/COLOR][COLOR red]I[/COLOR][COLOR red]DA[/COLOR] </title>
@@ -31,11 +25,6 @@
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/Aida.xml</externallink>
 </item>
-
-
-
-
-
 
 
 
@@ -927,76 +916,7 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-</item>
-
-	<item>
-		<title>[COLOR red]WALKER[/COLOR] [COLOR red] TEXAS[/COLOR] [COLOR red]RANGER[/COLOR]</title>
-		<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			<listrepeat><![CDATA[
-			<title>[makelist.param3]</title>
-			<link>$doregex[getUrl]</link>
-			<thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
-<fanart>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</fanart>
-			]]></listrepeat>
-			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/chinchetas/walker-texas-ranger-espanol-72150/list,1,7</page>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>getUrl</name>
-			<expres>DownloadUrl":"([^"]+)<expres>
-			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-			<connection>keep-alive</connection>
-			<accept>*/*</accept>
-			<X-Req>XMLHttpRequest</X-Req>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>tok</name>
-			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-			<page>http://diskokosmiko.mx/[makelist.param2]</page>
-			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
-			<connection>keep-alive</connection>
-			<cookieJar></cookieJar>
-		</regex>
-		<thumbnail>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</thumbnail>
-<fanart>https://i.pinimg.com/736x/10/ef/7d/10ef7d0f83cf80eea2251aa09c017923--walker-texas-rangers-chuck-norris.jpg</fanart>
-	</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1789,58 +1709,6 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-</item>
-
-	<item>
-		<title>[COLOR red]XENA LA PRINCESA GUERRERA[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-		<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			<listrepeat><![CDATA[
-			<title>[makelist.param3]</title>
-			<link>$doregex[getUrl]</link>
-			<thumbnail>https://cdn.suwalls.com/wallpapers/tv-shows/californication-2122-1920x1080.jpg</thumbnail>
-<fanart>https://cdn.suwalls.com/wallpapers/tv-shows/californication-2122-1920x1080.jpg</fanart>
-			]]></listrepeat>
-			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/chinchetas/xena-la-princesa-guerrera-62034/list,1,5</page>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>getUrl</name>
-			<expres>DownloadUrl":"([^"]+)<expres>
-			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-			<connection>keep-alive</connection>
-			<accept>*/*</accept>
-			<X-Req>XMLHttpRequest</X-Req>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>tok</name>
-			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-			<page>http://diskokosmiko.mx/[makelist.param2]</page>
-			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
-			<connection>keep-alive</connection>
-			<cookieJar></cookieJar>
-		</regex>
-		<thumbnail>http://i.imgur.com/zMrhfPa.jpg</thumbnail>
-<fanart>http://i.imgur.com/zMrhfPa.jpg</fanart>
-	</item>
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -2013,57 +1881,6 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-</item>
-
-	<item>
-		<title>[COLOR red]EL EQUIPO A[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-		<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			<listrepeat><![CDATA[
-			<title>[makelist.param3]</title>
-			<link>$doregex[getUrl]</link>
-			<thumbnail>https://www.elindependiente.com/wp-content/uploads/2017/08/el-equipo-a.jpg</thumbnail>
-<fanart>https://www.elindependiente.com/wp-content/uploads/2017/08/el-equipo-a.jpg</fanart>
-			]]></listrepeat>
-			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/chinchetas/el-equipo-a-espanol-todas-temporadas-52053/list,1,4</page>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>getUrl</name>
-			<expres>DownloadUrl":"([^"]+)<expres>
-			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-			<connection>keep-alive</connection>
-			<accept>*/*</accept>
-			<X-Req>XMLHttpRequest</X-Req>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>tok</name>
-			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-			<page>http://diskokosmiko.mx/[makelist.param2]</page>
-			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
-			<connection>keep-alive</connection>
-			<cookieJar></cookieJar>
-		</regex>
-<thumbnail>https://www.elindependiente.com/wp-content/uploads/2017/08/el-equipo-a.jpg</thumbnail>
-<fanart>https://www.elindependiente.com/wp-content/uploads/2017/08/el-equipo-a.jpg</fanart>
-	</item>
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2238,57 +2055,6 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-</item>
-
-	<item>
-		<title>[COLOR red]HISPANIA[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-		<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			<listrepeat><![CDATA[
-			<title>[makelist.param3]</title>
-			<link>$doregex[getUrl]</link>
-			<thumbnail>https://2.bp.blogspot.com/-mVRNeye7-H4/V9Lp3IHyukI/AAAAAAABS0U/aVGAisyrKS8l3VrHeDd-FcmlPu3LVVvMACLcB/s1600/Hispania%2B4.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-mVRNeye7-H4/V9Lp3IHyukI/AAAAAAABS0U/aVGAisyrKS8l3VrHeDd-FcmlPu3LVVvMACLcB/s1600/Hispania%2B4.jpg</fanart>
-			]]></listrepeat>
-			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/chinchetas/hispania-todas-temporadas-45485</page>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>getUrl</name>
-			<expres>DownloadUrl":"([^"]+)<expres>
-			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-			<connection>keep-alive</connection>
-			<accept>*/*</accept>
-			<X-Req>XMLHttpRequest</X-Req>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>tok</name>
-			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-			<page>http://diskokosmiko.mx/[makelist.param2]</page>
-			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
-			<connection>keep-alive</connection>
-			<cookieJar></cookieJar>
-		</regex>
-<thumbnail>https://2.bp.blogspot.com/-mVRNeye7-H4/V9Lp3IHyukI/AAAAAAABS0U/aVGAisyrKS8l3VrHeDd-FcmlPu3LVVvMACLcB/s1600/Hispania%2B4.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-mVRNeye7-H4/V9Lp3IHyukI/AAAAAAABS0U/aVGAisyrKS8l3VrHeDd-FcmlPu3LVVvMACLcB/s1600/Hispania%2B4.jpg</fanart>
-	</item>
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2297,57 +2063,7 @@
 
 
 
-------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-</item>
-
-	<item>
-		<title>[COLOR red]LOS PROTEGIDOS[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-		<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			<listrepeat><![CDATA[
-			<title>[makelist.param3]</title>
-			<link>$doregex[getUrl]</link>
-			<thumbnail>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</thumbnail>
-<fanart>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</fanart>
-			]]></listrepeat>
-			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/trivianita/los-protegidos-el-rockero-41014/list,1,2</page>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>getUrl</name>
-			<expres>DownloadUrl":"([^"]+)<expres>
-			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-			<connection>keep-alive</connection>
-			<accept>*/*</accept>
-			<X-Req>XMLHttpRequest</X-Req>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>tok</name>
-			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-			<page>http://diskokosmiko.mx/[makelist.param2]</page>
-			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
-			<connection>keep-alive</connection>
-			<cookieJar></cookieJar>
-		</regex>
-<thumbnail>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</thumbnail>
-<fanart>http://wx1.sinaimg.cn/mw690/006xTuHMgy1fcz2dgkpzqj30c90gon18.jpg</fanart>
-	</item>
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
 
 
 
