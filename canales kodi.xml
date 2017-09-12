@@ -242,6 +242,15 @@
 		<referer>http://sport.gblackstreaming.com/channel/074_odisea/1.html</referer>
 	</item>
 	
+	
+	
+	<item>
+		<title>BEIN LIGA</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+	</item>
+	
+	
 	<item>
 		<title>MOVISTAR FUTBOL</title>
 		<link>$doregex[get_id]|User-Agent=iPad</link>
