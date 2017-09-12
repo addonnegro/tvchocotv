@@ -243,15 +243,9 @@
 	</item>
 	
 	<item>
-		<title>bein la liga</title>
-		<link>$doregex[get_id]|User-Agent=iPad</link>
-		<regex>
-			<name>get_id</name>
-			<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-			<page>http://cinestrenostv.tv/canales/deportes/plusliga.php</page>
-			<referer>http://cinestrenostv.tv/canales/deportes/plusliga.php</referer>
-			<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-		</regex>
+		<title>BEIN SPORT</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</referer>
 	</item>
 	
 	<item>
