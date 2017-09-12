@@ -6,6 +6,166 @@
 
 
 
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red]BEYOND SERIE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://www.ecestaticos.com/image/clipping/654/b97a2022e1da54d278572047fcff889a/imagen-promocional-de-la-serie-beyond-freeform.jpg</thumbnail>
+		<fanart>https://www.ecestaticos.com/image/clipping/654/b97a2022e1da54d278572047fcff889a/imagen-promocional-de-la-serie-beyond-freeform.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/beyond-serie-74664</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://www.ecestaticos.com/image/clipping/654/b97a2022e1da54d278572047fcff889a/imagen-promocional-de-la-serie-beyond-freeform.jpg</thumbnail>
+		<fanart>https://www.ecestaticos.com/image/clipping/654/b97a2022e1da54d278572047fcff889a/imagen-promocional-de-la-serie-beyond-freeform.jpg</fanart>
+</item>
+
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+
+-------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</item>
+
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
 <item>
 <title>[COLOR red]THE STRAIN SERIE[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -199,18 +359,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]JEREMIAH SERIE [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://www.freedvdcover.com/wp-content/uploads/Jeremiah__Season_1__2002_R1__-front-www.GetDVDCovers.com_-610x396.jpg</thumbnail>
+		<fanart>https://www.freedvdcover.com/wp-content/uploads/Jeremiah__Season_1__2002_R1__-front-www.GetDVDCovers.com_-610x396.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/naredo/jeremiah-serie-76969/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -232,8 +392,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://www.freedvdcover.com/wp-content/uploads/Jeremiah__Season_1__2002_R1__-front-www.GetDVDCovers.com_-610x396.jpg</thumbnail>
+		<fanart>https://www.freedvdcover.com/wp-content/uploads/Jeremiah__Season_1__2002_R1__-front-www.GetDVDCovers.com_-610x396.jpg</fanart>
 </item>
 
 
@@ -301,18 +461,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]The Last Kingdom serie[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://pics.filmaffinity.com/the_last_kingdom_tv_series-305344254-large.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/the_last_kingdom_tv_series-305344254-large.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/naredo/the-last-kingdom-serie-76516</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -334,8 +494,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://pics.filmaffinity.com/the_last_kingdom_tv_series-305344254-large.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/the_last_kingdom_tv_series-305344254-large.jpg</fanart>
 </item>
 
 
@@ -362,18 +522,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]black sails serie completa[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://lh3.googleusercontent.com/-1Av1MFhj9eA/VrcJo4He7EI/AAAAAAAADOw/Kkr953Erjxo/s576-Ic42/Black%252520Sails%252520Temporada%2525201%252520Temporada%2525202%252520Temporada%2525203%252520Espa%2525C3%2525B1ol%252520Latino%252520Todas%252520las%252520Temporadas%252520Mega%252520HD%252520720p%252520megadescargagratis.blogspot.com%252520.jpg</thumbnail>
+		<fanart>https://lh3.googleusercontent.com/-1Av1MFhj9eA/VrcJo4He7EI/AAAAAAAADOw/Kkr953Erjxo/s576-Ic42/Black%252520Sails%252520Temporada%2525201%252520Temporada%2525202%252520Temporada%2525203%252520Espa%2525C3%2525B1ol%252520Latino%252520Todas%252520las%252520Temporadas%252520Mega%252520HD%252520720p%252520megadescargagratis.blogspot.com%252520.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/naredo/black-sails-serie-completa-75831/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -395,8 +555,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://lh3.googleusercontent.com/-1Av1MFhj9eA/VrcJo4He7EI/AAAAAAAADOw/Kkr953Erjxo/s576-Ic42/Black%252520Sails%252520Temporada%2525201%252520Temporada%2525202%252520Temporada%2525203%252520Espa%2525C3%2525B1ol%252520Latino%252520Todas%252520las%252520Temporadas%252520Mega%252520HD%252520720p%252520megadescargagratis.blogspot.com%252520.jpg</thumbnail>
+		<fanart>https://lh3.googleusercontent.com/-1Av1MFhj9eA/VrcJo4He7EI/AAAAAAAADOw/Kkr953Erjxo/s576-Ic42/Black%252520Sails%252520Temporada%2525201%252520Temporada%2525202%252520Temporada%2525203%252520Espa%2525C3%2525B1ol%252520Latino%252520Todas%252520las%252520Temporadas%252520Mega%252520HD%252520720p%252520megadescargagratis.blogspot.com%252520.jpg</fanart>
 </item>
 
 
