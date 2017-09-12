@@ -256,7 +256,7 @@
 	
 	<item>
 		<title>BEIN LIGA</title>
-		<sportsdevil>ttp://cinestrenostv.tv/canales/deportes/plusliga.php&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/deportes/plusliga.php</referer>
 	</item>
 	
