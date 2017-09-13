@@ -116,7 +116,43 @@
 
 
 
-
+<item>
+<title>[COLOR red]CINE CLASICO Y EPICO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/01/24/13/47373723.jpg</thumbnail>
+		<fanart>http://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/01/24/13/47373723.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/cine-clasico-y-epico-73079/list,1,9</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/01/24/13/47373723.jpg</thumbnail>
+		<fanart>http://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/01/24/13/47373723.jpg</fanart>
+</item>
 
 
 
@@ -362,7 +398,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS DE SUSPENSE[/COLOR]</title>
+<title>[COLOR red]PELICULAS DE TERROR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>

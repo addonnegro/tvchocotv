@@ -71,18 +71,18 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]ESCUDO HUMANO SERIE [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_376serie.jpg</thumbnail>
+		<fanart>http://www.cineol.net/galeria/carteles/bigtmp_376serie.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/naredo/escudo-humano-serie-72362/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -104,12 +104,126 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_376serie.jpg</thumbnail>
+		<fanart>http://www.cineol.net/galeria/carteles/bigtmp_376serie.jpg</fanart>
 </item>
 
 
 -------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red]JERICHO SERIE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.series21.com/thumbs/series_180x270_85/102.jpg</thumbnail>
+		<fanart>http://www.series21.com/thumbs/series_180x270_85/102.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/jericho-serie-71421/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.series21.com/thumbs/series_180x270_85/102.jpg</thumbnail>
+		<fanart>http://www.series21.com/thumbs/series_180x270_85/102.jpg</fanart>
+</item>
+
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red]INTO THE WEST SERIE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://seriesblanco.com/files/uploads/3396.jpg</thumbnail>
+		<fanart>https://seriesblanco.com/files/uploads/3396.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/into-the-west-serie-70682</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://seriesblanco.com/files/uploads/3396.jpg</thumbnail>
+		<fanart>https://seriesblanco.com/files/uploads/3396.jpg</fanart>
+</item>
+
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
 
@@ -159,6 +273,7 @@
 
 
 -------------------------------------------------------------------
+
 
 
 
