@@ -259,6 +259,14 @@
 	
 	<item>
 		<title>MOVISTAR FUTBOL</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusfutbol.php</sportsdevil>
+		
+		<referer>http://cinestrenostv.tv/canales/deportes/plusfutbol.php</referer>
+	</item>
+	
+	
+	<item>
+		<title>MOVISTAR FUTBOL</title>
 		<link>$doregex[get_id]|User-Agent=iPad</link>
 		<regex>
 			<name>get_id</name>
