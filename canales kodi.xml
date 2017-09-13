@@ -379,17 +379,16 @@
 		<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 	</item>
 
+			
+	
 	<item>
 		<title>BARCA TV</title>
-		<link>$doregex[get-id]|User-Agent=iPad</link>
-		<regex>
-			<name>get-id</name>
-			<expres>source: '(.*?)'</expres>
-			<page>http://tumarcador.xyz/ver/2.php</page>
-			<referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer>
-			<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-		</regex>
+		<sportsdevil>http://telefivegb.com/deporte/ver-canal-barcelona-tv-online-gratis-vivo/</sportsdevil>
+		<referer>http://telefivegb.com/</referer>
 	</item>
+	
+	
+	
 	
 	<item>
 		<title>LA 1</title>
