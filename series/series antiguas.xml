@@ -157,7 +157,7 @@
 
 
 
-<item>
+item>
 <title>[COLOR red][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -213,7 +213,7 @@
 
 
 
-<item>
+item>
 <title>[COLOR red][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -266,7 +266,7 @@
 
 
 
-<item>
+item>
 <title>[COLOR red][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
