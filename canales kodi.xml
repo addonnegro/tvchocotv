@@ -244,13 +244,15 @@
 	
 	<item>
 		<title>BEIN SPORT</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+		<sportsdevil>http://cinestrenostv.tv/canales/deportes/beinsports.php</sportsdevil>
+		
 		<referer>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</referer>
 	</item>
 	
 	<item>
 		<title>BEIN LIGA</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+		
 		<referer>http://cinestrenostv.tv/canales/deportes/plusliga.php</referer>
 	</item>
 	
@@ -276,6 +278,7 @@
 	<item>
 		<title>MOVISTAR F1</title>
 		<sportsdevil>http://www.playerhd1.pw/channel.php?file=116&width=650&height=400&autostart=true</sportsdevil>
+		
 		<referer>http://cinestrenostv.tv/canales/deportes/formula1.php</referer>
 	</item>
 	
