@@ -226,7 +226,7 @@
 	<item>
 		<title>NATIONAL GEOGRAPHIC</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
+		<referer>natgeoembed.php</referer>
 	</item>
 	
 	<item>
@@ -247,9 +247,9 @@
 	
 		<item>
 		<title>LA LIGA TV</title>
-		<sportsdevil>http://livesports.pw/channel.php?id=LALIGATV&width=588&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://telefivegb.com/canales/deporte/ligatvbar/</sportsdevil>
 		
-		<referer>http://telefivegb.com</referer>
+		<referer>http://telefivegb.com/canales/deporte/ligatvbar/</referer>
 	</item>
 	
 	
