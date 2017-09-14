@@ -1,86 +1,86 @@
 #EXTINF:-1,BEIN SPORT 1 FR WWW.IPTVSOURCE.COM
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/954.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/954.ts
 #EXTINF:-1,BEIN SPORT 2 FR
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/953.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/953.ts
 #EXTINF:-1,BEIN SPORT 3 FR
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/952.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/952.ts
 #EXTINF:-1,AR|BEIN 1 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/942.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/942.ts
 #EXTINF:-1,AR|BEIN 2 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/941.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/941.ts
 #EXTINF:-1,AR|BEIN 3 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/940.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/940.ts
 #EXTINF:-1,AR|BEIN 4 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/939.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/939.ts
 #EXTINF:-1,AR|BEIN 5 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/938.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/938.ts
 #EXTINF:-1,AR|BEIN 6 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/937.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/937.ts
 #EXTINF:-1,AR|BEIN 7 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/936.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/936.ts
 #EXTINF:-1,AR|BEIN 8 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/935.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/935.ts
 #EXTINF:-1,AR|BEIN 9 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/934.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/934.ts
 #EXTINF:-1,AR|BEIN 10 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/933.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/933.ts
 #EXTINF:-1,UK | BTSport1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1079.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1079.ts
 #EXTINF:-1,UK | BTSport2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1078.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1078.ts
 #EXTINF:-1,UK | BTSportEurope
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1085.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1085.ts
 #EXTINF:-1,UK | BTSportESPN
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1077.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1077.ts
 #EXTINF:-1,UK | Setanta
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1076.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1076.ts
 #EXTINF:-1,UK | PremierSport
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1074.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1074.ts
 #EXTINF:-1,UK | Discovery Science HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1127.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1127.ts
 #EXTINF:-1,FR Eurosport 1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/951.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/951.ts
 #EXTINF:-1,FR Eurosport 2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/950.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/950.ts
 #EXTINF:-1,NL | NATIONAL GEO HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/765.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/765.ts
 #EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/771.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/771.ts
 #EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/770.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/770.ts
 #EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/769.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/769.ts
 #EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/768.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/768.ts
 #EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/767.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/767.ts
 #EXTINF:-1,NL | DISCOVERY CHANNEL HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/766.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/766.ts
 #EXTINF:-1,UK | SkySportNewsUk
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1087.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1087.ts
 #EXTINF:-1,UK | SkysportNews
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1086.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1086.ts
 #EXTINF:-1,UK | SkysportF1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1088.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1088.ts
 #EXTINF:-1,UK | SkySport1 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1093.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1093.ts
 #EXTINF:-1,UK | SkySport2 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1092.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1092.ts
 #EXTINF:-1,UK | SkySport3 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1091.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1091.ts
 #EXTINF:-1,UK | SkySport4  UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1090.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1090.ts
 #EXTINF:-1,UK | SkySport5 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1089.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1089.ts
 #EXTINF:-1,UK | EUROSPORT1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1095.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1095.ts
 #EXTINF:-1,UK | EUROSPORT2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1094.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1094.ts
 #EXTINF:-1,IT | SkySportF1HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1332.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1332.ts
 #EXTINF:-1,IT | SkySport1HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1336.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1336.ts
 #EXTINF:-1,IT | SkySport2HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1335.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1335.ts
 #EXTINF:-1,IT | SkySport3HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1334.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1334.ts
