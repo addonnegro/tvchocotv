@@ -1,499 +1,499 @@
 #EXTM3U 
 #EXTINF:-1,SP | Antena 3 HD WWW.SourceTV.info
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2659.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2659.ts
 #EXTINF:-1,SP | BEIN SPORT ES
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2639.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2639.ts
 #EXTINF:-1,SP | CANAL ESTRENOS
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2657.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2657.ts
 #EXTINF:-1,SP | CANAL HOLLYWOOD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2656.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2656.ts
 #EXTINF:-1,SP | CANAL SERIES
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2655.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2655.ts
 #EXTINF:-1,SP | CANAL+ COMEDIA HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2640.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2640.ts
 #EXTINF:-1,SP | CANAL+ DEPORTES
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2661.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2661.ts
 #EXTINF:-1,SP | CANAL+ LIGA HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2663.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2663.ts
 #EXTINF:-1,SP | CAZA Y PESCA
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2653.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2653.ts
 #EXTINF:-1,SP | CUATRO
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2652.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2652.ts
 #EXTINF:-1,SP | DCINE
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2651.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2651.ts
 #EXTINF:-1,SP | DISCOVERY CHANNEL
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2650.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2650.ts
 #EXTINF:-1,SP | ENERGY
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2660.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2660.ts
 #EXTINF:-1,SP | MEGA
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2664.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2664.ts
 #EXTINF:-1,SP | NAT GEO WILD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2643.ts
 #EXTINF:-1,SP | NOVA
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2642.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2642.ts
 #EXTINF:-1,SP | Taquilla1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2647.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2647.ts
 #EXTINF:-1,SP | Taquilla2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2646.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2646.ts
 #EXTINF:-1,SP | Taquilla3
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2645.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2645.ts
 #EXTINF:-1,SP | Taquilla4
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2644.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2644.ts
 #EXTINF:-1,SP | TVE LA1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2666.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2666.ts
 #EXTINF:-1,#0 HD WWW.SourceTV.info
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
 #EXTINF:-1,LA 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
 #EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
 #EXTINF:-1,ANTENA 3 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
 #EXTINF:-1,CUATRO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
 #EXTINF:-1,TELECINCO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
 #EXTINF:-1,LA SEXTA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
 #EXTINF:-1,FOX LIFE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
 #EXTINF:-1,FOX HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
 #EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
 #EXTINF:-1,AXN HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
 #EXTINF:-1,HOLLYWOODHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
 #EXTINF:-1,M.ESTRENOSHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
 #EXTINF:-1,M.COMEDIA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
 #EXTINF:-1,M. XTRA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
 #EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
 #EXTINF:-1,M. SERIES HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
 #EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
 #EXTINF:-1,M. ACCI©N HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
 #EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
 #EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
 #EXTINF:-1,TCM HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
 #EXTINF:-1,AMC HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
 #EXTINF:-1,FDF
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
 #EXTINF:-1,CLAN TVE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
 #EXTINF:-1,NICKELODEONHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
 #EXTINF:-1,COSMO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
 #EXTINF:-1,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
 #EXTINF:-1,CALLE 13 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
 #EXTINF:-1,MEZZO LIVE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
 #EXTINF:-1,BEIN SPORT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
 #EXTINF:-1,BEIN LALIGA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
 #EXTINF:-1,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
 #EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
 #EXTINF:-1,M.MOTOGPHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
 #EXTINF:-1,M.FORMULA1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
 #EXTINF:-1,M. GOLF HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
 #EXTINF:-1,M. F.TBOL HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
 #EXTINF:-1,M. DEP 2 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
 #EXTINF:-1,M. DEP 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
 #EXTINF:-1,GOL TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
 #EXTINF:-1,R. MADRID TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
 #EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
 #EXTINF:-1,EUROSPORT1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
 #EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
 #EXTINF:-1,TOROS TV HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
 #EXTINF:-1,BEINLALIGA1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
 #EXTINF:-1,BEINLALIGA2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
 #EXTINF:-1,BEIN MAX 1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
 #EXTINF:-1,BEIN MAX 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
 #EXTINF:-1,NG WILD HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
 #EXTINF:-1,VIAJAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
 #EXTINF:-1,NAT GEO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
 #EXTINF:-1,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
 #EXTINF:-1,BABY TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
 #EXTINF:-1,DISNEY CH HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
 #EXTINF:-1,24 HORAS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
 #EXTINF:-1,NEOX
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
 #EXTINF:-1,M. Cine Espaæol
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
 #EXTINF:-1,LTC
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
 #EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
 #EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
 #EXTINF:-1,CANAL DECASA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
 #EXTINF:-1,NONSTOPEOPLE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
 #EXTINF:-1,MTV ESPA¹A
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
 #EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
 #EXTINF:-1,DIVINITY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
 #EXTINF:-1,DISNEY XD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
 #EXTINF:-1,DISCOVERY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
 #EXTINF:-1,CRIMEN INVES
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
 #EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
 #EXTINF:-1,CANAL SUR A.
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
 #EXTINF:-1,CANAL PANDA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
 #EXTINF:-1,BOING
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
 #EXTINF:-1,ARAGON TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
 #EXTINF:-1,A&E
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
 #EXTINF:-1,C&I
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
 #EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
 #EXTINF:-1,SUNDANCE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/393.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/393.ts
 #EXTINF:-1,NIck JR
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/392.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/392.ts
 #EXTINF:-1,M. deport
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/391.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/391.ts
 #EXTINF:-1,FOX NEWS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/389.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/389.ts
 #EXTINF:-1,DISNEY PIXAR
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
 #EXTINF:-1,CANAL ORBE21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
 #EXTINF:-1,CANAL COCINA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
 #EXTINF:-1,TAQUILLA_1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
 #EXTINF:-1,TAQUILLA_2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
 #EXTINF:-1,TAQUILLA_3
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
 #EXTINF:-1,TAQUILLA_4
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
 #EXTINF:-1,TAQUILLA_5
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
 #EXTINF:-1,TAQUILLA_6
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
 #EXTINF:-1,TAQUILLA_7
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
 #EXTINF:-1,TAQUILLA_8
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
 #EXTINF:-1,TAQUILLA_9
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
 #EXTINF:-1,TAQUILLA_10
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
 #EXTINF:-1,TAQUILLA_11
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
 #EXTINF:-1,TAQUILLA_12
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
 #EXTINF:-1,TAQUILLA_13
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
 #EXTINF:-1,TAQUILLA_14
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
 #EXTINF:-1,TAQUILLA_15
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
 #EXTINF:-1,TAQUILLA_16
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
 #EXTINF:-1,TAQUILLA_17
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
 #EXTINF:-1,TAQUILLA_18
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
 #EXTINF:-1,TAQUILLA_19
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
 #EXTINF:-1,TAQUILLA_20
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
 #EXTINF:-1,TAQUILLA_21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
 #EXTINF:-1,TAQUILLA_22
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
 #EXTINF:-1,TAQUILLA_23
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
 #EXTINF:-1,TAQUILLA_24
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
 #EXTINF:-1,TAQUILLA_25
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
 #EXTINF:-1,TAQUILLA_26
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
 #EXTINF:-1,TAQUILLA_27
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
 #EXTINF:-1,TAQUILLA_28
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
 #EXTINF:-1,TAQUILLA_29
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
 #EXTINF:-1,TAQUILLA_30
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
 #EXTINF:-1,TAQUILLA_31
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
 #EXTINF:-1,TAQUILLA_32
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
 #EXTINF:-1,TAQUILLA_33
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
 #EXTINF:-1,TAQUILLA_34
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
 #EXTINF:-1,TAQUILLA_35
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
 #EXTINF:-1,TAQUILLA_36
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
 #EXTINF:-1,TAQUILLA_37
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
 #EXTINF:-1,TAQUILLA_38
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
 #EXTINF:-1,TAQUILLA_39
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
 #EXTINF:-1,TAQUILLA_40
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
 #EXTINF:-1,SP | Antena 3 HD WWW.SourceTV.info
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8531.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8531.ts
 #EXTINF:-1,SP | BEIN SPORT ES
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8522.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8522.ts
 #EXTINF:-1,SP | CANAL  COMEDIA HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8524.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8524.ts
 #EXTINF:-1,SP | CANAL  DEPORTES
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8528.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8528.ts
 #EXTINF:-1,SP | CANAL  LIGA HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8520.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8520.ts
 #EXTINF:-1,SP | CANAL ESTRENOS
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8525.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8525.ts
 #EXTINF:-1,SP | CANAL HOLLYWOOD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8534.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8534.ts
 #EXTINF:-1,SP | CANAL SERIES
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8535.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8535.ts
 #EXTINF:-1,SP | CAZA Y PESCA
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8526.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8526.ts
 #EXTINF:-1,SP | CUATRO
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8533.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8533.ts
 #EXTINF:-1,SP | DCINE
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8537.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8537.ts
 #EXTINF:-1,SP | DISCOVERY CHANNEL
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8538.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8538.ts
 #EXTINF:-1,SP | ENERGY
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8532.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8532.ts
 #EXTINF:-1,SP | MEGA
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8530.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8530.ts
 #EXTINF:-1,SP | NAT GEO WILD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8519.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8519.ts
 #EXTINF:-1,SP | NOVA
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8523.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8523.ts
 #EXTINF:-1,SP | Taquilla1
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8527.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8527.ts
 #EXTINF:-1,SP | Taquilla2
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8529.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8529.ts
 #EXTINF:-1,SP | Taquilla3
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8536.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8536.ts
 #EXTINF:-1,SP | Taquilla4
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8518.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8518.ts
 #EXTINF:-1,SP | TVE LA1
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8521.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8521.ts
 #EXTINF:-1,PT | A BOLA TV WWW.SourceTV.info
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3090.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3090.ts
 #EXTINF:-1,PT | AXN BLACK HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3097.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3097.ts
 #EXTINF:-1,PT | AXN WHITE HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2812.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2812.ts
 #EXTINF:-1,PT | FOX CRIME HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3099.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3099.ts
 #EXTINF:-1,PT | FOX HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3098.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3098.ts
 #EXTINF:-1,PT | FOX MOVIE
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2811.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2811.ts
 #EXTINF:-1,PT | NAT GEO HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3101.ts
 #EXTINF:-1,PT | RTP 1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2797.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2797.ts
 #EXTINF:-1,PT | RTP 2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2798.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2798.ts
 #EXTINF:-1,PT | SIC Kids
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2802.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2802.ts
 #EXTINF:-1,PT | SIC NOTICIAS
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2807.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2807.ts
 #EXTINF:-1,PT | SIC RADICAL
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2794.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2794.ts
 #EXTINF:-1,PT | SPORT TV 1 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2989.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2989.ts
 #EXTINF:-1,PT | SPORT TV 2 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2990.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2990.ts
 #EXTINF:-1,PT | SPORT TV 3 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2991.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2991.ts
 #EXTINF:-1,PT | SPORT TV 4 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2992.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2992.ts
 #EXTINF:-1,PT | SPORT TV 5 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3087.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3087.ts
 #EXTINF:-1,PT | SPORTING TV
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2792.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2792.ts
 #EXTINF:-1,PT | TVCINE 1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2788.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2788.ts
 #EXTINF:-1,PT | TVCINE 2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2789.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2789.ts
 #EXTINF:-1,PT | TVCINE 3
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2790.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2790.ts
 #EXTINF:-1,PT | TVCINE 4
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2791.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2791.ts
 #EXTINF:-1,PT | TVI
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/2804.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2804.ts
 #EXTINF:-1,PT | TVI 24
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/3080.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/3080.ts
 #EXTINF:-1,POR:Abola WWW.SourceTV.info
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7938.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7938.ts
 #EXTINF:-1,POR:AMC
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7951.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7951.ts
 #EXTINF:-1,POR:Canal Cinemundo
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7959.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7959.ts
 #EXTINF:-1,POR:Canal Hollywood
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7958.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7958.ts
 #EXTINF:-1,POR:Cancao Nova
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7942.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7942.ts
 #EXTINF:-1,POR:Cartoon Network
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7939.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7939.ts
 #EXTINF:-1,POR:Disney Channel
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7940.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7940.ts
 #EXTINF:-1,POR:EuroSport1
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7932.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7932.ts
 #EXTINF:-1,POR:Globo
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7960.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7960.ts
 #EXTINF:-1,POR:Motors
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7937.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7937.ts
 #EXTINF:-1,POR:MTV
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7950.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7950.ts
 #EXTINF:-1,POR:Odesseia
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7941.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7941.ts
 #EXTINF:-1,POR:Record News
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7946.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7946.ts
 #EXTINF:-1,POR:RTP 1
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7965.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7965.ts
 #EXTINF:-1,POR:RTP 2
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7964.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7964.ts
 #EXTINF:-1,POR:RTP 3
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7963.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7963.ts
 #EXTINF:-1,POR:RTP Acores
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7961.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7961.ts
 #EXTINF:-1,POR:RTP Madeira
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7962.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7962.ts
 #EXTINF:-1,POR:SIC
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7945.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7945.ts
 #EXTINF:-1,POR:SIC Kids
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7944.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7944.ts
 #EXTINF:-1,POR:SIC Noticias
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7943.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7943.ts
 #EXTINF:-1,POR:Sport TV1
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7936.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7936.ts
 #EXTINF:-1,POR:Sport TV2
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7935.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7935.ts
 #EXTINF:-1,POR:Sport TV3
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7934.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7934.ts
 #EXTINF:-1,POR:Sport TV4
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7933.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7933.ts
 #EXTINF:-1,POR:SyFy
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7952.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7952.ts
 #EXTINF:-1,POR:TV Cine1
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7957.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7957.ts
 #EXTINF:-1,POR:TV Cine2
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7956.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7956.ts
 #EXTINF:-1,POR:TV Cine3
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7955.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7955.ts
 #EXTINF:-1,POR:TV Cine4
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7954.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7954.ts
 #EXTINF:-1,POR:TV i24
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7948.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7948.ts
 #EXTINF:-1,POR:TV Ificcao
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7949.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7949.ts
 #EXTINF:-1,POR:TV Record
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7947.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7947.ts
 #EXTINF:-1,POR:TV Serie
-http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7953.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/7953.ts
 #EXTINF:-1,PT | A BOLA TV WWW.SourceTV.info
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8540.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8540.ts
 #EXTINF:-1,PT | AXN BLACK HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8541.ts
 #EXTINF:-1,PT | AXN WHITE HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8551.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8551.ts
 #EXTINF:-1,PT | FOX CRIME HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8542.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8542.ts
 #EXTINF:-1,PT | FOX HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8543.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8543.ts
 #EXTINF:-1,PT | FOX MOVIE
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8552.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8552.ts
 #EXTINF:-1,PT | NAT GEO HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8544.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8544.ts
 #EXTINF:-1,PT | RTP 1
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8553.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8553.ts
 #EXTINF:-1,PT | RTP 2
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8554.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8554.ts
 #EXTINF:-1,PT | SIC Kids
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8556.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8556.ts
 #EXTINF:-1,PT | SIC NOTICIAS
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8557.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8557.ts
 #EXTINF:-1,PT | SIC RADICAL
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8555.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8555.ts
 #EXTINF:-1,PT | SPORT TV 1 HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8550.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8550.ts
 #EXTINF:-1,PT | SPORT TV 2 HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8549.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8549.ts
 #EXTINF:-1,PT | SPORT TV 3 HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8548.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8548.ts
 #EXTINF:-1,PT | SPORT TV 4 HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8547.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8547.ts
 #EXTINF:-1,PT | SPORT TV 5 HD
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8545.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8545.ts
 #EXTINF:-1,PT | SPORTING TV
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8558.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8558.ts
 #EXTINF:-1,PT | TVCINE 1
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8559.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8559.ts
 #EXTINF:-1,PT | TVCINE 2
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8560.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8560.ts
 #EXTINF:-1,PT | TVCINE 3
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8561.ts
 #EXTINF:-1,PT | TVCINE 4
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8562.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8562.ts
 #EXTINF:-1,PT | TVI
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8563.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8563.ts
 #EXTINF:-1,PT | TVI 24
-http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8546.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/wsllezym/zK3i4pl7Y4/8546.ts
