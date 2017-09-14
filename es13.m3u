@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1,SP | Antena 3 HD WWW.SourceTV.info
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2659.ts
+http://devcon.red:8080/live/propanel/XCt5vFYWlL/2659.ts
 #EXTINF:-1,SP | BEIN SPORT ES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/2639.ts
 #EXTINF:-1,SP | CANAL ESTRENOS
