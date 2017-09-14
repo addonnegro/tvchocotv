@@ -26,7 +26,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [COLOR red][makelist.param1]  [/COLOR]  [COLOR yellow][makelist.param2] [/COLOR]  [COLOR yellow][makelist.param3] [/COLOR]  [COLOR red][makelist.param4] [/COLOR] [makelist.param5] [/B] [/COLOR]   [COLOR red]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<item><title> [COLOR red][makelist.param1]  [/COLOR]  [COLOR yellow][makelist.param2] [/COLOR]  [COLOR yellow][makelist.param3] [/COLOR]  [COLOR red][makelist.param4] [/COLOR] [COLOR yellow][makelist.param5] [/B] [/COLOR]   [COLOR red]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports+[makelist.param5]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
