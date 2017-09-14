@@ -795,7 +795,7 @@
 		<fanart>https://images-na.ssl-images-amazon.com/images/I/51f9uw%2Bv17L.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/anatomia%20de%20grey.xml</page>
+<page>http://diskokosmiko.mx/lokario1/anatomia-de-grey-temp-1234567-16627/list,1,6</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
