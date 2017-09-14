@@ -641,8 +641,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>http://www.formulatv.com/images/fgaleria/000/40.jpg</thumbnail>
+		<fanart>http://www.formulatv.com/images/fgaleria/000/40.jpg</fanart>
 </item>
 
 
