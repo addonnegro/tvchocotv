@@ -21,8 +21,8 @@
 	
 	<item>
 		<title>CUATRO</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=lacuatro&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/tdt/cuatro</referer>
+		<sportsdevil>http://vergol.com/live1/cuatro.php</sportsdevil>
+		<referer>http://vergol.com/live1/cuatro.php</referer>
 	</item>
 		
 		
@@ -34,10 +34,7 @@
 	
 	
 	
-	<item>
-		<title>TELECINCO</title>
-		<link>http://cinestrenostv.tv/canales/nacionales/telecinco.php</link>
-	</item>
+
 	
 	<item>
 		<title>LA SEXTA</title>
