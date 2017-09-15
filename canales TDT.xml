@@ -21,7 +21,7 @@
 	
 	<item>
 		<title>CUATRO</title>
-		<sportsdevil>http://vergol.com/live1/cuatro.php</sportsdevil>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
 		<referer>http://vergol.com/live1/cuatro.php</referer>
 	</item>
 		
@@ -104,15 +104,6 @@
 		<link>http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8</link>
 	</item>
 	
-	<item>
-		<title>PARAMOUNT CHANNEL</title>
-		<link></link>
-	</item>
-	
-	<item>
-		<title>DISCOVERY MAX</title>
-		<link></link>
-	</item>
 
 	<item>
 		<title>BOING</title>
