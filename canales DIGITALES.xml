@@ -3,15 +3,11 @@
 <items>
 
 
-	<item>
-		<title>[COLOR red]MOVISTAR. XTRA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/channel.php?id=cuatro&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
-	</item>
+
 
 	<item>
-		<title>[COLOR red]MOVISTAR. XTRA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
+		<title>[COLOR red]MOVISTAR XTRA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
 	</item>
 
@@ -19,7 +15,7 @@
 
 <item>
 		<title>[COLOR red]MOVISTAR COMEDIA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://verplusonline.com/canales/comediaes</referer>		
 	</item>
 	
@@ -61,7 +57,7 @@
 	
 	<item>
 		<title>[COLOR red]#0[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
 	</item>
 	
@@ -162,7 +158,7 @@
 
 	<item>
 		<title>[COLOR red]TCM[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
 	</item>
 
@@ -175,7 +171,7 @@
 
 	<item>
 		<title>[COLOR red]VIAJAR[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/viajar</referer>
 	</item>
 
@@ -187,13 +183,13 @@
 
 	<item>
 		<title>[COLOR red]DECASA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/casa</referer>
 	</item>
 
 	<item>
 		<title>[COLOR red]TOROS TV[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/toro</referer>
 	</item>
 	
@@ -236,26 +232,26 @@
 	
 		<item>
 		<title>[COLOR red]EUROSPORT 1[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
 	</item>
 	
 	<item>
 		<title>[COLOR red]EUROSPORT 2[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
 	</item>
 	
 	
 <item>
 		<title>[COLOR red]MOVISTAR DEPORTES 1[/COLOR]</title>
-		<link>http://livesports.pw/embedn.php?file=deporteone&width=650&height=397&autostart=true</link>
+		<link>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</link>
 		<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
 	</item>
 	
 	<item>
 		<title>[COLOR red]MOVISTAR DEPORTES 2[/COLOR]</title>
-		<link>http://livesports.pw/embedn.php?file=deportedosm&width=650&height=397&autostart=true</link>
+		<link>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</link>
 		<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
 	</item>
 	
