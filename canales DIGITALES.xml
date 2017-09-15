@@ -2,35 +2,24 @@
 
 <items>
 
-	<item>
-		<title>#0</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
-	</item>
+	
+	
 
-	<item>
-		<title>MOVISTAR ACCION</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/maccion</referer>
-	</item>
-	
-	<item>
-		<title>MOVISTAR CINE Ñ</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/maccion</referer>
-	</item>
-	
 	<item>
 		<title>MOVISTAR COMEDIA</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://verplusonline.com/canales/comediaes</referer>		
 	</item>
 
+
+	
 	<item>
 		<title>MOVISTAR DCINE</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/dcinen</referer>	
 	</item>
+	
+	
 	
 	<item>
 		<title>MOVISTAR ESTRENOS</title>
@@ -38,25 +27,63 @@
 		<referer>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</referer>	
 	</item>
 
+	
+		<item>
+		<title>MOVISTAR XTRA</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
+	</item>
+	
+	<item>
+		<title>#0</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
+	</item>
+	
+	
 	<item>
 		<title>MOVISTAR SERIES*</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
 	</item>
 
+	
+	
+	
 	<item>
 		<title>MOVISTAR SERIES XTRA</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>	
 	</item>
 
+
+
+	
+
 	<item>
-		<title>MOVISTAR XTRA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
+		<title>DARK</title>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
 	</item>
 
 	<item>
+		<title>FOX</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/fox</referer>
+	</item>
+
+	<item>
+		<title>FOX LIFE</title>
+		<sportsdevil>http://edge1.telesport.pw/live/foxlife/index.m3u8</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</referer>
+	</item>
+
+	<item>
+		<title>HOLLYWOOD*</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
+	</item>
+<item>
 		<title>AMC</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=amcesptele&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/amc</referer>	
@@ -97,31 +124,6 @@
 		<sportsdevil>http://tumarcador.xyz/verdirectotv/15</sportsdevil>
 		<referer>http://verdirectotv.com/tv/nacionales/cosmopolitan.html</referer>
 	</item>
-
-	<item>
-		<title>DARK</title>
-		<sportsdevil></sportsdevil>
-		<referer></referer>
-	</item>
-
-	<item>
-		<title>FOX</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
-		<referer>http://telefivegb.com/canales/series/fox</referer>
-	</item>
-
-	<item>
-		<title>FOX LIFE</title>
-		<sportsdevil>http://edge1.telesport.pw/live/foxlife/index.m3u8</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</referer>
-	</item>
-
-	<item>
-		<title>HOLLYWOOD*</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
-	</item>
-
 	<item>
 		<title>MTV</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mtvesp&width=650&height=397</sportsdevil>
@@ -338,17 +340,7 @@
 		</regex>
 	</item>
 	
-	<item>
-		<title>beIN SPORTS</title>
-		<link></link>
-		<referer></referer>
-	</item>
 	
-	<item>
-		<title>beIN MAX 1</title>
-		<link></link>
-		<referer></referer>
-	</item>
 	
 	<item>
 		<title>EUROSPORT 1</title>
@@ -362,152 +354,12 @@
 		<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
 	</item>
 	
-	<item>
-		<title>GOL</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=goltvesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/goltv</referer>
-	</item>
-	
-	<item>
-		<title>TELEDEPORTE</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/teledeporte</referer>
-	</item>
-	
-		<item>
-		<title>R.MADRID TV</title>
-		<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-	</item>
-
-			
-	
-	<item>
-		<title>BARCA TV</title>
-		<sportsdevil>http://telefivegb.com/deporte/ver-canal-barcelona-tv-online-gratis-vivo/</sportsdevil>
-		<referer>http://telefivegb.com/</referer>
-	</item>
 	
 	
 	
 	
-	<item>
-		<title>LA 1</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8</link>
-	</item>
 	
-	<item>
-		<title>LA 2</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8</link>
-	</item>
 	
-	<item>
-		<title>ANTENA 3</title>
-		<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CUATRO</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=lacuatro&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/tdt/cuatro</referer>
-	</item>
-	
-	<item>
-		<title>TELECINCO</title>
-		<link>http://telecinco-channel5.hls.adaptive.level3.net/telecinco/channel5/esmediaset11/bitrate_1.m3u8</link>
-	</item>
-	
-	<item>
-		<title>LA SEXTA</title>
-		<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>DIVINITY</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=divinity&width=588&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/series/divinity</referer>
-	</item>
-	
-	<item>
-		<title>ENERGY</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=energy&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/tdt/energy</referer>
-	</item>
-	
-	<item>
-		<title>FDF</title>
-		<sportsdevil>http://vertelevisor.com/live/fdf.php</sportsdevil>
-		<referer>http://verplusonline.com/canales/fdf</referer>
-	</item>
-	
-	<item>
-		<title>NOVA</title>
-		<link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>NEOX</title>
-		<link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>A3SERIES</title>
-		<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>TEN</title>
-		<link>http://cdn5.elitegol.xyz/verliga/33/index.m3u8</link>
-	</item>
-	
-	<item>
-		<title>DKISS</title>
-		<link></link>
-	</item>
-	
-	<item>
-		<title>BE MAD</title>
-		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
-	</item>
-	
-	<item>
-		<title>MEGA</title>
-		<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>24H</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8.m3u8</link>
-	</item>
-	
-	<item>
-		<title>INTERECONOMIA</title>
-		<link>http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8</link>
-	</item>
-	
-	<item>
-		<title>PARAMOUNT CHANNEL</title>
-		<link></link>
-	</item>
-	
-	<item>
-		<title>DISCOVERY MAX</title>
-		<link></link>
-	</item>
-
-	<item>
-		<title>BOING</title>
-		<link>http://edge15.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CLAN TVE</title>
-		<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
-	</item>
-
-	<item>
-		<title>DISNEY CHANNEL</title>
-		<link></link>
-	</item>
 	
 	<item>
 		<title>DISNEY JUNIOR</title>
@@ -545,84 +397,4 @@
 		<link>http://edge15.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8</link>
 	</item>	
 
-	<item>
-		<title>TELEMADRID</title>
-		<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
-	</item>	
-
-	<item>
-		<title>LAOTRA</title>
-		<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8?SAT_TOTAL</link>
-	</item>	
 	
-		<item>
-		<title>CASTILLA LA MANCHA</title>
-		<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CASTILLA Y LEON</title>
-		<link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
-	</item>	
-	
-	<item>
-		<title>8 TV</title>
-		<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
-	</item>		
-
-	<item>
-		<title>13TV</title>
-		<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CANAL EXTREMADURA</title>
-		<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8</link>
-	</item>		
-
-	<item>
-		<title>ANDALUCIA TV</title>
-		<link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>	      
-	</item>
-
-	<item>
-		<title>GALICIA TV</title>
-		<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
-	</item>
-
-	<item>
-		<title>ETB</title>
-		<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>TV3</title>
-		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
-	</item>	
-
-	<item>
-		<title>3/24</title>
-		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
-	</item>
-
-	<item>
-		<title>7RM</title>
-		<link></link>
-	</item>	
-
-	<item>
-		<title>ARAGON TV</title>
-		<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
-	</item>	
-
-	<item>
-		<title>TPA</title>
-		<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
-	</item>	
-	
-	<item>
-		<title>TV CANARIA</title>
-		<link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
-	</item>	
-	
-</items>
