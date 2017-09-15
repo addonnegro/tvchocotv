@@ -6,8 +6,8 @@
 
 
 	<item>
-		<title>MOVISTAR XTRA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
+		<title>MOVISTAR. XTRA</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
 	</item>
 
@@ -15,7 +15,7 @@
 
 <item>
 		<title>MOVISTAR COMEDIA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://verplusonline.com/canales/comediaes</referer>		
 	</item>
 	
@@ -57,7 +57,7 @@
 	
 	<item>
 		<title>#0</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
 	</item>
 	
@@ -158,7 +158,7 @@
 
 	<item>
 		<title>TCM</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
 	</item>
 
@@ -171,7 +171,7 @@
 
 	<item>
 		<title>VIAJAR</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/viajar</referer>
 	</item>
 
@@ -183,13 +183,13 @@
 
 	<item>
 		<title>DECASA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/casa</referer>
 	</item>
 
 	<item>
 		<title>TOROS TV</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/toro</referer>
 	</item>
 	
@@ -232,26 +232,26 @@
 	
 		<item>
 		<title>EUROSPORT 1</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
 	</item>
 	
 	<item>
 		<title>EUROSPORT 2</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
 	</item>
 	
 	
 <item>
 		<title>MOVISTAR DEPORTES 1</title>
-		<link>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</link>
+		<link>http://livesports.pw/embedn.php?file=deporteone&width=650&height=397&autostart=true</link>
 		<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
 	</item>
 	
 	<item>
 		<title>MOVISTAR DEPORTES 2</title>
-		<link>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</link>
+		<link>http://livesports.pw/embedn.php?file=deportedosm&width=650&height=397&autostart=true</link>
 		<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
 	</item>
 	
