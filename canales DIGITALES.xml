@@ -5,7 +5,7 @@
 
 
 <item>
-<title>[UPPERCASE][COLOR skyblue]  MOVISTAR SERIES[/UPPERCASE][/COLOR] </title>
+<title>[UPPERCASE][COLOR red]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -31,12 +31,7 @@
 	   
 
 
-	<item>
-		<title>[COLOR red]MOVISTAR XTRA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
-	</item>
-
+	
 
 
 <item>
@@ -52,11 +47,6 @@
 	</item>
 	
 	
-	<item>
-		<title>[COLOR red]MOVISTAR ESTRENOS[/COLOR]</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</referer>	
-	</item>
 
 
 	
@@ -74,12 +64,6 @@
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
 	</item>
 
-	<item>
-		<title>[COLOR red]MOVISTAR SERIES XTRA[/COLOR]</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusseriesxtra.html</sportsdevil>
-		<referer>http://www.rapifutbol.tv/canal/2525/movistar-series-xtra/</referer>	
-	</item>
-	
 	
 	<item>
 		<title>[COLOR red]#0[/COLOR]</title>
@@ -89,17 +73,8 @@
 	
 	
 
-	
-	<item>
-		<title>[COLOR red]COSMO[/COLOR]</title>
-		<sportsdevil>http://tumarcador.xyz/verdirectotv/15</sportsdevil>
-		<referer>http://verdirectotv.com/tv/nacionales2/cosmo.html</referer>
-	</item>
-<item>
-		<title>[COLOR red]COMEDY CENTRAL[/COLOR]</title>
-		<sportsdevil>http://tumarcador.xyz/verdirectotv/8</sportsdevil>
-		<referer>http://www.vertelevisor.com/tv/nacionales/paramount-comedy.html</referer>
-	</item>
+
+
 </item>
 	
 		<item>
