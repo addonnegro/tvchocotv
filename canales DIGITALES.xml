@@ -110,9 +110,16 @@
 	
 	
 	<item>
+<title>SPORT DEVIL</title>
+<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
+<referer>ttp://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+<thumbnail>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</thumbnail>
+<fanart>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</fanart>
+</item>
+	
+	
+	<item>
 		<title>[COLOR red]FOX1 LIFE[/COLOR]</title>
-		<thumbnail>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzOTQ1NDUwOF5BMl5BanBnXkFtZTgwNjAwNTkwMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</fanart>
 		<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
 		<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
 	</item>
