@@ -265,13 +265,13 @@
 	</item>
 	
 <item>
-<title>[UPPERCASE][COLOR red]1.MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
-<link>$doregex[GetPageUrl]Referer=http://cinestrenostv.tv/canales/envivo/plusestrenos2.html;amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<title>[UPPERCASE][COLOR red]1.2MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
+<link>$doregex[GetPageUrl]Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html;amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: ' (.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</page>
-<referer>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</referer>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
 </regex> 
 <thumbnail> </thumbnail> 
 </item>
