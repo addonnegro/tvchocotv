@@ -266,16 +266,16 @@
 	
 	
 	
-	<item>
 <title>[UPPERCASE1][COLOR red]MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
-<link>$doregex[GetPageUrL]referer=http://cinestrenostv.tv/canales/envivo/plusestrenos2.html;amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<link>$doregex[GetPageUrl]Referer=http://cinestrenostv.tv/canales/envivo/plusestrenos2.html;amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
-<name>GetPageUrL</name>
+<name>GetPageUrl</name>
 <expres>source: ' (.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</page>
+<page>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</page>
 <referer>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</referer>
 </regex> 
-<thumbnail> </thumbnail> </item>
+<thumbnail> </thumbnail> 
+</item>
 	   
 	   
 <item>
