@@ -68,17 +68,17 @@
 		<referer>http://telefivegb.com/canales/series/tnt</referer>
 	</item>
 	
-	<item>
-		<title>[COLOR red]MOVISTAR SERIES[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/series/m_series</referer>	
-	</item>
+
 
 	
 
 	
 	----------------------CANALES DE SERIES-------------------------------------------------------------------------------
-
+	<item>
+		<title>[COLOR red]MOVISTAR SERIES[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/m_series</referer>	
+	</item>
 	
 	<item>
 <title>[UPPERCASE][COLOR red]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
@@ -152,6 +152,35 @@
 		<referer>http://telefivegb.com/canales/series/sysf</referer>
 	</item>
 
+	
+	-----------------------INFANTILES---------------------------------------------------
+	
+	
+	
+		<item>
+		<title>[COLOR red]DISNEY CHANNEL[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</sportsdevil>
+		<referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
