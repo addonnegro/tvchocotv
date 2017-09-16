@@ -16,6 +16,20 @@
 <thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
 
 
+<item>
+<title>[UPPERCASE][COLOR red]1.2MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/
+</regex> 
+<thumbnail> </thumbnail> 
+</item>
+	   
+
 
 	<item>
 		<title>[COLOR red]MOVISTAR XTRA[/COLOR]</title>
