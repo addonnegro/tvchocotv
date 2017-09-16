@@ -3,6 +3,10 @@
 <items>
 
 
+---------------CANALES PELICULAS----------------------------------------------
+
+
+
 <item>
 <title>[UPPERCASE][COLOR red]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
@@ -19,11 +23,7 @@
 
 
 
-<item>
-		<title>[COLOR red]MOVISTAR COMEDIA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://verplusonline.com/canales/comediaes</referer>		
-	</item>
+
 	
 	<item>
 		<title>[COLOR red]MOVISTAR ACCION[/COLOR]</title>
@@ -47,6 +47,27 @@
 	
 	
 	
+	
+		<item>
+		<title>[COLOR red]HOLLYWOOD[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
+	</item>
+
+	
+		<item>
+		<title>[COLOR red]TCM[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
+	</item>
+	
+	
+	<item>
+		<title>[COLOR red]TNT[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/tnt</referer>
+	</item>
+	
 	<item>
 		<title>[COLOR red]MOVISTAR SERIES[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
@@ -56,7 +77,7 @@
 	
 
 	
-	
+	----------------------CANALES DE SERIES-------------------------------------------------------------------------------
 
 	
 	<item>
@@ -111,7 +132,7 @@
 	
 	
 	
-----------------------------------------------
+
 	<item>
 		<title>[COLOR red]CALLE 13[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
@@ -121,25 +142,21 @@
 	
 
 	
-	<item>
-		<title>[COLOR red]HOLLYWOOD[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
-	</item>
+
 
 
 	
-	
 	<item>
-		<title>[COLOR red]..IBERALIA[/COLOR]</title>
-		<link>$doregex[get-id]|User-Agent=iPad</link>
-		<regex>
-		<name>get-id</name>
-		<expres>source: '(.?)'</expres>
-		<page>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</page>
-		<referer>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</referer>
-		</regex>
+		<title>[COLOR red]SYFY[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397&autoplay=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/sysf</referer>
 	</item>
+
+	
+	
+	
+	------------------------CANALES DOCUMENTALES-----------------------------
+	
 	
 	<item>
 		<title>[COLOR red]CRIMEN E INVESTIGACION[/COLOR]</title>
@@ -155,64 +172,12 @@
 				
 	</item>
 		
-		
-		<item>
-		<title>[COLOR red]MTV[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=mtvesp&width=650&height=397</sportsdevil>
-		<referer>http://telefivegb.com/canales/MUSICA/mtv</referer>
-	</item>
-		
-
-	<item>
-		<title>[COLOR red]SYFY[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397&autoplay=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/series/sysf</referer>
-	</item>
-
-	<item>
-		<title>[COLOR red]TCM[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
-	</item>
-
-	<item>
-		<title>[COLOR red]TNT[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/series/tnt</referer>
-	</item>
-
 
 	<item>
 		<title>[COLOR red]VIAJAR[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/viajar</referer>
 	</item>
-
-	<item>
-		<title>[COLOR red]CANAL COCINA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/cocina</referer>
-	</item>
-
-	<item>
-		<title>[COLOR red]DECASA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/casa</referer>
-	</item>
-
-	<item>
-		<title>[COLOR red]TOROS TV[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/toro</referer>
-	</item>
-	
-	<item>
-		<title>[COLOR red]CAZA Y PESCA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
-	</item>
-	
-	
 		<item>
 		<title>[COLOR red]NATIONAL GEOGRAPHIC[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
@@ -236,6 +201,36 @@
 		<sportsdevil>http://livesports.pw/embedn.php?file=historiaesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/historia</referer>
 	</item>
+	
+	
+	
+	
+	<item>
+		<title>[COLOR red]CANAL COCINA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/documental/cocina</referer>
+	</item>
+
+	<item>
+		<title>[COLOR red]DECASA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/documental/casa</referer>
+	</item>
+---------------------------------CANALES DE DEPORTES---------------------------
+	<item>
+		<title>[COLOR red]TOROS TV[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/deporte/toro</referer>
+	</item>
+	
+	<item>
+		<title>[COLOR red]CAZA Y PESCA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
+	</item>
+	
+	
+
 	
 		<item>
 		<title>[COLOR red]BEIN LIGA[/COLOR]</title>
