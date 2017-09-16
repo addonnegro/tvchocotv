@@ -4,16 +4,7 @@
 
 
 
-<item>
-<title>[UPPERCASE][COLOR red]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+
 
 
 <item>
@@ -65,14 +56,28 @@
 	</item>
 
 	
+
+	
+	
+
+	
 	<item>
+<title>[UPPERCASE][COLOR red]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+	
+	
+		<item>
 		<title>[COLOR red]#0[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
 	</item>
-	
-	
-
 
 
 </item>
