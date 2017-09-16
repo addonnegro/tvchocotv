@@ -29,6 +29,7 @@
 		<title>[COLOR red]MOVISTAR ACCION[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/maccion</referer>
+		<thumbnail> https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail> 
 	</item>
 	
 	
@@ -36,6 +37,7 @@
 		<title>[COLOR red]MOVISTAR DCINE Ñ[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=100%&height=100%</sportsdevil>
 		<referer>http://telefivegb.com/animacion/ver-el-canal-dcine-n-en-vivo-y-gratis-online/</referer>	
+		<thumbnail> </thumbnail> 
 	</item>
 
 	
@@ -43,6 +45,7 @@
 		<title>[COLOR red]MOVISTAR DCINE[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/dcinen</referer>	
+		<thumbnail>https://2.bp.blogspot.com/-jmf0Zi7ACYw/V6b5REmQwXI/AAAAAAAAASY/9hSaAuCW-TE2Equ1bZTrai0DLqBavWWhQCLcB/s1600/movistar-dcine.png </thumbnail> 
 	</item>
 	
 	
@@ -52,6 +55,7 @@
 		<title>[COLOR red]HOLLYWOOD[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-NIKUf7DhHEo/V8tSUpFiA4I/AAAAAAAAAgs/RZHwibnrFW8kUm4lTKCOKd2IpXS_9yF7QCEw/h120/hollywood.png </thumbnail> 
 	</item>
 
 	
@@ -59,6 +63,7 @@
 		<title>[COLOR red]TCM[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
+		<thumbnail>http://verplusonline.com/wp-content/uploads/2015/09/tcm.png </thumbnail> 
 	</item>
 	
 	
@@ -66,6 +71,7 @@
 		<title>[COLOR red]TNT[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/tnt</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-P2MdC8V3lZk/V8tSVpYgdnI/AAAAAAAAAgs/M5CmdS95ZGsypwacQ6QO3TE30azw77VwgCEw/h120/tnt1.png </thumbnail> 
 	</item>
 	
 
@@ -78,6 +84,7 @@
 		<title>[COLOR red]MOVISTAR SERIES[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
+		<thumbnail> </thumbnail>
 	</item>
 	
 	<item>
@@ -96,6 +103,7 @@
 		<title>[COLOR red]#0[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
+		<thumbnail>https://3.bp.blogspot.com/-4Wt-_jiYlR8/V6cNwv_mqhI/AAAAAAAAATU/YZ-ULgcXaXodXW0wdLTG7gV2CdNzrH8iACLcB/s1600/movistar-0.png </thumbnail>
 	</item>
 
 
@@ -105,6 +113,7 @@
 		<title>[COLOR red]AXN[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live/axn.php</sportsdevil>
 		<referer>http://vercanalestv.com/tv/nacionales/axn.html</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-AEZB2VXJSlo/V8tSTFmRAjI/AAAAAAAAAgs/j4S1C0YKFgIo6f0RYkk9iN_JlROq7VQ2ACEw/w138-h140-p/axn2.png </thumbnail>
 	</item>
 
 	
@@ -112,6 +121,7 @@
 		<title>[COLOR red]FOX[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/fox</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
 	</item>
 
 	
@@ -120,9 +130,10 @@
 	
 
 	<item>
-		<title>[COLOR red]FOX1 LIFE[/COLOR]</title>
+		<title>[COLOR red]FOX LIFE[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
 		<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-wvwf6xnAeMQ/VZVn3iH6EuI/AAAAAAAABzA/EtSezee_0LY/s334/foxlive.jpg</thumbnail>
 	</item>
 	
 	
@@ -136,7 +147,9 @@
 	<item>
 		<title>[COLOR red]CALLE 13[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/nacionales/calle13.php</referer>	
+		<referer>http://cinestrenostv.tv/canales/nacionales/calle13.php</referer>
+		<thumbnail>https://lh4.googleusercontent.com/-ED3k8Zh1sNc/UZFL1fhRKrI/AAAAAAAAAZc/zyDYSVz4tQE/w408-h306-p-o/c13hd.gif </thumbnail>
+		
 	</item>
 
 	
@@ -150,6 +163,7 @@
 		<title>[COLOR red]SYFY[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/sysf</referer>
+		<thumbnail> https://lh6.googleusercontent.com/-upF4CnxYPpc/UVWqDS3DQZI/AAAAAAAAAGg/OIFCu5nsyjs/w463-h328-p-o/syfy.jpg</thumbnail>
 	</item>
 
 	
@@ -161,6 +175,7 @@
 		<title>[COLOR red]DISNEY CHANNEL[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-YILqKHLvgw0/V8tSUMWsI7I/AAAAAAAAAgs/ZsvrWuhhCkcWZdgoRs_ELPfC226P6NLhACEw/h120/disneychannel.png</thumbnail>
 	</item>
 	
 	
@@ -201,6 +216,7 @@
 		<title>[COLOR red]CRIMEN E INVESTIGACION[/COLOR]</title>
 		<sportsdevil>http://vertelevisor.com/live/canalcrimen.php</sportsdevil>
 		<referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-0MWKz-BaTAI/V8tSThCc-aI/AAAAAAAAAfI/26zDV0uNacYG2-7qBhcmDY8V4lkm31SfQCLcB/h120/ci1.png</thumbnail>
 	</item>
 	
 	
@@ -208,37 +224,38 @@
 		<title>[COLOR red]NAT GEO WILD[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=geowild&width=650&height=397</sportsdevil>                                        
 		<referer>http://vertelevisor.com/tv/inicio.html</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-g90USP-azow/V8tSU7DbFkI/AAAAAAAAAgI/xpb4F_GMhdwfwHXVpMd6rYhO4dDAueVdQCLcB/h120/natwilf.png</thumbnail>
 				
 	</item>
 		
 
-	<item>
-		<title>[COLOR red]VIAJAR[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/viajar</referer>
-	</item>
+	
 		<item>
 		<title>[COLOR red]NATIONAL GEOGRAPHIC[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
+		<thumbnail> </thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]ODISEA[/COLOR]</title>
 		<sportsdevil>http://www.playerhd1.pw/embed.php?c=105143&width=650&height=400&autostart=true</sportsdevil>                                     
 		<referer>http://sport.gblackstreaming.com/channel/074_odisea/1.html</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-5A4yb6WTCoE/V8tSU_Hrg5I/AAAAAAAAAgM/CyOUgwTJVvYnZIyJVtP73yecjGigM18wgCLcB/h120/odisea.png</thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]DISCOVERY CHANNEL[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=discoverychannel&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-gdKePtvAbgc/V8tST6-UYyI/AAAAAAAAAfQ/0j7T-PR_gEMZ40-QhUW71MKbhg6RtP0bwCLcB/h120/discovery1.png </thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]HISTORIA[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=historiaesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/historia</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-yoBFNJX-Dp8/V8tSUYG9puI/AAAAAAAAAgs/p2Al7c_A3KkrMmNAWRH91NGw6Kk1oFAOwCEw/h120/historia.png </thumbnail>
 	</item>
 	
 	
@@ -248,24 +265,23 @@
 		<title>[COLOR red]CANAL COCINA[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/cocina</referer>
+		<thumbnail>http://verplusonline.com/wp-content/uploads/2015/07/cocina.png </thumbnail>
 	</item>
 
-	<item>
-		<title>[COLOR red]DECASA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/casa</referer>
-	</item>
+
 ---------------------------------CANALES DE DEPORTES---------------------------
 	<item>
 		<title>[COLOR red]TOROS TV[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/toro</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-wzUUIssSnAM/V8tSVlRPm8I/AAAAAAAAAgs/3LgYBRBHGrEpBxr3XoSLglw2lzYt3i4PgCEw/h120/toro.png </thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]CAZA Y PESCA[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-8AoEQu7cj44/V8tSTmRzHfI/AAAAAAAAAgs/_fkNhNG1kesUzqoCY846a9mbhYfEYcpVACEw/h120/caza-y-pesca.png </thumbnail>
 	</item>
 	
 	
@@ -296,18 +312,22 @@
 		<title>[COLOR red]BEIN LIGA[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/deportes/plusliga.php</referer>
+		<thumbnail>https://3.bp.blogspot.com/-_w7fnKT_BKs/V6b5Q4so3UI/AAAAAAAAASQ/EbLnk-Y4CQc87xBqklIpAWroNGJ31wWJgCLcB/s1600/bein-sport-liga.png </thumbnail>
 	</item>
 	
 		<item>
 		<title>[COLOR red]EUROSPORT 1[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
+		<thumbnail> https://lh3.googleusercontent.com/-HdHyKE8ZM7s/V8tSUPF5NkI/AAAAAAAAAgs/LElBvCbk2Ds4pLdrSM_YCw79f8XpI2k7ACEw/w138-h140-p/eurosport.png</thumbnail>
+		
 	</item>
 	
 	<item>
 		<title>[COLOR red]EUROSPORT 2[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
+		<thumbnail>http://verplusonline.com/wp-content/uploads/2016/10/eurosport2.png </thumbnail>
 	</item>
 	
 	
@@ -315,12 +335,14 @@
 		<title>[COLOR red]MOVISTAR DEPORTES 1[/COLOR]</title>
 		<link>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</link>
 		<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
+		<thumbnail>https://4.bp.blogspot.com/-bbMkzJkrBC0/V6b5RKFzibI/AAAAAAAAASc/REEuOxaWin4WbEsNVzk94-WVepKv7msMQCLcB/s1600/movistar-deporte-1.png </thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]MOVISTAR DEPORTES 2[/COLOR]</title>
 		<link>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</link>
 		<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
+		<thumbnail>https://2.bp.blogspot.com/-b4FUspgJ-Jg/V6b5RABxanI/AAAAAAAAASg/rBo7kURIjdQmRArXCYbd9lFJs4KOIrsJQCLcB/s1600/movistar-deporte-2.png </thumbnail>
 	</item>
 	
 
@@ -328,12 +350,14 @@
 		<title>[COLOR red]MOVISTAR F1[/COLOR]</title>
 		<sportsdevil>http://www.playerhd1.pw/channel.php?file=116&width=650&height=400&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/F1/index2.php</referer>
+		<thumbnail>https://2.bp.blogspot.com/-7MhAtKz-UAo/V6b5RSgFu0I/AAAAAAAAASo/50dgk_zG77I9KExitmRozPOmp-R7m3zrwCLcB/s1600/movistar-formula-1.png </thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]MOVISTAR MOTOGP[/COLOR]</title>
 		<sportsdevil>http://www.dinostream.pw/embed.php?c=105717&width=650&height=400&autostart=true</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/envivo/motogp.html</referer>
+		<thumbnail>https://1.bp.blogspot.com/-iBydqF__JDQ/V6b5RrXFSiI/AAAAAAAAASw/gYVCtWPv8lcPhxbtK7Qj49p4qCR9kBswQCLcB/s1600/movistar-moto-gp.png </thumbnail>
 	</item>
 	
 <item>
@@ -345,7 +369,7 @@
 <page>http://vergol.com/live/plusestrenos.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
 </regex> 
-<thumbnail> </thumbnail> 
+<thumbnail>https://lh3.googleusercontent.com/-ta6mEz3Qcy0/V8n3xWTtHII/AAAAAAAAAc4/97Xl94chUY4_t1n8xuiVj8TWLF14ZfbfACEw/h120/movistar-golf.png</thumbnail> 
 </item>
 	   
 	   
