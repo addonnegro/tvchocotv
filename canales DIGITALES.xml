@@ -29,7 +29,7 @@
 	<item>
 		<title>[COLOR red]MOVISTAR ESTRENOS[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</sportsdevil>
-		<referer>http://cinestrenostv.tv/</referer>	
+		<referer>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</referer>	
 	</item>
 
 
@@ -102,11 +102,7 @@
 	</item>
 
 	
-		<item>
-		<title>[COLOR red]AXN WHITE[/COLOR]</title>
-		<sportsdevil></sportsdevil>
-		<referer>http://telefivegb.com/canales/series/axnwahit</referer>
-	</item>
+
 	
 	<item>
 		<title>[COLOR red]HOLLYWOOD[/COLOR]</title>
@@ -276,8 +272,8 @@
 		<regex>
 			<name>get_id</name>
 			<expres>src=.[",'](.m3u8.?)[",']</expres>
-			<page>http://www.liveonlinetv247.info/embed/golfchannel.php</page>
-			<referer>http://www.liveonlinetv247.info/</referer>
+			<page>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</page>
+			<referer>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</referer>
 			<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 		</regex>
 	</item>
@@ -286,6 +282,16 @@
 
 	
 
-	
+	<item>
+		<title>[COLOR red]MOVISTAR GOLF[/COLOR]</title>
+		<link>$doregex[get_id]|User-Agent=iPad</link>
+		<regex>
+			<name>get_id</name>
+			<expres>src=.[",'](.m3u8.?)[",']</expres>
+			<page>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</page>
+			<referer>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</referer>
+			<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+		</regex>
+	</item>
 	
 	
