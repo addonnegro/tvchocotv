@@ -118,13 +118,13 @@
 	
 	
 	<item>
-		<title>[COLOR red]IBERALIA[/COLOR]</title>
+		<title>[COLOR red]..IBERALIA[/COLOR]</title>
 		<link>$doregex[get-id]|User-Agent=iPad</link>
 		<regex>
 		<name>get-id</name>
 		<expres>source: '(.?)'</expres>
-		<page>http://tumarcador.xyz/ver/1.php</page>
-		<referer>http://vercanalestv.com/tv/documentales/iberalia.html</referer>
+		<page>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</page>
+		<referer>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</referer>
 		</regex>
 	</item>
 	
