@@ -17,7 +17,7 @@
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 <referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/
 </regex> 
-<thumbnail> </thumbnail> 
+<thumbnail>http://vercanalestv.com/imagenes/movistar-estrenos.jpg</thumbnail> 
 </item>
 	   
 
@@ -37,7 +37,7 @@
 		<title>[COLOR red]MOVISTAR DCINE Ñ[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=100%&height=100%</sportsdevil>
 		<referer>http://telefivegb.com/animacion/ver-el-canal-dcine-n-en-vivo-y-gratis-online/</referer>	
-		<thumbnail> </thumbnail> 
+		<thumbnail>http://vercanalestv.com/imagenes/movistar-dcine-espanol.jpg</thumbnail> 
 	</item>
 
 	
@@ -84,7 +84,7 @@
 		<title>[COLOR red]MOVISTAR SERIES[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
-		<thumbnail> </thumbnail>
+		<thumbnail>http://cinestrenostv.tv/img/series.png</thumbnail>
 	</item>
 	
 	<item>
@@ -234,7 +234,7 @@
 		<title>[COLOR red]NATIONAL GEOGRAPHIC[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
-		<thumbnail> </thumbnail>
+		<thumbnail>http://cinestrenostv.tv/img/national.png</thumbnail>
 	</item>
 	
 	<item>
