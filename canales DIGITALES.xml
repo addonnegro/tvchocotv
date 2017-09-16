@@ -117,13 +117,26 @@
 <fanart>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</fanart>
 </item>
 	
-	
+	------------------------------------------------------------------------------------------------
 	<item>
 		<title>[COLOR red]FOX1 LIFE[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
 		<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
 	</item>
-
+	
+	
+	
+	
+	<item>
+<title>M3U8</title>
+<link>http://piedra21.pedromo.online/live/telecinco/index.m3u8?token=kdTe3CK22TlstDyCayrptA&expires=1505676159</link>
+<thumbnail>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</thumbnail>
+</item>
+	
+	
+	
+	
+----------------------------------------------
 	<item>
 		<title>[COLOR red]CALLE 13[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
