@@ -95,12 +95,21 @@
 		<referer>http://telefivegb.com/canales/series/fox</referer>
 	</item>
 
+	
 	<item>
-		<title>[COLOR red]FOX LIFE[/COLOR]</title>
-		<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
-		<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
-	<thumbnail>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</thumbnail> 
-	</item>
+<title>[UPPERCASE][COLOR red]  FOX LIFE[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/foxlife.php</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://lacalleochotv.org/wp-content/uploads/foxlife.jpg</thumbnail>   </item>
+	
+	
+	
+	
 
 	<item>
 		<title>[COLOR red]CALLE 13[/COLOR]</title>
