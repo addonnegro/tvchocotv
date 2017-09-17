@@ -186,6 +186,13 @@
 	</item>
 
 	<item>
+<title>[COLOR red]CANAL SUR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MtCY1q7mzF8</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
+</item>
+	
+	
+	<item>
 		<title>[COLOR red]GALICIA TV[/COLOR]</title>
 		<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
 	<thumbnail></thumbnail>
