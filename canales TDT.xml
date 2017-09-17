@@ -150,38 +150,39 @@
 	
 		<item>
 		<title>[COLOR red]CASTILLA LA MANCHA[/COLOR]</title>
-		<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
-	<thumbnail></thumbnail>
+		<link>http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8</link>
+	<thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/logo_cm_antes.jpg</thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]CASTILLA Y LEON[/COLOR]</title>
 		<link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Grupo_Castilla_y_Le%C3%B3n_Televisi%C3%B3n.svg/305px-Logo_Grupo_Castilla_y_Le%C3%B3n_Televisi%C3%B3n.svg.png</thumbnail>
 	</item>	
 	
 	<item>
 		<title>[COLOR red]8 TV[/COLOR]</title>
 		<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://media.tvalacarta.info/canales/256x256/ochotv.png</thumbnail>
 	</item>		
 
 	<item>
 		<title>[COLOR red]13TV[/COLOR]</title>
 		<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/3d9b2446cf61598e01b296c7b6b8a7ad_XL.jpg</thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]CANAL EXTREMADURA[/COLOR]</title>
 		<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://www.diariodeberrocalejo.es/index_htm_files/canalextremadura.jpg</thumbnail>
 	</item>		
 
 	<item>
-		<title>[COLOR red]ANDALUCIA TV[/COLOR]</title>
-		<link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>	      
-	<thumbnail></thumbnail>
+		<title>[COLOR red]CANAL SUR[/COLOR]</title>
+		<sportsdevil>http://ct.ligatus.com/css/p9403-c7677-1498642823.php</sportsdevil>
+		<referer>http://www.canalsur.es/tv_directo-1193.html</referer>
+	<thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
 	</item>
 
 	<item>
