@@ -102,7 +102,7 @@
 	</item>
 	
 	<item>
-		<title>BE MAD</title>
+		<title>BE MAD-off</title>
 		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/bemad.png</thumbnail>
 	</item>
@@ -115,8 +115,8 @@
 	
 	<item>
 		<title>24H</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8.m3u8</link>
-	<thumbnail></thumbnail>
+		<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-p.m3u8?sd=10&rebase=on</link>
+	<thumbnail>http://www.irtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_C24H/i/mosca_CTV_C24H.png</thumbnail>
 	</item>
 	
 	
