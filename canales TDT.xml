@@ -195,49 +195,44 @@
 	<item>
 		<title>[COLOR red]GALICIA TV[/COLOR]</title>
 		<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://photos1.blogger.com/blogger/3125/3533/1600/Logo%20TVG.jpg</thumbnail>
 	</item>
 
 	<item>
 		<title>[COLOR red]ETB[/COLOR]</title>
 		<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.blogs.es/fe1e17/etb2/original.jpg</thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]TV3[/COLOR]</title>
 		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://osgarmar.files.wordpress.com/2012/03/images21.jpg</thumbnail>
 	</item>	
 
 	<item>
 		<title>[COLOR red]3/24[/COLOR]</title>
 		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg</thumbnail>
 	</item>
 
-	<item>
-		<title>[COLOR red]7RM[/COLOR]</title>
-		<link></link>
-	<thumbnail></thumbnail>
-	</item>	
 
 	<item>
 		<title>[COLOR red]ARAGON TV[/COLOR]</title>
 		<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://yt3.ggpht.com/-5O9sh0HrJP4/AAAAAAAAAAI/AAAAAAAAAAA/1o4lLkhqYI0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 	</item>	
 
 	<item>
 		<title>[COLOR red]TPA[/COLOR]</title>
 		<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAArOAAAAJGUyMGFhMmI1LWIzYjUtNDIzZC1hYjZmLWJiNTljZWUzOTg0Zg.png</thumbnail>
 	</item>	
 	
 	<item>
 		<title>[COLOR red]TV CANARIA[/COLOR]</title>
 		<link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://1.bp.blogspot.com/_VvLoQXtu9Mg/SM66SU6zpRI/AAAAAAAAA5U/iXuw3YFQ6Q8/s400/tv_canaria.jpg</thumbnail>
 	</item>	
 	
 
