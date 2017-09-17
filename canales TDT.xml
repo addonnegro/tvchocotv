@@ -69,6 +69,14 @@
 	</item>
 	
 	<item>
+		<title>[COLOR red]DISCOVERY MAX[/COLOR]</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverymax.php</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/envivo/max.html</referer>
+		<thumbnail>http://cinestrenostv.tv/img/fdf.png</thumbnail>
+	</item>
+	
+	
+	<item>
 		<title>[COLOR red]NOVA[/COLOR]</title>
 		<link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/nova.png</thumbnail>
