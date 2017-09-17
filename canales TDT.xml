@@ -124,8 +124,8 @@
 
 	<item>
 		<title>BOING</title>
-		<link>http://edge15.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8</link>
-	<thumbnail></thumbnail>
+		<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366_1.m3u8</link>
+	<thumbnail>http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png</thumbnail>
 	</item>
 	
 	<item>
@@ -137,7 +137,7 @@
 	
 	<item>
 		<title>TELEMADRID</title>
-		<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
+		<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/telemadrid.png</thumbnail>
 	</item>	
 
