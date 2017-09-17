@@ -5,26 +5,26 @@
 
 
 <item>
-		<title>[COLOR red]..LA 1[/COLOR ]</title>
+		<title>[COLOR red]..LA 1[/COLOR]</title>
 		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/tve1.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]LA 2[/COLOR ]</title>
+		<title>[COLOR red]LA 2[/COLOR]</title>
 		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/tve2.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]ANTENA 3[/COLOR ]</title>
+		<title>[COLOR red]ANTENA 3[/COLOR]</title>
 		<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/antena3.png</thumbnail>
 	</item>
 	
 
 	<item>
-	<title>[COLOR red].CUATRO[/COLOR ]</title>
+	<title>[COLOR red].CUATRO[/COLOR]</title>
 	<link>http://piedra21.pedromo.online/live/cuatro/index.m3u8?token=ZpqLftEg-95FjQ1hVsrJlQ&expires=1505758328</link>
 	<referer>http://cinestrenostv.tv/</referer>
 	<thumbnail>https://mdsrwdassets-a.akamaihd.net//parrillas/2017/03/30/ad652ff9bd30eadc5cea3ef2f24e12571490869627.jpg</thumbnail>
@@ -32,7 +32,7 @@
 		
 		
 <item>
-<title>[COLOR red]TELECINCO[/COLOR ]</title>
+<title>[COLOR red]TELECINCO[/COLOR]</title>
 <link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8</link>
 <thumbnail>http://cinestrenostv.tv/img/telecinco.png</thumbnail>
 	</item>
@@ -42,51 +42,51 @@
 
 	
     <item>
-        <title>[COLOR red]LA SEXTA[/COLOR ]</title>
+        <title>[COLOR red]LA SEXTA[/COLOR]</title>
         <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
         <thumbnail>http://cinestrenostv.tv/img/sexta.png</thumbnail>
     </item>
 	
 	<item>
-		<title>[COLOR red]DIVINITY.[/COLOR ]</title>
+		<title>[COLOR red]DIVINITY.[/COLOR]</title>
 		<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf_3.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/divinity.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]ENERGY[/COLOR ]</title>
+		<title>[COLOR red]ENERGY[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=energy&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/tdt/energy</referer>
 		<thumbnail>http://cinestrenostv.tv/img/energy.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]FDF[/COLOR ]</title>
+		<title>[COLOR red]FDF[/COLOR]</title>
 		<link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224_3.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/fdf.png</thumbnail>
 		
 	</item>
 	
 	<item>
-		<title>[COLOR red]NOVA[/COLOR ]</title>
+		<title>[COLOR red]NOVA[/COLOR]</title>
 		<link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/nova.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]NEOX[/COLOR ]</title>
+		<title>[COLOR red]NEOX[/COLOR]</title>
 		<link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/neox.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]A3SERIES[/COLOR ]</title>
+		<title>[COLOR red]A3SERIES[/COLOR]</title>
 		<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 	<thumbnail>http://laguiatv.abc.es/Media/201511/10/atreseries-logo--644x362.jpg</thumbnail>
 	</item>
 	
 			item>
-		<title>[COLOR red]TEN-off[/COLOR ]</title>
+		<title>[COLOR red]TEN-off[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/ten.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/</referer>
 	<thumbnail>http://cinestrenostv.tv/img/ten.png</thumbnail>
@@ -96,25 +96,25 @@
 	
 	
 	item>
-		<title>[COLOR red]DKISS-[/COLOR ]</title>
+		<title>[COLOR red]DKISS-[/COLOR]</title>
 		<link></link>
 		<thumbnail>http://cinestrenostv.tv/img/dkiss.png</thumbnail>
 	</item>
 	
 	item>
-		<title>[COLOR red]BE MAD-off[/COLOR ]</title>
+		<title>[COLOR red]BE MAD-off[/COLOR]</title>
 		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/bemad.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]MEGA[/COLOR ]</title>
+		<title>[COLOR red]MEGA[/COLOR]</title>
 		<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/mega.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]24H[/COLOR ]</title>
+		<title>[COLOR red]24H[/COLOR]</title>
 		<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-p.m3u8?sd=10&rebase=on</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2000px-Logo_TVE-24h.svg.png</thumbnail>
 	</item>
@@ -123,110 +123,110 @@
 	
 
 	<item>
-		<title>[COLOR red]BOING[/COLOR ]</title>
+		<title>[COLOR red]BOING[/COLOR]</title>
 		<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366_1.m3u8</link>
 	<thumbnail>http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png</thumbnail>
 	</item>
 	
 	item>
-		<title>[COLOR red]CLAN TVE[/COLOR ]</title>
+		<title>[COLOR red]CLAN TVE[/COLOR]</title>
 		<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 
 	
 	<item>
-		<title>[COLOR red]TELEMADRID[/COLOR ]</title>
+		<title>[COLOR red]TELEMADRID[/COLOR]</title>
 		<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/telemadrid.png</thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR red]LAOTRA[/COLOR ]</title>
+		<title>[COLOR red]LAOTRA[/COLOR]</title>
 		<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8?SAT_TOTAL</link>
 	<thumbnail></thumbnail>
 	</item>	
 	
 		<item>
-		<title>[COLOR red]CASTILLA LA MANCHA[/COLOR ]</title>
+		<title>[COLOR red]CASTILLA LA MANCHA[/COLOR]</title>
 		<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]CASTILLA Y LEON[/COLOR ]</title>
+		<title>[COLOR red]CASTILLA Y LEON[/COLOR]</title>
 		<link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>	
 	
 	<item>
-		<title>[COLOR red]8 TV[/COLOR ]</title>
+		<title>[COLOR red]8 TV[/COLOR]</title>
 		<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>		
 
 	<item>
-		<title>[COLOR red]13TV[/COLOR ]</title>
+		<title>[COLOR red]13TV[/COLOR]</title>
 		<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]CANAL EXTREMADURA[/COLOR ]</title>
+		<title>[COLOR red]CANAL EXTREMADURA[/COLOR]</title>
 		<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>		
 
 	<item>
-		<title>[COLOR red]ANDALUCIA TV[/COLOR ]</title>
+		<title>[COLOR red]ANDALUCIA TV[/COLOR]</title>
 		<link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>	      
 	<thumbnail></thumbnail>
 	</item>
 
 	<item>
-		<title>[COLOR red]GALICIA TV[/COLOR ]</title>
+		<title>[COLOR red]GALICIA TV[/COLOR]</title>
 		<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 
 	<item>
-		<title>[COLOR red]ETB[/COLOR ]</title>
+		<title>[COLOR red]ETB[/COLOR]</title>
 		<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]TV3[/COLOR ]</title>
+		<title>[COLOR red]TV3[/COLOR]</title>
 		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR red]3/24[/COLOR ]</title>
+		<title>[COLOR red]3/24[/COLOR]</title>
 		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 
 	<item>
-		<title>[COLOR red]7RM[/COLOR ]</title>
+		<title>[COLOR red]7RM[/COLOR]</title>
 		<link></link>
 	<thumbnail></thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR red]ARAGON TV[/COLOR ]</title>
+		<title>[COLOR red]ARAGON TV[/COLOR]</title>
 		<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR red]TPA[/COLOR ]</title>
+		<title>[COLOR red]TPA[/COLOR]</title>
 		<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>	
 	
 	<item>
-		<title>[COLOR red]TV CANARIA[/COLOR ]</title>
+		<title>[COLOR red]TV CANARIA[/COLOR]</title>
 		<link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>	
@@ -235,21 +235,21 @@
 
 
 <item>
-		<title>[COLOR red]GOL[/COLOR ]</title>
+		<title>[COLOR red]GOL[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=goltvesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/goltv</referer>
 	<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR red]TELEDEPORTE[/COLOR ]</title>
+		<title>[COLOR red]TELEDEPORTE[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/teledeporte</referer>
 	<thumbnail>http://cinestrenostv.tv/img/teledeporte.png</thumbnail>
 	</item>
 	
 		<item>
-		<title>[COLOR red]R.MADRID TV[/COLOR ]</title>
+		<title>[COLOR red]R.MADRID TV[/COLOR]</title>
 		<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/realmadrid.png</thumbnail>
 	</item>
@@ -257,7 +257,7 @@
 			
 	
 	<item>
-		<title>[COLOR red]BARCA TV[/COLOR ]</title>
+		<title>[COLOR red]BARCA TV[/COLOR]</title>
 		<sportsdevil>http://telefivegb.com/deporte/ver-canal-barcelona-tv-online-gratis-vivo/</sportsdevil>
 		<referer>http://telefivegb.com/</referer>
 	<thumbnail>http://cinestrenostv.tv/img/barcatv.png</thumbnail>
