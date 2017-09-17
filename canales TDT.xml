@@ -33,7 +33,7 @@
 		
 <item>
 <title>TELECINCO</title>
-<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff_4.m3u8</link>
+<link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8</link>
 <thumbnail>http://cinestrenostv.tv/img/telecinco.png</thumbnail>
 	</item>
 	
@@ -85,7 +85,7 @@
 	<thumbnail>http://laguiatv.abc.es/Media/201511/10/atreseries-logo--644x362.jpg</thumbnail>
 	</item>
 	
-			<item>
+			item>
 		<title>TEN-off</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/ten.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/</referer>
@@ -95,13 +95,13 @@
 	
 	
 	
-	<item>
+	item>
 		<title>DKISS-</title>
 		<link></link>
 		<thumbnail>http://cinestrenostv.tv/img/dkiss.png</thumbnail>
 	</item>
 	
-	<item>
+	item>
 		<title>BE MAD-off</title>
 		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/bemad.png</thumbnail>
@@ -128,7 +128,7 @@
 	<thumbnail>http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png</thumbnail>
 	</item>
 	
-	<item>
+	item>
 		<title>CLAN TVE</title>
 		<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
 	<thumbnail></thumbnail>
