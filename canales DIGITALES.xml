@@ -129,6 +129,17 @@
 	</item>
 	
 	
+	</item>
+	
+		<item>
+		<title>[COLOR red]AXN WHITE[/COLOR]</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/axnwhite.php</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/envivo/axnwhite.html</referer>
+		<thumbnail>http://latelete.tv/img/axnwhite.png</thumbnail>
+	</item>
+
+	
+	
 </item>
 	
 		<item>
@@ -360,6 +371,13 @@
 		 <sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
         <referer>http://www.vercanalestv.com/tv/deportes/plus-partidazo.html</referer>
 		<thumbnail>http://vercanalestv.com/imagenes/movistar-partidazo.png</thumbnail>
+	</item>
+	
+						<item>
+		<title>[COLOR red]M.FUTBOL[/COLOR]</title>
+		 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusfutbol.php</sportsdevil>
+        <referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</referer>
+		<thumbnail>http://cinestrenostv.tv/img/futbol.png</thumbnail>
 	</item>
 	
 	
