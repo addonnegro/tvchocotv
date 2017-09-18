@@ -115,7 +115,17 @@
 		<title>[COLOR red]AMC[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/envivo/amc.html</referer>
-		<thumbnail>https://lh3.googleusercontent.com/-AEZB2VXJSlo/V8tSTFmRAjI/AAAAAAAAAgs/j4S1C0YKFgIo6f0RYkk9iN_JlROq7VQ2ACEw/w138-h140-p/axn2.png </thumbnail>
+		<thumbnail>http://cinestrenostv.tv/img/amc.png</thumbnail>
+	</item>
+	
+	
+	</item>
+	
+		<item>
+		<title>[COLOR red]DARK[/COLOR]</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/envivo/dark.html</referer>
+		<thumbnail>http://cinestrenostv.tv/img/dark.jpg</thumbnail>
 	</item>
 	
 	
