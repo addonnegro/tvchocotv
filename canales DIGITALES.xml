@@ -114,7 +114,7 @@
 		<item>
 		<title>[COLOR red]AMC[/COLOR]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/envivo/amc.html</referer>
+		<referer>http://vergol.com/live/amc.php</referer>
 		<thumbnail>http://cinestrenostv.tv/img/amc.png</thumbnail>
 	</item>
 	
@@ -123,7 +123,7 @@
 	
 		<item>
 		<title>[COLOR red]DARK[/COLOR]</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=darkes&width=650&height=397</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/envivo/dark.html</referer>
 		<thumbnail>http://cinestrenostv.tv/img/dark.jpg</thumbnail>
 	</item>
@@ -375,7 +375,7 @@
 	
 						<item>
 		<title>[COLOR red]M.FUTBOL[/COLOR]</title>
-		 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusfutbol.php</sportsdevil>
+		 <sportsdevil>http://wwww.dinostream.pw/channel.php?file=105997&width=650&height=400&autostart=true</sportsdevil>
         <referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</referer>
 		<thumbnail>http://cinestrenostv.tv/img/futbol.png</thumbnail>
 	</item>
