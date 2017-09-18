@@ -167,6 +167,27 @@
 	</item>
 
 	
+	
+	
+	
+		<item>
+		<title>[COLOR red]COMEDY CENTRAL[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-paramount-comedy-online-y-en-directo-las-24h/</referer>
+		<thumbnail>vercanalestv.com/logos/comedycentral.png</thumbnail>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	-----------------------INFANTILES---------------------------------------------------
 	
 	
@@ -211,20 +232,20 @@
 	
 	------------------------CANALES DOCUMENTALES-----------------------------
 	
-	
 	<item>
 		<title>[COLOR red]CRIMEN E INVESTIGACION[/COLOR]</title>
-		<sportsdevil>http://vertelevisor.com/live/canalcrimen.php</sportsdevil>
-		<referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+		<sportsdevil>http://vergol.com/live/canalcrimen.php</sportsdevil>
+		<referer>http://www.vercanalestv.com/ver-crimen-investigacion-online-en-directo-gratis/</referer>
 		<thumbnail>https://lh3.googleusercontent.com/-0MWKz-BaTAI/V8tSThCc-aI/AAAAAAAAAfI/26zDV0uNacYG2-7qBhcmDY8V4lkm31SfQCLcB/h120/ci1.png</thumbnail>
-	</item>
+	</item>	
+
 	
 	
 	<item>
 		<title>[COLOR red]NAT GEO WILD[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=geowild&width=650&height=397</sportsdevil>                                        
-		<referer>http://vertelevisor.com/tv/inicio.html</referer>
-		<thumbnail>https://lh3.googleusercontent.com/-g90USP-azow/V8tSU7DbFkI/AAAAAAAAAgI/xpb4F_GMhdwfwHXVpMd6rYhO4dDAueVdQCLcB/h120/natwilf.png</thumbnail>
+		<sportsdevil>http://vergol.com/live/nationalwild.php</sportsdevil>                                        
+		<referer>http://www.vercanalestv.com/ver-nat-geo-wild-online-y-gratis-por-internet-las-24h-gratis-en-vivo/</referer>
+		<thumbnail>http://vercanalestv.com/logos/natgeo.png</thumbnail>
 				
 	</item>
 		
@@ -239,8 +260,8 @@
 	
 	<item>
 		<title>[COLOR red]ODISEA[/COLOR]</title>
-		<sportsdevil>http://www.playerhd1.pw/embed.php?c=105143&width=650&height=400&autostart=true</sportsdevil>                                     
-		<referer>http://sport.gblackstreaming.com/channel/074_odisea/1.html</referer>
+		<sportsdevil>http://livesports.pw/embedn.php?file=odiseatelef&width=650&height=400</sportsdevil>                                     
+		<referer>http://www.vercanalestv.com/ver-canal-odisea-gratis-online-y-directo-por-internet/</referer>
 		<thumbnail>https://lh3.googleusercontent.com/-5A4yb6WTCoE/V8tSU_Hrg5I/AAAAAAAAAgM/CyOUgwTJVvYnZIyJVtP73yecjGigM18wgCLcB/h120/odisea.png</thumbnail>
 	</item>
 	
@@ -310,9 +331,28 @@
 	
 		<item>
 		<title>[COLOR red]BEIN LIGA[/COLOR]</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/deportes/plusliga.php</referer>
+		<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
+		<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
 		<thumbnail>https://3.bp.blogspot.com/-_w7fnKT_BKs/V6b5Q4so3UI/AAAAAAAAASQ/EbLnk-Y4CQc87xBqklIpAWroNGJ31wWJgCLcB/s1600/bein-sport-liga.png </thumbnail>
+	</item>
+	
+	
+		<item>
+		<title>[COLOR red]MOVISTAR MOTOGP[/COLOR]</title>
+		<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+		<thumbnail>https://1.bp.blogspot.com/-iBydqF__JDQ/V6b5RrXFSiI/AAAAAAAAASw/gYVCtWPv8lcPhxbtK7Qj49p4qCR9kBswQCLcB/s1600/movistar-moto-gp.png </thumbnail>
+	</item>
+	
+	
+	
+	
+	
+		<item>
+		<title>[COLOR red]MOVISTAR F1[/COLOR]</title>
+		 <sportsdevil>http://vercanalestv.com/tv/deportes/formula-1.html</sportsdevil>
+        <referer>http://www.vercanalestv.com/tv/deportes/formula-1.html</referer>
+		<thumbnail>https://2.bp.blogspot.com/-7MhAtKz-UAo/V6b5RSgFu0I/AAAAAAAAASo/50dgk_zG77I9KExitmRozPOmp-R7m3zrwCLcB/s1600/movistar-formula-1.png </thumbnail>
 	</item>
 	
 		<item>
@@ -346,19 +386,9 @@
 	</item>
 	
 
-	<item>
-		<title>[COLOR red]MOVISTAR F1[/COLOR]</title>
-		<sportsdevil>http://www.playerhd1.pw/channel.php?file=116&width=650&height=400&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/F1/index2.php</referer>
-		<thumbnail>https://2.bp.blogspot.com/-7MhAtKz-UAo/V6b5RSgFu0I/AAAAAAAAASo/50dgk_zG77I9KExitmRozPOmp-R7m3zrwCLcB/s1600/movistar-formula-1.png </thumbnail>
-	</item>
+
 	
-	<item>
-		<title>[COLOR red]MOVISTAR MOTOGP[/COLOR]</title>
-		<sportsdevil>http://www.dinostream.pw/embed.php?c=105717&width=650&height=400&autostart=true</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/envivo/motogp.html</referer>
-		<thumbnail>https://1.bp.blogspot.com/-iBydqF__JDQ/V6b5RrXFSiI/AAAAAAAAASw/gYVCtWPv8lcPhxbtK7Qj49p4qCR9kBswQCLcB/s1600/movistar-moto-gp.png </thumbnail>
-	</item>
+
 	
 <item>
 <title>[UPPERCASE][COLOR red]1.2MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
