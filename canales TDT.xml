@@ -23,13 +23,13 @@
 	</item>
 	
 
-	<item>
-	<title>[COLOR red].CUATRO[/COLOR]</title>
-	<link>http://piedra21.pedromo.online/live/cuatro/index.m3u8?token=ZpqLftEg-95FjQ1hVsrJlQ&expires=1505758328</link>
-	<referer>http://cinestrenostv.tv/</referer>
-	<thumbnail>https://mdsrwdassets-a.akamaihd.net//parrillas/2017/03/30/ad652ff9bd30eadc5cea3ef2f24e12571490869627.jpg</thumbnail>
- </item>
-		
+
+    <item>
+<title>[COLOR red].CUATRO[/COLOR]</title>
+<sportsdevil>http://vergol.com/live1/cuatro.php</sportsdevil>
+<referer>http://vercanalestv.com/tv/nacionales/cuatro.html</referer>
+<thumbnail>https://mdsrwdassets-a.akamaihd.net//parrillas/2017/03/30/ad652ff9bd30eadc5cea3ef2f24e12571490869627.jpg</thumbnail>
+    </item>
 		
 <item>
 <title>[COLOR red]TELECINCO[/COLOR]</title>
