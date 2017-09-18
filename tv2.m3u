@@ -1,484 +1,135 @@
 #EXTM3U
-#EXTINF:-1,SP: La 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53499.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: La 1 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53498.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: La 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53497.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Antena 3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53496.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Antena 3 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53495.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Cuatro
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53494.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Cuatro HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53493.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Telecinco
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53492.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Telecinco HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53491.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: La Sexta
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53490.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: La Sexta HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53489.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Cosmo
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53452.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Cosmo HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53451.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Divinity
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53484.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Energy
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53485.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Factoría de Ficción
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53486.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MEGA HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53487.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NOVA
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53488.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: NOVA HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53502.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: BeMad TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53350.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Paramount Channel
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53483.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Ten
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53634.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Canal Andalucia Turismo
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59637.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TV Galicia America
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59638.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TV·3 CATALUÑA
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59636.ts&amp;streamtype=TSDOWNLOADER#EXTINF:-1,SP: #0 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53480.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: #0
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53481.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Estrenos
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53478.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Estrenos HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53479.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Acción
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53471.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Acción HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53472.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Comedia
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53474.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Comedia HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53475.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  DCine
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53476.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  DCine HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53477.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Cine en Español
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53473.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Xtra
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53460.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Xtra HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53459.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: XTRM
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53446.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Sundance TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53335.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AMC
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53438.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53437.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53440.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53439.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: AXN White
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53442.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  AXN White HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53441.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: a3series HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53482.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Dark
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53445.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Calle 13
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53444.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  Calle 13 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53443.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: SOMOS
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53447.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Comedy Central
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53450.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Comedy Central HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53449.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53454.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53453.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX Life
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53467.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: FOX Life HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53468.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Hollywood
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53469.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Hollywood  HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53470.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Series
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53457.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Series HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53456.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Series Xtra
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53458.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Series Xtra HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53455.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Syfy
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53462.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: SyFy HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53461.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TCM
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53464.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53463.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TNT
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53466.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53465.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Boing
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53346.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Clan TVE
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53339.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Panda
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53338.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Neox
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53342.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Nick Junior
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53343.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Nickelodeon
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53345.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Nickelodeon HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53344.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Disney Channel
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53358.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Disney Channel HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53359.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Disney Junior
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53340.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Disney XD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53341.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Baby TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53337.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: A&E
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53349.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Cocina
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53351.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Decasa
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53352.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Orbe 21
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53332.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Caza y Pesca
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53353.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Caza y Pesca HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53354.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Crimen e Investigación
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53355.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  Historia
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53365.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Historia HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53366.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Iberalia TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53336.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  National Geographic
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53360.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  National Geographic HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53361.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: National Geographic Wild
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53362.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: National Geographic Wild HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53363.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Discovery Channel
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53356.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Discovery Channel HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53357.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Non Stop People
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53334.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  Odisea
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53364.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Toros TV.
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53378.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Toros Movistar HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53377.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Viajar
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53347.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Viajar HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53348.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Classica
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53333.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Mezzo Live HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53329.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MTV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53330.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MTV Rocks ES
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53331.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TOROS SD 800K
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54511.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,MULTIDEPORTE
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59658.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,COMBATE MAYWEATHER vs MCGREGOR
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/movie/AdrianDaSilva/Hujh34GGnF/54469.mp4
-#EXTINF:-1,SP: Bein Sports Ñ
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54510.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,LA liga123
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54461.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,LaLiga 1|2|3 TV Multi 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54463.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,LaLiga 1|2|3 TV Multi 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54462.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,LaLiga 1|2|3 TV Multi 3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54464.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,La Liga 123 multi 4
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54512.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sport la liga MICROSD  800kbps
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54505.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: BEIN SPORTS MICROSD  800kbps
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54509.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LALIGATV BAR MICROSD  800kbps
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54506.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: M.Formula1 MICROSD  800kbps
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54507.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: M.Motogp MICROSD   800kbps
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54508.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LALIGATVBAR1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59646.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP : MULTIDEPORTE
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59647.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  beIN La Liga FULL HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53626.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: beIN SPORTS FULL HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53625.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  LaLigaTV  FULL HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53624.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: La Liga BAR HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53503.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Betis TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54350.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  Movistar Fórmula 1 FULL HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53623.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  Movistar Moto GP  FULL HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53622.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TOROS TV FULL HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53621.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  Barca TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53368.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53389.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53387.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 1 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53386.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53385.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 2 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53384.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53383.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 4
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53382.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 5
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53381.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 6
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53380.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein LaLiga 7
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53379.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP; Bein LaLiga HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53388.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53401.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: beIN SPORTS España H D
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53400.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 1 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53399.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 1 España HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53398.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 2 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53397.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 2 España HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53396.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 3 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53395.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 4 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53394.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 5 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53393.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 6 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53392.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Bein Sports MAX 7 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53391.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,5 Bein Sports MAX 8 España
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53390.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Eurosport
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53405.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Eurosport 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53403.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53402.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Eurosport HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53404.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Gol TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53407.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LaLigaTV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53409.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: LaLiga TV Bar HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53408.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Deportes 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53374.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Deportes 1 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53373.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Deportes 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53372.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Deportes 2 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53371.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Fórmula 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53411.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Fórmula 1 HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53410.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Fútbol
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53413.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Fútboll HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53412.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Golf
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53415.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Golf HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53414.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Moto GP
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53417.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53416.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Partidazo
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53419.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Movistar  Partidazo HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53418.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:Movistar Partidazo UHD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/54443.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MultiDeportes 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53426.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiDeportes 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53425.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MultiDeportes 3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53424.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiDeportes 4
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53423.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiDeportes 5
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53422.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiDeportes 6
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53421.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MultiDeportes 7
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53420.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiFutbol 1
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53434.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiFutbol 2
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53433.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MultiFutbol 3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53432.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiFutbol 4
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53431.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MultiFutbol 5
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53430.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiFutbol 6
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53429.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: MultiFutbol 7
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53428.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  MultiFutbol 8
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53427.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Real Madrid TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53367.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Teledeporte
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/53436.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,TYC SPORTS HD
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59648.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: redbull.tv
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59659.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ANDORRA:Andorra TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59663.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,onda cadiz
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59698.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:  24 Horas
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59697.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: 101 TV Malaga
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59664.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: 13 TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59665.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: 324
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59666.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: 8 TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59667.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Aragon TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59668.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal 7
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59669.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Andalucia Turismo
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59670.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Extremadura
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59671.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Flamenco TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59672.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Parlamento
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59673.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Sur
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59699.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canaria
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59674.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Castilla-La Mancha
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59675.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Condavision
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59676.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Correo TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59677.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: ETB Sat
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59678.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Hola TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59679.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: IB3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59680.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Informacion TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59681.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Intereconomia TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59682.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Lancelot TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59683.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Lebrija TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59684.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Levante TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59685.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Marca TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59686.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Navarra TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59687.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Onda Azul
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59688.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Radio Television de Ceuta
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59689.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Real Madrid TV (English)
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59690.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Real Madrid TV*
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59691.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: RTPA
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59692.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: RTV Marbella
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59693.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TV Galicia America
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59694.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: GALICIA
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59701.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: TV3
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59695.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP:101 MALAGA
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59696.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,,TV3 (Catalunya)
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59704.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | MTV BASE
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59571.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | MTV Classic
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59572.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | MTV Dance
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59573.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | MTV Hits
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59574.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | MTV Music
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59575.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | MTV Rocks
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59576.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Music | Music Vox TV
-plugin://plugin.video.f4mTester/?url=http://smartiptvspain1.mine.nu:980/live/AdrianDaSilva/Hujh34GGnF/59577.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,❤❤❤❤❤ SPAIN CH ❤❤❤❤❤
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/2302.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Sport TV 1 HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1969.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1101.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Plus Xtra
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1668.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Plus Series Xtra
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1669.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Liga
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1670.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal Plus Golf
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1671.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CanalPlus Decasa
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1672.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C Plus Cocina
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1673.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal + Accion
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1674.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal 2
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1675.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal   1
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1095.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1103.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:  AXN White
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1097.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: :AXN HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1098.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MTV Spain
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1079.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1080.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Fox Spain
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1082.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1089.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal   Futbol
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1085.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal   Dcine
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1086.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Canal   Comedia
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1090.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/1076.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:  C  Dcine Espanol
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5018.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: ANDALUCIA_TV
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Barça
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3113.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: BEIN SPORT HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5433.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Bein Sports
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5434.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: BEIN_SPORTS
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  AMC
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5013.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Canal Odisea
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3099.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Clan TVE
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5014.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Comedy Central
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5015.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Deportes
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5019.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Discovery HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5020.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Disney Junior
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5021.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5022.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Estrenos
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5023.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  FDF
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5024.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Nat Geo Wild
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5028.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Nova
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5030.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Teledeporte
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5033.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C  Viajar
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5035.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: C 24 Horas
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5012.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/4977.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3111.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3110.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: EURONEWS
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3109.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: EUROSPORT
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3108.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3107.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: FOX NEW,S
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5025.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/4976.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: LA SEXTA
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3103.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: La1 HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3105.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: La2
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3104.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MOVISTAR_F1
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3102.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: MoviStar_MotoGp
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3101.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: NATIONAL_GEOGRAPHIC
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3100.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: REAL_MADRID
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3098.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5031.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla 4
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3771.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: Taquilla 6
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3773.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: taquilla_1
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: taquilla_2
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: taquilla_3
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/3688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/4975.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/3KTX8E8R8W/cuySrfj6p2/5034.ts&amp;streamtype=TSDOWNLOADER
