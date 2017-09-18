@@ -386,24 +386,31 @@
 	
 <item>
 		<title>[COLOR red]MOVISTAR DEPORTES 1[/COLOR]</title>
-		<link>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</link>
-		<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
+		<sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
+        <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
 		<thumbnail>https://4.bp.blogspot.com/-bbMkzJkrBC0/V6b5RKFzibI/AAAAAAAAASc/REEuOxaWin4WbEsNVzk94-WVepKv7msMQCLcB/s1600/movistar-deporte-1.png </thumbnail>
 	</item>
 	
 	<item>
 		<title>[COLOR red]MOVISTAR DEPORTES 2[/COLOR]</title>
-		<link>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</link>
-		<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
+		<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
+        <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
 		<thumbnail>https://2.bp.blogspot.com/-b4FUspgJ-Jg/V6b5RABxanI/AAAAAAAAASg/rBo7kURIjdQmRArXCYbd9lFJs4KOIrsJQCLcB/s1600/movistar-deporte-2.png </thumbnail>
 	</item>
 	
 
 
 	
+	<item>
+		<title>[COLOR red]MOVISTAR GOLF[/COLOR]</title>
+		<sportsdevil>http://vergol.com/live1/golf.php</sportsdevil>
+        <referer>http://www.vercanalestv.com/ver-canal-plus-golf-online-en-directo-gratis/</referer>
+		<thumbnail>https://lh3.googleusercontent.com/-ta6mEz3Qcy0/V8n3xWTtHII/AAAAAAAAAc4/97Xl94chUY4_t1n8xuiVj8TWLF14ZfbfACEw/h120/movistar-golf.png</thumbnail>
+	</item>
+	
 
 	
-<item>
+item>
 <title>[UPPERCASE][COLOR red]1.2MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html;amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
@@ -416,7 +423,7 @@
 </item>
 	   
 	   
-<item>
+item>
 <title>[COLOR red]MOVISTAR GOLF[/COLOR]</title>
 <link>$doregex[get_id]|User-Agent=iPad</link>
 <regex>
