@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR red]Sala de Emergencias Historias Ineditas[/COLOR]</title>
+<title>[COLOR yellow]Sala de Emergencias Historias Ineditas[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
