@@ -44,7 +44,7 @@
 
 
 <item>
-<title>EL RINCON DE VALERIA *GRACIAS FER*</title>
+<title>[COLOR pink]EL RINCON[/COLOR][COLOR yellow] DE VALERIA [/COLOR]*GRACIAS FER*</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
