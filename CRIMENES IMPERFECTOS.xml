@@ -7,7 +7,7 @@
 
 
 <item>
-<title>HERMANO MAYOR</title>
+<title>[COLOR red]HERMANO MAYOR [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
