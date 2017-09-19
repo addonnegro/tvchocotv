@@ -5,39 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 --------------------------------------------------------------
 
 
@@ -1309,39 +1276,26 @@
 
 
 
-
 <item>
-   <title>[COLOR red]SALA DE EMERGENCIAS[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_720,w_1440,x_0,y_91/c_fill,h_566,w_1131/v1409065757/Sala_de_Emergencias_T8_Ciencia_Cuerpo_Humano_11.jpg</thumbnail>
-<fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_720,w_1440,x_0,y_91/c_fill,h_566,w_1131/v1409065757/Sala_de_Emergencias_T8_Ciencia_Cuerpo_Humano_11.jpg</fanart>
-   	<genre>
-
-
+<title>[COLORred]SALA DE EMERGENCIAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_720,w_1440,x_0,y_91/c_fill,h_566,w_1131/v1409065757/Sala_de_Emergencias_T8_Ciencia_Cuerpo_Humano_11.jpg</thumbnail>
-<fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_720,w_1440,x_0,y_91/c_fill,h_566,w_1131/v1409065757/Sala_de_Emergencias_T8_Ciencia_Cuerpo_Humano_11.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/trivianita/sala-de-emergencia-64961</page>
-      <cookieJar></cookieJar>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</thumbnail>
+						<fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=5XHLCMLn4ws&amp;list=PLYELiRdzmVVmsgFgeK2agp2mkjL611BK0</page>
+             <cookieJar></cookieJar>
 </regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
 
-------------------------------------------------------------------------------------------------------------------------
+ <thumbnail>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</thumbnail>
+						<fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</fanart>
+
+</item>
 
 
 
