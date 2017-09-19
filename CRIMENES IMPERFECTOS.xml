@@ -5,6 +5,35 @@
 
 
 
+
+<item>
+<title>HERMANO MAYOR</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</thumbnail>
+						<fanart>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=8a5z4GfvwHQ&amp;list=PLbZIUQUg11LnXRNvQUsPDHl_CqcMLS6cf</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</thumbnail>
+						<fanart>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</fanart>
+
+</item>
+
+
+https://www.youtube.com/watch?v=8a5z4GfvwHQ&list=PLbZIUQUg11LnXRNvQUsPDHl_CqcMLS6cf
+
+
+
+
 --------------------------------------------------------------
 
 
