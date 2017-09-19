@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+
+
+<item>
+<title>[COLOR red]Sala de Emergencias Historias Ineditas[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</thumbnail>
+						<fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=opY7j4idjgY&amp;list=PL7EAPMVzUdlD5ehi41Ss7NtrRxON5Wc2s</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</thumbnail>
+						<fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1484603768/DSC_SalaDeEmergencias_HistoriasIne%CC%81ditas_T11_01_1440x900.jpg</fanart>
+
+</item>
+
+
+
+
+
+
 <item>
 <title>[COLOR red]ISABEL PANTOJA REAPARICION TVE 4/12/1985[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HicHYXbCdts</link>
