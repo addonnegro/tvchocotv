@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
 <item>
-<title>Gala Rocio Siempre completa</title>
+<title>1994 GRAN GALA NACIONAL HOMENAJE A LOLA FLORES ANTENA 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=t2pMBVvfwno</link>
+             <thumbnail>https://i.ytimg.com/vi/t2pMBVvfwno/hqdefault.jpg</thumbnail>
+			<fanart>https://i.ytimg.com/vi/t2pMBVvfwno/hqdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>GALA ROCIO SIEMPRE COMPLETA</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eYsrv5b2DQ4</link>
              <thumbnail>https://sgfm.elcorteingles.es/SGFM/dctm/IMAGENES02/201207/31/00105119207990___P1_600x600.jpg</thumbnail>
 			<fanart>https://sgfm.elcorteingles.es/SGFM/dctm/IMAGENES02/201207/31/00105119207990___P1_600x600.jpg</fanart>
