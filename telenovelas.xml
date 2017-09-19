@@ -5,26 +5,25 @@
 
 
 
-
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]TOPACIO [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail></thumbnail>
-						<fanart></fanart>
+                        <thumbnail>https://i.ytimg.com/vi/oyizaUrmvGY/0.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/oyizaUrmvGY/0.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=&amp;list=</page>
+            <page>https://www.youtube.com/watch?v=noLsZtiSSA8&amp;list=PLSLGemuL9JMq1R_FtC6PuDAf8cYDg1bM5</page>
              <cookieJar></cookieJar>
 </regex>
 
 
-                         <thumbnail></thumbnail>
-						<fanart></fanart>
+                         <thumbnail>https://i.ytimg.com/vi/oyizaUrmvGY/0.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/oyizaUrmvGY/0.jpg</fanart>
 
 </item>
 
@@ -32,84 +31,24 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]LA REINA DEL SUR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail></thumbnail>
-						<fanart></fanart>
+                        <thumbnail>http://image.tmdb.org/t/p/w396/vyf4SCbV6pifTZdKobDsclNDubk.jpg</thumbnail>
+						<fanart>http://image.tmdb.org/t/p/w396/vyf4SCbV6pifTZdKobDsclNDubk.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=&amp;list=</page>
+            <page>https://www.youtube.com/watch?v=bnI1AZwt2Y8&amp;list=PLS6WSSlJWVOMPcQDiFXoaaynPpr7dwfQ5</page>
              <cookieJar></cookieJar>
 </regex>
 
 
-                         <thumbnail></thumbnail>
-						<fanart></fanart>
-
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR red][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail></thumbnail>
-						<fanart></fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=&amp;list=</page>
-             <cookieJar></cookieJar>
-</regex>
-
-
-                         <thumbnail></thumbnail>
-						<fanart></fanart>
-
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR red][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail></thumbnail>
-						<fanart></fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=&amp;list=</page>
-             <cookieJar></cookieJar>
-</regex>
-
-
-                         <thumbnail></thumbnail>
-						<fanart></fanart>
+                         <thumbnail>http://image.tmdb.org/t/p/w396/vyf4SCbV6pifTZdKobDsclNDubk.jpg</thumbnail>
+						<fanart>http://image.tmdb.org/t/p/w396/vyf4SCbV6pifTZdKobDsclNDubk.jpg</fanart>
 
 </item>
 
@@ -123,6 +62,65 @@
 
 
 
+<item>
+<title>[COLOR red]LUNA NEGRA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://www.serietv.es/images/serie/GC/luna-negra-G.jpg</thumbnail>
+						<fanart>http://www.serietv.es/images/serie/GC/luna-negra-G.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=QYOaoXpTJOs&amp;list=PL-MTHvEF_UzfW-tQHF9rSc72HszDQzNm-</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>http://www.serietv.es/images/serie/GC/luna-negra-G.jpg</thumbnail>
+						<fanart>http://www.serietv.es/images/serie/GC/luna-negra-G.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]MI GORDA BELLA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7f/Mi_gorda_bella.jpg</thumbnail>
+						<fanart>https://upload.wikimedia.org/wikipedia/en/7/7f/Mi_gorda_bella.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=GiUzJYZ-_HQ&amp;list=PLD89ABDD950A3E5E5</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7f/Mi_gorda_bella.jpg</thumbnail>
+						<fanart>https://upload.wikimedia.org/wikipedia/en/7/7f/Mi_gorda_bella.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -132,48 +130,48 @@
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]VALERIA [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail></thumbnail>
-						<fanart></fanart>
+                        <thumbnail>https://i.ytimg.com/vi/T3tI2wxxEtM/hqdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/T3tI2wxxEtM/hqdefault.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=&amp;list=</page>
+            <page>https://www.youtube.com/watch?v=2xBiMzZRefw&amp;list=PLjcC0jsCUhtR89DccMY6CazjtPCtiTUph</page>
              <cookieJar></cookieJar>
 </regex>
 
 
-                         <thumbnail></thumbnail>
-						<fanart></fanart>
+                         <thumbnail>https://i.ytimg.com/vi/T3tI2wxxEtM/hqdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/T3tI2wxxEtM/hqdefault.jpg</fanart>
 
 </item>
 
 
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<title>[COLOR red]Dame Chocolate[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail></thumbnail>
-						<fanart></fanart>
+                        <thumbnail>http://www.telemundo.com/sites/nbcutelemundo/files/sites/nbcutelemundo/files/images/tv_show/10_DameChocolate_1920x1080_2.jpg</thumbnail>
+						<fanart>http://www.telemundo.com/sites/nbcutelemundo/files/sites/nbcutelemundo/files/images/tv_show/10_DameChocolate_1920x1080_2.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=&amp;list=</page>
+            <page>https://www.youtube.com/watch?v=5rJYFAgFfnI&amp;list=PLG9Rcz8XsqR3BPjGcEIqf5S1b0ZSTpcLT</page>
              <cookieJar></cookieJar>
 </regex>
 
 
-                         <thumbnail></thumbnail>
-						<fanart></fanart>
+                         <thumbnail>http://www.telemundo.com/sites/nbcutelemundo/files/sites/nbcutelemundo/files/images/tv_show/10_DameChocolate_1920x1080_2.jpg</thumbnail>
+						<fanart>http://www.telemundo.com/sites/nbcutelemundo/files/sites/nbcutelemundo/files/images/tv_show/10_DameChocolate_1920x1080_2.jpg</fanart>
 
 </item>
 
