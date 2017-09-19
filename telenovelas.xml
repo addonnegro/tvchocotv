@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR red]pobre diabla completa [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41qX%2BrlrukL.jpg</thumbnail>
+						<fanart>https://images-na.ssl-images-amazon.com/images/I/41qX%2BrlrukL.jpghttp://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4IalnRMc9O0&amp;list=PLT5ZKWxNfpS0ANK79acoWEcb5LtMmZyLf</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41qX%2BrlrukL.jpg</thumbnail>
+						<fanart>https://images-na.ssl-images-amazon.com/images/I/41qX%2BrlrukL.jpghttp://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</fanart>
+
+</item>
