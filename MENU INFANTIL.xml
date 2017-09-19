@@ -52,7 +52,7 @@
 <thumbnail>https://yt3.ggpht.com/-_rXMcujnzKQ/AAAAAAAAAAI/AAAAAAAAAAA/SzKskdKkByc/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
  
-<expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
+<expres>\s?.href="\/playlist\?list=(.*?)">(.*?)\/</expres>
 <page>https://www.youtube.com/user/LORDERFEL/playlists</page>
 <cookieJar></cookieJar>
 </regex>
