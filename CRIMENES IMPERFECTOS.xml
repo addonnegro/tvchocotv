@@ -1068,7 +1068,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR blue].EL RINCON ESPECIAL  [/COLOR][COLOR white] DEL HORMIGUERO [/COLOR]*GRACIAS FER*</title>
+<title>[COLOR blue].EL RINCON ESPECIAL  [/COLOR][COLOR white] DEL HORMIGUERO [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
