@@ -18,7 +18,7 @@
 
 <item>
 <title>LOS MORANCOS ¡Qué noche la de Reyes! 2015</title>
-<link>plugin://plugin.video.youtube/playlist/W4LLzp6eaew</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=W4LLzp6eaew</link>
              <thumbnail>http://s03.s3c.es/imag/_v0/640x300/5/b/8/morancos-reyes.jpg</thumbnail>
 			<fanart>http://s03.s3c.es/imag/_v0/640x300/5/b/8/morancos-reyes.jpg</fanart>
 </item>
@@ -26,7 +26,7 @@
 
 <item>
 <title>los morancos - con vistas al mar</title>
-<link>plugin://plugin.video.youtube/playlist/RSfWpZvS6RE</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=RSfWpZvS6RE</link>
              <thumbnail>https://i.ytimg.com/vi/VtcfvIK8vVQ/hqdefault.jpg</thumbnail>
 			<fanart>https://i.ytimg.com/vi/VtcfvIK8vVQ/hqdefault.jpg</fanart>
 </item>
@@ -34,7 +34,7 @@
 
 <item>
 <title>Los Morancos (55 Minutos en Pekin) 1993</title>
-<link>plugin://plugin.video.youtube/playlist/6Z_xS9arheU</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=6Z_xS9arheU</link>
              <thumbnail>https://i.ytimg.com/vi/j7MLbMqser8/hqdefault.jpg</thumbnail>
 			<fanart>https://i.ytimg.com/vi/j7MLbMqser8/hqdefault.jpg</fanart>
 </item>
@@ -42,7 +42,7 @@
 
 <item>
 <title>Especial "Qué buen puntito" Noche de Reyes</title>
-<link>plugin://plugin.video.youtube/playlist/hgSFQrQm3bY</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=hgSFQrQm3bY</link>
              <thumbnail>https://i.ytimg.com/vi/hgSFQrQm3bY/hqdefault.jpg</thumbnail>
 			<fanart>https://i.ytimg.com/vi/hgSFQrQm3bY/hqdefault.jpg</fanart>
 </item>
@@ -55,7 +55,7 @@
 
 <item>
 <title>Los Morancos - Especial Verano 2002</title>
-<link>plugin://plugin.video.youtube/playlist/xX_x4j4rt0A</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=xX_x4j4rt0A</link>
              <thumbnail>https://i.ytimg.com/vi/xX_x4j4rt0A/maxresdefault.jpg</thumbnail>
 			<fanart>https://i.ytimg.com/vi/xX_x4j4rt0A/maxresdefault.jpg</fanart>
 </item>
@@ -64,7 +64,7 @@
 
 <item>
 <title>Los Morancos - Navidades a 20 Duros Navidad 1995</title>
-<link>plugin://plugin.video.youtube/playlist/Fs6Qr5xAoRU</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=Fs6Qr5xAoRU</link>
              <thumbnail>https://i.ytimg.com/vi/Fs6Qr5xAoRU/hqdefault.jpg</thumbnail>
 			<fanart>https://i.ytimg.com/vi/Fs6Qr5xAoRU/hqdefault.jpg</fanart>
 </item>
@@ -72,7 +72,7 @@
 
 <item>
 <title>(Los Morancos Operación Polvorón) Navidad 2002</title>
-<link>plugin://plugin.video.youtube/playlist/y9MRElvl1as</link>
+<link>plugin://plugin.video.youtube?action=play_video&amp;videoid=y9MRElvl1as</link>
              <thumbnail>https://pics.filmaffinity.com/los_morancos_operacion_polvoron_tv-785126032-large.jpg</thumbnail>
 			<fanart>https://pics.filmaffinity.com/los_morancos_operacion_polvoron_tv-785126032-large.jpg</fanart>
 </item>
