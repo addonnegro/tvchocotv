@@ -39,3 +39,24 @@
 <fanart>http://im.ziffdavisinternational.com/ign_es/screenshot/l/los-20-mejores-openings-de-series-anime-parte-2/los-20-mejores-openings-de-series-anime-parte-2_kt9h.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series%20anime.xml</externallink>	
 </item>
+
+
+
+
+<item>
+<title>EL RINCON DE VALERIA *GRACIAS FER*</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+ <listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+  <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
+ <thumbnail>https://yt3.ggpht.com/-_rXMcujnzKQ/AAAAAAAAAAI/AAAAAAAAAAA/SzKskdKkByc/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</listrepeat>
+ <expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
+<page>https://www.youtube.com/user/LORDERFEL/playlists</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
