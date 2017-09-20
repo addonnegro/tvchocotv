@@ -3,6 +3,26 @@
 
 
 
+<item>
+<title>[COLOR red]Caillou [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                         <thumbnail>https://yt3.ggpht.com/-NJatuoqRC_4/AAAAAAAAAAI/AAAAAAAAAAA/6_rdMxIf4jU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+						<fanart>https://yt3.ggpht.com/-NJatuoqRC_4/AAAAAAAAAAI/AAAAAAAAAAA/6_rdMxIf4jU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=25VRGOUDvT8&amp;list=PLGgTv-LXOj-rqmnDhsgQSo9j4ZfvFbXKA</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>https://yt3.ggpht.com/-NJatuoqRC_4/AAAAAAAAAAI/AAAAAAAAAAA/6_rdMxIf4jU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+						<fanart>https://yt3.ggpht.com/-NJatuoqRC_4/AAAAAAAAAAI/AAAAAAAAAAA/6_rdMxIf4jU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
 
 
 
@@ -10,8 +30,131 @@
 
 
 
+--------------------------------------------------------------
 
 
+https://www.youtube.com/watch?v=25VRGOUDvT8&list=PLGgTv-LXOj-rqmnDhsgQSo9j4ZfvFbXKA
+
+<item>
+<title>[COLOR red]CantaJuego[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                          <thumbnail>http://www.pequeocio.com/wp-content/uploads/2013/05/canciones-ninos-cantajuegos.jpg</thumbnail>
+						<fanart>http://www.pequeocio.com/wp-content/uploads/2013/05/canciones-ninos-cantajuegos.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4NyPBD8Vilk&amp;list=PLK-Oq_wmeJOZlrZ7Pdh-_AVtS7dDe6tRL</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>http://www.pequeocio.com/wp-content/uploads/2013/05/canciones-ninos-cantajuegos.jpg</thumbnail>
+						<fanart>http://www.pequeocio.com/wp-content/uploads/2013/05/canciones-ninos-cantajuegos.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+https://www.youtube.com/watch?v=4NyPBD8Vilk&list=PLK-Oq_wmeJOZlrZ7Pdh-_AVtS7dDe6tRL
+
+<item>
+<title>[COLOR red]La Casa de Mickey Mouse[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://imagessl5.casadellibro.com/a/l/t0/55/9788416548255.jpg</thumbnail>
+						<fanart>https://imagessl5.casadellibro.com/a/l/t0/55/9788416548255.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=2XAvHA4e1zU&amp;list=PLazhL6WL47_PnFTUcksLp9r1cceBJ92f5</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>https://imagessl5.casadellibro.com/a/l/t0/55/9788416548255.jpg</thumbnail>
+						<fanart>https://imagessl5.casadellibro.com/a/l/t0/55/9788416548255.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR red]Pj Masks, Heroes en Pijama[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://oxygenfreejumpingcdn-814a.kxcdn.com/wp-content/uploads/2017/07/PJ-Masks-Trampolining-Toddler-732x386-c-center.jpg</thumbnail>
+						<fanart>https://oxygenfreejumpingcdn-814a.kxcdn.com/wp-content/uploads/2017/07/PJ-Masks-Trampolining-Toddler-732x386-c-center.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=sMVZjhsqErs&amp;list=PLZ1oEOeawa3PjBIpr9DfBK1bB3MTNU17Z</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>https://oxygenfreejumpingcdn-814a.kxcdn.com/wp-content/uploads/2017/07/PJ-Masks-Trampolining-Toddler-732x386-c-center.jpg</thumbnail>
+						<fanart>https://oxygenfreejumpingcdn-814a.kxcdn.com/wp-content/uploads/2017/07/PJ-Masks-Trampolining-Toddler-732x386-c-center.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+
+
+<item>
+<title>[COLOR red] Peppa pig [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://yt3.ggpht.com/-7_iBgucFeO8/AAAAAAAAAAI/AAAAAAAAAAA/dz8vdqatiEY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+						<fanart>https://yt3.ggpht.com/-7_iBgucFeO8/AAAAAAAAAAI/AAAAAAAAAAA/dz8vdqatiEY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=UUdw55ZgbSM&amp;list=PLZ1oEOeawa3OUl1KJnOx2m7tSdM2D-YFc</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                         <thumbnail>https://yt3.ggpht.com/-7_iBgucFeO8/AAAAAAAAAAI/AAAAAAAAAAA/dz8vdqatiEY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+						<fanart>https://yt3.ggpht.com/-7_iBgucFeO8/AAAAAAAAAAI/AAAAAAAAAAA/dz8vdqatiEY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
 
 
 
