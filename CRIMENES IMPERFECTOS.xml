@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR yellow]Escenas de matrimonio T1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://dreamers.com/indices/imagenes/series.442.IMAGEN1.jpg</thumbnail>
+						<fanart>http://dreamers.com/indices/imagenes/series.442.IMAGEN1.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=SOummrqlY5w&amp;list=PL9D98jz6A27azXNHGz7F_PugtzN3SO0W4</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://dreamers.com/indices/imagenes/series.442.IMAGEN1.jpg</thumbnail>
+						<fanart>http://dreamers.com/indices/imagenes/series.442.IMAGEN1.jpg</fanart>
+
+</item>
+
+
+
+https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO0W4
+
+
+
+<item>
+<title>[COLOR yellow]Los Gipsy King[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</thumbnail>
+						<fanart>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=y0dEr_zq8S8&amp;list=PLPbOvCorAaEZ25uHWuCIVFCgWcpDQrmy1</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</thumbnail>
+						<fanart>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</fanart>
+
+</item>
 
 
 
