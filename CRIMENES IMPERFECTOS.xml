@@ -71,7 +71,7 @@
 		<fanart>http://www.formulatv.com/images/fgaleria/38200/38269_m.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>HTTP://DISKOKOSMIKO.MX/AIVAN-BARCELONA/LOS-GIPSY-KINGS-SERIE-COMPLETA-68296/LIST,1,1</page>
+<page>http://diskokosmiko.mx/aivan-barcelona/hermano-mayor-serie-completa-69789/list,1,5</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1345,9 +1345,6 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 <item>
    <title>[COLOR red]BELLEZA MORTAL[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>http://www.dkiss.es/wp-content/uploads/belleza-mortal.jpg</thumbnail>
-<fanart>http://www.dkiss.es/wp-content/uploads/belleza-mortal.jpg</fanart>
-   	<genre>
 
 
 <link>$doregex[makelist]</link>
@@ -1371,7 +1368,9 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
       <referer>http://diskokosmiko.mx/</referer>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
-</regex>	
+</regex>
+	<thumbnail>http://www.dkiss.es/wp-content/uploads/belleza-mortal.jpg</thumbnail>
+<fanart>http://www.dkiss.es/wp-content/uploads/belleza-mortal.jpg</fanart>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -1404,10 +1403,6 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 <item>
    <title>[COLOR red]HOMO ZAPPING[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>http://www.atresplayer.com/clipping/2016/12/29/00038/706.jpg</thumbnail>
-<fanart>http://www.atresplayer.com/clipping/2016/12/29/00038/706.jpg</fanart>
-   	<genre>
-
 
 <link>$doregex[makelist]</link>
 <regex>
@@ -1430,7 +1425,9 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
       <referer>http://diskokosmiko.mx/</referer>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
-</regex>	
+</regex>
+	<thumbnail>http://www.atresplayer.com/clipping/2016/12/29/00038/706.jpg</thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2016/12/29/00038/706.jpg</fanart>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -1449,11 +1446,7 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 
 <item>
-   <title>[COLOR red]MORIR DE AMOR[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>http://www.dkiss.es/wp-content/uploads/esposas-asesinas-2.jpg</thumbnail>
-<fanart>http://www.dkiss.es/wp-content/uploads/esposas-asesinas-2.jpg</fanart>
-   	<genre>
-
+ <title>[COLOR red]MORIR DE AMOR[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 <regex>
@@ -1477,6 +1470,8 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
+<thumbnail>http://www.dkiss.es/wp-content/uploads/esposas-asesinas-2.jpg</thumbnail>
+<fanart>http://www.dkiss.es/wp-content/uploads/esposas-asesinas-2.jpg</fanart>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -1502,11 +1497,6 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 <item>
    <title>[COLOR red]SUPERSTORE[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>https://i.ytimg.com/vi/NgZXnTZbF3g/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/NgZXnTZbF3g/maxresdefault.jpg</fanart>
-   	<genre>
-
-
 <link>$doregex[makelist]</link>
 <regex>
       <name>makelist</name>
@@ -1528,7 +1518,9 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
       <referer>http://diskokosmiko.mx/</referer>
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
-</regex>	
+</regex>
+<thumbnail>https://i.ytimg.com/vi/NgZXnTZbF3g/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NgZXnTZbF3g/maxresdefault.jpg</fanart>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -1556,11 +1548,6 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 <item>
    <title>[COLOR red]CRIMENES-EN LA-RED[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<thumbnail>http://www.dkiss.es/wp-content/uploads/crimenes-en-la-red.jpg</thumbnail>
-<fanart>http://www.dkiss.es/wp-content/uploads/crimenes-en-la-red.jpg</fanart>
-   	<genre>
-
-
 <link>$doregex[makelist]</link>
 <regex>
       <name>makelist</name>
@@ -1583,6 +1570,8 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>	
+<thumbnail>http://www.dkiss.es/wp-content/uploads/crimenes-en-la-red.jpg</thumbnail>
+<fanart>http://www.dkiss.es/wp-content/uploads/crimenes-en-la-red.jpg</fanart>
 </item>
 
 ------------------------------------------------------------------------------------------------------------------------
