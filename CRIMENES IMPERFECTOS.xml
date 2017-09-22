@@ -527,7 +527,7 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 		<fanart>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>diskokosmiko.mx/lokario1/casados-a-primera-vista-temporada-2-20691</page>
+<page>http://diskokosmiko.mx/lokario1/casados-a-primera-vista-temporada-2-20691</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
