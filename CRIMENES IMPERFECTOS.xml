@@ -1,6 +1,153 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+<item>
+<title>[COLOR red]EL JEFE INFILTRADO SERIE COMPLETA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.atresplayer.com/clipping/2014/04/01/00608/705.jpg</thumbnail>
+		<fanart>http://www.atresplayer.com/clipping/2014/04/01/00608/705.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/aivan-barcelona/el-jefe-infiltrado-serie-completa-66397/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.atresplayer.com/clipping/2014/04/01/00608/705.jpg</thumbnail>
+		<fanart>http://www.atresplayer.com/clipping/2014/04/01/00608/705.jpg</fanart>
+</item>
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+--------------------------------------------------------------
+
+
+<item>
+<title>[COLOR red]HERMANO MAYOR SERIE COMPLETA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.formulatv.com/images/fgaleria/38200/38269_m.jpg</thumbnail>
+		<fanart>http://www.formulatv.com/images/fgaleria/38200/38269_m.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>HTTP://DISKOKOSMIKO.MX/AIVAN-BARCELONA/LOS-GIPSY-KINGS-SERIE-COMPLETA-68296/LIST,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.formulatv.com/images/fgaleria/38200/38269_m.jpg</thumbnail>
+		<fanart>http://www.formulatv.com/images/fgaleria/38200/38269_m.jpg</fanart>
+</item>
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+<item>
+<title>[COLOR red]LOS GIPSY KINGS SERIE COMPLETA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</thumbnail>
+		<fanart>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/aivan-barcelona/hermano-mayor-serie-completa-69789/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</thumbnail>
+		<fanart>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</fanart>
+</item>
+
+
+
+
+
+
 <item>
 <title>[COLOR yellow]Escenas de matrimonio T1[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -29,27 +176,7 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 
 
-<item>
-<title>[COLOR yellow]Los Gipsy King[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</thumbnail>
-						<fanart>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=y0dEr_zq8S8&amp;list=PLPbOvCorAaEZ25uHWuCIVFCgWcpDQrmy1</page>
-             <cookieJar></cookieJar>
-</regex>
 
-
-                        <thumbnail>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</thumbnail>
-						<fanart>https://s4.eestatic.com/2016/02/09/actualidad/Actualidad_101001578_985115_1706x960.jpg</fanart>
-
-</item>
 
 
 
@@ -114,30 +241,10 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 </item>
 
 
-<item>
-<title>[COLOR red]HERMANO MAYOR [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</thumbnail>
-						<fanart>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=8a5z4GfvwHQ&amp;list=PLbZIUQUg11LnXRNvQUsPDHl_CqcMLS6cf</page>
-             <cookieJar></cookieJar>
-</regex>
 
 
-                         <thumbnail>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</thumbnail>
-						<fanart>http://www.seriespapaya.com/uploads/Hermano-Mayor47.jpg</fanart>
-
-</item>
 
 
-https://www.youtube.com/watch?v=8a5z4GfvwHQ&list=PLbZIUQUg11LnXRNvQUsPDHl_CqcMLS6cf
 
 
 
@@ -2300,7 +2407,7 @@ https://www.youtube.com/watch?v=8a5z4GfvwHQ&list=PLbZIUQUg11LnXRNvQUsPDHl_CqcMLS
 
 
 <item>
-   <title>[COLOR red]POLICIAS EN ACCION T4[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+   <title>[COLOR red]POLICIAS EN ACCION [/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
 <thumbnail>https://policialocalwakinaki.files.wordpress.com/2013/08/policias-en-accion-la-sexta-2.jpg</thumbnail>
 <fanart>https://policialocalwakinaki.files.wordpress.com/2013/08/policias-en-accion-la-sexta-2.jpg</fanart>
    	<genre>
@@ -2316,7 +2423,7 @@ https://www.youtube.com/watch?v=8a5z4GfvwHQ&list=PLbZIUQUg11LnXRNvQUsPDHl_CqcMLS
 <fanart>https://policialocalwakinaki.files.wordpress.com/2013/08/policias-en-accion-la-sexta-2.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/chicho306/en-accion-t4-34561/list,1,1</page>
+      <page>http://diskokosmiko.mx/aivan-barcelona/policias-en-accion-temporada-casi-completa-69039/list,1,2</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
