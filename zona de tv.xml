@@ -11,8 +11,8 @@ item>
 
 <item>
 <title>[COLOR green]CANALES[/COLOR] [COLOR red]TDT[/COLOR]</title>
-<thumbnail>https://i.blogs.es/3edd42/tdt-espana/original.jpg</thumbnail>
-<fanart>https://i.blogs.es/3edd42/tdt-espana/original.jpg</fanart>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/canales%20TDT.xml</externallink>
 </item>
@@ -21,8 +21,8 @@ item>
 
 <item>
 <title>[COLOR orange]CANALES [/COLOR] [COLOR red]DIGITALES[/COLOR]</title>
-<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
-<fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/canales%20DIGITALES.xml</externallink>
 </item>
@@ -31,8 +31,8 @@ item>
 
 <item>
 <title>[COLOR red]CANALES[/COLOR] [COLOR yellow]TV[/COLOR][COLOR red] ESPAÑA 2[/COLOR]</title>
-<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
-<fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
+<thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+<fanart>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</fanart>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/tv2.m3u</externallink>
 </item>
@@ -47,11 +47,5 @@ item>
 </item>
 
 
-<item>
-<title>[COLOR blue]CANALES[/COLOR][COLOR red] DEL [/COLOR][COLOR green]MUNDO[/COLOR] </title>
-<thumbnail>http://i.imgur.com/UDno6.png</thumbnail>
-<fanart>http://i.imgur.com/UDno6.png</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/CANALES%20DEL%20MUNDO.m3u</externallink>
-</item>
+
 
