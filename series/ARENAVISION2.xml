@@ -4,7 +4,7 @@
 
 
 
-<item>
+item>
 <title>[COLOR yellow]CANALES BEIN SPORT DEL MUNDO[/COLOR]</title>
 <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</thumbnail>
 <fanart>http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg</fanart>
@@ -21,7 +21,7 @@
 
 -------------------------------------------------------------------------------------
 <item>
-<title>[COLOR red]ARENAVISION GUIA  [/COLOR]]</title>
+<title>[COLOR red]ARENAVISION AGENDA[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
