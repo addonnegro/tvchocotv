@@ -1,0 +1,86 @@
+#EXTINF:-1,BEIN SPORT 1 FR WWW.IPTVSOURCE.COM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/954.ts
+#EXTINF:-1,BEIN SPORT 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/953.ts
+#EXTINF:-1,BEIN SPORT 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/952.ts
+#EXTINF:-1,AR|BEIN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/942.ts
+#EXTINF:-1,AR|BEIN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/941.ts
+#EXTINF:-1,AR|BEIN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/940.ts
+#EXTINF:-1,AR|BEIN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/939.ts
+#EXTINF:-1,AR|BEIN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/938.ts
+#EXTINF:-1,AR|BEIN 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/937.ts
+#EXTINF:-1,AR|BEIN 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/936.ts
+#EXTINF:-1,AR|BEIN 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/935.ts
+#EXTINF:-1,AR|BEIN 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/934.ts
+#EXTINF:-1,AR|BEIN 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/933.ts
+#EXTINF:-1,UK | BTSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1079.ts
+#EXTINF:-1,UK | BTSport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1078.ts
+#EXTINF:-1,UK | BTSportEurope
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1085.ts
+#EXTINF:-1,UK | BTSportESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1077.ts
+#EXTINF:-1,UK | Setanta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1076.ts
+#EXTINF:-1,UK | PremierSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1074.ts
+#EXTINF:-1,UK | Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1127.ts
+#EXTINF:-1,FR Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/951.ts
+#EXTINF:-1,FR Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/950.ts
+#EXTINF:-1,NL | NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/765.ts
+#EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/771.ts
+#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/770.ts
+#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/769.ts
+#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/768.ts
+#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/767.ts
+#EXTINF:-1,NL | DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/766.ts
+#EXTINF:-1,UK | SkySportNewsUk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1087.ts
+#EXTINF:-1,UK | SkysportNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1086.ts
+#EXTINF:-1,UK | SkysportF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1088.ts
+#EXTINF:-1,UK | SkySport1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1093.ts
+#EXTINF:-1,UK | SkySport2 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1092.ts
+#EXTINF:-1,UK | SkySport3 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1091.ts
+#EXTINF:-1,UK | SkySport4  UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1090.ts
+#EXTINF:-1,UK | SkySport5 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1089.ts
+#EXTINF:-1,UK | EUROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1095.ts
+#EXTINF:-1,UK | EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1094.ts
+#EXTINF:-1,IT | SkySportF1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1332.ts
+#EXTINF:-1,IT | SkySport1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1336.ts
+#EXTINF:-1,IT | SkySport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1335.ts
+#EXTINF:-1,IT | SkySport3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.red:8080/live/propanel/XCt5vFYWlL/1334.ts
