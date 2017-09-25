@@ -49,7 +49,7 @@ item>
 </item>	
  
 <item>
-<title>[COLOR yellow]LISTA DE CANALES *IN* ARENAVISION[/COLOR]</title>
+<title>[COLOR yellow]LISTA DE CANALES[COLOR green] ARENAVISION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
