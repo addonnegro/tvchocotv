@@ -21,7 +21,7 @@ item>
 
 -------------------------------------------------------------------------------------
 <item>
-<title>[COLOR fuchia]ARENAVISION AGENDA[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR red]ARENAVISION AGENDA[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -48,7 +48,7 @@ item>
 <fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
 </item>	
  
-item>
+<item>
 <title>[COLOR yellow]LISTA DE CANALES[COLOR green] ARENAVISION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -59,8 +59,8 @@ item>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/[makelist.param1]</page>
-			<referer>http://arenavision2017.top</referer>
+			<page>http://arenavision.in/[makelist.param1]</page>
+			<referer>http://arenavision.in/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
  <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
