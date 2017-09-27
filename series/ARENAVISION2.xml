@@ -70,7 +70,7 @@ item>
 </item>	
  
 <item>
-<title>[COLOR yellow]LISTA DE CANALES  ARENAVISION[/COLOR]</title>
+<title>[COLOR yellow]LISTA DE CANALES  ARENAVISION  [/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -100,7 +100,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].in[/COLOR]</title>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].in[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -111,7 +111,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].ru[/COLOR]</title>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].ru[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -122,7 +122,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].top[/COLOR]</title>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].top[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -133,7 +133,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].us[/COLOR]</title>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].us[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -144,7 +144,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].cf[/COLOR]</title>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].cf[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -155,7 +155,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ga[/COLOR]</title>
+<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ga[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -166,7 +166,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ml[/COLOR]</title>
+<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ml[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -177,7 +177,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].tk[/COLOR]</title>
+<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].tk[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
