@@ -15,13 +15,34 @@ item>
 
 
 
+<item>
+<title>[COLOR lime] AGENDA [/COLOR][COLOR yellow] ARENAVISION 1 [COLOR pink]CLIC AQUI[/COLOR]</title>
+ 
+<link>$doregex[makelist]</link>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR pink] [makelist.param3] [/COLOR][COLOR orange] [makelist.param2] [makelist.param4][/COLOR] [COLOR blue][makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=tvchopo</link>
+<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+<fanart></fanart>
+</item>
 
 
 
 
 -------------------------------------------------------------------------------------
 <item>
-<title>[COLOR red]ARENAVISION AGENDA[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR red]ARENAVISION AGENDA 2[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -39,7 +60,7 @@ item>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://www.arenavision.ru/iguide</page>
+<page>http://www.arenavision.ru/iguide/</page>
 <Agent>Mozilla</Agent>
 <referer>http://www.arenavision.ru/</referer>
 <setcookie>beget=begetok</setcookie>
@@ -49,7 +70,7 @@ item>
 </item>	
  
 <item>
-<title>[COLOR yellow]LISTA DE CANALES[COLOR green] ARENAVISION[/COLOR]</title>
+<title>[COLOR yellow]LISTA DE CANALES  ARENAVISION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -59,7 +80,7 @@ item>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.ru/[makelist.param1]</page>
+			<page>http://arenavision.top/[makelist.param1]</page>
 			<referer>http://arenavision2017.top</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
@@ -76,6 +97,7 @@ item>
  <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
  <fanart>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</fanart>
 </item>
+
 
 <item>
 <title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].in[/COLOR]</title>
