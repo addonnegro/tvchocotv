@@ -31,7 +31,7 @@ item>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.top/[makelist.param6]</page>
+			<page>http://arenavision.in/[makelist.param6]</page>
 			<referer>http://arenavision.in/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
@@ -41,7 +41,7 @@ item>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
 <page>http://arenavision.in/iguide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision.top</referer>
+<referer>http://arenavision.in/</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
 <thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
