@@ -1,321 +1,143 @@
 #EXTM3U
-#EXTINF:-1,=======   SPANISH   =======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/2890.ts
-#EXTINF:-1,SP: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12532.ts
-#EXTINF:-1,SP: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15907.ts
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7661.ts
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7660.ts
-#EXTINF:-1,SP: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7710.ts
-#EXTINF:-1,SP: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15474.ts
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15411.ts
-#EXTINF:-1,SP: Cuatro.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7686.ts
-#EXTINF:-1,SP: TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15412.ts
-#EXTINF:-1,SP: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/10008.ts
-#EXTINF:-1,SP: La Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7674.ts
-#EXTINF:-1,SP: La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15909.ts
-#EXTINF:-1,SP: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/14970.ts
-#EXTINF:-1,SP: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7668.ts
-#EXTINF:-1,SP: Mega Tv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7713.ts
-#EXTINF:-1,SP: Fdf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7679.ts
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7714.ts
-#EXTINF:-1,SP: Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7681.ts
-#EXTINF:-1,SP: Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7640.ts
-#EXTINF:-1,SP: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7601.ts
-#EXTINF:-1,====== ESTILO DE VIDA======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12539.ts
-#EXTINF:-1,SP: Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13704.ts
-#EXTINF:-1,SP: Cosmo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7621.ts
-#EXTINF:-1,SP: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7629.ts
-#EXTINF:-1,SP: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13003.ts
-#EXTINF:-1,====== INFANTILES ======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12536.ts
-#EXTINF:-1,SP: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7684.ts
-#EXTINF:-1,SP: Disney Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7683.ts
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7682.ts
-#EXTINF:-1,SP: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7720.ts
-#EXTINF:-1,SP: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7707.ts
-#EXTINF:-1,SP: Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7670.ts
-#EXTINF:-1,SP: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7669.ts
-#EXTINF:-1,====== DOCUMENTALES ======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12537.ts
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7676.ts
-#EXTINF:-1,SP: Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12542.ts
-#EXTINF:-1,SP: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7620.ts
-#EXTINF:-1,SP: National Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13706.ts
-#EXTINF:-1,SP: National Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7671.ts
-#EXTINF:-1,SP: National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13707.ts
-#EXTINF:-1,SP: National Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7672.ts
-#EXTINF:-1,SP: Crime + Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13004.ts
-#EXTINF:-1,SP: NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15427.ts
-#EXTINF:-1,====== CINE ======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12538.ts
-#EXTINF:-1,SP: M. ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15414.ts
-#EXTINF:-1,SP: M.Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7703.ts
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15415.ts
-#EXTINF:-1,SP: M. Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7698.ts
-#EXTINF:-1,SP: M. COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15416.ts
-#EXTINF:-1,SP: M. Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7697.ts
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15417.ts
-#EXTINF:-1,SP: M. Dcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7652.ts
-#EXTINF:-1,SP: M. XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15418.ts
-#EXTINF:-1,SP: M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7649.ts
-#EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15419.ts
-#EXTINF:-1,SP: M. Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7691.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15420.ts
-#EXTINF:-1,SP: M. Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7690.ts
-#EXTINF:-1,SP: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13710.ts
-#EXTINF:-1,SP: Comedy Central.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7687.ts
-#EXTINF:-1,SP: Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7689.ts
-#EXTINF:-1,SP: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7643.ts
-#EXTINF:-1,SP: Fox.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7678.ts
-#EXTINF:-1,SP: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13711.ts
-#EXTINF:-1,SP: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7677.ts
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15421.ts
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7653.ts
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7709.ts
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7708.ts
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7594.ts
-#EXTINF:-1,SP: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7666.ts
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15423.ts
-#EXTINF:-1,SP: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7665.ts
-#EXTINF:-1,SP: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7663.ts
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15422.ts
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7705.ts
-#EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7716.ts
-#EXTINF:-1,====== Taquilla ======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12540.ts
-#EXTINF:-1,SP: Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7612.ts
-#EXTINF:-1,SP: Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7610.ts
-#EXTINF:-1,SP: Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7609.ts
-#EXTINF:-1,SP: Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7608.ts
-#EXTINF:-1,SP: Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7607.ts
-#EXTINF:-1,SP: Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7606.ts
-#EXTINF:-1,SP: Taquilla 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7605.ts
-#EXTINF:-1,SP: Taquilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7604.ts
-#EXTINF:-1,SP: Taquilla 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7603.ts
-#EXTINF:-1,SP: Taquilla 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7611.ts
-#EXTINF:-1,====== EXTRA ======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15476.ts
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15424.ts
-#EXTINF:-1,SP: Toros Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7701.ts
-#EXTINF:-1,SP: Caza Y Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7688.ts
-#EXTINF:-1,SP: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15425.ts
-#EXTINF:-1,====== DEPORTES ======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12541.ts
-#EXTINF:-1,SP:  M. MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15438.ts
-#EXTINF:-1,SP: M. MotoGp HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7616.ts
-#EXTINF:-1,SP: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7715.ts
-#EXTINF:-1,SP: Gol TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7702.ts
-#EXTINF:-1,SP: M.  FUTBOL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15433.ts
-#EXTINF:-1,SP: M. Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13008.ts
-#EXTINF:-1,SP: M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13010.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15434.ts
-#EXTINF:-1,SP: M. Depotes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13009.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15435.ts
-#EXTINF:-1,SP: M. Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12545.ts
-#EXTINF:-1,SP: M. Formula 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15437.ts
-#EXTINF:-1,SP: M. Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7617.ts
-#EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15436.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15431.ts
-#EXTINF:-1,SP: Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7614.ts
-#EXTINF:-1,SP: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7662.ts
-#EXTINF:-1,SP: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15439.ts
-#EXTINF:-1,SP: Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7680.ts
-#EXTINF:-1,SP: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15475.ts
-#EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15440.ts
-#EXTINF:-1,SP: BeIN Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13279.ts
-#EXTINF:-1,SP: Bein LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13709.ts
-#EXTINF:-1,SP: beIN La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12497.ts
-#EXTINF:-1,SP: La Liga TV Bar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/13006.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15429.ts
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15430.ts
-#EXTINF:-1,SP: LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15428.ts
-#EXTINF:-1,SP: LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15441.ts
-#EXTINF:-1,SP: LA LIGA TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15442.ts
-#EXTINF:-1,SP: LA LIGA TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15443.ts
-#EXTINF:-1,SP: LA LIGA TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15444.ts
-#EXTINF:-1,SP: LA LIGA TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15445.ts
-#EXTINF:-1,SP: LA LIGA TV 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15446.ts
-#EXTINF:-1,SP: LA LIGA TV 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15447.ts
-#EXTINF:-1,SP: LA LIGA TV 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15448.ts
-#EXTINF:-1,SP: LA LIGA TV 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15449.ts
-#EXTINF:-1,SP: BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15450.ts
-#EXTINF:-1,SP: BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15453.ts
-#EXTINF:-1,SP: BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15451.ts
-#EXTINF:-1,SP: BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15454.ts
-#EXTINF:-1,SP: BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15455.ts
-#EXTINF:-1,SP: BEIN MAX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15452.ts
-#EXTINF:-1,SP: BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15456.ts
-#EXTINF:-1,SP: BEIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15457.ts
-#EXTINF:-1,SP: BEIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15458.ts
-#EXTINF:-1,SP: BEIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15459.ts
-#EXTINF:-1,SP: BEIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15460.ts
-#EXTINF:-1,SP: MULTIDEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15461.ts
-#EXTINF:-1,SP: MULTIDEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15462.ts
-#EXTINF:-1,SP: MULTIDEPORTES 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15463.ts
-#EXTINF:-1,SP: MULTIDEPORTES 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/15464.ts
-#EXTINF:-1,SP: Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7658.ts
-#EXTINF:-1,SP: Sol Musica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7721.ts
-#EXTINF:-1,SP: MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/12535.ts
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7591.ts
-#EXTINF:-1,SP: Proyecto 40
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7667.ts
-#EXTINF:-1,SP: Canal 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7631.ts
-#EXTINF:-1,SP: TELEVISA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7657.ts
-#EXTINF:-1,SP: Canal 41 Mar Del
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7632.ts
-#EXTINF:-1,SP: Canal 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7633.ts
-#EXTINF:-1,SP: Canal 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7634.ts
-#EXTINF:-1,SP: Canal Costa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7628.ts
-#EXTINF:-1,SP: 3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7642.ts
-#EXTINF:-1,SP: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://andutv.ddns.net:6500/live/znoqq/zno1/7627.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/315.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/337.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/336.ts
+#EXTINF:-1,ES: #O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/349.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/317.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/316.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/348.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/187.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/347.ts
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/346.ts
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/882.ts
+#EXTINF:-1,ES: B31N La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/264.ts
+#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/160.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/345.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/344.ts
+#EXTINF:-1,ES: COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/343.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/342.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/341.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/313.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/340.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/314.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/312.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/311.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/310.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/309.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/308.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/307.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/306.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/339.ts
+#EXTINF:-1,ES: GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/265.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/305.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/338.ts
+#EXTINF:-1,ES: La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/188.ts
+#EXTINF:-1,ES: LaLigaTV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/161.ts
+#EXTINF:-1,ES: M20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/304.ts
+#EXTINF:-1,ES: M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/303.ts
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/263.ts
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/159.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/156.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/335.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/334.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/333.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/332.ts
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/189.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/158.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/157.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/331.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/302.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/301.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/330.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/329.ts
+#EXTINF:-1,ES: MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/328.ts
+#EXTINF:-1,ES: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/327.ts
+#EXTINF:-1,ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/326.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/300.ts
+#EXTINF:-1,ES: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/325.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/299.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/324.ts
+#EXTINF:-1,ES: ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/298.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/297.ts
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/296.ts
+#EXTINF:-1,ES: Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/183.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/323.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/322.ts
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/321.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/320.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/319.ts
+#EXTINF:-1,ES: TOROSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/155.ts
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/295.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/318.ts
+#EXTINF:-1,ES: VIRGIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.245.96.214:8000/live/alexandra/alexandra1/294.ts
