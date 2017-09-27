@@ -48,7 +48,7 @@ item>
 <fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
 </item>	
  
-<item>
+item>
 <title>[COLOR yellow]LISTA DE CANALES[COLOR green] ARENAVISION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -162,7 +162,7 @@ item>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision-tk.xml</externallink>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -175,7 +175,7 @@ item>
 <title>ArenaVision 1</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -188,7 +188,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 2</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -201,7 +201,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 3</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -214,7 +214,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 4</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -227,7 +227,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 5</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -240,7 +240,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 6</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -253,7 +253,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 7</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -266,7 +266,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 8</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -279,7 +279,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 9</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -292,7 +292,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 10</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -305,7 +305,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 11</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -318,7 +318,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 12</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -331,7 +331,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 13</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -344,7 +344,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 14</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -357,7 +357,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 15</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -370,7 +370,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 16</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -383,7 +383,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 17</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -396,7 +396,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 18</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -409,7 +409,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 19</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -422,7 +422,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 20</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -435,7 +435,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 21</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -448,7 +448,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 22</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -461,7 +461,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 23</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -474,7 +474,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 24</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -487,7 +487,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 25</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -500,7 +500,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 26</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -513,7 +513,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 27</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -526,7 +526,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 28</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -539,7 +539,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 29</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
@@ -552,7 +552,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <title>ArenaVision 30</title>
 </item>
 
-<item>
+item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
 <name>hash</name>
