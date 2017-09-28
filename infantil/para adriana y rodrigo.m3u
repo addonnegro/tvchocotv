@@ -1,3 +1,13 @@
-#EXTINF:-1,======para adriana y rodrigo ====
-#EXTINF:-1 ,PAKA PAKA
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow]PAKA-AKA [/COLOR] PARA [COLOR yellow]"[/COLOR][COLOR fuchsia]ADRIANA [/COLOR][COLOR orange]Y [/COLOR][COLOR blue]RODRIGO[/COLOR][COLOR yellow]" [/COLOR]</title>
+<link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PAKA PAKA</title>
+<link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
