@@ -41,15 +41,15 @@
 <thumbnail>https://i.pinimg.com/736x/c3/09/15/c30915746849a8f63d84bf282dea6e15--netflix-tv.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/9eXVNxtGdpI/maxresdefault.jpg</fanart>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/MENU%20SERIES.xml</externallink>
-</item>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20serie/MENU%20SERIES.xml</externallink>
+</item>       
 
 <item>
 <title>[COLOR pink]LA ZONA[/COLOR][COLOR fuchsia] TELENOVELAS[/COLOR]</title>
 <thumbnail>https://st-listas.20minutos.es/images/2012-04/326833/list_640px.jpg</thumbnail>
 <fanart>https://st-listas.20minutos.es/images/2012-04/326833/list_640px.jpg</fanart>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/telenovelas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/telenovelas/telenovelas.xml</externallink>
 </item>
 
 
@@ -59,7 +59,7 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9Nk6LQIo7Tg5X-xJZHQdc7QOxbMxk69ebZ9gFGKZI21-Xmix9w</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21K0HOZZFZR7lmJT_p6xNpnYob_wXUiA858SsV6m4YfuH47hS</fanart>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/MENU%20INFANTIL.xml</externallink>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/infantil/MENU%20INFANTIL.xml</externallink>
 </item>
 
 <item>
@@ -67,7 +67,7 @@
 <thumbnail>https://i.ytimg.com/vi/DC318FDOfH0/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/DC318FDOfH0/maxresdefault.jpg</fanart>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/series/ARENAVISION2.xml</externallink>
+<externallink>https://github.com/elchocolate/tvchocotv/blob/master/arenavision/ARENAVISION2.xml</externallink>
 </item>
 
 
