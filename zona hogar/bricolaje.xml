@@ -16,7 +16,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://static.hogarmania.com/archivos/201610/bricomania-kristian-pielhoff-416x236x80xX.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCovV0wjdqvdPj9WbHonTaqQ</page>
@@ -31,7 +31,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://sc2.emgcdn.net/assets/es/logos/centro/id/68227/size/m.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCjz6NDWUOYprLmeDGeJzZSg</page>
@@ -46,7 +46,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://cdn2.hubspot.net/hubfs/235604/taller10-3.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCLKqcMf9_oeDZZempGOnrWA</page>
@@ -60,7 +60,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://estag.fimagenes.com/img/3/l/7/L/l7L_900.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCeydgXcXpMgtzNQCImHtP7Q</page>
@@ -75,7 +75,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://i2.ytimg.com/vi/2DLoFvjSvI8/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCGE03VgEOb_FMAV2siRt8-g</page>
@@ -90,7 +90,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://mediafer.files.wordpress.com/2013/04/bricolaje-facil-libros-de-vecchi-mediafer.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC4Yg8rF_PCqDpH5gZ3nFE_w</page>
@@ -104,7 +104,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://yt3.ggpht.com/-EsOsKYfr78w/AAAAAAAAAAI/AAAAAAAAAAA/09Ei_proUIo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCHJGkk2d9xig68gKx9LbWoQ</page>
@@ -118,7 +118,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://www.leroymerlin.es/dms/static/empleo/dms/static/rrhh/noticias/tienda-leroy-merlin.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC9F2klx6SlGgj3AlWphBTMA</page>
@@ -135,7 +135,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://4vector.com/thumb_data/afd-61153.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCpmDVyuojddZ-cJ3eO0cEkA</page>
