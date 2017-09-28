@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=YgKUjYu9_Gw&list=PLtPEpImN0kFDt260SO3WQRVVg2E38F
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-						<fanart>http://dreamers.com/indices/imagenes/series.442.IMAGEN1.jpg</fanart>
+					
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=M5NN0XvZ1sg&amp;list=PLb79O_mdJq1nsd_fhr8MRuLmUjq5Tco_D</page>
