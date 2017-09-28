@@ -21,6 +21,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCXISYK3xagaK5DHnhQ4X0hw</page>
 </regex>
+<thumbnail>http://as00.epimg.net/img/comunes/redes/gplus/futbol.png</thumbnail>
+		<fanart>http://as00.epimg.net/img/comunes/redes/gplus/futbol.png</fanart>
 
 </item>
 
@@ -35,6 +37,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg</page>
 </regex>
+<thumbnail>http://estaticos04.marca.com/imagenes/2010/09/17/g1709.jpg</thumbnail>
+		<fanart>http://estaticos04.marca.com/imagenes/2010/09/17/g1709.jpg</fanart>
 </item>
 
 
@@ -50,7 +54,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCWSZJ4r3s5xk8zICXEveFpg</page>
 </regex>
-
+<thumbnail>http://www.mundodeportivo.com/r/GODO/MD/p4/ContraPortada/Imagenes/2017/08/25/img_dmalia_20170825-003233_imagenes_md_otras_fuentes_no_archivables_mddia_cas_ara_250817_001_1.jpg</thumbnail>
+		<fanart>http://www.mundodeportivo.com/r/GODO/MD/p4/ContraPortada/Imagenes/2017/08/25/img_dmalia_20170825-003233_imagenes_md_otras_fuentes_no_archivables_mddia_cas_ara_250817_001_1.jpg</fanart>
 </item>
 
 <item><title>Diario SPORT</title>
@@ -64,6 +69,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC-KNOeH9Cz2Ch3HMujlaTow</page>
 </regex>
+<thumbnail>https://www.blaugranas.com/media/galeria/25/7/6/8/6/n_f_c_barcelona_portada_prensa_deportiva-4566867.jpg</thumbnail>
+		<fanart>https://www.blaugranas.com/media/galeria/25/7/6/8/6/n_f_c_barcelona_portada_prensa_deportiva-4566867.jpg</fanart>
 </item>
 
 
@@ -78,6 +85,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA</page>
 </regex>
+<thumbnail>https://www.marcaentradas.com/files/images/fichero22858.jpg</thumbnail>
+		<fanart>https://www.marcaentradas.com/files/images/fichero22858.jpg</fanart>
 
 </item>
 
@@ -93,6 +102,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA</page>
 </regex>
+<thumbnail>http://files.laliga.es/seccion_logos/laliga-123-v-negativo-monocolor-16-9.jpg</thumbnail>
+		<fanart>http://files.laliga.es/seccion_logos/laliga-123-v-negativo-monocolor-16-9.jpg</fanart>
 
 </item>
 
@@ -107,6 +118,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCWV3obpZVGgJ3j9FVhEjF2Q</page>
 </regex>
+<thumbnail>https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg</fanart>
 
 </item>
 
@@ -121,6 +134,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCR-x6oU8RCJ-any_lX3JrGQ</page>
 </regex>
+<thumbnail>https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg</fanart>
 
 </item>
 
@@ -136,6 +151,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCynPJJuuVr3R54z0I8vpGMw</page>
 </regex>
+<thumbnail>https://www.corazonblanco.com/media/galeria/44/6/8/9/5/n_real_madrid_champions_league-9795986.jpeg</thumbnail>
+		<fanart>https://www.corazonblanco.com/media/galeria/44/6/8/9/5/n_real_madrid_champions_league-9795986.jpeg</fanart>
 
 </item>
 
@@ -150,6 +167,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC14UlmYlSNiQCBe9Eookf_A</page>
 </regex>
+<thumbnail>https://pbs.twimg.com/profile_images/899584358041956353/LpYAYxjB.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/899584358041956353/LpYAYxjB.jpg</fanart>
 
 </item>
 
@@ -165,7 +184,9 @@
 <page>https://www.youtube.com/channel/UC-8RewzjUg9NiT8_9VqgWhQ</page>
 </regex>
 
-</item>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/dfb4e66f4e82d4c1abfaad27f3bfa2d1</thumbnail>
+		<fanart>http://www.mundoplus.tv/img/dfb4e66f4e82d4c1abfaad27f3bfa2d1</fanart>
 
 <item><title>Atletico de Madrid</title>
 <link>$doregex[makelist]</link>
@@ -178,6 +199,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCuzKFwdh7z2GHcIOX_tXgxA</page>
 </regex>
+<thumbnail>https://www.colchonero.com/media/galeria/4/2/6/6/4/n_atletico_de_madrid_atletico_de_madrid_wallpapers-6654662.jpeg</thumbnail>
+		<fanart>https://www.colchonero.com/media/galeria/4/2/6/6/4/n_atletico_de_madrid_atletico_de_madrid_wallpapers-6654662.jpeg</fanart>
 
 </item>
 
@@ -196,7 +219,9 @@
 <page>https://www.youtube.com/channel/UC45IQptDObpqdaP-kFtMLsg</page>
 </regex>
 
-</item>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/821337272477974528/2jLSfpjG.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/821337272477974528/2jLSfpjG.jpg</fanart>
 
 <item><title>Resumenes FUT</title>
 <link>$doregex[makelist]</link>
@@ -210,11 +235,13 @@
 <page>https://www.youtube.com/channel/UCpCyAigQ-t9UtGaCwahpsSg</page>
 </regex>
 
-</item>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-av13vGQDKh8/AAAAAAAAAAI/AAAAAAAAAAA/VnKYn1MtHiE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+		<fanart>https://yt3.ggpht.com/-av13vGQDKh8/AAAAAAAAAAI/AAAAAAAAAAA/VnKYn1MtHiE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 
 
 
-<item><title>Fútbol TV</title>
+<item><title>Futbol TV</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -225,10 +252,13 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCbvuXUb7orJNFTPy_DS87bg</page>
 </regex>
+</regex>
+<thumbnail>https://scontent-frt3-2.cdninstagram.com/t/13551708_1772133709664876_898715839_a.jpg</thumbnail>
+		<fanart>https://scontent-frt3-2.cdninstagram.com/t/13551708_1772133709664876_898715839_a.jpg</fanart>
 
 </item>
 
-<item><title>Fútbol 11</title>
+<item><title>Futbol 11</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -239,6 +269,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC4exwvBcq8FoIy2IKv6iZsQ</page>
 </regex>
+<thumbnail>http://www.cfsanjose.com/images/imagenes/F11.jpg</thumbnail>
+		<fanart>http://www.cfsanjose.com/images/imagenes/F11.jpg</fanart>
 
 </item>
 
@@ -254,10 +286,12 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCCJR0Aceu5_OU19Jec8iaMQ</page>
 </regex>
+<thumbnail>https://okdiario.com/img/2016/04/1445796013_extras_noticia_foton_7_0.jpg</thumbnail>
+		<fanart>https://okdiario.com/img/2016/04/1445796013_extras_noticia_foton_7_0.jpg</fanart>
 
 </item>
 
-<item><title>Videos Fútbol</title>
+<item><title>Videos Futbol</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -268,6 +302,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCauLwZ0sCxD1nIUrn5-MbZg</page>
 </regex>
+<thumbnail>http://2.bp.blogspot.com/-ll_NjxnTSkM/TrVYMa5pF1I/AAAAAAAAGGc/vNHhg8raUqs/s1600/los_Videos_de_Futbol_mas_vistos_de_Youtube.jpg</thumbnail>
+		<fanart>http://2.bp.blogspot.com/-ll_NjxnTSkM/TrVYMa5pF1I/AAAAAAAAGGc/vNHhg8raUqs/s1600/los_Videos_de_Futbol_mas_vistos_de_Youtube.jpg</fanart>
 
 </item>
 
@@ -283,6 +319,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCjZh7FzztNo3up7mD75DAiQ</page>
 </regex>
+<thumbnail>http://cadenaser00.epimg.net/emisora/imagenes/2017/07/05/radio_san_sebastian/1499268719_903532_1499268761_noticia_normal.jpg</thumbnail>
+		<fanart>http://cadenaser00.epimg.net/emisora/imagenes/2017/07/05/radio_san_sebastian/1499268719_903532_1499268761_noticia_normal.jpg</fanart>
 
 </item>
 
@@ -297,6 +335,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCjZh7FzztNo3up7mD75DAiQ</page>
 </regex>
+<thumbnail>https://yt3.ggpht.com/-lYfl63-djm4/AAAAAAAAAAI/AAAAAAAAAAA/regNS8ax0N0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+		<fanart>https://yt3.ggpht.com/-lYfl63-djm4/AAAAAAAAAAI/AAAAAAAAAAA/regNS8ax0N0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 
 </item>
 
@@ -312,7 +352,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCTJNmeP0HiOU4-qOMNVNoGA</page>
 </regex>
-
+<thumbnail>https://pbs.twimg.com/profile_images/851090888197627904/P984_52F.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/851090888197627904/P984_52F.jpg</fanart>
 </item>
 
 <item><title>Pasion Basket</title>
@@ -326,6 +367,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC0Fm_DWBjlRUXBcFnnnqtXQ</page>
 </regex>
+<thumbnail>https://pbs.twimg.com/profile_images/540586562598092800/tD4Evqd5.png</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/540586562598092800/tD4Evqd5.png</fanart>
 
 </item>
 
@@ -343,6 +386,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCXak-KKzQm3mGOsYGWuC2nA</page>
 </regex>
+<thumbnail>https://yt3.ggpht.com/-T40nMEYhob8/AAAAAAAAAAI/AAAAAAAAAAA/qNJ7TKwpX6w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+		<fanart>https://yt3.ggpht.com/-T40nMEYhob8/AAAAAAAAAAI/AAAAAAAAAAA/qNJ7TKwpX6w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 
 </item>
 
@@ -358,7 +403,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC9BsqFce5brGlsQL8IMyJYg</page>
 </regex>
-
+<thumbnail>http://capit.org.ar/new/wp-content/uploads/2016/03/Canal-F1-Latin-America.jpg</thumbnail>
+		<fanart>http://capit.org.ar/new/wp-content/uploads/2016/03/Canal-F1-Latin-America.jpg</fanart>
 </item>
 
 <item><title>Soy Motor</title>
@@ -372,6 +418,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCriizUOvtsM4mhLw1KGVzvQ</page>
 </regex>
+<thumbnail>https://pbs.twimg.com/profile_images/877806258543357952/UmYBJTnf.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/877806258543357952/UmYBJTnf.jpg</fanart>
 
 </item>
 
