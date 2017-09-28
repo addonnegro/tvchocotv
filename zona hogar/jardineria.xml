@@ -24,7 +24,7 @@
 </item>
 
 
-<item><title>Cosas del jardín</title>
+<item><title>Cosas del jardin</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -37,7 +37,7 @@
 </regex>
 </item>
 
-<item><title>La huerta de Iván</title>
+<item><title>La huerta de Ivan</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -64,7 +64,7 @@
 </item>
 
 
-<item><title>El huerto es fácil</title>
+<item><title>El huerto es facil</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -78,7 +78,7 @@
 </item>
 
 
-<item><title>Tu huerto fácil</title>
+<item><title>Tu huerto facil</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
