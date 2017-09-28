@@ -106,7 +106,7 @@
 
 
 <item>
-<title>[COLOR fuchsia] [/COLOR][COLOR pink]  [/COLOR] </title>
+<title>[COLOR fuchsia] YO [/COLOR][COLOR pink] COSO [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -117,24 +117,11 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/user/YOCOSOes</page>
 </regex>  
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR fuchsia] YO [/COLOR][COLOR pink] COSO [/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page></page>
-</regex>  
 <thumbnail>https://yt3.ggpht.com/-Bsalwl4lh7M/AAAAAAAAAAI/AAAAAAAAAAA/b8jbGYUqUFA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
+
+
+
 
 
 <item>
