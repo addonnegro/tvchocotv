@@ -10,7 +10,8 @@
 
 
 
-<item><title>Cocina para todos</title>
+<item>
+<title>Cocina para todos</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[

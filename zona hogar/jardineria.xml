@@ -20,7 +20,7 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCFac6zkqZfPz0eLxM2VbcLQ</page>
-</regex>
+</regex>  <thumbnail>https://yt3.ggpht.com/-nNkg680Kbf8/AAAAAAAAAAI/AAAAAAAAAAA/R0dTH4bsT5Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -34,7 +34,7 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCTXy0hGmwjnoCPYn7zJ4RyQ</page>
-</regex>
+</regex>  <thumbnail>https://yt3.ggpht.com/-ZdNrxL3m8T8/AAAAAAAAAAI/AAAAAAAAAAA/dzqkVFLQQMM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>La huerta de Ivan</title>
@@ -47,7 +47,7 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCmEO9brk-85D49Obum6GQQQ</page>
-</regex>
+</regex>  <thumbnail>http://www.lahuertadeivan.com/wp-content/uploads/2017/06/huerta-logo.png</thumbnail>
 </item>
 
 <item><title>Amor por las plantas</title>
@@ -60,7 +60,7 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCkAMIssWPAwfpMaWZq_YpXg</page>
-</regex>
+</regex>  <thumbnail>https://yt3.ggpht.com/-0AChwngEmYo/AAAAAAAAAAI/AAAAAAAAAAA/QFatH2nhJ8Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -74,7 +74,7 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCxFfiiyG06GLMr9P76FrAzw</page>
-</regex>
+</regex>  <thumbnail>https://imagessl8.casadellibro.com/a/l/t0/98/9788416002498.jpg</thumbnail>
 </item>
 
 
@@ -88,6 +88,6 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCdCOZPvoxgyx4_UmaNJ4Xuw</page>
-</regex>
+</regex>  <thumbnail>http://www.tuhuertofacil.es/wp-content/uploads/2014/12/logo.jpg</thumbnail>
 </item>
 
