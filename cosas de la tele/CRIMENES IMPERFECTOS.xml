@@ -23,6 +23,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCS6Y-E3Rwm3XXOfSi4RDnBQ</page>
 </regex>
+<thumbnail>https://yt3.ggpht.com/-iMPSLWH8xZE/AAAAAAAAAAI/AAAAAAAAAAA/YzkhgS_Tgfo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+		<fanart>https://yt3.ggpht.com/-iMPSLWH8xZE/AAAAAAAAAAI/AAAAAAAAAAA/YzkhgS_Tgfo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 
 </item>
 
@@ -38,10 +40,11 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCiU3TO6aUHCBf-1Ixu2mtEA</page>
 </regex>
-
+<thumbnail>https://pbs.twimg.com/profile_images/718024703345106944/PDby_6Ej.jpg</thumbnail>
+		<fanart>https://pbs.twimg.com/profile_images/718024703345106944/PDby_6Ej.jpg</fanart>
 </item>
 
-<item><title>El Diaa Despues</title>
+<item><title>El Dia Despues</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -52,7 +55,8 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCTizbQ7IDPngI50uyI3pcbA</page>
 </regex>
-
+<thumbnail>http://www.ivanlabanda.com/wp-content/uploads/2016/11/eldiadespues.jpg</thumbnail>
+		<fanart>http://www.ivanlabanda.com/wp-content/uploads/2016/11/eldiadespues.jpg</fanart>
 </item>
 
 
