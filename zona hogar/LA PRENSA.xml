@@ -125,7 +125,7 @@
 </item>
 
 
-<item><title>90 Minuti en el Bernabéu</title>
+<item><title>90 Minuti en el Bernabeu</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -167,7 +167,7 @@
 
 </item>
 
-<item><title>Atlético de Madrid</title>
+<item><title>Atletico de Madrid</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -181,52 +181,10 @@
 
 </item>
 
-<item><title>El chiringuito de jugones</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCS6Y-E3Rwm3XXOfSi4RDnBQ</page>
-</regex>
-
-</item>
-
-
-<item><title>Punto Pelota</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCiU3TO6aUHCBf-1Ixu2mtEA</page>
-</regex>
-
-</item>
-
-<item><title>El Día Después</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCTizbQ7IDPngI50uyI3pcbA</page>
-</regex>
-
-</item>
 
 
 
-<item><title>beIN SPORTS España</title>
+<item><title>beIN SPORTS EspaÃ±a</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
