@@ -207,7 +207,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://s3-media4.fl.yelpcdn.com/bphoto/IBVFVXmEw6M9NaUD1H8nGw/l.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC1a2g35PBZ--z6thfdCJMJQ</page>
@@ -220,7 +220,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>http://d2p4qauh5fa1j0.cloudfront.net/fotos/programas/thumbs/YOCOCINERODIARIO.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCGCCzg2X_uTjRgzTYTSBxfw</page>
@@ -234,20 +234,20 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://www.mehueleaquemao.com/wp-content/uploads/2016/04/mehueleaquemao-banner-definitivo.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC4gyq3gcFF0J8v5daxh2JVQ</page>
 </regex>
 </item>
 
-<item><title>Nestlé Cocina</title>
+<item><title>Nestle Cocina</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-HnGNa3JmA-s/AAAAAAAAAAI/AAAAAAAAAAA/t0QQ61fIcg0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCvWa2lp3X-9_j_DMWt8jMjQ</page>
@@ -261,7 +261,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/_JpYdI1J-SI/maxresdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC4F8OhUJbnN6ikE0fMxty-A</page>
@@ -274,20 +274,20 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>http://postresoriginales.com/wp-content/uploads/2015/08/Logo-YouTube.png</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCEe0ggCKhCEbAUVX09y9F4w</page>
 </regex>
 </item>
 
-<item><title>Tartas fáciles</title>
+<item><title>Tartas faciles</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/IoXGe15brLc/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCV9NdBXvztfsHGy5B5cy1MA</page>
