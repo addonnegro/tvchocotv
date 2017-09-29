@@ -18,6 +18,21 @@
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cosas%20de%20la%20tele/coches.xml</externallink>  
 </item>
 
+
+<item><title>MEGAFACTORIAS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[   
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UComQXv92dUyssFiwdDtodkA</page> para canales entero
+</regex>  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PQ6IH5JK_snjud0WbUqWjms4wBGGIG-u6ivfCHZc2STTeOO6</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR yellow]CONFIANZA[/COLOR][COLOR yellow] CIEGA[/COLOR]</title>
 <link>$doregex[makelist]</link>
