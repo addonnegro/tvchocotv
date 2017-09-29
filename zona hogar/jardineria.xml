@@ -13,13 +13,13 @@
 <item><title>Info Garden</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
-<listrepeat><![CDATA[
+<listrepeat><![CDATA[   
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCFac6zkqZfPz0eLxM2VbcLQ</page>
+<page>https://www.youtube.com/channel/UCFac6zkqZfPz0eLxM2VbcLQ</page> para canales entero
 </regex>  <thumbnail>https://yt3.ggpht.com/-nNkg680Kbf8/AAAAAAAAAAI/AAAAAAAAAAA/R0dTH4bsT5Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
