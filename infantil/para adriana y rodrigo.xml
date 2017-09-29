@@ -6,8 +6,7 @@
 <thumbnail></thumbnail>
 </item>
  
-<item>
-<title>[COLOR orange]PAKA[/COLOR] [COLOR yellow]PAKA[/COLOR]</title>
-<link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link>
-<thumbnail></thumbnail>
-</item>
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="Infantiles", PakaPaka SD
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="Infantiles", PakaPaka HD
+http://ar.watcha.live/ch15/full.m3u8
