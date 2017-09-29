@@ -65,7 +65,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCYIia3hNvnDv6VUvOuT2Bew</page>
 </regex>
-<thumbnail>https://pbs.twimg.com/profile_images/1162780941/Picture_9_400x400.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-PIW4jq1TQuM/AAAAAAAAAAI/AAAAAAAAAAA/ZZi9-1zOqbQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -95,7 +95,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCaYE5mZeDgNZshFsFl-rTEA</page>
 </regex>
-<thumbnail>https://s3-sa-east-1.amazonaws.com/assets.abc.com.py/2016/07/01/_574_573_1379462.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-2zRl5PPXeR8/AAAAAAAAAAI/AAAAAAAAAAA/cRFLrP5K-Kc/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>Cocina para Inexpertos</title>
@@ -109,7 +109,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCPcxnlKW8le6c68cYSE-OOg</page>
 </regex>
-<thumbnail>https://i.pinimg.com/736x/43/13/4f/43134f1f02200f52b946c096de846af3--projects.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-v69PF5tekDM/AAAAAAAAAAI/AAAAAAAAAAA/Nwn-vMa44d0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>Cocina en familia</title>
@@ -123,7 +123,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCa0WGCPV8JtKb2lDgRn03nw</page>
 </regex>
-<thumbnail>http://cordobabuenasnoticias.com/wp-content/uploads/2016/08/cocinando.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-lDnzDhrvt8M/AAAAAAAAAAI/AAAAAAAAAAA/SwHsFuLV1G0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -187,7 +187,7 @@
 </item>
 
 
-<item><title>las recetas de la abuela</title>
+<item><title>RECETAS TRADICIONALES EN LA COCINA</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -198,7 +198,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCcciZypQDEWaayMbaUntbwQ</page>
 </regex>
-<thumbnail>https://imagessl8.casadellibro.com/a/l/t0/28/9788496745728.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-rjENtaNAQoo/AAAAAAAAAAI/AAAAAAAAAAA/8xEGqJlxwoQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -213,7 +213,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCWyd9GhGYvRVQCjkqeN9xHA</page>
 </regex>
-<thumbnail>https://i.ytimg.com/vi/3u62znc517A/maxresdefault.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-V3uPuyUO6y0/AAAAAAAAAAI/AAAAAAAAAAA/jLYc76zrRbw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>Amigos en la cocina</title>
@@ -227,7 +227,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC1a2g35PBZ--z6thfdCJMJQ</page>
 </regex>
-<thumbnail>https://s3-media4.fl.yelpcdn.com/bphoto/IBVFVXmEw6M9NaUD1H8nGw/l.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-gIbo8kMkzX8/AAAAAAAAAAI/AAAAAAAAAAA/R91aK63oUNw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>Cocinero diario</title>
@@ -241,7 +241,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCGCCzg2X_uTjRgzTYTSBxfw</page>
 </regex>
-<thumbnail>http://d2p4qauh5fa1j0.cloudfront.net/fotos/programas/thumbs/YOCOCINERODIARIO.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-FoUDiVC172Y/AAAAAAAAAAI/AAAAAAAAAAA/DuoLkbg2IME/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -285,7 +285,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC4F8OhUJbnN6ikE0fMxty-A</page>
 </regex>
-<thumbnail>https://i.ytimg.com/vi/_JpYdI1J-SI/maxresdefault.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-9w1GEo9P9ps/AAAAAAAAAAI/AAAAAAAAAAA/HyHplb7JWFM/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>Postres originales</title>

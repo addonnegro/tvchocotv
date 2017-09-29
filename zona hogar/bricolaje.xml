@@ -51,7 +51,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCLKqcMf9_oeDZZempGOnrWA</page>
 </regex>
-<thumbnail>http://cdn2.hubspot.net/hubfs/235604/taller10-3.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-rRTDKUscJjM/AAAAAAAAAAI/AAAAAAAAAAA/-gGknEaKgMk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>El rincon del bricolaje</title>
@@ -65,7 +65,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCeydgXcXpMgtzNQCImHtP7Q</page>
 </regex>
-<thumbnail>http://estag.fimagenes.com/img/3/l/7/L/l7L_900.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-dE9Ms7MORck/AAAAAAAAAAI/AAAAAAAAAAA/0DyKKRF9OZ4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -80,7 +80,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCGE03VgEOb_FMAV2siRt8-g</page>
 </regex>
-<thumbnail>http://i2.ytimg.com/vi/2DLoFvjSvI8/hqdefault.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-fFV9diwL2V8/AAAAAAAAAAI/AAAAAAAAAAA/oUHCWoX2Xps/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
@@ -95,7 +95,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC4Yg8rF_PCqDpH5gZ3nFE_w</page>
 </regex>
-<thumbnail>https://mediafer.files.wordpress.com/2013/04/bricolaje-facil-libros-de-vecchi-mediafer.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-D3cewQsnBXI/AAAAAAAAAAI/AAAAAAAAAAA/4GkP-29dgZY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item><title>BricoBlog</title>
@@ -123,7 +123,7 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UC9F2klx6SlGgj3AlWphBTMA</page>
 </regex>
-<thumbnail>http://www.leroymerlin.es/dms/static/empleo/dms/static/rrhh/noticias/tienda-leroy-merlin.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-oC5aW0THzb4/AAAAAAAAAAI/AAAAAAAAAAA/eUntXk8_lzw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 
