@@ -28,7 +28,7 @@
 
 
 <item>
-<title>[COLOR orange]CI[COLOR blue]NE[/COLOR]</title>
+<title>[COLOR coral]CI[COLOR blue]NE[/COLOR]</title>
 <thumbnail>http://nowmusicradio.com/wp-content/uploads/2017/09/permanencia-voluntaria.jpg</thumbnail>
 <fanart>http://nowmusicradio.com/wp-content/uploads/2017/09/permanencia-voluntaria.jpg</fanart>
 <link>ignoreme</link>
@@ -87,9 +87,18 @@
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/el%20gym%20de%20tvchopo/gym.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR red]ZONA [/COLOR][COLOR blue]TUTORIALES[/COLOR] [COLOR orange]TVCHOCO[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.webconversionmaster.com/wp-content/uploads/2013/09/video-tutoriales.jpg</thumbnail>
+<fanart>http://www.webconversionmaster.com/wp-content/uploads/2013/09/video-tutoriales.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20tutoriales/tutoriales.xml</externallink>  
+</item>
+
+
 
 <item>
-<title>[COLOR red]ZONA [/COLOR][COLOR blue]NUETRA[/COLOR] [COLOR green]DISCOTECA[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]TVCHOCO !!!!!!PROXIMAMENTE[/COLOR]</title>
+<title>[COLOR purple]ZONA [/COLOR][COLOR blue]NUETRA[/COLOR] [COLOR green]DISCOTECA[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]TVCHOCO !!!!!!PROXIMAMENTE[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.cctvcambridge.org/sites/default/files/imagefield/01_ms_dancefloor.jpg</thumbnail>
 <fanart>https://www.cctvcambridge.org/sites/default/files/imagefield/01_ms_dancefloor.jpg</fanart>
@@ -98,7 +107,7 @@
 
 
 <item>
-<title>[COLOR red]UNETE HA [/COLOR][COLOR blue]NUETRO[/COLOR] [COLOR green]GRUPO[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]TELEGRAM [/COLOR][COLOR pink]https://t.me/GRUPOTVCHOPO  [/COLOR][COLOR fuchsia]UNETE [/COLOR][COLOR violet]Y ENTERATE DE TODAS[/COLOR][COLOR fuchsia] LAS NOVEDADES[/COLOR]</title>
+<title>[COLOR yellow]UNETE HA [/COLOR][COLOR blue]NUETRO[/COLOR] [COLOR green]GRUPO[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]TELEGRAM [/COLOR][COLOR pink]https://t.me/GRUPOTVCHOPO  [/COLOR][COLOR fuchsia]UNETE [/COLOR][COLOR violet]Y ENTERATE DE TODAS[/COLOR][COLOR fuchsia] LAS NOVEDADES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://4.bp.blogspot.com/-H-09GfQpXjQ/WckRRlbCOFI/AAAAAAAAEgk/a0cKKe-LgsQKypaVruLYvub1K15PrjeVQCK4BGAYYCw/s320/photo_2017-09-25_16-21-54.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-H-09GfQpXjQ/WckRRlbCOFI/AAAAAAAAEgk/a0cKKe-LgsQKypaVruLYvub1K15PrjeVQCK4BGAYYCw/s320/photo_2017-09-25_16-21-54.jpg</fanart>
