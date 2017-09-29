@@ -9,50 +9,7 @@
 <externallink></externallink>  
 </item>
 
-<item>
-<title>[COLOR green]JOYAS SO[/COLOR][COLOR green]BRE RUEDAS[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-                   
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=RfmldMy3JXU&amp;list=PLmvxQeveWUH27wUQJaG5pB3_QnpWRCa6d</page>
-             <cookieJar></cookieJar>
-</regex>
-en esta solo cambiar v= y list=
- 
-                        <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51v93Xt-kvL._SY300_QL70_.jpg</thumbnail>
-                        <fanart>https://images-eu.ssl-images-amazon.com/images/I/51v93Xt-kvL._SY300_QL70_.jpg</fanart>
- 
-</item>
 
-
-<item>
-<title>[COLOR blue]MEFACTORIAS Y FÁBRICAS[/COLOR][COLOR yellow] DE COCHES[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-					
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=exd4_0O2mbk&amp;list=PLcRlu6WsQ88aWvupaAi9zs6B3jy4dUKnt</page>
-             <cookieJar></cookieJar>
-</regex>
-en esta solo cambiar v= y list=
-
-                        <thumbnail>https://i.ytimg.com/vi/dnQhYxDsZZQ/maxresdefault.jpg</thumbnail>
-						<fanart>https://i.ytimg.com/vi/dnQhYxDsZZQ/maxresdefault.jpg</fanart>
-
-</item>
 
 
 <item>

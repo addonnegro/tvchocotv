@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>[COLOR green]JOYAS SO[/COLOR][COLOR green]BRE RUEDAS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RfmldMy3JXU&amp;list=PLmvxQeveWUH27wUQJaG5pB3_QnpWRCa6d</page>
+             <cookieJar></cookieJar>
+</regex>
+en esta solo cambiar v= y list=
+ 
+                        <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51v93Xt-kvL._SY300_QL70_.jpg</thumbnail>
+                        <fanart>https://images-eu.ssl-images-amazon.com/images/I/51v93Xt-kvL._SY300_QL70_.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR blue]MEGAFACTORIAS Y FÁBRICAS[/COLOR][COLOR yellow] DE COCHES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=exd4_0O2mbk&amp;list=PLcRlu6WsQ88aWvupaAi9zs6B3jy4dUKnt</page>
+             <cookieJar></cookieJar>
+</regex>
+en esta solo cambiar v= y list=
+
+                        <thumbnail>https://i.ytimg.com/vi/dnQhYxDsZZQ/maxresdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/dnQhYxDsZZQ/maxresdefault.jpg</fanart>
+
+</item>
+
+
+<item>
+<title>[COLOR orange]TOP [COLOR red]GEAR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://tribwpmt.files.wordpress.com/2015/03/top-gear.jpg</thumbnail>
+		<fanart>https://tribwpmt.files.wordpress.com/2015/03/top-gear.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/yokesesss/top-gear-t-910181920full21full22full-48670/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://tribwpmt.files.wordpress.com/2015/03/top-gear.jpg</thumbnail>
+		<fanart>https://tribwpmt.files.wordpress.com/2015/03/top-gear.jpg</fanart>
+</item>
+
