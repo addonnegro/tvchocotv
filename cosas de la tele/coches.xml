@@ -83,3 +83,15 @@ en esta solo cambiar v= y list=
 		<fanart>https://tribwpmt.files.wordpress.com/2015/03/top-gear.jpg</fanart>
 </item>
 
+<item><title>MEGA COCHES</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[   
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCyFOZjxTggMycbT5vxgbHgg</page> para canales entero
+</regex>  <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/e5/22/8e/e5228e6e851ff8be8d72c0c5cceff338--luxury-private-jets-car-share.jpg</thumbnail>
+</item>
