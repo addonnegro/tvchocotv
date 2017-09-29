@@ -87,7 +87,8 @@
 </item>
 
 
-<item><title>ANDROIDIPTV</title>
+<item>
+<title>ANDROIDIPTV</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
