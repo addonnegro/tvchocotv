@@ -19,7 +19,8 @@
 </item>
 
 
-<item><title>MEGAFACTORIAS</title>
+<item>
+<title>[COLOR pink]MEGAFA[COLOR green][/COLOR]CTORIAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[   
@@ -57,22 +58,6 @@
 
 
 
-
-<item><title>El chiringuito de jugones</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCS6Y-E3Rwm3XXOfSi4RDnBQ</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-iMPSLWH8xZE/AAAAAAAAAAI/AAAAAAAAAAA/YzkhgS_Tgfo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-		<fanart>https://yt3.ggpht.com/-iMPSLWH8xZE/AAAAAAAAAAI/AAAAAAAAAAA/YzkhgS_Tgfo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
-
-</item>
 
 
 
