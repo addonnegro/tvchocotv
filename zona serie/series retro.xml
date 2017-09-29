@@ -935,7 +935,7 @@
 
 
 <item>
-		<title>[COLOR red]CUENTAME[/COLOR] [COLOR red]COMO [/COLOR] [COLOR red]PASO[/COLOR] [COLOR red][/COLOR]</title>
+		<title>[COLOR red]CUENTAME[/COLOR] [COLOR red]COMO [/COLOR] [COLOR red]PASO[/COLOR] [COLOR red]temporadas1-15[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -946,7 +946,7 @@
 <fanart>http://4.bp.blogspot.com/_OPi3eIGIbNU/TQf40R4VpEI/AAAAAAAAAAs/gfTOVLqpN8M/s1600/BSO_Cuentame_La_Serie--Frontal.jpg</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/chinchetas/cuentame-como-paso-todas-temp-70022/list,1,11</page>
+			<page>http://diskokosmiko.mx/lokario1/cuentame-como-paso-temp-1-14-14395/list,1,12</page>
 			<cookieJar></cookieJar>
 		</regex>
 		<regex>
