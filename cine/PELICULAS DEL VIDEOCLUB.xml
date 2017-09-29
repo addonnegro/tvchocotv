@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR red]SALA 1[/COLOR]</title>
+<title>[COLOR orange]SALA 1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -46,7 +46,7 @@
 
 
 <item>
-<title>[COLOR red]SALA 2[/COLOR]</title>
+<title>[COLOR fuchsia]SALA 2[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -98,7 +98,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS DIRECTORES[/COLOR]</title>
+<title>[COLOR yellow]PELICULAS DIRECTORES[/COLOR]</title>
 <thumbnail>http://www.alfabetajuega.com/abj_public_files/multimedia/imagenes/201307/46678.repor_directores_cine_videojuegos.jpg</thumbnail>
 <fanart>http://www.alfabetajuega.com/abj_public_files/multimedia/imagenes/201307/46678.repor_directores_cine_videojuegos.jpg</fanart>
 <link>ignoreme</link>
@@ -127,7 +127,7 @@
 
 
 <item>
-<title>[COLOR red]CINE KINKI[/COLOR]</title>
+<title>[COLOR pink]CINE KINKI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -201,7 +201,7 @@
 
 
 <item>
-<title>[COLOR red]CINE CLASICO Y EPICO[/COLOR]</title>
+<title>[COLOR green]CINE CLASICO Y EPICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -245,7 +245,7 @@
 
 
 <item>
-<title>[COLOR sky]CINE POR[/COLOR] [COLOR fuchsia]GENEROS[/COLOR] </title>
+<title>[COLOR blue]CINE POR[/COLOR] [COLOR fuchsia]GENEROS[/COLOR] </title>
 <thumbnail>https://image.slidesharecdn.com/generosdecine-090722004314-phpapp01/95/generos-de-cine-1-728.jpg</thumbnail>
 <fanart>https://image.slidesharecdn.com/generosdecine-090722004314-phpapp01/95/generos-de-cine-1-728.jpg</fanart>
 <link>ignoreme</link>
@@ -270,7 +270,7 @@
 
 
 <item>
-<title>[COLOR red]CINE ROMANTICO[/COLOR]</title>
+<title>[COLOR fuchsia]CINE ROMANTICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -330,7 +330,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS COMEDIA[/COLOR]</title>
+<title>[COLOR coral]PELICULAS COMEDIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -382,7 +382,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS DE AVENTURAS[/COLOR]</title>
+<title>[COLOR green]PELICULAS DE AVENTURAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -488,7 +488,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS DE TERROR[/COLOR]</title>
+<title>[COLOR orange]PELICULAS DE TERROR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -540,7 +540,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS DE ESPIRITUS[/COLOR]</title>
+<title>[COLOR blue]PELICULAS DE ESPIRITUS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -591,7 +591,7 @@
 
 
 <item>
-<title>[COLOR red]PELICULAS WESTERN[/COLOR]</title>
+<title>[COLOR yellow]PELICULAS WESTERN[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
