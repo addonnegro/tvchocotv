@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><item>
-<title>[COLOR pink]BIOGRA[/COLOR][COLOR red]FIAS[/COLOR]</title>
-<link>$doregex[makelist2]</link>
- 
- 
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR white][makelist2.param2] [/COLOR]   </title>
+<item>
+<title>[COLOR pink]BIOGR[/COLOR][COLOR red]AFIAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[h3.*?href="(.*?)".*?white\;\">(.*?)<]]></expres>
-<page>http://www.documaniatv.com/documentales-biografias-videos-35-date.html</page>
-</regex>
  
 <regex>
 <name>makelist</name>
@@ -21,10 +8,10 @@
 <SetViewMode>55</SetViewMode>
 <title>[COLOR white][makelist.param2] [/COLOR]   </title>
 <link>http:$doregex[link]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://www.letrayletra.com/images/biografia.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
-<page>[makelist2.param1]</page>
+<page>http://www.documaniatv.com/documentales-biografias-videos-35-date.html</page>
 </regex>
  
 <regex>
@@ -37,5 +24,5 @@
 <expres>embed2\.php\?u=(.*?)"</expres>
 <page>[makelist.param1]</page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/documental.png</thumbnail>
+<thumbnail>https://www.letrayletra.com/images/biografia.jpg</thumbnail>
 </item>
