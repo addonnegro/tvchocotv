@@ -30,7 +30,7 @@
 
 
 <item>
-<title>[COLOR yellow]LA VOZ DE [COLOR orange]LOS MUERTOS</title>
+<title>[COLOR yellow]LA VOZ DE [/COLOR][COLOR orange]LOS MUERTOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
