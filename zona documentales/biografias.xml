@@ -101,3 +101,34 @@
 </regex>
 <thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2017/09/los_21_mejores_documentales_del_siglo_xxi_4034_1200x630.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR pink]BIO[/COLOR][COLOR red]GRAFIAS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR white][makelist.param2] [/COLOR]   </title>
+<link>http:$doregex[link]</link>
+<thumbnail>https://www.letrayletra.com/images/biografia.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
+<page>http://www.documaniatv.com/documentales-biografias-videos-1-date.html</page>
+</regex>
+ 
+<regex>
+<name>link</name>
+<expres>file:\s\"(.*?)"</expres>
+<page>http://cnubis.com/plugins/mediaplayer/embeder/_embed2.php?u=$doregex[id2]</page>
+</regex>
+<regex>
+<name>id2</name>
+<expres>embed2\.php\?u=(.*?)"</expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>https://www.letrayletra.com/images/biografia.jpg</thumbnail>
+</item>
+ 
