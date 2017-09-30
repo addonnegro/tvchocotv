@@ -1,0 +1,432 @@
+
+
+--------------------------------------------------------------
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t1-34851</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t2-34852</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t3-34853</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T4[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t4-34854</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T5[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t5-34855</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T6[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t6-34856</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T7[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t7-34857</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T8[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t8-34858</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]Padre Made [/COLOR][COLOR pink]In USA T9[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/padre-made-in-usa-t9-34859</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</thumbnail>
+		<fanart>https://i0.fiuxy.com/a847c22100ad5747fde29f7f291a28e42f0e8fc4?url=http%3A%2F%2Fdreamers.com%2Findices%2Fimagenes%2Fseries.725.IMAGEN1.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
