@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR pink]BIOGR[/COLOR][COLOR red]AFIAS[/COLOR]</title>
+<title>[COLOR pink]DOCUMEN[/COLOR][COLOR red]TALES[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -11,7 +11,7 @@
 <thumbnail>https://www.letrayletra.com/images/biografia.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
-<page>http://www.documaniatv.com/documentales-biografias-videos-35-date.html</page>
+<page>http://www.documaniatv.com/categorias-y-canales.html</page>
 </regex>
  
 <regex>
