@@ -57,3 +57,47 @@
 </regex>
 <thumbnail>http://www.dmax.marca.com/wp-content/uploads/2016/12/la-voz-los-muertos-1.jpg</thumbnail>
 </item>
+
+
+
+<item>
+<title>[COLOR blue]TOP MEJORES[/COLOR][COLOR green] SERIES DOCUMENTALES[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR white][makelist2.param2] [/COLOR]   </title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2017/09/los_21_mejores_documentales_del_siglo_xxi_4034_1200x630.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[h3.*?href="(.*?)".*?white\;\">(.*?)<]]></expres>
+<page>http://www.documaniatv.com/top-series-documentales.html</page>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR white][makelist.param2] [/COLOR]   </title>
+<link>http:$doregex[link]</link>
+<thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2017/09/los_21_mejores_documentales_del_siglo_xxi_4034_1200x630.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+ 
+<regex>
+<name>link</name>
+<expres>file:\s\"(.*?)"</expres>
+<page>http://cnubis.com/plugins/mediaplayer/embeder/_embed2.php?u=$doregex[id2]</page>
+</regex>
+<regex>
+<name>id2</name>
+<expres>embed2\.php\?u=(.*?)"</expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2017/09/los_21_mejores_documentales_del_siglo_xxi_4034_1200x630.jpg</thumbnail>
+</item>
