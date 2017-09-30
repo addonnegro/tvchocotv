@@ -103,10 +103,12 @@
 </item>
 
 
-<item>
-<title>[COLOR pink]BIO[/COLOR][COLOR red]GRAFIAS[/COLOR]</title>
-<link>$doregex[makelist]</link>
+
  
+ <item>
+<title>[COLOR pink]BIO[/COLOR][COLOR red]GRAFIAS[/COLOR]</title>
+<link>$doregex[makelist]</link> 
+
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -118,7 +120,7 @@
 <expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
 <page>http://www.documaniatv.com/documentales-biografias-videos-1-date.html</page>
 </regex>
- 
+
 <regex>
 <name>link</name>
 <expres>file:\s\"(.*?)"</expres>
