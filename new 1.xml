@@ -9,22 +9,14 @@
 </item>
  
  
- <item>
- <title>[COLOR red]ZONA[/COLOR] [COLOR fuchsia]NOTICIAS [COLOR pink]ULTIMA HORA[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCbo6fSoJWkHC0_WQA2PqQBA</page>
-</regex>
+
+<item>
+ <title>[COLOR red]ZONA[/COLOR] [COLOR fuchsia]NOTICIAS [/COLOR]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/855938002/ULTIMAHORA_400x400.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/855938002/ULTIMAHORA_400x400.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20noticias/noticias%20ultima%20hora.xml</externallink>
 </item>
-
-
  
 <item>
 <title>[COLOR purple]ZONA[/COLOR] [COLOR yellow]TV[/COLOR]</title>
