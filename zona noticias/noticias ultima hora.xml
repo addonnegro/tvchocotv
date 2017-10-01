@@ -1,5 +1,5 @@
  <item>
- <title>[COLOR red]ZONA[/COLOR] [COLOR fuchsia]NOTICIAS [COLOR pink]ULTIMA HORA[/COLOR]</title>
+ <title>[COLOR fuchsia]NOTICIAS [COLOR pink]ULTIMA HORA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -12,3 +12,65 @@
 </regex>
 <thumbnail>https://pbs.twimg.com/profile_images/855938002/ULTIMAHORA_400x400.jpg</thumbnail>
 </item>
+
+
+ <item>
+ <title>[COLOR blue]NOTI[/COLOR] [COLOR yellow]MUNDO[/COLOR] [COLOR green]ULTIMA HORA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC4rHp89py1wR2RKOMrmjcLA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-ASTqmsnK31A/AAAAAAAAAAI/AAAAAAAAAAA/SEnXcu4NPFU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+ <item>
+ <title>[COLOR brown]VIDEO[/COLOR] [COLOR red]MUNDO[/COLOR] [COLOR orange]ULTIMA HORA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCxF5TKyrRjk09Lf80BXm2gw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-PGzXP9goxEI/AAAAAAAAAAI/AAAAAAAAAAA/ve2z9fOBzF4/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+ <item>
+ <title>[COLOR brown]NEW[/COLOR] [COLOR red]NOTICIAS[/COLOR] [COLOR orange]EN ESPAÑOL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC-D-O1Qk9_4zly1EhAUyhdQ/feed?activity_view=1</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-jZtNSXO06gk/AAAAAAAAAAI/AAAAAAAAAAA/_pofcO5Bsjg/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
