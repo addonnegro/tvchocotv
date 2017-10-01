@@ -9,9 +9,29 @@
 <externallink></externallink>  
 </item>
 
+<item>
+<title>[COLOR purple]LOS REPORTEROS [/COLOR][COLOR fuchsia]CANAL SUR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=6HIkSHXz3EA&amp;list=PL85691CCA284CE029</page>
+             <cookieJar></cookieJar>
+</regex>
 
 
+                        <thumbnail>https://yt3.ggpht.com/-Z04zaticyBg/AAAAAAAAAAI/AAAAAAAAAAA/kzLSt1WrXqY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+						<fanart>https://yt3.ggpht.com/-Z04zaticyBg/AAAAAAAAAAI/AAAAAAAAAAA/kzLSt1WrXqY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
 
+</item>
+
+https://www.youtube.com/watch?v=6HIkSHXz3EA&list=PL85691CCA284CE029
 <item>
 <title>[COLOR purple]REPORTEROS [/COLOR][COLOR fuchsia]360[/COLOR]</title>
 <link>$doregex[makelist]</link>
