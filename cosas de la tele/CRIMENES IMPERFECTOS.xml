@@ -9,6 +9,127 @@
 <externallink></externallink>  
 </item>
 
+<item>
+<title>[COLOR golden]FENOMENO  [/COLOR][COLOR brown]FAN[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=qrVtdZyEUEU&amp;list=PLZGpnnUfG98oQ57EehG6znv6R8IG7jsIA</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://www.teleprensa.com/imgnews/SELoraprogramacanalsur.jpg</thumbnail>
+						<fanart>http://www.teleprensa.com/imgnews/SELoraprogramacanalsur.jpg</fanart>
+
+</item>
+
+
+
+<item>
+<title>[COLOR blue]EL GRAN [/COLOR][COLOR orange]queo[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=5XZPkktfJ6Q&amp;list=PLZGpnnUfG98p-CVkQ75NpQLUReWzG3rVK</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://www.teleprensa.com/imgnews/SELoraprogramacanalsur.jpg</thumbnail>
+						<fanart>http://www.teleprensa.com/imgnews/SELoraprogramacanalsur.jpg</fanart>
+
+</item>
+
+
+https://www.youtube.com/watch?v=AiRFMWtu-Ys&list=PL4949320E38B4DCFC
+
+<item>
+<title>[COLOR red]75 [/COLOR][COLOR pink]MINUTOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=AiRFMWtu&amp;list=PL4949320E38B4DCFC</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://www.pacocandela.com/wp-content/uploads/2015/12/mnoche.jpg</thumbnail>
+						<fanart>http://www.pacocandela.com/wp-content/uploads/2015/12/mnoche.jpg</fanart>
+
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR green]MENUDA [/COLOR][COLOR yellow]NOCHE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ZXqiHzKKJrI&amp;list=PL10EDF11F5AA95352</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://www.pacocandela.com/wp-content/uploads/2015/12/mnoche.jpg</thumbnail>
+						<fanart>http://www.pacocandela.com/wp-content/uploads/2015/12/mnoche.jpg</fanart>
+
+</item>
+
+
+<item>
+<title>[COLOR green]NO PIERDAS [/COLOR][COLOR yellow]EL COMPAS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=cyy31EvXok4&amp;list=PLZGpnnUfG98re3TPNRDmSd1cnNd2xKpSR</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://www.canalsur.es/resources/archivos_offline/2017/3/8/1488967399957tapa_nopierdas.jpg</thumbnail>
+						<fanart>http://www.canalsur.es/resources/archivos_offline/2017/3/8/1488967399957tapa_nopierdas.jpg</fanart>
+
+</item>
+
+
 
 <item>
 <title>[COLOR yellow]CAMIONEROS[/COLOR][COLOR yellow] DE AUSTRALIA[/COLOR]</title>
