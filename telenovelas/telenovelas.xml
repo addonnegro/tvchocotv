@@ -5,6 +5,23 @@
 
 
 
+<item><title>NOVELAS TELEMUNDO</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCajrNVKvG2xVlVcSr3GcsDA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-L1wc522i16E/AAAAAAAAAAI/AAAAAAAAAAA/JBHCGjf8mzo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
 <item>
 <title>[COLOR red]TOPACIO [/COLOR]</title>
 <link>$doregex[makelist]</link>
