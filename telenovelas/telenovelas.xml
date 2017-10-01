@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item><title>[COLOR yellow]VENE[/COLOR][COLOR green]NOVELAS[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCE5np5zOB69QY2NFlFFp3wg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-x-XyngbgDZQ/AAAAAAAAAAI/AAAAAAAAAAA/uTZCIzemYug/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
 
 
 
 
-<item><title>NOVELAS TELEMUNDO</title>
+<item>
+<title>[COLOR red]NOVELAS [COLOR red]TELEMUNDO</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
