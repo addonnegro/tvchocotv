@@ -9,6 +9,54 @@
 <externallink></externallink>  
 </item>
 
+
+
+
+<item>
+<title>[COLOR purple]REPORTEROS [/COLOR][COLOR fuchsia]360[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=YZk3BelZIs0&amp;list=PLiXm-KS76nsRTlYDpdfw4u3qaIN4aMuLT</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=YZk3BelZIs0&list=PLiXm-KS76nsRTlYDpdfw4u3qaIN4aMuLT&index=1
+
+                        <thumbnail>http://www.telemadrid.es/sites/default/files/Images2016/logo_reporteros360bueno.jpg</thumbnail>
+						<fanart>http://www.telemadrid.es/sites/default/files/Images2016/logo_reporteros360bueno.jpg</fanart>
+
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR pink]EL GRAN[/COLOR][COLOR yellow] PRIX [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
+<thumbnail>http://www.laroda.es/noticias/imagenes/gran%20prix.jpg</thumbnail>
+]]></listrepeat>
+ 
+<expres>\s?.href="\/playlist\?list=(.*?)">(.*?)\/</expres>
+<page>https://www.youtube.com/user/OokamiValencia/playlists</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.laroda.es/noticias/imagenes/gran%20prix.jpg</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR golden]FENOMENO  [/COLOR][COLOR brown]FAN[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -26,8 +74,8 @@
 </regex>
 
 
-                        <thumbnail>http://www.teleprensa.com/imgnews/SELoraprogramacanalsur.jpg</thumbnail>
-						<fanart>http://www.teleprensa.com/imgnews/SELoraprogramacanalsur.jpg</fanart>
+                        <thumbnail>http://www.canalsur.es/resources/archivos_offline/2016/6/20/1466418363681programa_2_640x360.jpg</thumbnail>
+						<fanart>http://www.canalsur.es/resources/archivos_offline/2016/6/20/1466418363681programa_2_640x360.jpg</fanart>
 
 </item>
 
