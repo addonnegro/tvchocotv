@@ -118,10 +118,10 @@ https://www.youtube.com/watch?v=AiRFMWtu-Ys&list=PL4949320E38B4DCFC
 					
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=AiRFMWtu&amp;list=PL4949320E38B4DCFC</page>
+            <page>https://www.youtube.com/watch?v=AiRFMWtu-Ys&amp;list=PL4949320E38B4DCFC</page>
              <cookieJar></cookieJar>
 </regex>
-
+https://www.youtube.com/watch?v=AiRFMWtu-Ys&list=PL4949320E38B4DCFC
 
                         <thumbnail>http://protestantedigital.com/upload/imagenes/5720a7f166ce4_Capturadepantalla2016-04-27alas12.33.27.png</thumbnail>
 						<fanart>http://protestantedigital.com/upload/imagenes/5720a7f166ce4_Capturadepantalla2016-04-27alas12.33.27.png</fanart>
