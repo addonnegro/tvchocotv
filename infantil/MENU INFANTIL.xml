@@ -68,7 +68,7 @@
 </item>
 
 
-<item><title>COSAS DE PEQUES</title>
+<item><title>[COLOR red]COSAS [/COLOR][COLOR orange]DE PEQUES[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -81,7 +81,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-N2VrRFeLPHE/AAAAAAAAAAI/AAAAAAAAAAA/QfFm0dThs-8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>SUPERDIVERTILANDIA</title>
+<item><title>[COLOR pink]SUPERDIVE[/COLOR][COLOR blue]RTILANDIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -94,7 +94,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-zT2sHtzXJ24/AAAAAAAAAAI/AAAAAAAAAAA/tDad_hlshCg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>CUENTOS Y CANCIONES INFANTILES</title>
+<item><title>[COLOR blue]CUENTOS Y [/COLOR][COLOR pink]CANCIONES INFANTILES[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -108,7 +108,7 @@
 <thumbnail>https://yt3.ggpht.com/-lgGyGwsXgbc/AAAAAAAAAAI/AAAAAAAAAAA/NYEJW6VFNpw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>CUENTOS INFANTILES CLASICOS</title>
+<item><title>[COLOR brown]CUENTOS [/COLOR][COLOR coral]INFANTILES CLASICOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -121,7 +121,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-DoKi8cSN-q0/AAAAAAAAAAI/AAAAAAAAAAA/YpP9mBXEE8c/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>CUENTOS INFANTILES (ES.BEDTIMESTORY.TV)</title>
+<item><title>[COLOR green]CUENTOS INFANTILES [/COLOR][COLOR pink](ES.BEDTIMESTORY.TV[/COLOR])</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -134,7 +134,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-2-ThrRBOosk/AAAAAAAAAAI/AAAAAAAAAAA/Po1Y8ILuDsk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>CASA DE LOS RECUERDOS</title>
+<item><title>[COLOR white]CASA DE [/COLOR][COLOR pink]LOS RECUERDOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -148,7 +148,7 @@
 <thumbnail>https://yt3.ggpht.com/-AjAbxLHXmxQ/AAAAAAAAAAI/AAAAAAAAAAA/L7OKQ9GMu4E/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>PASION DIGITAL INFANTIL</title>
+<item><title>[COLOR red]PASION DIGITAL [[/COLOR]COLOR pink]INFANTIL[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -161,7 +161,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-3Rj-lBS646Y/AAAAAAAAAAI/AAAAAAAAAAA/OLhH4GJtvk0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>CANAL CUENTOS</title>
+<item><title>[COLOR coral]CANAL [/COLOR][COLOR brown]CUENTOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -177,7 +177,7 @@
 
 
 
-<item><title>FAMILIA TELERIN</title>
+<item><title>[COLOR yellow]FAMILIA [/COLOR][COLOR green]TELERIN[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -190,7 +190,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-L94HRKf-_IU/AAAAAAAAAAI/AAAAAAAAAAA/qzy1CD_HoRg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>TOY CANTANDO</title>
+<item><title>[COLOR blue]TOY [/COLOR][COLOR pink]CANTANDO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -203,7 +203,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-BYIYOYb71Lw/AAAAAAAAAAI/AAAAAAAAAAA/AhLa3_9gvQU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>CANTAJUEGO</title>
+<item><title>[COLOR brown]CANTA[/COLOR][COLOR red]JUEGO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -217,7 +217,7 @@
 <thumbnail>https://yt3.ggpht.com/-YdMnc1Z9YB4/AAAAAAAAAAI/AAAAAAAAAAA/KN0tCAHi9XQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>A TIEMPO PREESCOLAR</title>
+<item><title>[COLOR coral]A TIEMPO [/COLOR][COLOR orange]PREESCOLAR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -230,7 +230,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-F4LMQlemxtU/AAAAAAAAAAI/AAAAAAAAAAA/JilNCnE5z7g/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>LUNA CRECIENTE</title>
+<item><title>[COLOR pink]LUNA [COLOR pink]CRECIENTE</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -243,7 +243,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-iePAsD7N8kg/AAAAAAAAAAI/AAAAAAAAAAA/Q5BmF1DPs3w/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>EL REINO INFANTIL</title>
+<item><title>[COLOR pink]EL REINO[/COLOR][COLOR fuchsia] INFANTIL[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -256,7 +256,7 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-9pBeUKQg9e4/AAAAAAAAAAI/AAAAAAAAAAA/XU2hlaqVT_o/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>TELMO Y TULA</title>
+<item><title>[COLOR red]TELMO Y [/COLOR][COLOR orange]TULA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -271,7 +271,7 @@
 </item>
 
 
-<item><title>¡HOY NO HAY COLE!</title>
+<item><title>[COLOR blue]¡HOY NO [/COLOR][COLOR yellow]HAY COLE![/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -285,7 +285,7 @@
 <thumbnail>https://yt3.ggpht.com/-jMlJdv08_sA/AAAAAAAAAAI/AAAAAAAAAAA/FygrbDXsuv8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
-<item><title>¡FACTORIA DE DIVERSION!</title>
+<item><title>[COLOR green]¡FACTORIA DE [/COLOR][COLOR pink]DIVERSION![/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
