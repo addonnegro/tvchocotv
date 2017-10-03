@@ -1,144 +1,383 @@
 #EXTM3U
 
-#EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/315.ts
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/337.ts
-#EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/336.ts
-#EXTINF:-1,ES: #O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/349.ts
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/317.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/316.ts
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/348.ts
-#EXTINF:-1,ES: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/187.ts
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/347.ts
-#EXTINF:-1,ES: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/346.ts
-#EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/882.ts
-#EXTINF:-1,ES: B31N La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/264.ts
-#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/160.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/345.ts
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/344.ts
-#EXTINF:-1,ES: COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/343.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/342.ts
-#EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/341.ts
-#EXTINF:-1,ES: CRIMEN INVESTIGACION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/313.ts
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/340.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/314.ts
-#EXTINF:-1,ES: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/312.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/311.ts
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/310.ts
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/309.ts
-#EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/308.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/307.ts
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/306.ts
-#EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/339.ts
-#EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/265.ts
-#EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/305.ts
-#EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/338.ts
-#EXTINF:-1,ES: La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/188.ts
-#EXTINF:-1,ES: LaLigaTV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/161.ts
-#EXTINF:-1,ES: M20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/304.ts
-#EXTINF:-1,ES: M6 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/303.ts
-#EXTINF:-1,ES: Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/263.ts
-#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/159.ts
-#EXTINF:-1,ES: MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/156.ts
-#EXTINF:-1,ES: MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/335.ts
-#EXTINF:-1,ES: MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/334.ts
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/333.ts
-#EXTINF:-1,ES: MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/332.ts
-#EXTINF:-1,ES: Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/189.ts
-#EXTINF:-1,ES: MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/158.ts
-#EXTINF:-1,ES: MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/157.ts
-#EXTINF:-1,ES: MOVISTAR MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/331.ts
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/302.ts
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/301.ts
-#EXTINF:-1,ES: MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/330.ts
-#EXTINF:-1,ES: MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/329.ts
-#EXTINF:-1,ES: MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/328.ts
-#EXTINF:-1,ES: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/327.ts
-#EXTINF:-1,ES: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/326.ts
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/300.ts
-#EXTINF:-1,ES: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/325.ts
-#EXTINF:-1,ES: NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/299.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/324.ts
-#EXTINF:-1,ES: ODISEA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/298.ts
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/297.ts
-#EXTINF:-1,ES: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/296.ts
-#EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/183.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/323.ts
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/322.ts
-#EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/321.ts
-#EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/320.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/319.ts
-#EXTINF:-1,ES: TOROSTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/155.ts
-#EXTINF:-1,ES: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/295.ts
-#EXTINF:-1,ES: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/318.ts
-#EXTINF:-1,ES: VIRGIN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fullpremiumvip.com:8000/live/cristian/cristian1/294.ts
+
+
+#EXTINF:-1,========|||-MOVISTAR-|||========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/403.ts
+#EXTINF:-1,ES:-LA-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/199.ts
+#EXTINF:-1,ES:-LA-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/701.ts
+#EXTINF:-1,ES:-ANTENA-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/200.ts
+#EXTINF:-1,ES:-CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/491.ts
+#EXTINF:-1,ES:-TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/201.ts
+#EXTINF:-1,ES:-LA-SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/202.ts
+#EXTINF:-1,ES:-AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1477.ts
+#EXTINF:-1,ES:-AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/503.ts
+#EXTINF:-1,ES:-Axn-White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/702.ts
+#EXTINF:-1,ES:-TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/495.ts
+#EXTINF:-1,ES:-TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/496.ts
+#EXTINF:-1,ES:-Calle-13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/203.ts
+#EXTINF:-1,ES:-SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1474.ts
+#EXTINF:-1,ES:-Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/335.ts
+#EXTINF:-1,ES:-FOX-LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/213.ts
+#EXTINF:-1,ES:-COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/711.ts
+#EXTINF:-1,ES:-HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/214.ts
+#EXTINF:-1,ES:-Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1487.ts
+#EXTINF:-1,ES:-COMEDY-CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/510.ts
+#EXTINF:-1,ES:_MOVISTAR_ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/284.ts
+#EXTINF:-1,ES:_MOVISTAR_COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/283.ts
+#EXTINF:-1,ES:_MOVISTAR_DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/282.ts
+#EXTINF:-1,ES:_MOVISTAR_Dcine-Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1480.ts
+#EXTINF:-1,ES:_MOVISTAR_XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/285.ts
+#EXTINF:-1,ES:_MOVISTAR_SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/275.ts
+#EXTINF:-1,ES:_MOVISTAR_Series-Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1475.ts
+#EXTINF:-1,ES:_MOVISTAR_ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/888.ts
+#EXTINF:-1,ES:_MOVISTAR_Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/209.ts
+#EXTINF:-1,ES:_Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2718.ts
+#EXTINF:-1,ES:_Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2717.ts
+#EXTINF:-1,ES:_MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2891.ts
+#EXTINF:-1,ES:_MOVISTAR_Deportes2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1706.ts
+#EXTINF:-1,ES:_MOVISTAR_PARTIDAZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2893.ts
+#EXTINF:-1,ES:-#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/700.ts
+#EXTINF:-1,ES:-BEIN-ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1701.ts
+#EXTINF:-1,ES:-BEIN-LA-LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/712.ts
+#EXTINF:-1,ES:-CAZA-Y-PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/210.ts
+#EXTINF:-1,ES:-DISCOVERY-MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1703.ts
+#EXTINF:-1,ES:-HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/708.ts
+#EXTINF:-1,ES:-NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1704.ts
+#EXTINF:-1,ES:-ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/706.ts
+#EXTINF:-1,ES:-PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1705.ts
+#EXTINF:-1,ES:-VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/707.ts
+#EXTINF:-1,ES:-Barca-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/206.ts
+#EXTINF:-1,ES:-REAL-MADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/367.ts
+#EXTINF:-1,ES:_MOVISTAR_MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/500.ts
+#EXTINF:-1,ES:_MOVISTAR_MOVISTAR-F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/499.ts
+#EXTINF:-1,ES:_MOVISTAR_Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/208.ts
+#EXTINF:-1,ES:_MOVISTAR_FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/889.ts
+#EXTINF:-1,ES:_MOVISTAR_Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1481.ts
+#EXTINF:-1,ES:-Clan-TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1478.ts
+#EXTINF:-1,ES:-DISNEY-XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/705.ts
+#EXTINF:-1,ES:-DISNEY-JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/704.ts
+#EXTINF:-1,ES:-DISNEY-CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/509.ts
+#EXTINF:-1,ES:_MOVISTAR_TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/205.ts
+#EXTINF:-1,ES:-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1490.ts
+#EXTINF:-1,ES:-NAT-GEO-WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/709.ts
+#EXTINF:-1,ES:-NATIONAL-GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/710.ts
+#EXTINF:-1,ES:_RTPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3662.ts
+#EXTINF:-1,ES:_Real_Madrid_TV_(English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3661.ts
+#EXTINF:-1,ES:_Radio_Television_de_Ceuta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3660.ts
+#EXTINF:-1,ES:_Onda_Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3659.ts
+#EXTINF:-1,ES:_Navarra_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3658.ts
+#EXTINF:-1,ES:_Marca_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3657.ts
+#EXTINF:-1,ES:_Levante_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3656.ts
+#EXTINF:-1,ES:_Lebrija_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3655.ts
+#EXTINF:-1,ES:_laOtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3654.ts
+#EXTINF:-1,ES:_Informacion_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3653.ts
+#EXTINF:-1,ES:_IB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3652.ts
+#EXTINF:-1,ES:_ETB_Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3651.ts
+#EXTINF:-1,ES:_Correo_TV_[Off]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3650.ts
+#EXTINF:-1,ES:_Condavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3649.ts
+#EXTINF:-1,ES:_Castilla-La_Mancha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3648.ts
+#EXTINF:-1,ES:_Canal_Parlamento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3647.ts
+#EXTINF:-1,ES:_Canal_Flamenco_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3646.ts
+#EXTINF:-1,ES:_Canal_Extremadura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3645.ts
+#EXTINF:-1,ES:_Canal_Andalucia_Turismo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3644.ts
+#EXTINF:-1,ES:_Canal_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3643.ts
+#EXTINF:-1,ES:_Betis_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3642.ts
+#EXTINF:-1,ES:_Atreseries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3641.ts
+#EXTINF:-1,ES:_Aragon_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3640.ts
+#EXTINF:-1,ES:_Andorra_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3635.ts
+#EXTINF:-1,ES:_8_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3637.ts
+#EXTINF:-1,ES:_324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3639.ts
+#EXTINF:-1,ES:_13_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3638.ts
+#EXTINF:-1,ES:_101_TV_Malaga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3636.ts
+#EXTINF:-1,ES:_TV_Galicia_Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3668.ts
+#EXTINF:-1,ES:_TV_Galicia_America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3667.ts
+#EXTINF:-1,ES:_TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3666.ts
+#EXTINF:-1,ES:_Sevilla_FC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3664.ts
+#EXTINF:-1,ES:_RTV_Marbella
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3663.ts
+#EXTINF:-1,========|||-MOVISTAR-|||========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/403.ts
+#EXTINF:-1,ES:-#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/700.ts
+#EXTINF:-1,ES:-LA-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/199.ts
+#EXTINF:-1,ES:-LA-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/701.ts
+#EXTINF:-1,ES:-ANTENA-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/200.ts
+#EXTINF:-1,ES:-CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/491.ts
+#EXTINF:-1,ES:-TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/201.ts
+#EXTINF:-1,ES:-LA-SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/202.ts
+#EXTINF:-1,ES:-Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/335.ts
+#EXTINF:-1,ES:-FOX-LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/213.ts
+#EXTINF:-1,ES:-AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/503.ts
+#EXTINF:-1,ES:-Axn-White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/702.ts
+#EXTINF:-1,ES:-TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/495.ts
+#EXTINF:-1,ES:-TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/496.ts
+#EXTINF:-1,ES:-AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1477.ts
+#EXTINF:-1,ES:-SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1474.ts
+#EXTINF:-1,ES:-Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1487.ts
+#EXTINF:-1,ES:_Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2717.ts
+#EXTINF:-1,ES:_MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2891.ts
+#EXTINF:-1,ES:_Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2718.ts
+#EXTINF:-1,ES:_Atreseries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3641.ts
+#EXTINF:-1,ES:-Calle-13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/203.ts
+#EXTINF:-1,ES:-HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/214.ts
+#EXTINF:-1,ES:-COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/711.ts
+#EXTINF:-1,ES:-PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1705.ts
+#EXTINF:-1,ES:-COMEDY-CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/510.ts
+#EXTINF:-1,ES:_MOVISTAR_ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/284.ts
+#EXTINF:-1,ES:_MOVISTAR_COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/283.ts
+#EXTINF:-1,ES:_MOVISTAR_DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/282.ts
+#EXTINF:-1,ES:_MOVISTAR_Dcine-Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1480.ts
+#EXTINF:-1,ES:_MOVISTAR_XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/285.ts
+#EXTINF:-1,ES:_MOVISTAR_Series-Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1475.ts
+#EXTINF:-1,ES:_MOVISTAR_SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/275.ts
+#EXTINF:-1,ES:_MOVISTAR_ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/888.ts
+#EXTINF:-1,ES:_MOVISTAR_Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/209.ts
+#EXTINF:-1,ES:_MOVISTAR_Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1481.ts
+#EXTINF:-1,ES:_MOVISTAR_Deportes2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1706.ts
+#EXTINF:-1,ES:_MOVISTAR_MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/500.ts
+#EXTINF:-1,ES:_MOVISTAR_MOVISTAR-F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/499.ts
+#EXTINF:-1,ES:_MOVISTAR_PARTIDAZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2893.ts
+#EXTINF:-1,ES:_MOVISTAR_FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/889.ts
+#EXTINF:-1,ES:_MOVISTAR_Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/208.ts
+#EXTINF:-1,ES:_MOVISTAR_TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/205.ts
+#EXTINF:-1,ES:-Barca-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/206.ts
+#EXTINF:-1,ES:-REAL-MADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/367.ts
+#EXTINF:-1,ES:_Real_Madrid_TV_(English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3661.ts
+#EXTINF:-1,ES:-BEIN-ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1701.ts
+#EXTINF:-1,ES:-BEIN-LA-LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/712.ts
+#EXTINF:-1,ES:-Clan-TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1478.ts
+#EXTINF:-1,ES:-NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1704.ts
+#EXTINF:-1,ES:-DISNEY-XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/705.ts
+#EXTINF:-1,ES:-DISNEY-JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/704.ts
+#EXTINF:-1,ES:-DISNEY-CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/509.ts
+#EXTINF:-1,ES:-CAZA-Y-PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/210.ts
+#EXTINF:-1,ES:-VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/707.ts
+#EXTINF:-1,ES:-ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/706.ts
+#EXTINF:-1,ES:-HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/708.ts
+#EXTINF:-1,ES:-NAT-GEO-WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/709.ts
+#EXTINF:-1,ES:-NATIONAL-GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/710.ts
+#EXTINF:-1,ES:-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1490.ts
+#EXTINF:-1,ES:-DISCOVERY-MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1703.ts
+#EXTINF:-1,ES:_TV_Galicia_Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3668.ts
+#EXTINF:-1,ES:_TV_Galicia_America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3667.ts
+#EXTINF:-1,ES:_TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3666.ts
+#EXTINF:-1,ES:_Sevilla_FC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3664.ts
+#EXTINF:-1,ES:_RTV_Marbella
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3663.ts
+#EXTINF:-1,ES:_RTPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3662.ts
+#EXTINF:-1,ES:_Radio_Television_de_Ceuta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3660.ts
+#EXTINF:-1,ES:_Onda_Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3659.ts
+#EXTINF:-1,ES:_Navarra_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3658.ts
+#EXTINF:-1,ES:_Marca_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3657.ts
+#EXTINF:-1,ES:_Levante_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3656.ts
+#EXTINF:-1,ES:_Lebrija_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3655.ts
+#EXTINF:-1,ES:_laOtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3654.ts
+#EXTINF:-1,ES:_Informacion_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3653.ts
+#EXTINF:-1,ES:_IB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3652.ts
+#EXTINF:-1,ES:_ETB_Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3651.ts
+#EXTINF:-1,ES:_Correo_TV_[Off]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3650.ts
+#EXTINF:-1,ES:_Condavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3649.ts
+#EXTINF:-1,ES:_Castilla-La_Mancha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3648.ts
+#EXTINF:-1,ES:_Canal_Parlamento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3647.ts
+#EXTINF:-1,ES:_Canal_Flamenco_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3646.ts
+#EXTINF:-1,ES:_Canal_Extremadura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3645.ts
+#EXTINF:-1,ES:_Canal_Andalucia_Turismo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3644.ts
+#EXTINF:-1,ES:_Canal_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3643.ts
+#EXTINF:-1,ES:_Betis_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3642.ts
+#EXTINF:-1,ES:_Aragon_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3640.ts
+#EXTINF:-1,ES:_Andorra_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3635.ts
+#EXTINF:-1,ES:_8_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3637.ts
+#EXTINF:-1,ES:_324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3639.ts
+#EXTINF:-1,ES:_13_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3638.ts
+#EXTINF:-1,ES:_101_TV_Malaga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3636.ts
+
+
+
+
+
+
+
+
+
+
+
