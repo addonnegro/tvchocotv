@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
-<item>
-<title>[COLOR yellow]PAKA-AKA [/COLOR] PARA [COLOR yellow]"[/COLOR][COLOR fuchsia]ADRIANA [/COLOR][COLOR orange]Y [/COLOR][COLOR blue]RODRIGO[/COLOR][COLOR yellow]" [/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail></thumbnail>
-</item>
- 
-<item>
-		<title>[COLOR red]PAKA-PAKA SD[/COLOR]</title>
-		<link>http://ar.watcha.live/ch15/full.m3u8</link>
-		<thumbnail>https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png</thumbnail>
-	</item>
-	
-	
+#EXTM3U
+
+#EXTINF:-1,ES: paka-paka
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2128.ts
