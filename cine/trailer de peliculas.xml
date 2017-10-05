@@ -1,20 +1,229 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<items>
 
-<item>
-<title>[COLOR red]TRAILERS DE[/COLOR] [COLOR yellow]PELICULAS EN[/COLOR] [COLOR red]ESPAÑOL[/COLOR]</title>
+
+ 
+
+
+
+<item><title>SENSACINE</title>
 <link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
-                        <thumbnail>http://www.mubis.es/media/users/2558/74942/pregunta-sencilla-veis-trailers-de-cine-por-lo-general-original.png</thumbnail>
-         ]]></listrepeat>
-            <expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
-            <page>https://www.youtube.com/user/TrailersInSpanish/playlists</page>
-            <cookieJar></cookieJar>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCJYVHccXMzmaYeqDglwtRdA</page>
 </regex>
+<thumbnail>https://yt3.ggpht.com/-zIYZYl1kAWE/AAAAAAAAAAI/AAAAAAAAAAA/CqU6IP9kgZA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
-            
+
+
+<item><title>SENSACINE TRAILERS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCcVNDl7ZJMf9lC9a34CY4RA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/--rJP4-DPA7E/AAAAAAAAAAI/AAAAAAAAAAA/DUXo9Va9vk4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item><title>SENSACINE KIDS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC3_A2e6AKLKvu0eWxYpuspg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-p0XDBWVOoOI/AAAAAAAAAAI/AAAAAAAAAAA/fMUMEI9CTX0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item><title>LA BUTACA</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC-UoJLNjWKsAVel9ocoLnFg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-Bqm_tp3FgTI/AAAAAAAAAAI/AAAAAAAAAAA/UU_LDAIlUtw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item><title>TRAILERS IN SPANISH</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCkpS96fmTFa8gGVWJx2uVAA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-Py8I53d1UNA/AAAAAAAAAAI/AAAAAAAAAAA/bY-0BVwZJyY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+<item><title>TRAILERS ESPAҏL</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCpxihkisxkSQVmX1iPlEmBQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-h_9ERxVJlr0/AAAAAAAAAAI/AAAAAAAAAAA/XQdc_lteJ0U/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item><title>TRAILERS Y ESTRENOS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCsbrGZQjM3NiA_eYsguRMNQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-LaG9wE3COaQ/AAAAAAAAAAI/AAAAAAAAAAA/xai66CuNudQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item><title>CINESA</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCqruLQwbARc0LrvggILb5Qw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-7uQsWuBRzJg/AAAAAAAAAAI/AAAAAAAAAAA/2HdLjA1Gbag/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item><title>YELMO CINES</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCmu_95EqTOrb4aOwrGUZPzw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-__tO6sz3a0s/AAAAAAAAAAI/AAAAAAAAAAA/kcvVkmcuik8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item><title>20TH CENTURY FOX ESPAҁ</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCrkVjeQUM5_GIp7vCWn64yw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-C6-aBkluSsM/AAAAAAAAAAI/AAAAAAAAAAA/f5IbGLEnDps/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+<item><title>PARAMOUNT PICTURES SPAIN</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCauapuNTraKzK1o25WwSfSQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-sfFYYEFwDLM/AAAAAAAAAAI/AAAAAAAAAAA/RgzHH3G5dM8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item><title>WARNER BROS PICTURES ESPAҁ</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCm8qFuubCgKlxdgMt_2WZBQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-tWm5zZB-uuQ/AAAAAAAAAAI/AAAAAAAAAAA/kC28lW_Mt8w/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item><title>SONY PICTURES ESPAҁ</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCdtdjXU0tf6fcuZhUoKN3Nw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-3RETzUvKnM0/AAAAAAAAAAI/AAAAAAAAAAA/NXdth28mBOk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item><title>DISNEY ESPAҁ</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCMm8XFMnB2wODJqYt6d6OJQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-w5Q4gWdB_40/AAAAAAAAAAI/AAAAAAAAAAA/I1BHP9sWuSM/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+--------------------------------------------------------
