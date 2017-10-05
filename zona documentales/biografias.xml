@@ -1,7 +1,10 @@
+
+
+
+
 <item>
 <title>[COLOR pink]CATEGORIAS Y[/COLOR][COLOR red]CANALES[/COLOR]</title>
 <link>$doregex[makelist2]</link>
- 
  
  
 <regex>
@@ -12,13 +15,9 @@
 <link>$doregex[makelist]</link>
 <thumbnail>http://www.micestademimbre.com/wp-content/uploads/2017/01/documentales.jpg</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[li.*?href="(http:\/\/www.documaniatv.com\/documentales.*?)".*?">(.*?)<]]></expres>
-<page>http://www.documaniatv.com/categorias-y-canales.html</page>
+<expres><![CDATA[h3.*?href="(.*?)".*?white\;\">(.*?)<]]></expres>
+<page>https://www.documaniatv.com/categorias-y-canales.html</page>
 </regex>
- 
- 
- 
- 
  
 <regex>
 <name>makelist</name>
@@ -43,12 +42,7 @@
 <page>[makelist.param1]</page>
 </regex>
 <thumbnail>http://www.micestademimbre.com/wp-content/uploads/2017/01/documentales.jpg</thumbnail>
-
-    </item>
-
-
-
-
+</item>
 
 
 <item>
