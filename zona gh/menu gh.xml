@@ -7,28 +7,35 @@
         <thumbnail>https://i.ytimg.com/vi/Mf7SRTtczN8/hqdefault.jpg</thumbnail>
     </item>
 	
-	 <item>
-        <title>[COLOR yellow]GH REVOLUTION[/COLOR][COLOR blue]GALAS[/COLOR]</title>
-        <link></link>
+	
+		<item>
+   <title>[COLOR yellow]GH REVOLUTION[/COLOR][COLOR blue]GALAS[/COLOR]</title>
+        <link>ignoreme</link>
         <thumbnail>https://i.ytimg.com/vi/Mf7SRTtczN8/hqdefault.jpg</thumbnail>
-    </item>
-	
-	
-	 <item>
-        <title>[COLOR orange]GH REVOLUTION[/COLOR][COLOR green]DEBATES[/COLOR]</title>
-        <link></link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20gh/menu%20gh.xml</externallink>  
+</item>
+
+		<item>
+   <title>[COLOR orange]GH REVOLUTION[/COLOR][COLOR green]DEBATES[/COLOR]</title>
+        <link>ignoreme</link>
         <thumbnail>https://www.ecestaticos.com/image/clipping/654/35f0b4cafc00d4245d3b18175c8328d4/maria-teresa-campos-en-su-trono-en-el-debate-de-gh-revolution-mediaset-espana.jpg</thumbnail>
-    </item>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20gh/debates.xml</externallink>  
+</item>
 	
-		 <item>
-        <title>[COLOR green]GH REVOLUTION[/COLOR][COLOR blue]ULTIMA HORA[/COLOR]</title>
-        <link></link>
+	
+	
+		<item>
+<title>[COLOR green]GH REVOLUTION[/COLOR][COLOR blue]ULTIMA HORA[/COLOR]</title>
+        <link>ignoreme</link>
         <thumbnail>http://www.lavanguardia.com/r/GODO/LV/p4/WebSite/2017/09/30/Recortada/img_gmartin_20170925-235554_imagenes_lv_terceros_sanfs-kcCC-U431675225441h1G-992x558@LaVanguardia-Web.jpg</thumbnail>
-    </item>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20gh/ultima%20hora.xml</externallink>  
+</item>
 	
 	
-			 <item>
-        <title>[COLOR blue]GH REVOLUTION[/COLOR][COLOR yellow]RESUMENES DIARIOS[/COLOR]</title>
-        <link></link>
-        <thumbnail></thumbnail>
-    </item>
+		<item>
+ <title>[COLOR blue]GH REVOLUTION[/COLOR][COLOR yellow]RESUMENES DIARIOS[/COLOR]</title>
+        <link>ignoreme</link>
+        <thumbnail>http://s1.dmcdn.net/hATQP/x240-9XB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20gh/resumenes.xml</externallink>  
+</item>
+	
