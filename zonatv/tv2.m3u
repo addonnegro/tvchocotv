@@ -1,167 +1,105 @@
 #EXTM3U
-#EXTINF:0,======= ESPANIA ========
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23710.ts
-#EXTINF:0,ES | 0#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23709.ts
-#EXTINF:0,ES | 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23708.ts
-#EXTINF:0,ES | A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23707.ts
-#EXTINF:0,ES | AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23706.ts
-#EXTINF:0,ES | AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23705.ts
-#EXTINF:0,ES | ANTENNA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23704.ts
-#EXTINF:0,ES | ANTENNA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23703.ts
-#EXTINF:0,ES | AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23702.ts
-#EXTINF:0,ES | AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23701.ts
-#EXTINF:0,ES | BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23700.ts
-#EXTINF:0,ES | BEIN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23699.ts
-#EXTINF:0,ES | BEIN SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23698.ts
-#EXTINF:0,ES | BEINSPORT LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23697.ts
-#EXTINF:0,ES | BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23696.ts
-#EXTINF:0,ES | CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23695.ts
-#EXTINF:0,ES | CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23693.ts
-#EXTINF:0,ES | CANAL IBERALIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23692.ts
-#EXTINF:0,ES | CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23691.ts
-#EXTINF:0,ES | COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23690.ts
-#EXTINF:0,ES | COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23689.ts
-#EXTINF:0,ES | COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23688.ts
-#EXTINF:0,ES | CRIME & INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23687.ts
-#EXTINF:0,ES | CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23686.ts
-#EXTINF:0,ES | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23685.ts
-#EXTINF:0,ES | DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23684.ts
-#EXTINF:0,ES | DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23683.ts
-#EXTINF:0,ES | DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23682.ts
-#EXTINF:0,ES | ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23681.ts
-#EXTINF:0,ES | ESPERANZA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23680.ts
-#EXTINF:0,ES | EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23679.ts
-#EXTINF:0,ES | FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23678.ts
-#EXTINF:0,ES | FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23677.ts
-#EXTINF:0,ES | FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23676.ts
-#EXTINF:0,ES | FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23675.ts
-#EXTINF:0,ES | GALICIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23674.ts
-#EXTINF:0,ES | GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23673.ts
-#EXTINF:0,ES | HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23672.ts
-#EXTINF:0,ES | HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23671.ts
-#EXTINF:0,ES | LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23670.ts
-#EXTINF:0,ES | LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23669.ts
-#EXTINF:0,ES | LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23668.ts
-#EXTINF:0,ES | LALIGA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23667.ts
-#EXTINF:0,ES | LANCELOT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23666.ts
-#EXTINF:0,ES | MEGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23665.ts
-#EXTINF:0,ES | MEZZO LIVE  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23664.ts
-#EXTINF:0,ES | MOVISTAR ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23663.ts
-#EXTINF:0,ES | MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23662.ts
-#EXTINF:0,ES | MOVISTAR COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23661.ts
-#EXTINF:0,ES | MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23660.ts
-#EXTINF:0,ES | MOVISTAR DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23659.ts
-#EXTINF:0,ES | MOVISTAR DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23658.ts
-#EXTINF:0,ES | MOVISTAR DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23657.ts
-#EXTINF:0,ES | MOVISTAR DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23656.ts
-#EXTINF:0,ES | MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23655.ts
-#EXTINF:0,ES | MOVISTAR ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23654.ts
-#EXTINF:0,ES | MOVISTAR EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23653.ts
-#EXTINF:0,ES | MOVISTAR F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23652.ts
-#EXTINF:0,ES | MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23651.ts
-#EXTINF:0,ES | MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23650.ts
-#EXTINF:0,ES | MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23649.ts
-#EXTINF:0,ES | MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23648.ts
-#EXTINF:0,ES | MOVISTAR MOTOGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23647.ts
-#EXTINF:0,ES | MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23694.ts
-#EXTINF:0,ES | MOVISTAR SERIES EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23646.ts
-#EXTINF:0,ES | MOVISTAR SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23645.ts
-#EXTINF:0,ES | NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23644.ts
-#EXTINF:0,ES | NATIONAL GEOGRAPHY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23643.ts
-#EXTINF:0,ES | NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23642.ts
-#EXTINF:0,ES | NICK JR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23641.ts
-#EXTINF:0,ES | NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23640.ts
-#EXTINF:0,ES | NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23639.ts
-#EXTINF:0,ES | REAL MADRID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23638.ts
-#EXTINF:0,ES | RUSSIA TODAY (Espanol)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23637.ts
-#EXTINF:0,ES | SILENCE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23636.ts
-#EXTINF:0,ES | SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23635.ts
-#EXTINF:0,ES | TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23634.ts
-#EXTINF:0,ES | TELECINO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23633.ts
-#EXTINF:0,ES | TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23632.ts
-#EXTINF:0,ES | TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23631.ts
-#EXTINF:0,ES | TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23630.ts
-#EXTINF:0,ES | TV3 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23629.ts
-#EXTINF:0,ES | VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.83.31:8080/live/sn75@outlook.de/u9lVl4Vm13/23628.ts
+#EXTINF:-1,►►● ESPAÑA ●◄◄
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/795.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/373.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/372.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/371.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/370.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/387.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/369.ts
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/368.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/367.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/366.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/365.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/364.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/360.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/362.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/361.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/356.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/355.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/354.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/353.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/352.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/351.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/350.ts
+#EXTINF:-1,ES: LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/348.ts
+#EXTINF:-1,ES: La Sexta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/378.ts
+#EXTINF:-1,ES: LaLigaTV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/379.ts
+#EXTINF:-1,ES: M20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/347.ts
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/345.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/381.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/343.ts
+#EXTINF:-1,ES: CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/341.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/383.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/376.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/338.ts
+#EXTINF:-1,ES: CANAL SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/337.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/334.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/333.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/332.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/331.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/330.ts
+#EXTINF:-1,ES: ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/329.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/328.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/325.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/324.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/326.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/342.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/323.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/322.ts
+#EXTINF:-1,ES: TOROSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/380.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/359.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/358.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/357.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/320.ts
