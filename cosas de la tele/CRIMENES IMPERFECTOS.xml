@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>[COLOR purple]EN TU CASA  [/COLOR][COLOR fuchsia]O EN LA MIA[/COLOR]</title>
+<title>[COLOR yellow]EN TU CASA  [/COLOR][COLOR fuchsia]O EN LA MIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=6tv5kk_bM2s&index=1&list=PLMsy95aBVxuHG7mx1ffrk_
 
 
 <item>
-<title>[COLOR purple]LOS REPORTEROS [/COLOR][COLOR fuchsia]CANAL SUR[/COLOR]</title>
+<title>[COLOR yellow]LOS REPORTEROS [/COLOR][COLOR fuchsia]CANAL SUR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=6tv5kk_bM2s&index=1&list=PLMsy95aBVxuHG7mx1ffrk_
 
 https://www.youtube.com/watch?v=6HIkSHXz3EA&list=PL85691CCA284CE029
 <item>
-<title>[COLOR purple]REPORTEROS [/COLOR][COLOR fuchsia]360[/COLOR]</title>
+<title>[COLOR yellow]REPORTEROS [/COLOR][COLOR fuchsia]360[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
