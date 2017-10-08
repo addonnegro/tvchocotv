@@ -1,110 +1,105 @@
-#EXTINF:-1,---☛ SPAIN ☚---
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2410.ts
-#EXTINF:-1,ES : COSMOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2358.ts
-#EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2359.ts
+#EXTM3U
+#EXTINF:-1,►►● ESPAÑA ●◄◄
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/795.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/373.ts
 #EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2360.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/372.ts
 #EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2361.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/371.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/370.ts
 #EXTINF:-1,ES: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2362.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/387.ts
 #EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2363.ts
-#EXTINF:-1,ES: BEIN LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2364.ts
-#EXTINF:-1,ES: beIN Sport Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2365.ts
-#EXTINF:-1,ES: Canal  Estrenos Hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2366.ts
-#EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2747.ts
-#EXTINF:-1,ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2367.ts
-#EXTINF:-1,ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2368.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2369.ts
-#EXTINF:-1,ES: CRIME INVESTIGACION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2370.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/369.ts
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/368.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/367.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/366.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/365.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/364.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/360.ts
 #EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2371.ts
-#EXTINF:-1,ES: Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2372.ts
-#EXTINF:-1,ES: DISNEY CHANNELS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2373.ts
-#EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2374.ts
-#EXTINF:-1,ES: Canal Sur Andalucia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2748.ts
-#EXTINF:-1,ES: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2375.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/362.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/361.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/356.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/355.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/354.ts
 #EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2376.ts
-#EXTINF:-1,ES: FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2377.ts
-#EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2378.ts
-#EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2379.ts
-#EXTINF:-1,ES: La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2380.ts
-#EXTINF:-1,ES: La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2381.ts
-#EXTINF:-1,ES: la liga tv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2382.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/353.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/352.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/351.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/350.ts
+#EXTINF:-1,ES: LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/348.ts
 #EXTINF:-1,ES: La Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2383.ts
-#EXTINF:-1,ES: M  Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2384.ts
-#EXTINF:-1,ES: M  Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2385.ts
-#EXTINF:-1,ES: M  Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2386.ts
-#EXTINF:-1,ES: M  Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2387.ts
-#EXTINF:-1,ES: M  Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2388.ts
-#EXTINF:-1,ES: M  Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2389.ts
-#EXTINF:-1,ES: M  Series Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2390.ts
-#EXTINF:-1,ES: M  Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2391.ts
-#EXTINF:-1,ES: M  Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2392.ts
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2393.ts
-#EXTINF:-1,ES: Ml  DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2394.ts
-#EXTINF:-1,ES: Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2395.ts
-#EXTINF:-1,ES: Movistar MotoGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2396.ts
-#EXTINF:-1,ES: Nat. Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2397.ts
-#EXTINF:-1,ES: Nat. Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2398.ts
-#EXTINF:-1,ES: Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2399.ts
-#EXTINF:-1,ES: NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2400.ts
-#EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2401.ts
-#EXTINF:-1,ES: Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2402.ts
-#EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2403.ts
-#EXTINF:-1,ES: SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2404.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/378.ts
+#EXTINF:-1,ES: LaLigaTV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/379.ts
+#EXTINF:-1,ES: M20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/347.ts
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/345.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/381.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/343.ts
+#EXTINF:-1,ES: CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/341.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/383.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/376.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/338.ts
+#EXTINF:-1,ES: CANAL SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/337.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/334.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/333.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/332.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/331.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/330.ts
+#EXTINF:-1,ES: ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/329.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/328.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/325.ts
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2405.ts
-#EXTINF:-1,ES: Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2406.ts
-#EXTINF:-1,ES: TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2407.ts
-#EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2408.ts
-#EXTINF:-1,ES: VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.kim:8080/live/toniparis/paris/2409.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/324.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/326.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/342.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/323.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/322.ts
+#EXTINF:-1,ES: TOROSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/380.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/359.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/358.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/357.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.poweriptv.cl:25461/live/asd123/asd123/320.ts
