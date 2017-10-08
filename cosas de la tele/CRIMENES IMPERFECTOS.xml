@@ -18,7 +18,27 @@
 <externallink></externallink>  
 </item>
 
+<item>
+<title>[COLOR purple]EN TU CASA  [/COLOR][COLOR fuchsia]O EN LA MIA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=6tv5kk_bM2s&amp;list=PLMsy95aBVxuHG7mx1ffrk_QmY9WAaIJrz</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=6tv5kk_bM2s&index=1&list=PLMsy95aBVxuHG7mx1ffrk_QmY9WAaIJrz
 
+                        <thumbnail>http://ocio.diarioinformacion.com/img_contenido/noticias/2016/04/494366/bertin.jpg</thumbnail>
+						<fanart>http://ocio.diarioinformacion.com/img_contenido/noticias/2016/04/494366/bertin.jpg</fanart>
+
+</item>
 
 <item>
 <title>[COLOR blue]EMPEÑOS[/COLOR][COLOR green]A LO BESTIA[/COLOR]</title>
