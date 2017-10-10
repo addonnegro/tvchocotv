@@ -3,6 +3,48 @@
 
 
 
+
+
+<item>
+<title>[COLOR lime]EL INCIDENTE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://vertele.eldiario.es/files/2014/08/incidente6502-500x288-custom.jpg</thumbnail>
+		<fanart>http://vertele.eldiario.es/files/2014/08/incidente6502-500x288-custom.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/TarifaDescarga/el-incidente-87658</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://vertele.eldiario.es/files/2014/08/incidente6502-500x288-custom.jpg</thumbnail>
+		<fanart>http://vertele.eldiario.es/files/2014/08/incidente6502-500x288-custom.jpg</fanart>
+</item>
+
+
+
 <item>
 <title>[COLOR red]24 (todas temporadas castellano)[/COLOR]</title>
 <link>$doregex[makelist]</link>
