@@ -169,8 +169,8 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>http://imgsrc.allposters.com/img/print/posters/nightmare-on-elm-street-freddy-krueger-movie-tin-sign_a-G-9560641-0.jpg</thumbnail>
-		<fanart>http://imgsrc.allposters.com/img/print/posters/nightmare-on-elm-street-freddy-krueger-movie-tin-sign_a-G-9560641-0.jpg</fanart>
+		<thumbnail>http://1.bp.blogspot.com/-URcH90kWtnU/UyYbBG_picI/AAAAAAAAABs/oIfY67Z7J9g/s1600/4172809_640px.jpg</thumbnail>
+		<fanart>http://1.bp.blogspot.com/-URcH90kWtnU/UyYbBG_picI/AAAAAAAAABs/oIfY67Z7J9g/s1600/4172809_640px.jpg</fanart>
 </item>
 
 
@@ -215,15 +215,15 @@
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-		<thumbnail>http://imgsrc.allposters.com/img/print/posters/nightmare-on-elm-street-freddy-krueger-movie-tin-sign_a-G-9560641-0.jpg</thumbnail>
-		<fanart>http://imgsrc.allposters.com/img/print/posters/nightmare-on-elm-street-freddy-krueger-movie-tin-sign_a-G-9560641-0.jpg</fanart>
+		<thumbnail>http://www.newvideo.com/wp-content/uploads/2010/09/GoosebumpsIconSSN2.jpg</thumbnail>
+		<fanart>http://www.newvideo.com/wp-content/uploads/2010/09/GoosebumpsIconSSN2.jpg</fanart>
 </item>
 
 
 
 
 <item>
-<title>[COLOR fuschia]LAS PESADILLAS DE FREDDY (SERIE) (COMPLETA)[/COLOR]</title>
+<title>[COLOR fuchsia]LAS PESADILLAS DE FREDDY [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
