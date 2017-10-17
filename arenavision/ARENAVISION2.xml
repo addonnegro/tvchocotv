@@ -37,7 +37,7 @@ item>
 
 
 <item>
-<title>[COLOR aquamarine] AGENDA  ARENAVISION 1 [/COLOR][COLOR pink]CLIC AQUI[/COLOR]</title>
+<title>[COLOR violet] AGENDA  ARENAVISION 1 [/COLOR][COLOR pink]CLIC AQUI[/COLOR]</title>
  
 <link>$doregex[makelist]</link>
  
