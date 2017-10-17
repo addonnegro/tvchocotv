@@ -53,14 +53,14 @@ item>
 <listrepeat><![CDATA[
     <title>[COLOR pink] [makelist.param3] [/COLOR][COLOR orange] [makelist.param2] [makelist.param4][/COLOR] [COLOR blue][makelist.param5][/COLOR] </title>
 <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=tvchopo</link>
-<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
-<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -107,7 +107,7 @@ item>
 			<referer>http://arenavision.in/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+			<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
@@ -116,8 +116,8 @@ item>
 <referer>http://arenavision.in/</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
-<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</fanart>
 </item>	
  
  
