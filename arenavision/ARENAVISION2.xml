@@ -14,7 +14,7 @@ item>
 
 
 <item>
-<title>[COLOR red] rincon [/COLOR] [COLOR blue]PRENSA[/COLOR][COLOR pink]Y NOTICIAS DEPORTIVA  [/COLOR][COLOR green] TVCHOPO[/COLOR] </title>
+<title>[COLOR fuchsia] PRENSA Y NOTICIAS DEPORTIVA  [/COLOR] </title>
 <link>https://www.youtube.com/watch?v=jJbkIXXRlGk&feature=share</link>
 <thumbnail>http://files.imperator-oar-veteranos7.webnode.es/200000108-7eac97fa6f/1346323419756.jpg</thumbnail>
 <fanart>http://files.imperator-oar-veteranos7.webnode.es/200000108-7eac97fa6f/1346323419756.jpg</fanart>
@@ -43,7 +43,7 @@ item>
 
 
 <item>
-<title>[COLOR lime] AGENDA [/COLOR][COLOR yellow] ARENAVISION 1 [COLOR pink]CLIC AQUI[/COLOR]</title>
+<title>[COLOR grenn] AGENDA  ARENAVISION 1 [/COLOR][COLOR pink]CLIC AQUI[/COLOR]</title>
  
 <link>$doregex[makelist]</link>
  
@@ -93,7 +93,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION AGENDA 2[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR coral]ARENAVISION AGENDA 2[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -194,7 +194,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].in[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION[/COLOR] [COLOR red].in[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -218,7 +218,7 @@ item>
 <externallink></externallink>  
 </item>
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].ru[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION[/COLOR] [COLOR red].ru[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -242,7 +242,7 @@ item>
 <externallink></externallink>  
 </item>
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].top[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION[/COLOR] [COLOR red].top[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -268,7 +268,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].us[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION[/COLOR] [COLOR red].us[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -292,7 +292,7 @@ item>
 <externallink></externallink>  
 </item>
 <item>
-<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].cf[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION[/COLOR] [COLOR red].cf[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -318,7 +318,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ga[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION2017[/COLOR] [COLOR red].ga[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -343,7 +343,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ml[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION2017[/COLOR] [COLOR red].ml[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -369,7 +369,7 @@ item>
 
 
 <item>
-<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].tk[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<title>[COLOR aquamarine]ARENAVISION2017[/COLOR] [COLOR red].tk[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
 <thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
