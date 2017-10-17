@@ -10,7 +10,7 @@
  
  
  <item>
-<title>[COLOR lime]ESPECIAL [/COLOR][COLOR fuchsia]HALLOWEN[/COLOR] </title>
+<title>[COLOR lime]ESPECIAL HALLOWEN[/COLOR] </title>
 <link>ignoreme</link>
 <thumbnail>https://image.freepik.com/vector-gratis/escalofriante-fondo-de-halloween-con-calabazas-en-un-cementerio_1048-3055.jpg</thumbnail>
 <fanart>https://image.freepik.com/vector-gratis/escalofriante-fondo-de-halloween-con-calabazas-en-un-cementerio_1048-3055.jpg</fanart>
@@ -20,14 +20,14 @@
  
  
 	<item>
-<title>[COLOR pink]GH REVOLUTION [/COLOR][COLOR fuchsia]TODO[/COLOR]</title>
+<title>[COLOR pink]GH REVOLUTION TODO[/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://www.ecestaticos.com/imagestatic/clipping/b78/677/b78677281e211aa6f373443d5e84ff09/imagen-sin-titulo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20gh/menu%20gh.xml</externallink>  
 </item>
 
 <item>
- <title>[COLOR red]ZONA[/COLOR] [COLOR fuchsia]NOTICIAS [/COLOR]</title>
+ <title>[COLOR aquamarine]ZONA NOTICIAS [/COLOR]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/855938002/ULTIMAHORA_400x400.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/855938002/ULTIMAHORA_400x400.jpg</fanart>
 <link>ignoreme</link>
@@ -35,7 +35,7 @@
 </item>
  
 <item>
-<title>[COLOR purple]ZONA[/COLOR] [COLOR yellow]TV[/COLOR]</title>
+<title>[COLOR purple]ZONA TV[/COLOR]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/877251750335586304/IfemnFH-_400x400.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/877251750335586304/IfemnFH-_400x400.jpg</fanart>
 <link>ignoreme</link>
@@ -43,7 +43,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]COSAS [/COLOR][COLOR pink]DE [/COLOR][COLOR green]LA [/COLOR][COLOR red]TELE[/COLOR]</title>
+<title>[COLOR blue]COSAS DE LA TELE[/COLOR]</title>
 <thumbnail>https://3.bp.blogspot.com/-SQI8zYIeYL4/WckXHPX_zBI/AAAAAAAAEg0/eWPZd4mrZw4wh11ta06twqeWTDcz5nMtACK4BGAYYCw/s320/Cuatro.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-SQI8zYIeYL4/WckXHPX_zBI/AAAAAAAAEg0/eWPZd4mrZw4wh11ta06twqeWTDcz5nMtACK4BGAYYCw/s320/Cuatro.png</fanart>
 <link>ignoreme</link>
@@ -53,7 +53,7 @@
 
 
 <item>
-<title>[COLOR coral]CI[COLOR blue]NE[/COLOR]</title>
+<title>[COLOR coral]CINE[/COLOR]</title>
 <thumbnail>http://nowmusicradio.com/wp-content/uploads/2017/09/permanencia-voluntaria.jpg</thumbnail>
 <fanart>http://nowmusicradio.com/wp-content/uploads/2017/09/permanencia-voluntaria.jpg</fanart>
 <link>ignoreme</link>
@@ -62,7 +62,7 @@
 
 
 <item>
-<title>[COLOR orange]S[/COLOR][COLOR yellow]E[/COLOR][COLOR violet]R[/COLOR][COLOR green]I[/COLOR][COLOR red]E[/COLOR][COLOR blue]S[/COLOR]</title>
+<title>[COLOR orange]SERIES[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/736x/c3/09/15/c30915746849a8f63d84bf282dea6e15--netflix-tv.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/9eXVNxtGdpI/maxresdefault.jpg</fanart>
 <link>ignoreme</link>
@@ -70,7 +70,7 @@
 </item>       
 
 <item>
-<title>[COLOR pink]LA ZONA[/COLOR][COLOR fuchsia] TELENOVELAS[/COLOR]</title>
+<title>[COLOR pink]LA ZONA TELENOVELAS[/COLOR]</title>
 <thumbnail>https://st-listas.20minutos.es/images/2012-04/326833/list_640px.jpg</thumbnail>
 <fanart>https://st-listas.20minutos.es/images/2012-04/326833/list_640px.jpg</fanart>
 <link>ignoreme</link>
@@ -80,7 +80,7 @@
 
 
 <item>
-<title>[COLOR fuchsia]ZoNa[/COLOR] [COLOR orange]iNfAnTiL[/COLOR]</title>
+<title>[COLOR fuchsia]ZoNa iNfAnTiL[/COLOR]</title>
 <thumbnail>https://paracrios.files.wordpress.com/2017/04/zona-infantil-3.jpg</thumbnail>
 <fanart>https://paracrios.files.wordpress.com/2017/04/zona-infantil-3.jpg</fanart>
 <link>ignoreme</link>
@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<title>[COLOR red]ZONA[/COLOR][COLOR green] DEPORTES[/COLOR]</title>
+<title>[COLOR red]ZONA DEPORTES[/COLOR]</title>
 <thumbnail>https://i.ytimg.com/vi/DC318FDOfH0/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/DC318FDOfH0/maxresdefault.jpg</fanart>
 <link>ignoreme</link>
@@ -97,7 +97,7 @@
 
 
 <item>
-<title>[COLOR sky]ZONA[/COLOR] [COLOR fuchsia]HOGAR[/COLOR] </title>
+<title>[COLOR sky]ZONA HOGAR[/COLOR] </title>
 <thumbnail>http://2.bp.blogspot.com/-ekbJjiNNP9c/Um1wvIkpHKI/AAAAAAAAAC4/miEVXGsj1pA/s1600/Desafios-Generales-en-Dise%C3%B1o-de-una-Casa.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-ekbJjiNNP9c/Um1wvIkpHKI/AAAAAAAAAC4/miEVXGsj1pA/s1600/Desafios-Generales-en-Dise%C3%B1o-de-una-Casa.jpg</fanart>
 <link>ignoreme</link>
@@ -105,7 +105,7 @@
 </item>
 
 <item>
-<title>[COLOR green]ZONA[/COLOR] [COLOR yellow]gym[/COLOR] </title>
+<title>[COLOR green]ZONA GYM[/COLOR] </title>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/76/ee/a1/76eea1d7357cfe5f4e73d5d04d61c1eb.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/76/ee/a1/76eea1d7357cfe5f4e73d5d04d61c1eb.jpg</fanart>
 <link>ignoreme</link>
@@ -113,7 +113,7 @@
 </item>
 
 <item>
-<title>[COLOR red]ZONA [/COLOR][COLOR blue]TUTORIALES[/COLOR] [COLOR orange]TVCHOCO[/COLOR]</title>
+<title>[COLOR violet]ZONA TUTORIALES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.webconversionmaster.com/wp-content/uploads/2013/09/video-tutoriales.jpg</thumbnail>
 <fanart>http://www.webconversionmaster.com/wp-content/uploads/2013/09/video-tutoriales.jpg</fanart>
@@ -121,7 +121,7 @@
 </item>
 
 <item>
-<title>[COLOR red]ZONA [/COLOR][COLOR pink]DOCU[/COLOR][COLOR fuchsia]MENTALES[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]**RENOVADA** [/COLOR]</title>
+<title>[COLOR red]ZONA DOCUMENTALES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png</thumbnail>
 <fanart>http://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png</fanart>
@@ -129,7 +129,7 @@
 </item>
 
 item>
-<title>[COLOR purple]ZONA [/COLOR][COLOR blue]NUETRA[/COLOR] [COLOR green]DISCOTECA[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]TVCHOCO !!!!!!PROXIMAMENTE[/COLOR]</title>
+<title>[COLOR purple]ZONA NUETRA[/COLOR] [COLOR green]DISCOTECA[/COLOR] [COLOR yellow]DE [/COLOR][COLOR orange]TVCHOCO !!!!!!PROXIMAMENTE[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.cctvcambridge.org/sites/default/files/imagefield/01_ms_dancefloor.jpg</thumbnail>
 <fanart>https://www.cctvcambridge.org/sites/default/files/imagefield/01_ms_dancefloor.jpg</fanart>
