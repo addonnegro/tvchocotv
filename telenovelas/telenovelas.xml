@@ -29,7 +29,7 @@
 
 
 <item>
-<title>[COLOR red]NOVELAS [COLOR red]TELEMUNDO</title>
+<title>[COLOR red]NOVELAS [/COLOR][COLOR red]TELEMUNDO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
