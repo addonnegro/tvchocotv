@@ -10,6 +10,38 @@
 <externallink></externallink>  
 </item>
 
+<item>
+<title>[COLOR orange]CARRETERAS INFERNALES[/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/N2iP7jObqFo/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/N2iP7jObqFo/hqdefault.jpg</fanart>
+<externallink></externallink>  
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]PESADILLA EN LA COCINA USA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=1mac_MANrxE&amp;list=PLUj0NCblYX2wOubt8Dhdj0M-5pwdDdKO5</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=1mac_MANrxE&list=PLUj0NCblYX2wOubt8Dhdj0M-5pwdDdKO5
+
+                        <thumbnail>http://i0.kym-cdn.com/photos/images/original/000/500/965/771.jpg</thumbnail>
+						<fanart>http://i0.kym-cdn.com/photos/images/original/000/500/965/771.jpg</fanart>
+
+</item>
+
 
 
 	<item>

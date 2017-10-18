@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR yellow]CUIDADO CON EL ANGEL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=tV6xbI0O7n0&amp;list=PLcttqeRcJSVHbsFFz6_Fs1Chf9Hq7OYvu</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1Chf9Hq7OYvu
+
+                        <thumbnail>http://vertele.eldiario.es/losdevoraseries/files/2015/09/1_protagonistas.jpg?hash=f62613afed6c968d9d9ecdf3335d5d340b15bd20</thumbnail>
+						<fanart>http://vertele.eldiario.es/losdevoraseries/files/2015/09/1_protagonistas.jpg?hash=f62613afed6c968d9d9ecdf3335d5d340b15bd20</fanart>
+
+</item>
 
 <item>
 <title>[COLOR lime]ESMERALDA[/COLOR] </title>
