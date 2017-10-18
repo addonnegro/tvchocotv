@@ -10,6 +10,11 @@
 <externallink></externallink>  
 </item>
 
+
+
+
+
+
 <item>
 <title>[COLOR orange]CARRETERAS INFERNALES[/COLOR] </title>
 <link>ignoreme</link>
@@ -335,27 +340,7 @@ https://www.youtube.com/watch?v=AiRFMWtu-Ys&list=PL4949320E38B4DCFC
 
 
 
-<item>
-<title>[COLOR yellow]CAMIONEROS[/COLOR][COLOR yellow] DE AUSTRALIA[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-						
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>   esta es para poner listas
-            <page>https://www.youtube.com/watch?v=XmYes07RY6Y&amp;list=PLTTs6PlYWB9G6W2OdUgeZuDPrj1lT6MqQ</page>
-             <cookieJar></cookieJar>
-</regex>
 
-
-                        <thumbnail>http://www.dmax.marca.com/wp-content/uploads/2016/12/camioneros-australia.jpg</thumbnail>
-						<fanart>http://www.dmax.marca.com/wp-content/uploads/2016/12/camioneros-australia.jpg</fanart>
-
-</item>
 
 <item>
 <title>[COLOR blue]COC[/COLOR][COLOR green]HES[/COLOR]</title>
