@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+<item>
+<title>[COLOR lime]ESMERALDA[/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail></thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDQ2ZGVkMGMtNzlhMy00YzA4LWI2ZjMtN2JlMTU4MzcxMDVjXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDQ2ZGVkMGMtNzlhMy00YzA4LWI2ZjMtN2JlMTU4MzcxMDVjXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg</fanart>
+</item>
+
+
 <item><title>[COLOR yellow]VENE[/COLOR][COLOR green]NOVELAS[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
