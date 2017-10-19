@@ -1,0 +1,46 @@
+<item>
+		<title>[COLOR aquamarine]CUENTAME[/COLOR] [COLOR brown]COMO [/COLOR] [COLOR orange]PASO[/COLOR] [COLOR green]temporadas1-15[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://static.blogocio.net/series/p/o/1035.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/_OPi3eIGIbNU/TQf40R4VpEI/AAAAAAAAAAs/gfTOVLqpN8M/s1600/BSO_Cuentame_La_Serie--Frontal.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/lokario1/cuentame-como-paso-temp-1-14-14395/list,1,12</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://static.blogocio.net/series/p/o/1035.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/_OPi3eIGIbNU/TQf40R4VpEI/AAAAAAAAAAs/gfTOVLqpN8M/s1600/BSO_Cuentame_La_Serie--Frontal.jpg</fanart>
+	</item>
+
+	
+	<item>
+<title>CUENTAME[/COLOR] [COLOR yellow]COMO [/COLOR] [COLOR blue]PASO[/COLOR] [COLOR coral]temporadas 16y17[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>http://static.blogocio.net/series/p/o/1035.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/_OPi3eIGIbNU/TQf40R4VpEI/AAAAAAAAAAs/gfTOVLqpN8M/s1600/BSO_Cuentame_La_Serie--Frontal.jpg</fanart>
+<externallink></externallink>  
+</item>
