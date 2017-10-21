@@ -8,8 +8,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</thumbnail>
-						<fanart>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</fanart>
+                        <thumbnail>https://i.ytimg.com/vi/EfokNi8NLKU/hqdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/EfokNi8NLKU/hqdefault.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=HyO2ngEkgyE&amp;list=PLM21IsezPrtpoHcdYaSB5DwKHllK-02sJ</page>
@@ -17,8 +17,8 @@
 </regex>
 https://www.youtube.com/watch?v=HyO2ngEkgyE&list=PLM21IsezPrtpoHcdYaSB5DwKHllK-02sJ
 
-                        <thumbnail>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</thumbnail>
-						<fanart>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</fanart>
+                        <thumbnail>https://i.ytimg.com/vi/EfokNi8NLKU/hqdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/EfokNi8NLKU/hqdefault.jpg</fanart>
 
 </item>
 
