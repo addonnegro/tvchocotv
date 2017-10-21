@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR pink]LA DAMA DE ROSA  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=HyO2ngEkgyE&amp;list=PLM21IsezPrtpoHcdYaSB5DwKHllK-02sJ</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=HyO2ngEkgyE&list=PLM21IsezPrtpoHcdYaSB5DwKHllK-02sJ
+
+                        <thumbnail>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/NVORC9GloBk/maxresdefault.jpg</fanart>
+
+</item>
 
 
 
@@ -58,7 +79,7 @@
 
 
 <item>
-<title>[COLOR green]CUIDADO CON EL ANGEL[/COLOR]</title>
+<title>[COLOR blue]CUIDADO CON EL ANGEL[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -88,7 +109,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 </item>
 
 
-<item><title>[COLOR yellow]VENE[/COLOR][COLOR green]NOVELAS[/COLOR] </title>
+¡item><title>[COLOR orange]VENE[/COLOR][COLOR green]NOVELAS[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -105,7 +126,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 
-<item>
+item>
 <title>[COLOR red]NOVELAS [/COLOR][COLOR red]TELEMUNDO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
@@ -124,7 +145,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]TOPACIO [/COLOR]</title>
+<title>[COLOR coral]TOPACIO [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -149,7 +170,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]LA REINA DEL SUR[/COLOR]</title>
+<title>[COLOR skyblue]LA REINA DEL SUR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -208,7 +229,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]MI GORDA BELLA[/COLOR]</title>
+<title>[COLOR aquamarine]MI GORDA BELLA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -248,7 +269,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]VALERIA [/COLOR]</title>
+<title>[COLOR magenta]VALERIA [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -272,7 +293,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]Dame Chocolate[/COLOR]</title>
+<title>[COLOR gold]Dame Chocolate[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -306,7 +327,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]AMAR ES PRIMAVERA[/COLOR]</title>
+<title>[COLOR orange]AMAR ES PRIMAVERA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -379,7 +400,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]TIERRA DE REYES[/COLOR]</title>
+<title>[COLOR blue]TIERRA DE REYES[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -407,7 +428,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]TIERRA DE PASIONES [/COLOR]</title>
+<title>[COLOR skyblue]TIERRA DE PASIONES [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -438,7 +459,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]pobre diabla completa [/COLOR]</title>
+<title>[COLOR yellow]pobre diabla completa [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -471,7 +492,7 @@ https://www.youtube.com/watch?v=tV6xbI0O7n0&index=1&list=PLcttqeRcJSVHbsFFz6_Fs1
 
 
 <item>
-<title>[COLOR red]Kassandra  [/COLOR]</title>
+<title>[COLOR green]Kassandra  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
