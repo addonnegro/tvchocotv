@@ -186,7 +186,7 @@
 	<thumbnail>https://www.diariodeberrocalejo.es/index_htm_files/canalextremadura.jpg</thumbnail>
 	</item>		
 
-	<item>
+	item>
 		<title>[COLOR red]CANAL SUR[/COLOR]</title>
 		<sportsdevil>http://ct.ligatus.com/css/p9403-c7677-1498642823.php</sportsdevil>
 		<referer>http://www.canalsur.es/tv_directo-1193.html</referer>
@@ -195,7 +195,7 @@
 
 	<item>
 <title>[COLOR red]CANAL SUR[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MtCY1q7mzF8</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WMiLcYRy3M4</link>
 <thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
 </item>
 	
