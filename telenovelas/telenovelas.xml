@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+<item>
+<title>[COLOR pink]ABIGAIL  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=zHI1qy7VzNc&amp;list=PLM21IsezPrtoYGUACmjzDSqPnYAkqynSc</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=zHI1qy7VzNc&list=PLM21IsezPrtoYGUACmjzDSqPnYAkqynSc
+
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+
+</item>
+
+
+
+
+
 <item>
 <title>[COLOR pink]LA DAMA DE ROSA  [/COLOR]</title>
 <link>$doregex[makelist]</link>
