@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR pink]ABIGAIL  [/COLOR]</title>
+<title>[COLOR aquamarine]ABIGAIL  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
