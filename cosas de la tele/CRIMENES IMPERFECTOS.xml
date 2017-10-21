@@ -12,7 +12,20 @@
 
 
 
-
+<item>
+<title>[COLOR blue]PADRE CORAJE[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sjcdNgqyQHqWctkyIsVNJaPIzpA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/sjcdNgqyQHqWctkyIsVNJaPIzpA.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cosas%20de%20la%20tele/padre%20coraje.xml</externallink> 
+ <info>La desgarrada y trágica historia de una familia de Jerez destruida dos veces. Una por la más horrible de las tragedias, el asesinato de un hijo,
+ y la segunda por la falta de justicia. Y sobre todo, la impresionante aventura de un hombre en su desesperada lucha por conseguir
+ la justicia anhelada: un anónimo empleado de banca, bautizado por los medios como ¿padre coraje¿, que no duda en investigar,
+ por sus propios medios, el mundo del hampa jerezano e involucrarse en su mafia para encontrar a los asesinos de su hijo.. 
+ Reparto: Juan Diego Romero, Vicente Romero, Félix Gómez, Mariana Cordero, Raquel Infantes, Antonio de la Torre, 
+ Juan Carlos Sánchez, Alberto González, Antonio Dechent, José Maya, Carlos Manuel Díaz, Juan Fernández, Ana Wagener,
+ Manuel Morón, Manolo Caro, Macarena Gómez, Mariano Peña . Director: Benito Zambrano. Género: Drama, Basado en hechos reales,</info> 
+</item>
 
 
 <item>
@@ -570,13 +583,7 @@ en esta solo cambiar v= y list=
 
 
 
-<item>
-<title>[COLOR red]***********[/COLOR][COLOR blue]T[/COLOR][COLOR green]V[/COLOR][COLOR yellow]C[/COLOR][COLOR orange]H[/COLOR][COLOR golden]O[/COLOR][COLOR fuchsia]P[/COLOR][COLOR violet]O[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://4.bp.blogspot.com/-H-09GfQpXjQ/WckRRlbCOFI/AAAAAAAAEgk/a0cKKe-LgsQKypaVruLYvub1K15PrjeVQCK4BGAYYCw/s320/photo_2017-09-25_16-21-54.jpg</thumbnail>
-<fanart>https://4.bp.blogspot.com/-H-09GfQpXjQ/WckRRlbCOFI/AAAAAAAAEgk/a0cKKe-LgsQKypaVruLYvub1K15PrjeVQCK4BGAYYCw/s320/photo_2017-09-25_16-21-54.jpg</fanart>
-<externallink></externallink>  
-</item>
+
 
 
 
