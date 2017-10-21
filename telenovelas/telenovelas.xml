@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR fuchsia]AMARTE ASI FRIJOLITO[/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>http://static1.tvbuzer.com/images/shows/08/08a58da8aeeeec5287a4dec17fa72982-34556-512-341.jpg</thumbnail>
+<fanart>http://static1.tvbuzer.com/images/shows/08/08a58da8aeeeec5287a4dec17fa72982-34556-512-341.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/telenovelas/AMARTE%20ASI%20FRIJOLITO.xml</externallink>  
+</item>
 
 
 
@@ -52,7 +58,7 @@
 
 
 <item>
-<title>[COLOR yellow]CUIDADO CON EL ANGEL[/COLOR]</title>
+<title>[COLOR green]CUIDADO CON EL ANGEL[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
