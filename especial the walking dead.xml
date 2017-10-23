@@ -2,15 +2,15 @@
 
 
   <item>
-<title>[COLOR orange]FOX  [/COLOR] </title>
+<title>[COLOR orange]FOX opcion 1y2  [/COLOR] </title>
 <link>ignoreme</link>
 <thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
 <fanart>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</fanart>
-<externallink></externallink>  
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zonatv/tv_channels_123.m3u</externallink>  
 </item>
 
 	<item>
-		<title>[COLOR red]FOX[/COLOR]</title>
+		<title>[COLOR red]FOX opcion3[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/fox</referer>	
 		<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
@@ -18,7 +18,7 @@
 
 
 	<item>
-<title>[UPPERCASE][COLOR aquamarine] FOX [/UPPERCASE][/COLOR] </title>
+<title>[UPPERCASE][COLOR aquamarine] FOX  opcion 4[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -34,7 +34,7 @@
 
 
 <item>
-<title>[UPPERCASE][COLOR aquamarine] FOX [/UPPERCASE][/COLOR] </title>
+<title>[UPPERCASE][COLOR aquamarine] FOX opcion 5[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
 <name>get-id</name>
