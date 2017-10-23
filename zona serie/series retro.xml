@@ -1540,7 +1540,7 @@
 <fanart>http://us.cdn01.mundotkm.com/2015/08/fear-the-walking-dead-poster-2.jpg</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/SHIRKAM/fear-the-walking-dead-completa-78984/list,1,2</page>
+			<page>http://diskokosmiko.mx/trivianita/fear-the-walking-dead-70893/list,1,2</page>
 			<cookieJar></cookieJar>
 		</regex>
 		<regex>
