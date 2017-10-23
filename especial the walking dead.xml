@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-  <item>
+  item>
 <title>[COLOR orange]FOX opcion 1y2  [/COLOR] </title>
 <link>ignoreme</link>
 <thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
@@ -12,7 +12,7 @@
 
 
 
-	<item>
+	item>
 <title>[UPPERCASE][COLOR aquamarine] FOX  opcion 3[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
@@ -28,7 +28,7 @@
  
 
 
-<item>
+item>
 <title>[UPPERCASE][COLOR aquamarine] FOX opcion 4[/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
