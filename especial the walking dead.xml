@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+  <item>
+<title>[COLOR orange]FOX  [/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</fanart>
+<externallink></externallink>  
+</item>
+
+	<item>
+		<title>[COLOR red]FOX[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/fox</referer>	
+		<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>
+	</item>
+
+
+	<item>
+<title>[UPPERCASE][COLOR aquamarine] FOX [/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=foxespana&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>   </item>
+ 
+ 
+
+
+<item>
+<title>[UPPERCASE][COLOR aquamarine] FOX [/UPPERCASE][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
+<agent>iPad</agent>
+</regex>
+
+<thumbnail>https://lh3.googleusercontent.com/-DXbslwGv4bc/V8tSUMm--ZI/AAAAAAAAAgs/1hLUer59Uy4cq_f_0bDyCFAu9lceA7WsgCEw/w138-h140-p/fox.png</thumbnail>   </item>
+	
+	
+<item>
+		<title>[COLOR red]The[/COLOR] [COLOR red]Walking[/COLOR] [COLOR red]Dead[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+<fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+<fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
+	</item>
