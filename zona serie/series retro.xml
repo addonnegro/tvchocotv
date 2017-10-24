@@ -3498,12 +3498,43 @@
 
 
 <item>
-<title>[COLOR orange]THE WALKING DEAD [/COLOR] </title>
-<link>ignoreme</link>
-<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/especial%20the%20walking%20dead.xml</externallink>  
-</item>
+		<title>[COLOR red]The[/COLOR] [COLOR red]Walking[/COLOR] [COLOR red]Dead TEMPORADAS [/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+<fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/trivianita/the-walkig-dead-hd-1-2-3-4-5-6-7-el-rockero-37933/list,5,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://1.bp.blogspot.com/-WyWUvZBVGJY/WDh_Qf_fSBI/AAAAAAAAEjU/QfO845YJxHkLaJrhlkR-k9wYr1EdsstoACLcB/s640/walking_dead_poster.jpg</thumbnail>
+<fanart>https://images.moviepilot.com/image/upload/c_fill,h_630,q_auto:best,w_1200/the-walking-dead-virus-explained-ahead-of-the-walking-dead-season-5-walker-virus-explained-png-102218.jpg</fanart>
+	</item>
+	
 
 
 <item>
