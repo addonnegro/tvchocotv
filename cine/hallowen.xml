@@ -12,11 +12,6 @@
 
 
 
-
-
-
-
-
 <item>
 <title>[COLOR red]PARANORMAL DE TODO [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -25,19 +20,21 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://www.elcorreo.com/vizcaya/ocio/noticias/201401/02/Media/paranormal-030114--647x350.jpg</thumbnail>
-						<fanart>http://www.elcorreo.com/vizcaya/ocio/noticias/201401/02/Media/paranormal-030114--647x350.jpg</fanart>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=9atAlwVHP4I&amp;list=PLUqnbST41inzcvF-aWHRepJTNo1Ditz_G</page>
              <cookieJar></cookieJar>
 </regex>
-https://www.youtube.com/watch?v=9atAlwVHP4I&list=PLUqnbST41inzcvF-aWHRepJTNo1Ditz_G
 
-                    <thumbnail>http://www.elcorreo.com/vizcaya/ocio/noticias/201401/02/Media/paranormal-030114--647x350.jpg</thumbnail>
+
+                          <thumbnail>http://www.elcorreo.com/vizcaya/ocio/noticias/201401/02/Media/paranormal-030114--647x350.jpg</thumbnail>
 						<fanart>http://www.elcorreo.com/vizcaya/ocio/noticias/201401/02/Media/paranormal-030114--647x350.jpg</fanart>
 
 </item>
+
+
 
 
 
@@ -55,8 +52,7 @@ https://www.youtube.com/watch?v=9atAlwVHP4I&list=PLUqnbST41inzcvF-aWHRepJTNo1Dit
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://seriesadicto.com/img/series/buscadores-de-fantasmas.jpg</thumbnail>
-						<fanart>http://seriesadicto.com/img/series/buscadores-de-fantasmas.jpg</fanart>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=7cxQ5qm-Eyk&amp;list=PLRo4IHmBc9MnjnGCz0anbbEypiR0-0LIa</page>
