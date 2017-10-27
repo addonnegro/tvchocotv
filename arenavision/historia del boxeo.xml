@@ -46,3 +46,34 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qOp_nMVWP48</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]BOXEO EPICO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ctKAGKVpCUU&amp;list=PL08E4CEC19DA741F1</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=ctKAGKVpCUU&list=PL08E4CEC19DA741F1
+                        <thumbnail>http://www.monitor.co.ug/image/view/-/3235536/highRes/1345595/-/maxw/600/-/lptg83z/-/reviews03+pix.jpg</thumbnail>
+                        <fanart>http://www.monitor.co.ug/image/view/-/3235536/highRes/1345595/-/maxw/600/-/lptg83z/-/reviews03+pix.jpg</fanart>
+ 
+</item>
+
+
+
+
