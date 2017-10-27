@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR green]MINISERIES 1 [/COLOR]</title>
+<title>[COLOR green]LOTE MINISERIES 1 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -35,3 +35,623 @@
 		<thumbnail>http://www.entertainmentoutpost.com/Miniseries%20Marathon%20Logo%20Transparent.png</thumbnail>
 		<fanart>http://www.entertainmentoutpost.com/Miniseries%20Marathon%20Logo%20Transparent.png</fanart>
 </item>
+
+
+<item>
+<title>[COLOR yellow] LOTE MINISERIES 2 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.entertainmentoutpost.com/Miniseries%20Marathon%20Logo%20Transparent.png</thumbnail>
+		<fanart>http://www.entertainmentoutpost.com/Miniseries%20Marathon%20Logo%20Transparent.png</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/anchoilla/miniseries-85107</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.entertainmentoutpost.com/Miniseries%20Marathon%20Logo%20Transparent.png</thumbnail>
+		<fanart>http://www.entertainmentoutpost.com/Miniseries%20Marathon%20Logo%20Transparent.png</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] TRECE (Miniserie) completa [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.mundoplus.tv/img/ec6fe535d17c987b012c278e262574c3</thumbnail>
+		<fanart>http://www.mundoplus.tv/img/ec6fe535d17c987b012c278e262574c3</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/thirteen-trece-miniserieesp-completa-88394</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>http://www.mundoplus.tv/img/ec6fe535d17c987b012c278e262574c3</thumbnail>
+		<fanart>http://www.mundoplus.tv/img/ec6fe535d17c987b012c278e262574c3</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral] PARANOID_2016 (MINISERIE DE TV)  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.guardaserie.online/locandina/5381-paranoid-streaming.jpg</thumbnail>
+		<fanart>http://www.guardaserie.online/locandina/5381-paranoid-streaming.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/paranoid2016-audio-esp-miniserie-de-tv-85503</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>http://www.guardaserie.online/locandina/5381-paranoid-streaming.jpg</thumbnail>
+		<fanart>http://www.guardaserie.online/locandina/5381-paranoid-streaming.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR aquamarine]RIVIERA - 2017 (MINISERIE COMPLETA_10 CAP.) [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.newpct1.com/pictures/c/1497670507_riviera.jpg</thumbnail>
+		<fanart>http://www.newpct1.com/pictures/c/1497670507_riviera.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/riviera-2017-miniserie-completa10-cap-84293</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>http://www.newpct1.com/pictures/c/1497670507_riviera.jpg</thumbnail>
+		<fanart>http://www.newpct1.com/pictures/c/1497670507_riviera.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR coral]BEYOND THE WALLS [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://media.netflixreleases.com/images/abc8fb86fda91b78706db8a760ef1861/beyond-the-walls-2016-poster.jpg</thumbnail>
+		<fanart>https://media.netflixreleases.com/images/abc8fb86fda91b78706db8a760ef1861/beyond-the-walls-2016-poster.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/beyond-the-wallsespanol-miniserie-156-84111</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://media.netflixreleases.com/images/abc8fb86fda91b78706db8a760ef1861/beyond-the-walls-2016-poster.jpg</thumbnail>
+		<fanart>https://media.netflixreleases.com/images/abc8fb86fda91b78706db8a760ef1861/beyond-the-walls-2016-poster.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lime]HARLEY AND THE DAVIDSONS miniserie [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://2.bp.blogspot.com/-UuUmu2jVCIw/V_bZSymOsgI/AAAAAAABuIU/SvP6FSXBVGAnKc317-8GpM9Q_sOIx06IwCLcB/s1600/Invitaci%25C3%25B3n%2Bevento%2BHarley-Davidson.JPG</thumbnail>
+		<fanart>https://2.bp.blogspot.com/-UuUmu2jVCIw/V_bZSymOsgI/AAAAAAABuIU/SvP6FSXBVGAnKc317-8GpM9Q_sOIx06IwCLcB/s1600/Invitaci%25C3%25B3n%2Bevento%2BHarley-Davidson.JPG</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/harley-and-the-davidsons-miniserie-2016es-74300</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://2.bp.blogspot.com/-UuUmu2jVCIw/V_bZSymOsgI/AAAAAAABuIU/SvP6FSXBVGAnKc317-8GpM9Q_sOIx06IwCLcB/s1600/Invitaci%25C3%25B3n%2Bevento%2BHarley-Davidson.JPG</thumbnail>
+		<fanart>https://2.bp.blogspot.com/-UuUmu2jVCIw/V_bZSymOsgI/AAAAAAABuIU/SvP6FSXBVGAnKc317-8GpM9Q_sOIx06IwCLcB/s1600/Invitaci%25C3%25B3n%2Bevento%2BHarley-Davidson.JPG</fanart>
+</item>
+
+
+<item>
+<title>[COLOR coral] BERLIN STATION 2016 MINISERIE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://is2.mzstatic.com/image/thumb/Music122/v4/15/13/67/151367e1-d916-b76e-28db-f63ac91361e4/source/1200x630bb.jpg</thumbnail>
+		<fanart>http://is2.mzstatic.com/image/thumb/Music122/v4/15/13/67/151367e1-d916-b76e-28db-f63ac91361e4/source/1200x630bb.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/berlin-station-2016es-miniserie-tv-completa-73257</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>http://is2.mzstatic.com/image/thumb/Music122/v4/15/13/67/151367e1-d916-b76e-28db-f63ac91361e4/source/1200x630bb.jpg</thumbnail>
+		<fanart>http://is2.mzstatic.com/image/thumb/Music122/v4/15/13/67/151367e1-d916-b76e-28db-f63ac91361e4/source/1200x630bb.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]LA SALA DEL CRIMEN, MINISERIE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2015/04/09/18/48776470.jpg</thumbnail>
+		<fanart>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2015/04/09/18/48776470.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/la-sala-del-crimen-miniserie-2004-p-d-james-42885</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2015/04/09/18/48776470.jpg</thumbnail>
+		<fanart>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2015/04/09/18/48776470.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]LA SOMBRA DEL PODER MINISERIE  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/7128sUQ0HiL._SY445_.jpg</thumbnail>
+		<fanart>https://images-na.ssl-images-amazon.com/images/I/7128sUQ0HiL._SY445_.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/la-sombra-del-poder-miniserie-tv2003-41419</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/7128sUQ0HiL._SY445_.jpg</thumbnail>
+		<fanart>https://images-na.ssl-images-amazon.com/images/I/7128sUQ0HiL._SY445_.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR coral] DIAMANTES DE SANGRE  MINISERIE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://pics.filmaffinity.com/diamonds-539271991-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/diamonds-539271991-mmed.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/diamantes-miniserie-tv-2008-2-part-180mn-41141</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://pics.filmaffinity.com/diamonds-539271991-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/diamonds-539271991-mmed.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow] LAREDO (MINISERIE TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://pics.filmaffinity.com/streets_of_laredo-237531338-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/streets_of_laredo-237531338-mmed.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/laredo-miniserie-tv1995es-40859</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://pics.filmaffinity.com/streets_of_laredo-237531338-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/streets_of_laredo-237531338-mmed.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR coral] MUERTE EN EL SEMINARIO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://pics.filmaffinity.com/death_in_holy_orders_tv-798960793-large.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/death_in_holy_orders_tv-798960793-large.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/muerte-en-el-seminario-2003-miniserie-tv-40128</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://pics.filmaffinity.com/death_in_holy_orders_tv-798960793-large.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/death_in_holy_orders_tv-798960793-large.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR pink] MILLENNIUM (MINISERIE TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://pics.filmaffinity.com/millennium-709137557-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/millennium-709137557-mmed.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/millennium-miniserie-tves-completa-6-cap-2010-39486</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://pics.filmaffinity.com/millennium-709137557-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/millennium-709137557-mmed.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR coral] LA MEJOR JUVENTUD[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://pics.filmaffinity.com/la_meglio_gioventu_the_best_of_youth-548551488-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/la_meglio_gioventu_the_best_of_youth-548551488-mmed.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/la-mejor-juventud2003-miniserie-completa-38494</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>https://pics.filmaffinity.com/la_meglio_gioventu_the_best_of_youth-548551488-mmed.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/la_meglio_gioventu_the_best_of_youth-548551488-mmed.jpg</fanart>
+</item>
+
+
