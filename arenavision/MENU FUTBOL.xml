@@ -19,3 +19,25 @@ https://www.youtube.com/watch?v=SgQSLh7cUcI&list=PLqx2X2GHP77z2Jf5ydaew07hHP9W1z
                         <fanart>http://www.listasdefutbol.com/content/los-15-mejores-delanteros-de-la-historia-del-futbol.jpg</fanart>
  
 </item>
+
+
+<item>
+<title>[COLOR blue]HISTORIA DEL LOS MUNDIALES 1930-2014[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=XrkfWmzlHJY&amp;list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmDAB7</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=XrkfWmzlHJY&list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmDAB7
+                        <thumbnail>https://st-listas.20minutos.es/images/2012-08/340672/list_640px.jpg?1345411860</thumbnail>
+                        <fanart>https://st-listas.20minutos.es/images/2012-08/340672/list_640px.jpg?1345411860</fanart>
+ 
+</item>
