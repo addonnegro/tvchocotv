@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=SgQSLh7cUcI&list=PLqx2X2GHP77z2Jf5ydaew07hHP9W1z
 
 
 <item>
-<title>[COLOR blue]HISTORIA DEL LOS MUNDIALES 1930-2014[/COLOR]</title>
+<title>[COLOR lime]HISTORIA DEL LOS MUNDIALES 1930-2014[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=XrkfWmzlHJY&list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmD
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BARCA[/COLOR]</title>
+<title>[COLOR red]HISTORIA[/COLOR] [COLOR blue]DEL BARCA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tp5_e5nE_F0</link>
 <thumbnail>https://k37.kn3.net/taringa/1/6/3/2/3/0/77/3_patas/B10.jpg</thumbnail>
 </item>
@@ -52,14 +52,14 @@ https://www.youtube.com/watch?v=XrkfWmzlHJY&list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmD
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL MADRID[/COLOR]</title>
+<title>[COLOR white]HISTORIA [/COLOR][COLOR blue]DEL MADRID[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YYPCHcpamq8</link>
 <thumbnail>https://www.corazonblanco.com/media/galeria/44/8/3/8/2/n_real_madrid_fondos-502838.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR pink]HISTORIA DE  LOS MADRID VS BARCA 1990-2009[/COLOR]</title>
+<title>[COLOR red]HISTORIA DE [/COLOR][COLOR blue] LOS MADRID[/COLOR][COLOR white] VS BARCA [/COLOR][COLOR blue]1990-2009[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XzQ8X9jpucY</link>
 <thumbnail>https://i.ytimg.com/vi/Gom4G6WKpHk/maxresdefault.jpg</thumbnail>
 </item>
@@ -87,7 +87,7 @@ https://www.youtube.com/watch?v=fk_dB7T7XsY&list=PLoC-mouVWjJpWx00Kg1UL_7PSTRDjC
 </item>
 
 <item>
-<title>[COLOR blue]SELECION DE ESPAÑA Y SUS LOGROS[/COLOR]</title>
+<title>[COLOR red]SELECION DE ESPAÑA Y SUS LOGROS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
