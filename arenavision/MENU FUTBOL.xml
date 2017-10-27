@@ -1,0 +1,21 @@
+
+<item>
+<title>[COLOR blue]HISTORIA DEL FUTBOL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=SgQSLh7cUcI&amp;list=PLqx2X2GHP77z2Jf5ydaew07hHP9W1zK44</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=SgQSLh7cUcI&list=PLqx2X2GHP77z2Jf5ydaew07hHP9W1zK44
+                        <thumbnail>http://www.listasdefutbol.com/content/los-15-mejores-delanteros-de-la-historia-del-futbol.jpg</thumbnail>
+                        <fanart>http://www.listasdefutbol.com/content/los-15-mejores-delanteros-de-la-historia-del-futbol.jpg</fanart>
+ 
+</item>
