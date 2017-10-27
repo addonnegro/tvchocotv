@@ -37,8 +37,8 @@ https://www.youtube.com/watch?v=SgQSLh7cUcI&list=PLqx2X2GHP77z2Jf5ydaew07hHP9W1z
              <cookieJar></cookieJar>
 </regex>
 https://www.youtube.com/watch?v=XrkfWmzlHJY&list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmDAB7
-                        <thumbnail>https://st-listas.20minutos.es/images/2012-08/340672/list_640px.jpg?1345411860</thumbnail>
-                        <fanart>https://st-listas.20minutos.es/images/2012-08/340672/list_640px.jpg?1345411860</fanart>
+                        <thumbnail>https://st-listas.20minutos.es/images/2012-08/340672/list_640px.jpg</thumbnail>
+                        <fanart>https://st-listas.20minutos.es/images/2012-08/340672/list_640px.jpg</fanart>
  
 </item>
 
@@ -65,5 +65,44 @@ https://www.youtube.com/watch?v=XrkfWmzlHJY&list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmD
 </item>
 
 
+<item>
+<title>[COLOR blue]FUTBOL  (PARTIDOS COMPLETOS)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=fk_dB7T7XsY&amp;list=PLoC-mouVWjJpWx00Kg1UL_7PSTRDjCGbC</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=fk_dB7T7XsY&list=PLoC-mouVWjJpWx00Kg1UL_7PSTRDjCGbC
+                        <thumbnail>https://www.radiosport.cl/web/wp-content/uploads/2017/04/luis-suarez.jpg</thumbnail>
+                        <fanart>https://www.radiosport.cl/web/wp-content/uploads/2017/04/luis-suarez.jpg</fanart>
+ 
+</item>
 
-
+<item>
+<title>[COLOR blue]SELECION DE ESPAÑA Y SUS LOGROS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=dYz3znIsOiA&amp;list=PLIsve5uWW3qzU0t_aUHaUK3R6CYa-sxhO</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=dYz3znIsOiA&list=PLIsve5uWW3qzU0t_aUHaUK3R6CYa-sxhO
+                        <thumbnail>http://static.goal.com/156500/156556_heroa.jpg</thumbnail>
+                        <fanart>http://static.goal.com/156500/156556_heroa.jpg</fanart>
+ 
+</item>
