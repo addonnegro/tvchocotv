@@ -10,7 +10,7 @@
 
 
 
-<item>
+<item> ESTE REGEX PARA CANALES ENTEROS DE YOUTUBE
 <title>Cocina para todos</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
