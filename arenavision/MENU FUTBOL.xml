@@ -997,8 +997,8 @@ https://www.youtube.com/watch?v=u7phAn325_k&index=1&list=https://www.youtube.com
   <listrepeat><![CDATA[
         <title>[COLOR red]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>https://i.ytimg.com/vi/087EZ0MblWc/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/087EZ0MblWc/hqdefault.jpg</fanart>
+		<thumbnail>https://m1.paperblog.com/i/149/1492290/mejores-regates-goles-del-futbol-L-FD6F9N.jpeg</thumbnail>
+		<fanart>https://m1.paperblog.com/i/149/1492290/mejores-regates-goles-del-futbol-L-FD6F9N.jpeg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/goles-y-regates-de-los-mejores-jugadores-del-mundo-76407/list,1,2</page>
@@ -1023,8 +1023,8 @@ https://www.youtube.com/watch?v=u7phAn325_k&index=1&list=https://www.youtube.com
 <connection>keep-alive</connection> 
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</thumbnail>
-		<fanart>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</fanart>
+<thumbnail>https://m1.paperblog.com/i/149/1492290/mejores-regates-goles-del-futbol-L-FD6F9N.jpeg</thumbnail>
+		<fanart>https://m1.paperblog.com/i/149/1492290/mejores-regates-goles-del-futbol-L-FD6F9N.jpeg</fanart>
 </item>
 
 
