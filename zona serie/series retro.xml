@@ -96,7 +96,7 @@
 <item>
 <title> [COLOR red]A[/COLOR][COLOR red]I[/COLOR][COLOR red]DA[/COLOR] </title>
 <thumbnail>http://i89.servimg.com/u/f89/13/69/51/58/aida10.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://i89.servimg.com/u/f89/13/69/51/58/aida10.jpg</fanart>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20serie/Aida.xml</externallink>
 </item>
@@ -2803,7 +2803,23 @@ item>
 
 
 
-
+<item>
+<title>[COLOR fuchsia] PEQUEÑAS MENTIROSAS  [/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>https://vignette3.wikia.nocookie.net/prettylittleliars/images/b/b8/Pllsoundtrack.jpg</thumbnail>
+<fanart>https://vignette3.wikia.nocookie.net/prettylittleliars/images/b/b8/Pllsoundtrack.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20serie/PEQUE%C3%91AS%20MENTIROSAS.xml</externallink> 
+ <info>Pequeñas mentirosas' se desarrolla en la ciudad ficticia de Rosewood, en Pennsylvania, y cuenta la historia de un grupo de amigas
+ formado por Spencer Hastings (Troian Bellisario), Hanna Marin (Ashley Benson), Emily Fields (Shay Mitchell) y Aria Montgomery (Lucy Hale) ,
+ cuyas vidas cambian radicalmente tras la desaparición de Alison DiLaurentis (Sasha Pieterse), la líder de su pandilla, la de ellas y la de su gente
+ cercana (Caleb, Mona, Yvonne, Toby, Sara Harvey, Noel, Jenna).
+Tras la ausencia de Alison, las chicas comienzan a recibir mensajes de texto
+ de una misteriosa fuente que firma con el pseudónimo "A". Mediante estos mensajes, 
+ las jóvenes son extorsionadas y chantajeadas, a la vez que son amenazadas, ya que "A" parece conocer todos sus secretos,
+ incluso los más oscuros que solo sabía Alison . Spencer, Hanna, Emily y Aria intentarán averiguar quién se esconde tras esos mensajes,
+ mientras acuden al instituto como adolescentes normales. 'Pretty Little Liars' contó en 2013 con un spin off en la misma cadena, 'Ravenswood',
+ que fue cancelado por sus bajos índices de audiencia cuando solo se habían emitido 10 episodios de la primera temporada</info>
+</item>
 
 
 
