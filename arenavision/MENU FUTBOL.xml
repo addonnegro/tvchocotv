@@ -208,6 +208,94 @@ https://www.youtube.com/watch?v=u7phAn325_k&index=1&list=https://www.youtube.com
 
 
 
+
+<item>
+<title>[COLOR orange]F.C. BARCELONA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://static.dnaindia.com/sites/default/files/2015/05/15/336613-barcelona.jpg</thumbnail>
+		<fanart>http://static.dnaindia.com/sites/default/files/2015/05/15/336613-barcelona.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/f-c-barcelona-90710</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://static.dnaindia.com/sites/default/files/2015/05/15/336613-barcelona.jpg</thumbnail>
+		<fanart>http://static.dnaindia.com/sites/default/files/2015/05/15/336613-barcelona.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR coral]ESPAÑA CAMPEONA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://images.nymag.com/images/2/daily/2010/07/20100712_espana_560x375.jpg</thumbnail>
+		<fanart>http://images.nymag.com/images/2/daily/2010/07/20100712_espana_560x375.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/espana-campeona-90666</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://images.nymag.com/images/2/daily/2010/07/20100712_espana_560x375.jpg</thumbnail>
+		<fanart>http://images.nymag.com/images/2/daily/2010/07/20100712_espana_560x375.jpg</fanart>
+</item>
+
+
+
+
+
+
 <item>
 <title>[COLOR red]FIFA WORLD CLASSIC PLAYER[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -245,3 +333,704 @@ https://www.youtube.com/watch?v=u7phAn325_k&index=1&list=https://www.youtube.com
 		<thumbnail>https://i.ytimg.com/vi/oOEu_Z-AR1Y/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/oOEu_Z-AR1Y/hqdefault.jpg</fanart>
 </item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow]GALA DEL BALON DE ORO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.abc.es/media/deportes/2016/01/12/alves-ronaldo-afp--620x349.jpg</thumbnail>
+		<fanart>http://www.abc.es/media/deportes/2016/01/12/alves-ronaldo-afp--620x349.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/gala-del-balon-de-oro-90440</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.abc.es/media/deportes/2016/01/12/alves-ronaldo-afp--620x349.jpg</thumbnail>
+		<fanart>http://www.abc.es/media/deportes/2016/01/12/alves-ronaldo-afp--620x349.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR purple]OTROS PARTIDOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://v.uecdn.es/p/110/thumbnail/entry_id/0_hd01v0mz/width/650/type/2/bgcolor/000000/0_hd01v0mz.jpg</thumbnail>
+		<fanart>http://v.uecdn.es/p/110/thumbnail/entry_id/0_hd01v0mz/width/650/type/2/bgcolor/000000/0_hd01v0mz.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/otros-partidos-83418/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://v.uecdn.es/p/110/thumbnail/entry_id/0_hd01v0mz/width/650/type/2/bgcolor/000000/0_hd01v0mz.jpg</thumbnail>
+		<fanart>http://v.uecdn.es/p/110/thumbnail/entry_id/0_hd01v0mz/width/650/type/2/bgcolor/000000/0_hd01v0mz.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR aquamarine]BEST VIDEO REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://statics.sportskeeda.com/wp-content/uploads/2016/04/madridwin-1459657225-800.jpg</thumbnail>
+		<fanart>https://statics.sportskeeda.com/wp-content/uploads/2016/04/madridwin-1459657225-800.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/best-video-real-madrid-81163/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://statics.sportskeeda.com/wp-content/uploads/2016/04/madridwin-1459657225-800.jpg</thumbnail>
+		<fanart>https://statics.sportskeeda.com/wp-content/uploads/2016/04/madridwin-1459657225-800.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR green]GOALS Y GOLES REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.blamefootball.com/wp-content/uploads/2016/09/RTSNS3W.jpg</thumbnail>
+		<fanart>http://www.blamefootball.com/wp-content/uploads/2016/09/RTSNS3W.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/goals-goles-real-madrid-81103/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>http://www.blamefootball.com/wp-content/uploads/2016/09/RTSNS3W.jpg</thumbnail>
+		<fanart>http://www.blamefootball.com/wp-content/uploads/2016/09/RTSNS3W.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]CELEBRACIONES DE TITULOS REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://media.viva.co.id/thumbs2/2012/05/04/153705_real-madrid-rayakan-gelar-la-liga-ke-32_641_452.jpg</thumbnail>
+		<fanart>http://media.viva.co.id/thumbs2/2012/05/04/153705_real-madrid-rayakan-gelar-la-liga-ke-32_641_452.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/celebraciones-de-titulos-real-madrid-81095/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media.viva.co.id/thumbs2/2012/05/04/153705_real-madrid-rayakan-gelar-la-liga-ke-32_641_452.jpg</thumbnail>
+		<fanart>http://media.viva.co.id/thumbs2/2012/05/04/153705_real-madrid-rayakan-gelar-la-liga-ke-32_641_452.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]CLASICOS CHAMPIONS LEAGUE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.el-ahly.com/Admin/Sitemanager/ArticleFiles/61487-real_barca_messi_ronaldo.jpg</thumbnail>
+		<fanart>http://www.el-ahly.com/Admin/Sitemanager/ArticleFiles/61487-real_barca_messi_ronaldo.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/clasicos-champions-league-81094/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.el-ahly.com/Admin/Sitemanager/ArticleFiles/61487-real_barca_messi_ronaldo.jpg</thumbnail>
+		<fanart>http://www.el-ahly.com/Admin/Sitemanager/ArticleFiles/61487-real_barca_messi_ronaldo.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow]COPA DEL REY FINALES REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://media2.intoday.in/indiatoday/images/stories/madrid_650_041714054150.jpg</thumbnail>
+		<fanart>http://media2.intoday.in/indiatoday/images/stories/madrid_650_041714054150.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/copa-del-rey-finales-real-madrid-81068</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media2.intoday.in/indiatoday/images/stories/madrid_650_041714054150.jpg</thumbnail>
+		<fanart>http://media2.intoday.in/indiatoday/images/stories/madrid_650_041714054150.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR coral]INFORMATIVOS REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://www.elconfidencialdigital.com/Real-Madrid-TV_ECDIMA20151013_0005_35.jpg</thumbnail>
+		<fanart>https://www.elconfidencialdigital.com/Real-Madrid-TV_ECDIMA20151013_0005_35.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/informativos-real-madrid-81032/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.elconfidencialdigital.com/Real-Madrid-TV_ECDIMA20151013_0005_35.jpg</thumbnail>
+		<fanart>https://www.elconfidencialdigital.com/Real-Madrid-TV_ECDIMA20151013_0005_35.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR coral]IN MEMORIA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://media.diariopopular.com.ar/adjuntos/143/imagenes/002/249/0002249605.jpg</thumbnail>
+		<fanart>https://media.diariopopular.com.ar/adjuntos/143/imagenes/002/249/0002249605.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/in-memoria-80973</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://media.diariopopular.com.ar/adjuntos/143/imagenes/002/249/0002249605.jpg</thumbnail>
+		<fanart>https://media.diariopopular.com.ar/adjuntos/143/imagenes/002/249/0002249605.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime]90 MINUTI REAL MADRID TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://bluper.elespanol.com/sites/default/files/noticias/2016-06-10/600x400_90minuti.jpg</thumbnail>
+		<fanart>http://bluper.elespanol.com/sites/default/files/noticias/2016-06-10/600x400_90minuti.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/90-minuti-real-madrid-tv-80949/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://bluper.elespanol.com/sites/default/files/noticias/2016-06-10/600x400_90minuti.jpg</thumbnail>
+		<fanart>http://bluper.elespanol.com/sites/default/files/noticias/2016-06-10/600x400_90minuti.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]CLASICOS REAL MADRID - BARÇA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://d26lpennugtm8s.cloudfront.net/stores/289/883/products/real-madrid-vs-barcelona1-bc91fbcdab6602f3f414707721651978-640-0.jpg</thumbnail>
+		<fanart>https://d26lpennugtm8s.cloudfront.net/stores/289/883/products/real-madrid-vs-barcelona1-bc91fbcdab6602f3f414707721651978-640-0.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/clasicos-real-madrid-barca-80926/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://d26lpennugtm8s.cloudfront.net/stores/289/883/products/real-madrid-vs-barcelona1-bc91fbcdab6602f3f414707721651978-640-0.jpg</thumbnail>
+		<fanart>https://d26lpennugtm8s.cloudfront.net/stores/289/883/products/real-madrid-vs-barcelona1-bc91fbcdab6602f3f414707721651978-640-0.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]MUNDIALITOS DE CLUBES REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://ep01.epimg.net/portadillasetiquetas/imagenes/2016/12/18/portadilla/1482069090_151035_1482069233_portadilla_normal.jpg</thumbnail>
+		<fanart>https://ep01.epimg.net/portadillasetiquetas/imagenes/2016/12/18/portadilla/1482069090_151035_1482069233_portadilla_normal.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/mundialitos-de-clubes-real-madrid-80916</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://ep01.epimg.net/portadillasetiquetas/imagenes/2016/12/18/portadilla/1482069090_151035_1482069233_portadilla_normal.jpg</thumbnail>
+		<fanart>https://ep01.epimg.net/portadillasetiquetas/imagenes/2016/12/18/portadilla/1482069090_151035_1482069233_portadilla_normal.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]CHAMPIONS REAL MADRID[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i2.wp.com/thenet.ng/wp-content/uploads/2014/12/75087438_realmadrid2_240514_getty.jpg</thumbnail>
+		<fanart>https://i2.wp.com/thenet.ng/wp-content/uploads/2014/12/75087438_realmadrid2_240514_getty.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/champions-real-madrid-80914</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i2.wp.com/thenet.ng/wp-content/uploads/2014/12/75087438_realmadrid2_240514_getty.jpg</thumbnail>
+		<fanart>https://i2.wp.com/thenet.ng/wp-content/uploads/2014/12/75087438_realmadrid2_240514_getty.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]CAMPOS DE ESTRELLAS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/images/campo_de_Estrellas.jpg</thumbnail>
+		<fanart>http://d2jljza7x0a5yy.cloudfront.net/images/campo_de_Estrellas.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/campos-de-estrellas-80902/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/images/campo_de_Estrellas.jpg</thumbnail>
+		<fanart>http://d2jljza7x0a5yy.cloudfront.net/images/campo_de_Estrellas.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]INTERNATIONAL CHAMPIONS CUP[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</thumbnail>
+		<fanart>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/international-champions-cup-77714</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</thumbnail>
+		<fanart>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]GOLES Y REGATES DE LOS MEJORES JUGADORES DEL MUNDO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i.ytimg.com/vi/087EZ0MblWc/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/087EZ0MblWc/hqdefault.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/goles-y-regates-de-los-mejores-jugadores-del-mundo-76407/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</thumbnail>
+		<fanart>http://sportingindia.com/sites/default/files/category_images/International%20Champions%20Cup-Football-670-534.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
