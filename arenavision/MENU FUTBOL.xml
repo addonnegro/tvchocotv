@@ -65,26 +65,7 @@ https://www.youtube.com/watch?v=XrkfWmzlHJY&list=PL0phgK6Ksk3_-i_v9HRcAvi3fsmMmD
 </item>
 
 
-<item>
-<title>[COLOR blue]FUTBOL  (PARTIDOS COMPLETOS)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-                   
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=fk_dB7T7XsY&amp;list=PLoC-mouVWjJpWx00Kg1UL_7PSTRDjCGbC</page>
-             <cookieJar></cookieJar>
-</regex>
-https://www.youtube.com/watch?v=fk_dB7T7XsY&list=PLoC-mouVWjJpWx00Kg1UL_7PSTRDjCGbC
-                        <thumbnail>https://www.radiosport.cl/web/wp-content/uploads/2017/04/luis-suarez.jpg</thumbnail>
-                        <fanart>https://www.radiosport.cl/web/wp-content/uploads/2017/04/luis-suarez.jpg</fanart>
- 
-</item>
+
 
 <item>
 <title>[COLOR red]SELECION DE ESPAÑA Y SUS LOGROS[/COLOR]</title>
