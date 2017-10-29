@@ -50,7 +50,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]  [makelist.param1][/COLOR] </title>
+        <title>[COLOR blue]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>http://superherojacked.com/wp-content/uploads/2017/03/wesley.jpg</thumbnail>
 		<fanart>http://superherojacked.com/wp-content/uploads/2017/03/wesley.jpg</fanart>
