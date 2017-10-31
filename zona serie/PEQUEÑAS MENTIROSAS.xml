@@ -1,5 +1,5 @@
 	<item>
-		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T1[/COLOR</title>
+		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T1[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -38,7 +38,7 @@
 	
 	
 		<item>
-		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T2[/COLOR</title>
+		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T2[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -77,7 +77,7 @@
 	
 	
 		<item>
-		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T3[/COLOR</title>
+		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T3[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -117,7 +117,7 @@
 	
 	
 		<item>
-		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T4[/COLOR</title>
+		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T4[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -159,7 +159,7 @@
 	
 	
 		<item>
-		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T5[/COLOR</title>
+		<title>[COLOR pink]PEQUEÑAS MENTIROSAS T5[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
