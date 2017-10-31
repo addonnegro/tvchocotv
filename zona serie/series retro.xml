@@ -3179,6 +3179,54 @@ Tras la ausencia de Alison, las chicas comienzan a recibir mensajes de texto
 
 
 <item>
+<title>[COLOR coral]SENSE 8 COMPLETA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://1.bp.blogspot.com/-f6iuc_1hW-w/VWt7W6_b0ZI/AAAAAAAALjo/j-jCxBZPv-s/s1600/sense8-poster.png</thumbnail>
+		<fanart>http://1.bp.blogspot.com/-f6iuc_1hW-w/VWt7W6_b0ZI/AAAAAAAALjo/j-jCxBZPv-s/s1600/sense8-poster.png</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/sense-8-68314</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://1.bp.blogspot.com/-f6iuc_1hW-w/VWt7W6_b0ZI/AAAAAAAALjo/j-jCxBZPv-s/s1600/sense8-poster.png</thumbnail>
+		<fanart>http://1.bp.blogspot.com/-f6iuc_1hW-w/VWt7W6_b0ZI/AAAAAAAALjo/j-jCxBZPv-s/s1600/sense8-poster.png</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
 <title>[COLOR red]SEXO EN NUEVA YORK (castellano todas tempor)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
