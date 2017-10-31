@@ -2246,14 +2246,7 @@ item>
 </item>
 
 
--------------------------------------------------------------------
 
-
-	
-	
-	
-	
-</item>
 
 	<item>
 		<title>[COLOR skyblue]JUEGO DE TRONOS[/COLOR]</title>
@@ -2264,7 +2257,7 @@ item>
 			<title>[makelist.param3]</title>
 			<link>$doregex[getUrl]</link>
 			<thumbnail>http://icon-icons.com/icons2/357/PNG/512/Game_of_Thrones_512x512_36547.png</thumbnail>
-			<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/GOTFanart.jpg?raw=true</fanart>
+			<fanart>http://icon-icons.com/icons2/357/PNG/512/Game_of_Thrones_512x512_36547.png</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 			<page>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</page>
@@ -2292,6 +2285,51 @@ item>
 		<thumbnail>http://icon-icons.com/icons2/357/PNG/512/Game_of_Thrones_512x512_36547.png</thumbnail>
 	    <fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/GOTFanart.jpg?raw=true</fanart>
 	</item>
+	
+	
+	
+	
+	
+		<item>
+		<title>[COLOR aquamarine]LA CASA DE PAPEL[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://static.fnac-static.com/multimedia/Images/ES/NR/80/d3/14/1364864/1507-1.jpg</thumbnail>
+			<fanart>https://static.fnac-static.com/multimedia/Images/ES/NR/80/d3/14/1364864/1507-1.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://naghmehkiumarsi.com/trivianita/la-casa-de-papel-temp-1-2-68063</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+	<thumbnail>https://static.fnac-static.com/multimedia/Images/ES/NR/80/d3/14/1364864/1507-1.jpg</thumbnail>
+			<fanart>https://static.fnac-static.com/multimedia/Images/ES/NR/80/d3/14/1364864/1507-1.jpg</fanart>
+	</item>
+	
+	
+	
 	
 	
 	<item>
