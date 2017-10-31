@@ -3220,7 +3220,7 @@ Tras la ausencia de Alison, las chicas comienzan a recibir mensajes de texto
 
 
 <item>
-<title>[COLOR green]SHOOTER: EL TIRADOR (Dual) T1[/COLOR]</title>
+<title>[COLOR green]SHOOTER: EL TIRADOR [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3231,7 +3231,7 @@ Tras la ausencia de Alison, las chicas comienzan a recibir mensajes de texto
 		<fanart>https://i.ytimg.com/vi/ovM2kx00hUU/hqdefault.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/SeriesHD/shooter-el-tirador-dual-t1-44492</page>
+<page>http://diskokosmiko.mx/trivianita/el-tirador-shooter-tmp-1-2-el-rockero-62472</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
