@@ -2925,7 +2925,7 @@ Tras la ausencia de Alison, las chicas comienzan a recibir mensajes de texto
 
 
 	<item>
-		<title>[COLOR red]PERDONAME [/COLOR] [COLOR red]SEÑOR[/COLOR</title>
+		<title>[COLOR red]PERDONAME [/COLOR] [COLOR red]SEÑOR[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
