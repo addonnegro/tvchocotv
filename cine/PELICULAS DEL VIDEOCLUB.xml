@@ -86,6 +86,13 @@
 
 
 
+<item>
+<title>[COLOR fuchsia]CINE CHOPO[/COLOR]</title>
+<thumbnail>http://cdmxtravel.com/assets/cache/ec24a54d62ce57ba93a531b460fa8d18/discover-3362-1-cinematografo-chopo_849x477_adaptiveResize.jpg</thumbnail>
+<fanart>http://cdmxtravel.com/assets/cache/ec24a54d62ce57ba93a531b460fa8d18/discover-3362-1-cinematografo-chopo_849x477_adaptiveResize.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/CineChopo.xml</externallink>
+</item>
 
 
 
@@ -154,19 +161,19 @@
 <thumbnail>http://www.alfabetajuega.com/abj_public_files/multimedia/imagenes/201307/46678.repor_directores_cine_videojuegos.jpg</thumbnail>
 <fanart>http://www.alfabetajuega.com/abj_public_files/multimedia/imagenes/201307/46678.repor_directores_cine_videojuegos.jpg</fanart>
 <link>ignoreme</link>
-<externallink>https://github.com/elchocolate/tvchocotv/blob/master/cine/peliculas%20directores/menu%20peli%20directores.xml</externallink>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/peliculas%20directores/menu%20peli%20directores.xml</externallink>
 </item>
+
+
+
 
 <item>
-<title>[COLOR fuchsia]CINE CHOPO[/COLOR]</title>
-<thumbnail>http://cdmxtravel.com/assets/cache/ec24a54d62ce57ba93a531b460fa8d18/discover-3362-1-cinematografo-chopo_849x477_adaptiveResize.jpg</thumbnail>
-<fanart>http://cdmxtravel.com/assets/cache/ec24a54d62ce57ba93a531b460fa8d18/discover-3362-1-cinematografo-chopo_849x477_adaptiveResize.jpg</fanart>
+<title>[COLOR blue]CINE POR[/COLOR] [COLOR fuchsia]GENEROS[/COLOR] </title>
+<thumbnail>https://image.slidesharecdn.com/generosdecine-090722004314-phpapp01/95/generos-de-cine-1-728.jpg</thumbnail>
+<fanart>https://image.slidesharecdn.com/generosdecine-090722004314-phpapp01/95/generos-de-cine-1-728.jpg</fanart>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/CineChopo.xml</externallink>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/Cine%20generos.xml</externallink>
 </item>
-
-
-
 
 
 
@@ -315,13 +322,6 @@
 
 
 
-<item>
-<title>[COLOR blue]CINE POR[/COLOR] [COLOR fuchsia]GENEROS[/COLOR] </title>
-<thumbnail>https://image.slidesharecdn.com/generosdecine-090722004314-phpapp01/95/generos-de-cine-1-728.jpg</thumbnail>
-<fanart>https://image.slidesharecdn.com/generosdecine-090722004314-phpapp01/95/generos-de-cine-1-728.jpg</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/Cine%20generos.xml</externallink>
-</item>
 
 
 
