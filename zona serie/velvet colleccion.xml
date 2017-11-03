@@ -1,0 +1,48 @@
+<item>
+		<title>[COLOR lime]VELVET COLECCIÓN T1 [/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2017/02/14/television/1487079674_032190_1487080804_sumario_normal.jpg</thumbnail>
+<fanart>http://cadenaser00.epimg.net/ser/imagenes/2017/02/14/television/1487079674_032190_1487080804_sumario_normal.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/gemma-valencia/velvet-collection-t1-85762</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2017/02/14/television/1487079674_032190_1487080804_sumario_normal.jpg</thumbnail>
+<fanart>http://cadenaser00.epimg.net/ser/imagenes/2017/02/14/television/1487079674_032190_1487080804_sumario_normal.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	<item>
+<title>[COLOR lime]VELVET COLECCIÓN 1x7 [/COLOR]</title>
+<urlsolve>http://streamcloud.eu/o3oz97iab50v<urlsolve>
+<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2017/02/14/television/1487079674_032190_1487080804_sumario_normal.jpg</thumbnail>
+<fanart>http://cadenaser00.epimg.net/ser/imagenes/2017/02/14/television/1487079674_032190_1487080804_sumario_normal.jpg</fanart>
+<info></info>
+</item>
