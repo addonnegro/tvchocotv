@@ -392,6 +392,45 @@
 
 
 
+<item>
+<title>[COLOR orange]ARTES MARCIALES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://h5p.org/sites/default/files/h5p/content/41585/images/image-586b8a8a20612.jpg</thumbnail>
+<fanart>https://h5p.org/sites/default/files/h5p/content/41585/images/image-586b8a8a20612.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/artes-marciales-21356/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+
+ <thumbnail>https://h5p.org/sites/default/files/h5p/content/41585/images/image-586b8a8a20612.jpg</thumbnail>
+  <fanart>https://h5p.org/sites/default/files/h5p/content/41585/images/image-586b8a8a20612.jpg</fanart>
+</item>
+
 
 
 
