@@ -36,6 +36,15 @@
 
 
 <item>
+<title>[COLOR blue] MOTO GP TODO[/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>http://pds.exblog.jp/pds/1/201310/13/35/f0056935_2033987.jpg</thumbnail>
+<fanart>http://pds.exblog.jp/pds/1/201310/13/35/f0056935_2033987.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/motogp.xml</externallink>  
+</item>
+
+
+<item>
 <title>[COLOR aquamarine]ESPECIAL ANGEL NIETO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
