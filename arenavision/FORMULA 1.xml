@@ -86,9 +86,9 @@
 <urlsolve><urlsolve>
 </item>
 
-    <title>[COLOR aquamarine]F1 [/COLOR]</title>
+    <item><title>[COLOR aquamarine]F1 [/COLOR]</title><link>ignoreme</link>
     <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a3/30/21/a33021b13c4ff297b3e2c9a5a1f22121.jpg</thumbnail>
-<link>ignoreme</link></item>
+</item>
 
 
 <item><title>[COLOR aquamarine]Gran Premio de AUSTRALIA🇦🇺-Albert Park[/COLOR]</title>
@@ -132,7 +132,7 @@
 <thumbnail>http://formula1.autobild.es/sites/formula1.autobild.es/files/granpremio/gp-reino-unido_0.jpg</thumbnail>
 <urlsolve>http://streamcloud.eu/krr0apcjqnjn/F1_GP_Gran_Breta__a-2016.mkv.html</urlsolve></item>
  
-<item><title>[COLOR aquamarine]Gran Premio de Alemania��Hockenheim<urlsolve>
+<item><title>[COLOR aquamarine]Gran Premio de Alemania��Hockenheim[/COLOR]</title>
 <thumbnail>http://formula1.autobild.es/sites/formula1.autobild.es/files/granpremio/gp-alemania_0.jpg</thumbnail>
 <urlsolve>http://streamcloud.eu/?op=my_files&fld_id=97645</urlsolve></item>
  
@@ -280,15 +280,17 @@
 <urlsolve>http://streamcloud.eu/ssrk4fqhi0vn/F1-Gran_Premio_De_Yas_Marina-_Abu_Dabhi_-2015.mp4.html</urlsolve>
 </item>
  
- <item><title>[COLOR aquamarine]Clasificación Final 2015<urlsolve>
+ <item><title>[COLOR red]Clasificación Final 2015[/COLOR]</title>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a3/30/21/a33021b13c4ff297b3e2c9a5a1f22121.jpg</thumbnail>
 <urlsolve>http://soymotor.com/clasificacion-mundial-f1/2015</urlsolve>
 
 
-
-    <title>[COLOR aquamarine]Historia de la F1[/COLOR]</title>
+ <item>
+    <title>[COLOR lime]Historia de la F1[/COLOR]</title>
     <thumbnail>http://image2.redbull.com/rbcom/010/2016-04-12/1331788280892_4/0010/1/800/533/4/los-or%C3%ADgenes-de-la-f1-ferenc-szisz.jpg</thumbnail>
- <link>ignoreme</link>
+ <link>ignoreme</link></item>
+   
+ 
         
       <item><title>[COLOR aquamarine]Base de datos de la historia de F1[/COLOR]</title>
 <thumbnail>https://yt3.ggpht.com/-p4tzDhRHziM/AAAAAAAAAAI/AAAAAAAAAAA/BgBf89zrN30/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
