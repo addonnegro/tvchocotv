@@ -33,7 +33,13 @@
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/MENU%20FUTBOL.xml</externallink>  
 </item>
 
-
+<item>
+<title>[COLOR RED] FORMULA 1[/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>https://i.pinimg.com/originals/a3/30/21/a33021b13c4ff297b3e2c9a5a1f22121.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/a3/30/21/a33021b13c4ff297b3e2c9a5a1f22121.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/FORMULA%201.xml</externallink>  
+</item>
 
 <item>
 <title>[COLOR blue] MOTO GP TODO[/COLOR] </title>
@@ -42,6 +48,7 @@
 <fanart>http://pds.exblog.jp/pds/1/201310/13/35/f0056935_2033987.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/motogp.xml</externallink>  
 </item>
+
 
 
 <item>
