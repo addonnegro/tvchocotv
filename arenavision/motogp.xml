@@ -164,12 +164,12 @@
 
 <item><title>[COLOR yellow]Moto3[/COLOR]</title>
 <thumbnail>http://www.moterosdehoy.es/wp-content/uploads/2015/05/Bandera-a-cuadros.png</thumbnail>
-<urlsolve>http://streamcloud.eu/g03mykc4kw2g</urlsolve
+<urlsolve>http://streamcloud.eu/g03mykc4kw2g</urlsolve>
 </item>
 
 <item><title>[COLOR pink]Moto2[/COLOR]</title>
 <thumbnail>http://www.moterosdehoy.es/wp-content/uploads/2015/05/Bandera-a-cuadros.png</thumbnail>
-<urlsolve>http://streamcloud.eu/xc30oqr018gm</urlsolve
+<urlsolve>http://streamcloud.eu/xc30oqr018gm</urlsolve>
 </item>
 
 <item><title>[COLOR lime]MotoGP[/COLOR]</title>
@@ -403,7 +403,7 @@
 <item><title>[COLOR blue]#AmericasGP 2017[/COLOR]</title> 
 <thumbnail>https://i.ytimg.com/vi/jWVz3Z5t2as/maxresdefault.jpg</thumbnail>
 <urlsolve>https://youtu.be/pRsHHsBfqbY</urlsolve>
-}					    
+				    
 
 <item><title>[COLOR blue]#AmericasGP: All of the Best Action[/COLOR]</title>
 <thumbnail>https://i.ytimg.com/vi/0SsuESJtDjM/maxresdefault.jpg</thumbnail>
@@ -826,8 +826,7 @@
 <thumbnail>http://www.moterosdehoy.es/wp-content/uploads/2015/05/Bandera-a-cuadros.png</thumbnail>
 <urlsolve>http://streamcloud.eu/37eo3d32vduq/MotoGP_Jap__n_2016.mp4.</urlsolve>
 </item>
-
-        ]
+    
       
 
         
@@ -852,7 +851,7 @@
 <urlsolve>http://streamcloud.eu/o90hye2scdx8/636291781504061235.mp4.</urlsolve>
 </item>
 
-       ]
+
       
         
          <item><title>[COLOR blue]17 - Shell Malaysia Motorcycle Grand Prix (Sepang International Circuit) [/COLOR]</title><link>ignoreme</link>
@@ -875,16 +874,9 @@
 <thumbnail>http://www.moterosdehoy.es/wp-content/uploads/2015/05/Bandera-a-cuadros.png</thumbnail>
 <urlsolve>http://streamcloud.eu/qp3bj9b9ni6p</urlsolve>
 </item>
-
-        ]
-      
-
-        
-         <item><title>[COLOR blue]18 - Gran Premio Motul de la Comunitat Valenciana (Circuit Ricardo Tormo) [/COLOR]</title><link>ignoreme</link>
-        <thumbnail>http://img.irtve.es/css/rtve.deportes/rtve.deportes.motor/circuitos/thumbs/Valencia.png</thumbnail>
-
-
-
+ 
+ <item><title>[COLOR blue]18 - Gran Premio Motul de la Comunitat Valenciana (Circuit Ricardo Tormo) [/COLOR]</title><link>ignoreme</link>
+ <thumbnail>http://img.irtve.es/css/rtve.deportes/rtve.deportes.motor/circuitos/thumbs/Valencia.png</thumbnail>
 
 <item><title>[COLOR yellow]Moto3[/COLOR]</title>
 <thumbnail>http://www.moterosdehoy.es/wp-content/uploads/2015/05/Bandera-a-cuadros.png</thumbnail>
@@ -901,16 +893,9 @@
 <urlsolve>http://streamcloud.eu/73jkoaelid4d</urlsolve>
 </item>
 
-				]
-			
-
-			
 				<item><title>[COLOR blue]Curiosidades[/COLOR]</title><link>ignoreme</link>
 				<thumbnail>http://www.mundomotero.com/wp-content/uploads/2015/09/Rueda-prensa-GP-MotoGP-Aragon.jpg</thumbnail>
 				
-
-					[
-
 <item><title>[COLOR blue]PILOTOS 2016</urlsolve>
 <thumbnail>http://static2.masmoto.net/competicion/files/2015/11/pilotos-motogp-2016-masmoto-660x330.jpg</thumbnail>
 <urlsolve>http://www.motogp.com/es/noticias/2015/11/07/se-anuncia-la-lista-de-inscritos-de-motogp-2016/189239</urlsolve>
