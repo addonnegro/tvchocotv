@@ -2,6 +2,46 @@
 
 
 
+
+<item>
+<title>[COLOR red]MACGYVER (todas las temporadas castellano)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://k45.kn3.net/taringa/2/4/9/6/7/9/57/alemunch/362.jpg</thumbnail>
+		<fanart>http://k45.kn3.net/taringa/2/4/9/6/7/9/57/alemunch/362.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/macgyver-original-1985-49182/list,1,6</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://k45.kn3.net/taringa/2/4/9/6/7/9/57/alemunch/362.jpg</thumbnail>
+		<fanart>http://k45.kn3.net/taringa/2/4/9/6/7/9/57/alemunch/362.jpg</fanart>
+</item>
+
+
 	   <item>
 <title>[COLOR green]EL CHAVO DEL 8[/COLOR]</title>
 <link>ignoreme</link>
