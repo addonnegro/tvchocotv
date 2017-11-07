@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR green]ESTRENOS 2017[/COLOR]</title>
-<thumbnail>https://1.bp.blogspot.com/-zFg63XFcl14/WSYN0DgmiVI/AAAAAAAAB74/GGhzcyPf-qcxsgKaBtEHYV0cu0_G7nOWQCLcB/s1600/peliculas-estrenos-gratis.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-zFg63XFcl14/WSYN0DgmiVI/AAAAAAAAB74/GGhzcyPf-qcxsgKaBtEHYV0cu0_G7nOWQCLcB/s1600/peliculas-estrenos-gratis.jpg</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/ESTRENOS.xml</externallink>
-</item>
 
-
-
-       
-<item>
-<title>[COLOR pink]EL VIDEOCLUB[/COLOR]</title>
-<thumbnail>http://www.elcorreogallego.es/img/noticias/20161222/videoclub_774871_manual.jpg</thumbnail>
-<fanart>http://www.elcorreogallego.es/img/noticias/20161222/videoclub_774871_manual.jpg</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/PELICULAS%20DEL%20VIDEOCLUB.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR blue]TRAILER DE PELICULAS[/COLOR]</title>
-<thumbnail>http://www.mubis.es/media/users/6996/122321/trailers-originales-original.jpg</thumbnail>
-<fanart>http://www.mubis.es/media/users/6996/122321/trailers-originales-original.jpg</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/trailer%20de%20peliculas.xml</externallink>
-</item>
 
 
 <item>
@@ -112,3 +87,35 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <thumbnail>http://www.marchsoft.com/ccdata/images/imageMain_11_275.jpg</thumbnail>
 </item>
+
+
+
+
+<item>
+<title>[COLOR green]ESTRENOS 2017[/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-zFg63XFcl14/WSYN0DgmiVI/AAAAAAAAB74/GGhzcyPf-qcxsgKaBtEHYV0cu0_G7nOWQCLcB/s1600/peliculas-estrenos-gratis.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-zFg63XFcl14/WSYN0DgmiVI/AAAAAAAAB74/GGhzcyPf-qcxsgKaBtEHYV0cu0_G7nOWQCLcB/s1600/peliculas-estrenos-gratis.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/ESTRENOS.xml</externallink>
+</item>
+
+
+
+       
+<item>
+<title>[COLOR pink]EL VIDEOCLUB[/COLOR]</title>
+<thumbnail>http://www.elcorreogallego.es/img/noticias/20161222/videoclub_774871_manual.jpg</thumbnail>
+<fanart>http://www.elcorreogallego.es/img/noticias/20161222/videoclub_774871_manual.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/PELICULAS%20DEL%20VIDEOCLUB.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR blue]TRAILER DE PELICULAS[/COLOR]</title>
+<thumbnail>http://www.mubis.es/media/users/6996/122321/trailers-originales-original.jpg</thumbnail>
+<fanart>http://www.mubis.es/media/users/6996/122321/trailers-originales-original.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cine/trailer%20de%20peliculas.xml</externallink>
+</item>
+
+
