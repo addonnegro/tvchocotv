@@ -234,6 +234,20 @@
 
 
 
+<item>
+<title>[COLOR blue]PADRE CORAJE[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sjcdNgqyQHqWctkyIsVNJaPIzpA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/sjcdNgqyQHqWctkyIsVNJaPIzpA.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/cosas%20de%20la%20tele/padre%20coraje.xml</externallink> 
+ <info>La desgarrada y trágica historia de una familia de Jerez destruida dos veces. Una por la más horrible de las tragedias, el asesinato de un hijo,
+ y la segunda por la falta de justicia. Y sobre todo, la impresionante aventura de un hombre en su desesperada lucha por conseguir
+ la justicia anhelada: un anónimo empleado de banca, bautizado por los medios como ¿padre coraje¿, que no duda en investigar,
+ por sus propios medios, el mundo del hampa jerezano e involucrarse en su mafia para encontrar a los asesinos de su hijo.. 
+ Reparto: Juan Diego Romero, Vicente Romero, Félix Gómez, Mariana Cordero, Raquel Infantes, Antonio de la Torre, 
+ Juan Carlos Sánchez, Alberto González, Antonio Dechent, José Maya, Carlos Manuel Díaz, Juan Fernández, Ana Wagener,
+ Manuel Morón, Manolo Caro, Macarena Gómez, Mariano Peña . Director: Benito Zambrano. Género: Drama, Basado en hechos reales,</info> 
+</item>
 
 
 
@@ -281,6 +295,49 @@
 
 
 
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow]EL CASO WANNINKHOF[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.bytheway.tv/wp-content/uploads/2009/01/caso_wanninkhof.jpg</thumbnail>
+		<fanart>http://www.bytheway.tv/wp-content/uploads/2009/01/caso_wanninkhof.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/claracr/el-caso-wanninkhof-42097</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.bytheway.tv/wp-content/uploads/2009/01/caso_wanninkhof.jpg</thumbnail>
+		<fanart>http://www.bytheway.tv/wp-content/uploads/2009/01/caso_wanninkhof.jpg</fanart>
+</item>
 
 
 
