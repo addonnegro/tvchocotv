@@ -2698,6 +2698,21 @@ item>
 <fanart>http://www.culturaencadena.com/images/stories/contenido_2014_01/the100b.jpg</fanart>
 	</item>
 	
+	
+	
+	
+	
+			<item>
+<title>[COLOR blue]LOS SOPRANO [/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>http://iart.toaos.tk/i/tvshow/281136231_largethumb.jpg</thumbnail>
+<fanart>http://iart.toaos.tk/i/tvshow/281136231_largethumb.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zona%20serie/los%20sopranos.xml</externallink>  
+</item>
+	
+	
+	
+	
 <item>
 <title>[COLOR coral]LUCIFER [/COLOR]</title>
 <link>$doregex[makelist]</link>
