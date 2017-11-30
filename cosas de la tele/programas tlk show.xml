@@ -3,6 +3,95 @@
 
 
 
+<item>
+   <title>[COLOR lime]TU CARA ME SUENA  TODAS LAS TEMPORADA [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		               <thumbnail>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</thumbnail>
+<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/tu-cara-me-suena-95012/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+			              <thumbnail>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</thumbnail>
+<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</fanart>
+</item>
+
+
+
+
+<item>
+   <title>[COLOR pink]COMETELO CANAL SUR [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		               <thumbnail>http://www.diariojaen.es/documents/10157/0/730x430/30c0/670d430/none/10717/LIMA/image_content_12201588_20160517102251.jpg</thumbnail>
+<fanart>http://www.diariojaen.es/documents/10157/0/730x430/30c0/670d430/none/10717/LIMA/image_content_12201588_20160517102251.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/cometelo-canal-sur-94719/list,1,6</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+			              <thumbnail>http://www.diariojaen.es/documents/10157/0/730x430/30c0/670d430/none/10717/LIMA/image_content_12201588_20160517102251.jpg</thumbnail>
+<fanart>http://www.diariojaen.es/documents/10157/0/730x430/30c0/670d430/none/10717/LIMA/image_content_12201588_20160517102251.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
 
 <item>
 <title>[COLOR fuchsia]SUPER SHORE TODAS LAS TEMPORADAS[/COLOR]</title>
@@ -1891,47 +1980,6 @@ https://www.youtube.com/watch?v=SOummrqlY5w&list=PL9D98jz6A27azXNHGz7F_PugtzN3SO
 
 
 
-
-
-
-
-<item>
-   <title>[COLOR red]TU CARA ME SUENA TEMPORADA 5[/COLOR] [COLOR red] [/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		               <thumbnail>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</thumbnail>
-<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chicho306/tu-cara-me-suena-t5-40990</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-			              <thumbnail>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</thumbnail>
-<fanart>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/09/30/Recortada/img_mgonzaleza_20160930-121048_imagenes_lv_terceros_concursantes_tu_cara_me_suena_5-kFPF-U41686248657uEF-992x558@LaVanguardia-Web.jpg</fanart>
-</item>
 
 
 
