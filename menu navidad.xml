@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow] CINE NAVIDAD 1 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://webcdn.smeet.com/sites/smeet.com/files/images/logos_2_eskinas_navidad_nieve.popup.jpg</thumbnail>
+		<fanart>http://webcdn.smeet.com/sites/smeet.com/files/images/logos_2_eskinas_navidad_nieve.popup.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-club-navidad-41970/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange] CINE NAVIDAD 2 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://webcdn.smeet.com/sites/smeet.com/files/images/logos_2_eskinas_navidad_nieve.popup.jpg</thumbnail>
+		<fanart>http://webcdn.smeet.com/sites/smeet.com/files/images/logos_2_eskinas_navidad_nieve.popup.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/JGPELICULAS/cine-de-navidad-92345/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red] CINE NAVIDAD 3 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://webcdn.smeet.com/sites/smeet.com/files/images/logos_2_eskinas_navidad_nieve.popup.jpg</thumbnail>
+		<fanart>http://webcdn.smeet.com/sites/smeet.com/files/images/logos_2_eskinas_navidad_nieve.popup.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/BellaNapoli/peliculas-navidenas-anadiendo-85927/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]ESPECIAL NAVIDAD CLUB DE LA COMEDIA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Hdia8WuUfJE&amp;list=PLKXvPRV8Zq22bOI-JrNZ0vsF3vbfpMLi8</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=Hdia8WuUfJE&list=PLKXvPRV8Zq22bOI-JrNZ0vsF3vbfpMLi8
+
+
+                        <thumbnail>https://static.guiainfantil.com/pictures/videos/34717-3-cantemos-a-maria-cancion-de-navidad-coro-de-ninos.jpg</thumbnail>
+						<fanart>https://static.guiainfantil.com/pictures/videos/34717-3-cantemos-a-maria-cancion-de-navidad-coro-de-ninos.jpg</fanart>
+
+</item>
+
+<item>
+<title>[COLOR orange]ESCENAS DE MATRIMONIO PROGRAMA ESPECIAL NOCHE VIEJA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cyuew96G684</link>
+<thumbnail>http://i59.tinypic.com/2ues61c.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]MARTES Y TRECE. A POR UVAS (NOCHEVIEJA 1989)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d_2IGmhng1E</link>
+<thumbnail>https://i.ytimg.com/vi/S1VXdV9vj5A/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]MARTES Y TRECE. ESPECIAL NOCHEVIEJA 1990. EL 92CAVA CON TODO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2x4kYspBaxQ</link>
+<thumbnail>https://i.ytimg.com/vi/2p0Dh0m6pTw/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]CON EL VÉRTIGO EN LOS TALONES - ESPECIAL NOCHEVIEJA 2009 | JOSÉ MOTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rGwFJ31ABKM</link>
+<thumbnail>https://i.ytimg.com/vi/1og3nACX4-4/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]EL RESPLANDOR - ESPECIAL NOCHEVIEJA 2015 | JOSÉ MOTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=69SU4K0Ab-o</link>
+<thumbnail>https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201601/25/00125942233807____1__640x640.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]AND THE ANDARÁN - ESPECIAL NOCHEVIEJA 2016 JOSÉ MOTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_i6Qw4IukRg</link>
+<thumbnail>https://i.ytimg.com/vi/_i6Qw4IukRg/0.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR aquamarine]CRUZ Y RAYA ESPECIAL NAVIDAD 2003-2004[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u72seq4lg7M</link>
+<thumbnail>https://i.ytimg.com/vi/u72seq4lg7M/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]Humor español - ESPECIAL NAVIDAD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GIjryyGbtjk</link>
+<thumbnail>https://i.ytimg.com/vi/GIjryyGbtjk/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]HUMOR LA BIBLIA CONTADA A LOS VASCOS[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=znIE9ebiir0</link>
+<thumbnail>https://i.ytimg.com/vi/znIE9ebiir0/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]DAVID BISBAL ~ ANTES QUE NO (ESPECIAL NOCHEVIEJA FIN DE AÑO 2016[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RgjmsqobL_4</link>
+<thumbnail>https://4.bp.blogspot.com/-bUrbfw9ehVs/WGeRgVMm_8I/AAAAAAAAfjg/SbYlYMIKp6kUmFQn08eNxMSAnt9nqVBIQCLcB/s1600/david-bisbal-nochevieja-2016-tve1-900%2B%25281%2529.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR aquamarine]PABLO ALBORÁN ESPECIAL NAVIDAD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bnfNS1oFKKc</link>
+<thumbnail>http://ocio.levante-emv.com/img_contenido/noticias/2012/12/146408/pablo_efe.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]Especial de Navidad Miguel Bosé[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iK2G896XypM</link>
+<thumbnail>https://i.ytimg.com/vi/iK2G896XypM/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR orange]DANI MARTÍN - ESPECIAL DE NAVIDAD 2016[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q-g6EjhKxF0</link>
+<thumbnail>http://cdn.eluniversal.com/2014/11/15/das.520.360.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR fuchsia]LAURA PAUSINI ESPECIAL NAVIDAD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6DtJW9686MY</link>
+<thumbnail>https://www.cromosomax.com/pics/2016/09/laura-navidad.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink] VILLANCICOS FLAMENCOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://images.coveralia.com/audio/v/Villancicos_Flamencos--Frontal.jpg</thumbnail>
+		<fanart>http://images.coveralia.com/audio/v/Villancicos_Flamencos--Frontal.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/villancicos-flamencos-87866/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://images.coveralia.com/audio/v/Villancicos_Flamencos--Frontal.jpg</thumbnail>
+		<fanart>http://images.coveralia.com/audio/v/Villancicos_Flamencos--Frontal.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR fuchsia]VILLANCICOS DE NAVIDAD[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=zHxg73ppMbs&amp;list=PL8633B14C5B6400FD</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=zHxg73ppMbs&list=PL8633B14C5B6400FD
+
+
+                        <thumbnail>https://static.guiainfantil.com/pictures/videos/34717-3-cantemos-a-maria-cancion-de-navidad-coro-de-ninos.jpg</thumbnail>
+						<fanart>https://static.guiainfantil.com/pictures/videos/34717-3-cantemos-a-maria-cancion-de-navidad-coro-de-ninos.jpg</fanart>
+
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]NAVIDAD CON LUIS MIGUEL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=-euekSfBcXQ&amp;list=PLJODREqAwLoZ5v3L7wOzj_vYcOvBItubf</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=-euekSfBcXQ&list=PLJODREqAwLoZ5v3L7wOzj_vYcOvBItubf
+
+                        <thumbnail>https://static.guiainfantil.com/pictures/videos/34717-3-cantemos-a-maria-cancion-de-navidad-coro-de-ninos.jpg</thumbnail>
+						<fanart>https://static.guiainfantil.com/pictures/videos/34717-3-cantemos-a-maria-cancion-de-navidad-coro-de-ninos.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR green] NUESTRA NAVIDAD CANAL SUR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/nuestra-navidad-canal-sur-83881/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/DjacSgtCUyk/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]MANUALIDADES NAVIDAD 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=rZp9Ncr-kds&amp;list=PL-Y8fRdWGjQYTX8gwLkwfXd6YIf34sWPo</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=rZp9Ncr-kds&list=PL-Y8fRdWGjQYTX8gwLkwfXd6YIf34sWPo
+
+                        <thumbnail>https://decoraideas.com/wp-content/uploads/2016/05/22.jpg</thumbnail>
+						<fanart>https://decoraideas.com/wp-content/uploads/2016/05/22.jpg</fanart>
+
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]MANUALIDADES NAVIDAD 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=U365lmVRqrs&amp;list=PLWcmwJxN97uZA-W29_8sXfjxbFekzafGJ</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=U365lmVRqrs&list=PLWcmwJxN97uZA-W29_8sXfjxbFekzafGJ
+
+                        <thumbnail>https://decoraideas.com/wp-content/uploads/2016/05/22.jpg</thumbnail>
+						<fanart>https://decoraideas.com/wp-content/uploads/2016/05/22.jpg</fanart>
+
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]MANUALIDADES NAVIDAD 3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=U365lmVRqrs&amp;list=PL0GlMlyPaH3bAR4x8kT5kKWVWus-Z71T4</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=PRHLXGHoNvI&list=PL0GlMlyPaH3bAR4x8kT5kKWVWus-Z71T4
+
+                        <thumbnail>https://decoraideas.com/wp-content/uploads/2016/05/22.jpg</thumbnail>
+						<fanart>https://decoraideas.com/wp-content/uploads/2016/05/22.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
