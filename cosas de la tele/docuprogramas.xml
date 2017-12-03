@@ -1,3 +1,32 @@
+
+
+
+
+<item>
+<title>[COLOR orange] LA BÚSQUEDA DE DIEGO CORTIJO [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=s0_gsfgtqeA&amp;list=PLPbOvCorAaEaEbgGIWNZeYrLkUKNTpVAE</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=s0_gsfgtqeA&list=PLPbOvCorAaEaEbgGIWNZeYrLkUKNTpVAE
+ 
+                        <thumbnail>https://i.ytimg.com/vi/XqxcjQ7jRww/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/XqxcjQ7jRww/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
 <item>
 <title>[COLOR brown]SECRETOS DEL UNIVERSO CON MORGAN FREEMAN[/COLOR]</title>
 <link>$doregex[makelist]</link>
