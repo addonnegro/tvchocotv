@@ -1,0 +1,1037 @@
+
+
+
+
+
+
+--------------------------------------SINDROME DE DOWN---------------------------------------------------------------------------------------------
+
+
+---------------------------------------------educativos-------------------------------------------------------------------
+
+<item>
+<title>[COLOR fuchsia] YO AMO A MI HIJO CON SÍNDROME DE DOWN[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCQjCrqfY9Yxcg-X0tIAbw0w</page>
+</regex>  <thumbnail>https://yt3.ggpht.com/-pRWmq0Rt49g/AAAAAAAAAAI/AAAAAAAAAAA/Dlqp9J3F2JU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Estimulacion Temprana Síndrome Down[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MZvfiv4hUFA</link>
+<thumbnail>http://www.somostexcoco.mx/img/f29b9b4aed61dd745d70cd7623ef5093.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]Estimulación temprana de niños con síndrome de Down: el rol del equipo interdisciplinario[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LDdB35A0sAA</link>
+<thumbnail>https://preview.ibb.co/kEe6y6/20171014_120923.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]SINDROME DE DOWN-Unidos contra la discriminacion[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=guygR2PxfMM</link>
+<thumbnail>http://www.ionainstitute.ie/wp-content/uploads/2017/02/Down-Syndrome-girl-676x451.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]Discapacidades humanas S. Down[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ezz41i3-xi4</link>
+<thumbnail>https://i.ytimg.com/vi/ezz41i3-xi4/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]comunicación y lenguaje en el síndrome de Down[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SIxqk4a3h5M</link>
+<thumbnail>http://img.youtube.com/vi/SIxqk4a3h5M/0.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]Informe especial sobre Síndrome de Down[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NcnzHcSVCfo</link>
+<thumbnail>https://i.ytimg.com/vi/NcnzHcSVCfo/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Juguetes adecuados para niños con síndrome de Down[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FLKLrYTmcpM</link>
+<thumbnail>https://d1zv66c6p7f9ox.cloudfront.net/fotoweb/fotonoticia_20140730085603_800.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Tener un hijo con Síndrome de Down - Marcos Chicot[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FETI0VcU3NE</link>
+<thumbnail>http://static01.heraldo.es/uploads/imagenes/8col/2016/10/23/_imagenchico2_e14433bd.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]SÍNDROME DE DOWN: GUÍA PARA PADRES[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v=xvIXo6in7_s</link>
+<thumbnail>https://s2-ssl.dmcdn.net/gWkOc.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]DOCUMENTAL Síndrome de Down y Alzheimer[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1dqL1EyYaGk</link>
+<thumbnail>http://www.sindromedown.net/wp-content/uploads/2016/07/alzheimer.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]DOCUMENTAL Cromosoma 21[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2pBYs3d7kh8</link>
+<thumbnail>https://i.ytimg.com/vi/2pBYs3d7kh8/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]El laberinto del autismo[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=zgpqcaIa5bE&amp;list=RDzgpqcaIa5bE
+</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=zgpqcaIa5bE&list=RDzgpqcaIa5bE&t=132
+
+ 
+                        <thumbnail>https://4.bp.blogspot.com/-aOgV7gReS4k/VwYS3pEqoOI/AAAAAAAAESY/7XVQcpJQErch58SLiwZOlxSchp0X_z5sA/s640/Captura.JPG</thumbnail>
+<fanart>https://4.bp.blogspot.com/-aOgV7gReS4k/VwYS3pEqoOI/AAAAAAAAESY/7XVQcpJQErch58SLiwZOlxSchp0X_z5sA/s640/Captura.JPG</fanart>
+ 
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]Crónicas - La vida en Down[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v=x_7A-iowjEc</link>
+<thumbnail>http://img.youtube.com/vi/x_7A-iowjEc/0.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]LA HISTORIA DETRÁS DEL MITO - PABLO PINEDA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nOHTLVrHwBE</link>
+<thumbnail>https://s3.amazonaws.com/s3-prod-paula/wp-content/uploads/2013/04/02034059/down2.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR orange]Ejercicios de concentracion SD [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=zakA5dWoIDY&amp;list=PLtEkkw_2URHVeNYT-htYkEVldL7-qPds4
+</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=zakA5dWoIDY&list=PLtEkkw_2URHVeNYT-htYkEVldL7-qPds4
+
+ 
+                        <thumbnail>https://www.nature.com/polopoly_fs/7.11496.1374079043!/image/1.13406.jpg_gen/derivatives/landscape_630/1.13406.jpg</thumbnail>
+<fanart>https://www.nature.com/polopoly_fs/7.11496.1374079043!/image/1.13406.jpg_gen/derivatives/landscape_630/1.13406.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR orange]Terapia del habla para niños con síndrome de Down [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4-VM6mU41Z8&amp;list=PLWCuTOIiVRKV27Plphd8JpeZdwAyc0Xvs</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=4-VM6mU41Z8&list=PLWCuTOIiVRKV27Plphd8JpeZdwAyc0Xvs
+
+ 
+                        <thumbnail>http://www.ecuavisa.com/sites/default/files/fotos/2013/07/18/sindrome_down.jpg</thumbnail>
+<fanart>http://www.ecuavisa.com/sites/default/files/fotos/2013/07/18/sindrome_down.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR orange]Taller down [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ZZmcA6mPnNc&amp;list=PLsFVuFbcdOiCOwjPPWWGSfdMg9w6YxvZs</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=ZZmcA6mPnNc&list=PLsFVuFbcdOiCOwjPPWWGSfdMg9w6YxvZs
+
+ 
+                        <thumbnail>http://todossomosuno.com.mx/portal/wp-content/uploads/2014/09/peru.jpg</thumbnail>
+<fanart>http://todossomosuno.com.mx/portal/wp-content/uploads/2014/09/peru.jpg</fanart>
+ 
+</item>
+
+---------------------------------------------educativos-------------------------------------------------------------------
+
+
+
+
+
+---------------------------------------------el gimnasio-------------------------------------------------------------------
+
+
+
+<item>
+<title>[COLOR orange]ACTIVIDADES ADAPTADAS PARA NIÑOS CON SINDROME DE DOWN [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Lv61fDBTSQk&amp;list=PL0jWOfkzaPFrq9v1eRlnqKG2ixJTBFvLo</page>
+             <cookieJar></cookieJar>
+</regex>http://www.youtube.com/watch?v=Lv61fDBTSQk&list=PL0jWOfkzaPFrq9v1eRlnqKG2ixJTBFvLo
+
+ 
+                        <thumbnail>https://www.larepublica.net/images/2015/09/07/201509071731591.ekono79015.jpg</thumbnail>
+<fanart>https://www.larepublica.net/images/2015/09/07/201509071731591.ekono79015.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR orange]SALUD TERAPIA [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=QSNLxxmxWa4&amp;list=PLMDcr_m3w6efQKndmmga_8OfSDED9OxJm</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=QSNLxxmxWa4&list=PLMDcr_m3w6efQKndmmga_8OfSDED9OxJm
+
+ 
+                        <thumbnail>http://2.bp.blogspot.com/-_hDR-5kSDX8/TfrZFeksa2I/AAAAAAAABbs/06rrllcjDHk/s1600/CARLOS%257E1.JPG</thumbnail>
+<fanart>http://2.bp.blogspot.com/-_hDR-5kSDX8/TfrZFeksa2I/AAAAAAAABbs/06rrllcjDHk/s1600/CARLOS%257E1.JPG</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR blue]TERAPIA CON CABALLOS PARA NIÑOS CON CAPACIDADES ESPECIALES [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KNdOAnZq6uQ</link>
+<thumbnail>http://metropolis.com.ar/wp-content/uploads/2015/01/Equinoterapia3.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Gimnasia rítmica para personas con discapacidad [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=paeN4d3NjOQ&amp;list=PLJ6FOA9TOKTU_MiAKMBLHXqi-g09wZisu</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=paeN4d3NjOQ&list=PLJ6FOA9TOKTU_MiAKMBLHXqi-g09wZisu&index=1
+
+ 
+                        <thumbnail>http://webantigua.puertollano.es/opencms/export/sites/pto/contenidos/Actualidad/Noticias/imagenes/2012/04/20120417_1100_1_g.jpg</thumbnail>
+<fanart>http://webantigua.puertollano.es/opencms/export/sites/pto/contenidos/Actualidad/Noticias/imagenes/2012/04/20120417_1100_1_g.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------el gimnasio--------------------------------------------------------------------
+
+
+--------------------------------SINDROME DE DOWN-----------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+-------------------------SUBTITULADOS----- para sordos--------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------programas tv-------------------------------------------------------------------
+
+<item>
+<title>[COLOR orange]MAD TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=tD9ZMJMHyqU&amp;list=PLEDC75DFC114BF88A</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=tD9ZMJMHyqU&list=PLEDC75DFC114BF88A
+
+ 
+                        <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/184105/p184105_b_v8_aa.jpg</thumbnail>
+<fanart>http://www.gstatic.com/tv/thumb/tvbanners/184105/p184105_b_v8_aa.jpg</fanart>
+ 
+</item>
+
+-----------------------------------------------programas tv-------------------------------------------------------------------
+
+
+-----------------------------------------------peliculas-----------------------------------------------
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Peliculas Subtituladas 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=xRBAWHE9dI4&amp;list=PLFoo-hYPehhZJsbkG_DKoFzf8GEDM16_z</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=xRBAWHE9dI4&list=PLFoo-hYPehhZJsbkG_DKoFzf8GEDM16_z
+ 
+                        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR red]Peliculas Subtituladas 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=SWSp49JIL98&amp;list=PLODt5AZy4CizQQ3zhOhy25v5bUIW0Fqaa</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=SWSp49JIL98&list=PLODt5AZy4CizQQ3zhOhy25v5bUIW0Fqaa&index=1
+ 
+                        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]Peliculas Subtituladas 3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Zokdk89ISGs&amp;list=PLw61wh_AquEd7pfzJm7XHJ5Kor1iumRNX</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=Zokdk89ISGs&index=4&list=PLw61wh_AquEd7pfzJm7XHJ5Kor1iumRNX
+ 
+                        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]Peliculas Subtituladas 4[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=frap6Kpc5FY&amp;list=PLgMI64-ko1j5-6xR1VYm_BGHTRycfXgLc</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=frap6Kpc5FY&list=PLgMI64-ko1j5-6xR1VYm_BGHTRycfXgLc
+ 
+                        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]Peliculas Subtituladas 5[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=WW69EtPUupI&amp;list=PL6E73A8C7E611CF61</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=WW69EtPUupI&list=PL6E73A8C7E611CF61
+ 
+                        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/03/d8/66/03d8661a4ed2764da6cbf70d36e1bdff.jpg</fanart>
+ 
+</item>
+
+
+
+
+-----------------------------------------------peliculas-----------------------------------------------
+
+
+
+
+
+
+
+
+-----------------------------------------------series-------------------------------------------------------------------
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]ASi. SERIE TURCA SUBTITULADA EN ESPAÑOL. [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ft21LAF_8n4&amp;list=PL-Q_lukdzdPA2zoloQ5OYSinoesbomkiU</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=ft21LAF_8n4&list=PL-Q_lukdzdPA2zoloQ5OYSinoesbomkiU
+
+ 
+                        <thumbnail>http://www.viveseries.com/imagenes/asi-y-demir_fcf143b25ff567addf5c086964952236_thumb.jpg</thumbnail>
+<fanart>http://www.viveseries.com/imagenes/asi-y-demir_fcf143b25ff567addf5c086964952236_thumb.jpg9</fanart>
+ 
+</item>
+
+
+
+
+
+
+<item>
+		<title>[COLOR aquamarine]FRIENDS (todas temporadas ingles sub esp)[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</thumbnail>
+<fanart>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/friends-todas-temporadas-ingles-sub-esp-32591/list,1,10</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</thumbnail>
+<fanart>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</fanart>
+	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Skins | Todas las temporadas | Subtítulos en Español[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=oN-FgdGqCyU&amp;list=PLnytpdYLiBbZlfu1_1BvdkJSc4WEOPScP</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=oN-FgdGqCyU&list=PLnytpdYLiBbZlfu1_1BvdkJSc4WEOPScP
+
+ 
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Skins_series_2_boxset.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/8/82/Skins_series_2_boxset.png</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange]Sherlock Holmes - (1954 - 55) [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4klTDs1vNUk&amp;list=PLgMI64-ko1j4m3ZaDH3esxx7UdIHqs_MT</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=4klTDs1vNUk&list=PLgMI64-ko1j4m3ZaDH3esxx7UdIHqs_MT
+ 
+                        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzODAyMzA0NF5BMl5BanBnXkFtZTcwODAwOTU5Mw@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzODAyMzA0NF5BMl5BanBnXkFtZTcwODAwOTU5Mw@@._V1_UY268_CR3,0,182,268_AL_.jpg</fanart>
+ 
+</item>
+
+-----------------------------------------------series-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------documentales--------------------------------------------------------------------------------------------------
+
+
+	
+<item>
+		<title>[COLOR red]Tesoro animal[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://media1.ledevoir.com/images_galerie/de_518634_374579/image.jpg</thumbnail>
+<fanart>http://media1.ledevoir.com/images_galerie/de_518634_374579/image.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/cbb001/tesoro-animal-5-cap-vose-90645</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+	<thumbnail>http://media1.ledevoir.com/images_galerie/de_518634_374579/image.jpg</thumbnail>
+<fanart>http://media1.ledevoir.com/images_galerie/de_518634_374579/image.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+<item>
+		<title>[COLOR red]Finis Terrae [/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.cruiseeurope.com/sites/default/files/styles/contentl/public/_mg_0373-aereas_imagen.jpeg?itok=cRSmi7-0</thumbnail>
+<fanart>http://www.cruiseeurope.com/sites/default/files/styles/contentl/public/_mg_0373-aereas_imagen.jpeg?itok=cRSmi7-0</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/cbb001/finis-terrae-5-cap-vose-92071</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+	<thumbnail>http://www.cruiseeurope.com/sites/default/files/styles/contentl/public/_mg_0373-aereas_imagen.jpeg?itok=cRSmi7-0</thumbnail>
+<fanart>http://www.cruiseeurope.com/sites/default/files/styles/contentl/public/_mg_0373-aereas_imagen.jpeg?itok=cRSmi7-0</fanart>
+	</item>
+	
+	
+	
+	
+	
+			
+<item>
+		<title>[COLOR red]En la Cabeza de Alan Moore[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i0.wp.com/hipertextual.com/files/2016/09/alan-moore.jpg</thumbnail>
+<fanart>https://i0.wp.com/hipertextual.com/files/2016/09/alan-moore.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/cbb001/en-la-cabeza-de-alan-moore-8-cap-vose-88677</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+	<thumbnail>https://i0.wp.com/hipertextual.com/files/2016/09/alan-moore.jpg</thumbnail>
+<fanart>https://i0.wp.com/hipertextual.com/files/2016/09/alan-moore.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+			
+<item>
+		<title>[COLOR red]Tesoros olvidados del Mediterráneo[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://s8.postimg.org/cuberlch1/image.jpg</thumbnail>
+<fanart>https://s8.postimg.org/cuberlch1/image.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/cbb001/tesoros-olvidados-del-mediterraneo-5-capvose-87831</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+	<thumbnail>https://s8.postimg.org/cuberlch1/image.jpg</thumbnail>
+<fanart>https://s8.postimg.org/cuberlch1/image.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+		
+	
+			
+<item>
+		<title>[COLOR red]Las Aventuras De One Direction[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://bestwallpaperhd.com/wp-content/uploads/2013/03/one-direction-caricatura.jpg</thumbnail>
+<fanart>http://bestwallpaperhd.com/wp-content/uploads/2013/03/one-direction-caricatura.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/fuckyoulxrry/las-aventuras-de-one-direction-48464</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+	<thumbnail>http://bestwallpaperhd.com/wp-content/uploads/2013/03/one-direction-caricatura.jpg</thumbnail>
+<fanart>http://bestwallpaperhd.com/wp-content/uploads/2013/03/one-direction-caricatura.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<item>
+<title>[COLOR aquamarine]DOCUMENTALES SUBTITULADOS 1  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Jsh-iw67Rl8&amp;list=PLNS8Jo2PXd1btFcpxrh1Str-sui5kCkye</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=Jsh-iw67Rl8&list=PLNS8Jo2PXd1btFcpxrh1Str-sui5kCkye
+
+                        <thumbnail>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</thumbnail>
+						<fanart>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</fanart>
+
+</item>
+
+
+
+
+<item>
+<title>[COLOR aquamarine]DOCUMENTALES SUBTITULADOS 2  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=pC2jnGZlVtE&amp;list=PLoRfO6CNYhRnXg2osQ8fl7fVIQxqhNRTP</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=pC2jnGZlVtE&list=PLoRfO6CNYhRnXg2osQ8fl7fVIQxqhNRTP
+
+                        <thumbnail>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</thumbnail>
+						<fanart>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</fanart>
+
+</item>
+
+
+
+<item>
+<title>[COLOR aquamarine]DOCUMENTALES SUBTITULADOS 3  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=mSzzqjzDC7M&amp;list=PLVjs0GuXwOvpxZuV3yLzxm2HQ9NT7dlPj</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=mSzzqjzDC7M&list=PLVjs0GuXwOvpxZuV3yLzxm2HQ9NT7dlPj
+
+                        <thumbnail>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</thumbnail>
+						<fanart>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</fanart>
+
+</item>
+
+
+
+-------------------------SUBTITULADOS-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	---------------------------------------------documentales--------------------------------------------------------------------------------------------------
+	
