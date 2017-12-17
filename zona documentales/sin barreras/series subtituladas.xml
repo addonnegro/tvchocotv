@@ -1,0 +1,155 @@
+<item>
+		<title>[COLOR aquamarine]FRIENDS (todas temporadas ingles sub esp)[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</thumbnail>
+<fanart>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/friends-todas-temporadas-ingles-sub-esp-32591/list,1,10</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</thumbnail>
+<fanart>https://www.filmibeat.com/img/2013/07/24-friends-tv-sitcom.jpg</fanart>
+	</item>
+
+	
+	
+	
+	
+<item>
+<title>[COLOR orange]ASi. SERIE TURCA SUBTITULADA EN ESPAÑOL. [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ft21LAF_8n4&amp;list=PL-Q_lukdzdPA2zoloQ5OYSinoesbomkiU</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=ft21LAF_8n4&list=PL-Q_lukdzdPA2zoloQ5OYSinoesbomkiU
+
+ 
+                        <thumbnail>http://www.viveseries.com/imagenes/asi-y-demir_fcf143b25ff567addf5c086964952236_thumb.jpg</thumbnail>
+<fanart>http://www.viveseries.com/imagenes/asi-y-demir_fcf143b25ff567addf5c086964952236_thumb.jpg9</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange]Skins | Todas las temporadas | Subtítulos en Español[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=oN-FgdGqCyU&amp;list=PLnytpdYLiBbZlfu1_1BvdkJSc4WEOPScP</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=oN-FgdGqCyU&list=PLnytpdYLiBbZlfu1_1BvdkJSc4WEOPScP
+
+ 
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Skins_series_2_boxset.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/8/82/Skins_series_2_boxset.png</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Sherlock Holmes - (1954 - 55) [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4klTDs1vNUk&amp;list=PLgMI64-ko1j4m3ZaDH3esxx7UdIHqs_MT</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=4klTDs1vNUk&list=PLgMI64-ko1j4m3ZaDH3esxx7UdIHqs_MT
+ 
+                        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzODAyMzA0NF5BMl5BanBnXkFtZTcwODAwOTU5Mw@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzODAyMzA0NF5BMl5BanBnXkFtZTcwODAwOTU5Mw@@._V1_UY268_CR3,0,182,268_AL_.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]Merlí[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=eH0KjwI-Hvo&amp;list=PLuOnMI2jiHAG3PMcKdhLeBj-1GgKNy6uI</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=eH0KjwI-Hvo&list=PLuOnMI2jiHAG3PMcKdhLeBj-1GgKNy6uI
+
+ 
+                        <thumbnail>http://fotografias.lasexta.com/clipping/cmsimages01/2016/05/12/385D2D84-1DB1-4011-93F7-7280AA84D4E6/57.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages01/2016/05/12/385D2D84-1DB1-4011-93F7-7280AA84D4E6/57.jpg</fanart>
+ 
+</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
