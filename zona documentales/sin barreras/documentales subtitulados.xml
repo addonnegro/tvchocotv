@@ -1,0 +1,70 @@
+<item>
+<title>[COLOR aquamarine]DOCUMENTALES SUBTITULADOS 1  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Jsh-iw67Rl8&amp;list=PLNS8Jo2PXd1btFcpxrh1Str-sui5kCkye</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=Jsh-iw67Rl8&list=PLNS8Jo2PXd1btFcpxrh1Str-sui5kCkye
+
+                        <thumbnail>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</thumbnail>
+						<fanart>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</fanart>
+
+</item>
+
+
+
+
+<item>
+<title>[COLOR aquamarine]DOCUMENTALES SUBTITULADOS 2  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=pC2jnGZlVtE&amp;list=PLoRfO6CNYhRnXg2osQ8fl7fVIQxqhNRTP</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=pC2jnGZlVtE&list=PLoRfO6CNYhRnXg2osQ8fl7fVIQxqhNRTP
+
+                        <thumbnail>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</thumbnail>
+						<fanart>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</fanart>
+
+</item>
+
+
+
+<item>
+<title>[COLOR aquamarine]DOCUMENTALES SUBTITULADOS 3  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</thumbnail>
+						<fanart>https://pespdotcom.files.wordpress.com/2016/08/abigail-principal.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=mSzzqjzDC7M&amp;list=PLVjs0GuXwOvpxZuV3yLzxm2HQ9NT7dlPj</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=mSzzqjzDC7M&list=PLVjs0GuXwOvpxZuV3yLzxm2HQ9NT7dlPj
+
+                        <thumbnail>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</thumbnail>
+						<fanart>http://4.bp.blogspot.com/-7wOkaV3ODKA/U9MS8bIDxxI/AAAAAAAAE6U/LL4uMmAEPU4/s1600/video+games+the+movie+2014+documental+brrip+subtitulado+por+mega+y+shared+3.png</fanart>
+
+</item>
