@@ -20,7 +20,7 @@
 
 
 <item>
-<title>[COLOR orange] AGENDA ARENAVISION 1 [/COLOR]</title>
+<title>[COLOR green] AGENDA ARENAVISION 1 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
