@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+[COLOR blue]HEROES MAS  [/COLOR][COLOR yellow] ALLA DEL DEBER 1[/COLOR]
 
-
-
-<item><title>)</title>
+ 
+<item><title>[COLOR blue]vaya semanita [/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -16,11 +16,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-uewjyjsFqsU/AAAAAAAAAAI/AAAAAAAAAAA/r3nsd49SSz4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>MR. GRAN BOMBA (CAMARAS OCULTAS)</title>
+<item><title>[COLOR blue]MR. GRAN BOMBA (CAMARAS OCULTAS)[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -30,11 +30,11 @@
 <thumbnail>https://yt3.ggpht.com/-uewjyjsFqsU/AAAAAAAAAAI/AAAAAAAAAAA/r3nsd49SSz4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>TIPARRACO SA (CAMARAS OCULTAS)</title>
+<item><title>[COLOR blue]TIPARRACO SA (CAMARAS OCULTAS)[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -47,11 +47,11 @@
 
 
 
-<item><title>TODOVEO</title>
+<item><title>[COLOR blue]TODOVEO[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -60,11 +60,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-kt4PUO3clYA/AAAAAAAAAAI/AAAAAAAAAAA/4JofuJeMyPA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>EL JUEVES</title>
+<item><title>[COLOR blue]EL JUEVES[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -73,11 +73,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-cUWFj_D0xTE/AAAAAAAAAAI/AAAAAAAAAAA/qR02aYgr9F8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>DON RISAS</title>
+<item><title>[COLOR blue]DON RISAS[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -87,11 +87,11 @@
 <thumbnail>https://yt3.ggpht.com/-teyt_wNsF8Q/AAAAAAAAAAI/AAAAAAAAAAA/VzfDf3gVSQM/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>TOP TRENDING VIDEO</title>
+<item><title>[COLOR blue]TOP TRENDING VIDEO[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -100,11 +100,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-VdJrmbKYLIQ/AAAAAAAAAAI/AAAAAAAAAAA/iwpiP-wvhL4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>MUERTOS DE RISA</title>
+<item><title>[COLOR blue]MUERTOS DE RISA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -113,11 +113,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-m1SbjbZ4UgQ/AAAAAAAAAAI/AAAAAAAAAAA/3HxFTOprWIs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>EL MUNDO TODAY</title>
+<item><title>[COLOR blue]EL MUNDO TODAY[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -126,11 +126,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-SNzXXKxt938/AAAAAAAAAAI/AAAAAAAAAAA/v0RZUPL-WQs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>YOU JAJA</title>
+<item><title>[COLOR blue]YOU JAJA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -142,11 +142,11 @@
 
 
 
-<item><title>YOU MORE TV</title>
+<item><title>[COLOR blue]YOU MORE TV[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -160,11 +160,11 @@
 
 
 
-<item><title>VAYA SEMANITA</title>
+<item><title>[COLOR blue]VAYA SEMANITA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -174,11 +174,11 @@
 <thumbnail>https://i.ytimg.com/vi/PP0WxpUaojw/mqdefault.jpg</thumbnail></item>
 
 
-<item><title>GOMAESPUMA</title>
+<item><title>[COLOR blue]GOMAESPUMA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -187,11 +187,11 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/-F6ZFrEasgwI/AAAAAAAAAAI/AAAAAAAAAAA/efyGi8DEzwo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
-<item><title>HOMO ZAPPING</title>
+<item><title>[COLOR blue]HOMO ZAPPING[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -203,11 +203,11 @@
 
 
 
-<item><title>AREVALO</title>
+<item><title>[COLOR blue]AREVALO[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -217,11 +217,11 @@
 <thumbnail>https://i.ytimg.com/vi/wDVlxLQlNHA/hqdefault.jpg</thumbnail></item>
 
 
-<item><title>CHIQUITO DE LA CALZADA</title>
+<item><title>[COLOR blue]CHIQUITO DE LA CALZADA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -231,11 +231,11 @@
 <thumbnail>https://i.ytimg.com/vi/F0X8KlS9C8w/hqdefault.jpg</thumbnail></item>
 
 
-<item><title>CRUZ Y RAYA</title>
+<item><title>[COLOR blue]CRUZ Y RAYA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -244,11 +244,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/aulUr3l4Xrc/hqdefault.jpg</thumbnail></item>
 
-<item><title>DANI MATEO</title>
+<item><title>[COLOR blue]DANI MATEO[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -257,11 +257,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/9cod_ggcFko/mqdefault.jpg</thumbnail></item>
 
-<item><title>DANI ROVIRA</title>
+<item><title>[COLOR blue]DANI ROVIRA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -272,11 +272,11 @@
 
 
 
-<item><title>EUGENIO</title>
+<item><title>[COLOR blue]EUGENIO[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -285,11 +285,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/hqicXKPkCPQ/hqdefault.jpg</thumbnail></item>
 
-<item><title>ERNESTO SEVILLA</title>
+<item><title>[COLOR blue]ERNESTO SEVILLA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -298,11 +298,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/beyvu_e-xMs/mqdefault.jpg</thumbnail></item>
 
-<item><title>EVA HACHE</title>
+<item><title>[COLOR blue]EVA HACHE[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -311,11 +311,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/dlfqskBZvN4/mqdefault.jpg</thumbnail></item>
 
-<item><title>GOYO JIMENEZ</title>
+<item><title>[COLOR blue]GOYO JIMENEZ[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -324,11 +324,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/ap7F1pg5bBA/mqdefault.jpg</thumbnail></item>
 
-<item><title>JOSE LUIS MORENO Y SUS MUÑECOS</title>
+<item><title>[COLOR blue]JOSE LUIS MORENO Y SUS MUÑECOS[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -339,11 +339,11 @@
 
 
 
-<item><title>JOSE MOTA</title>
+<item><title>[COLOR blue]JOSE MOTA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -353,11 +353,11 @@
 <thumbnail>https://yt3.ggpht.com/-9BqFTiBdrdo/AAAAAAAAAAI/AAAAAAAAAAA/YdgyUuQOhQ4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>LEO HARLEM</title>
+<item><title>[COLOR blue]LEO HARLEM[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -367,11 +367,11 @@
 <thumbnail>https://i.ytimg.com/vi/JcCXXHknUbc/mqdefault.jpg</thumbnail></item>
 
 
-<item><title>LOS MORANCOS</title>
+<item><title>[COLOR blue]LOS MORANCOS[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -381,11 +381,11 @@
 <thumbnail>https://yt3.ggpht.com/-S6Y9BU-c_so/AAAAAAAAAAI/AAAAAAAAAAA/OCab4riMvKQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
 
 
-<item><title>MARTES Y TRECE</title>
+<item><title>[COLOR blue]MARTES Y TRECE[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -394,11 +394,11 @@
 </regex>
 <thumbnail>https://i.ytimg.com/vi/XWO2Vya1Btw/hqdefault.jpg</thumbnail></item>
 
-<item><title>MIGUEL GILA</title>
+<item><title>[COLOR blue]MIGUEL GILA[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
@@ -408,11 +408,11 @@
 <thumbnail>https://i.ytimg.com/vi/dPnpzlCc-q8/hqdefault.jpg</thumbnail></item>
 
 
-<item><title>MR. BEAN</title>
+<item><title>[COLOR blue]MR. BEAN[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>

@@ -1,0 +1,2193 @@
+	
+<item>
+		<title>[COLOR orange]EL ACABOSE [/COLOR][COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.eltelevisero.com/wp-content/uploads/2017/03/elacabose-mota-630x400.jpg</thumbnail>
+<fanart>http://www.eltelevisero.com/wp-content/uploads/2017/03/elacabose-mota-630x400.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/el-acabose-99514</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.eltelevisero.com/wp-content/uploads/2017/03/elacabose-mota-630x400.jpg</thumbnail>
+<fanart>http://www.eltelevisero.com/wp-content/uploads/2017/03/elacabose-mota-630x400.jpg</fanart>
+	</item>
+	
+	
+	
+	
+
+
+
+
+	
+<item>
+		<title>[COLOR orange]DOÑA PACA [/COLOR][COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/YZi4m0joISw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/YZi4m0joISw/hqdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/dona-paca-98677/list,1,1</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/YZi4m0joISw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/YZi4m0joISw/hqdefault.jpg</fanart>
+	</item>
+	
+
+
+	
+	
+
+
+	
+<item>
+		<title>[COLOR orange]JOSE LUIS MORENO Y MACARIO [/COLOR][COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/fLHtYnt9ffo/sddefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fLHtYnt9ffo/sddefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/jose-luis-moreno-y-macario-98112/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/fLHtYnt9ffo/sddefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fLHtYnt9ffo/sddefault.jpg</fanart>
+	</item>
+	
+
+
+
+
+	
+<item>
+		<title>[COLOR orange]JOSE LUIS MORENO Y ROCKEFELLER[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://www.ecestaticos.com/image/clipping/654/ce08cbf76e70071094c8e56f4c0e4382/jose-luis-moreno-con-rockefeller.jpg</thumbnail>
+<fanart>https://www.ecestaticos.com/image/clipping/654/ce08cbf76e70071094c8e56f4c0e4382/jose-luis-moreno-con-rockefeller.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/jose-luis-moreno-y-rockefeller-98035/list,1,8</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://www.ecestaticos.com/image/clipping/654/ce08cbf76e70071094c8e56f4c0e4382/jose-luis-moreno-con-rockefeller.jpg</thumbnail>
+<fanart>https://www.ecestaticos.com/image/clipping/654/ce08cbf76e70071094c8e56f4c0e4382/jose-luis-moreno-con-rockefeller.jpg</fanart>
+	</item>
+	
+
+
+	
+	
+	
+
+
+	
+<item>
+		<title>[COLOR orange]MARI CARMEN Y SUS MUÑECOS [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.espectaculostalia.es/alquiler_sillas_mesas_carpas/wp-content/uploads/2015/01/mari-carmen-y-munecos.jpg</thumbnail>
+<fanart>http://www.espectaculostalia.es/alquiler_sillas_mesas_carpas/wp-content/uploads/2015/01/mari-carmen-y-munecos.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/mari-carmen-y-sus-munecos-98038</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.espectaculostalia.es/alquiler_sillas_mesas_carpas/wp-content/uploads/2015/01/mari-carmen-y-munecos.jpg</thumbnail>
+<fanart>http://www.espectaculostalia.es/alquiler_sillas_mesas_carpas/wp-content/uploads/2015/01/mari-carmen-y-munecos.jpg</fanart>
+	</item>
+	
+
+
+	
+	
+		
+<item>
+		<title>[COLOR orange]MATRIMONIOS (NOCHE DE FIESTA) [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.silviagambino.es/television/NDF_NS/Matrimoniadas/obra/Panfleto_2005/panfleto03.jpg</thumbnail>
+<fanart>http://www.silviagambino.es/television/NDF_NS/Matrimoniadas/obra/Panfleto_2005/panfleto03.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/matrimonios-noche-de-fiesta-98032/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.silviagambino.es/television/NDF_NS/Matrimoniadas/obra/Panfleto_2005/panfleto03.jpg</thumbnail>
+<fanart>http://www.silviagambino.es/television/NDF_NS/Matrimoniadas/obra/Panfleto_2005/panfleto03.jpg</fanart>
+	</item>
+	
+
+
+	
+	
+	
+
+
+	
+<item>
+		<title>[COLOR orange]AREVALO [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/Kqd2SmPN5Xs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Kqd2SmPN5Xs/hqdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/arevalo-98030/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/Kqd2SmPN5Xs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Kqd2SmPN5Xs/hqdefault.jpg</fanart>
+	</item>
+	
+
+
+	
+		
+<item>
+		<title>[COLOR orange]JAIMITO BORROMEO [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://www.lafactoriadelshow.com/full_5448d89052cfe_1003275946574711328.jpg</thumbnail>
+<fanart>https://www.lafactoriadelshow.com/full_5448d89052cfe_1003275946574711328.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/jaimito-borromeo-98009/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://www.lafactoriadelshow.com/full_5448d89052cfe_1003275946574711328.jpg</thumbnail>
+<fanart>https://www.lafactoriadelshow.com/full_5448d89052cfe_1003275946574711328.jpg</fanart>
+	</item>
+	
+
+
+		
+
+
+	
+<item>
+		<title>[COLOR orange]MIGUEL GILA [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://st-listas.20minutos.es/images/2013-02/355437/3918471_640px.jpg?1495729014</thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2013-02/355437/3918471_640px.jpg?1495729014</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/miguel-gila-98008/list,1,9</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://st-listas.20minutos.es/images/2013-02/355437/3918471_640px.jpg?1495729014</thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2013-02/355437/3918471_640px.jpg?1495729014</fanart>
+	</item>
+	
+
+	
+	
+
+
+	
+<item>
+		<title>[COLOR orange]MIGUEL LAGO [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.zentralpamplona.com/wp-content/uploads/2017/01/maxresdefault-475x400.jpg</thumbnail>
+<fanart>http://www.zentralpamplona.com/wp-content/uploads/2017/01/maxresdefault-475x400.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/miguel-lago-98006/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.zentralpamplona.com/wp-content/uploads/2017/01/maxresdefault-475x400.jpg</thumbnail>
+<fanart>http://www.zentralpamplona.com/wp-content/uploads/2017/01/maxresdefault-475x400.jpg</fanart>
+	</item>
+	
+
+
+	
+		
+
+
+	
+<item>
+		<title>[COLOR orange]PEDRO REYES [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.blogseitb.com/estrenosdecine/wp-content/uploads/sites/31/2015/03/pedro01.jpg</thumbnail>
+<fanart>http://www.blogseitb.com/estrenosdecine/wp-content/uploads/sites/31/2015/03/pedro01.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/pedro-reyes-97996</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.blogseitb.com/estrenosdecine/wp-content/uploads/sites/31/2015/03/pedro01.jpg</thumbnail>
+<fanart>http://www.blogseitb.com/estrenosdecine/wp-content/uploads/sites/31/2015/03/pedro01.jpg</fanart>
+	</item>
+	
+
+	
+	
+	
+		
+
+
+	
+<item>
+		<title>[COLOR orange]FAEMINO Y CANSADO[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.lacronicadesalamanca.com/wp-content/uploads/2016/06/Faemino-y-cansado-1.jpg</thumbnail>
+<fanart>http://www.lacronicadesalamanca.com/wp-content/uploads/2016/06/Faemino-y-cansado-1.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/faemino-y-cansado-97994/list,1,3</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.lacronicadesalamanca.com/wp-content/uploads/2016/06/Faemino-y-cansado-1.jpg</thumbnail>
+<fanart>http://www.lacronicadesalamanca.com/wp-content/uploads/2016/06/Faemino-y-cansado-1.jpg</fanart>
+	</item>
+	
+
+	
+	
+	
+	
+	
+<item>
+		<title>[COLOR orange]SR BARRAGAN[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://www.lafactoriadelshow.com/full_50b5ef19a86df_0986237559.jpg</thumbnail>
+<fanart>https://www.lafactoriadelshow.com/full_50b5ef19a86df_0986237559.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/sr-barragan-97992</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://www.lafactoriadelshow.com/full_50b5ef19a86df_0986237559.jpg</thumbnail>
+<fanart>https://www.lafactoriadelshow.com/full_50b5ef19a86df_0986237559.jpg</fanart>
+	</item>
+	
+
+	
+	
+	
+		
+<item>
+		<title>[COLOR orange]PEPITO EL CAJA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.comicos.tv/wp-content/uploads/2015/11/contrataci%C3%B3n-comicos-pepito-elcaja-2.jpg</thumbnail>
+<fanart>http://www.comicos.tv/wp-content/uploads/2015/11/contrataci%C3%B3n-comicos-pepito-elcaja-2.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/pepito-el-caja-97973</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.comicos.tv/wp-content/uploads/2015/11/contrataci%C3%B3n-comicos-pepito-elcaja-2.jpg</thumbnail>
+<fanart>http://www.comicos.tv/wp-content/uploads/2015/11/contrataci%C3%B3n-comicos-pepito-elcaja-2.jpg</fanart>
+	</item>
+	
+		
+<item>
+		<title>[COLOR orange]EL DUO SACAPUNTAS[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.yofuiaegb.com/wp-content/uploads/2014/01/duo-sacapuntas.jpg</thumbnail>
+<fanart>http://www.yofuiaegb.com/wp-content/uploads/2014/01/duo-sacapuntas.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/el-duo-sacapuntas-97970/list,1,7</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.yofuiaegb.com/wp-content/uploads/2014/01/duo-sacapuntas.jpg</thumbnail>
+<fanart>http://www.yofuiaegb.com/wp-content/uploads/2014/01/duo-sacapuntas.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	
+		
+<item>
+		<title>[COLOR orange]JOAQUIN SANCHEZ[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.pormisbalones.com/files/joaquin.jpg</thumbnail>
+<fanart>http://www.pormisbalones.com/files/joaquin.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/joaquin-sanchez-97965</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.pormisbalones.com/files/joaquin.jpg</thumbnail>
+<fanart>http://www.pormisbalones.com/files/joaquin.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	
+		
+<item>
+		<title>[COLOR orange]CHISTES ANDALUCES[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/jcVehqGLQWk/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/jcVehqGLQWk/maxresdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/chistes-andaluces-97956/list,1,3</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/jcVehqGLQWk/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/jcVehqGLQWk/maxresdefault.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]HUMOR VARIOS[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://bulandolar.com/wp-content/uploads/thon/foto-humor-ala-emosi-640x480.jpg</thumbnail>
+<fanart>http://bulandolar.com/wp-content/uploads/thon/foto-humor-ala-emosi-640x480.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/humor-varios-97941/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://bulandolar.com/wp-content/uploads/thon/foto-humor-ala-emosi-640x480.jpg</thumbnail>
+<fanart>http://bulandolar.com/wp-content/uploads/thon/foto-humor-ala-emosi-640x480.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]CHISTES[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.loschistesgeniales.com/wp-content/uploads/2016/12/15168715_1240355756011420_4259130936591782634_o-758x721-8.jpg</thumbnail>
+<fanart>http://www.loschistesgeniales.com/wp-content/uploads/2016/12/15168715_1240355756011420_4259130936591782634_o-758x721-8.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/chistes-mp3-97939/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.loschistesgeniales.com/wp-content/uploads/2016/12/15168715_1240355756011420_4259130936591782634_o-758x721-8.jpg</thumbnail>
+<fanart>http://www.loschistesgeniales.com/wp-content/uploads/2016/12/15168715_1240355756011420_4259130936591782634_o-758x721-8.jpg</fanart>
+	</item>
+	
+	
+	
+	<item>
+		<title>[COLOR orange]ANGEL MARTIN[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/ymf_zyG76nU/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/ymf_zyG76nU/hqdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/angel-martin-97933</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/ymf_zyG76nU/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/ymf_zyG76nU/hqdefault.jpg</fanart>
+	</item>
+	
+	
+	<item>
+		<title>[COLOR orange]GOYO JIMENEZ[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://image.flooxer.com/clipping/cmsimages01/2015/12/29/619DE77F-460C-46C6-9D63-405B81014688/53.jpg</thumbnail>
+<fanart>https://image.flooxer.com/clipping/cmsimages01/2015/12/29/619DE77F-460C-46C6-9D63-405B81014688/53.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/goyo-jimenez-97854</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://image.flooxer.com/clipping/cmsimages01/2015/12/29/619DE77F-460C-46C6-9D63-405B81014688/53.jpg</thumbnail>
+<fanart>https://image.flooxer.com/clipping/cmsimages01/2015/12/29/619DE77F-460C-46C6-9D63-405B81014688/53.jpg</fanart>
+	</item>
+	
+	
+	
+	<item>
+		<title>[COLOR orange]DANI ROVIRA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2014/05/05/television/1399257327_740215_0000000000_noticia_normal.jpg</thumbnail>
+<fanart>http://cadenaser00.epimg.net/ser/imagenes/2014/05/05/television/1399257327_740215_0000000000_noticia_normal.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/dani-rovira-97851/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://cadenaser00.epimg.net/ser/imagenes/2014/05/05/television/1399257327_740215_0000000000_noticia_normal.jpg</thumbnail>
+<fanart>http://cadenaser00.epimg.net/ser/imagenes/2014/05/05/television/1399257327_740215_0000000000_noticia_normal.jpg</fanart>
+	</item>
+	
+	
+	<item>
+		<title>[COLOR orange]PACO CALAVERA [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.comedycentral.es/wp-content/uploads/sites/4/2015/06/paco-calavera.jpg</thumbnail>
+<fanart>http://www.comedycentral.es/wp-content/uploads/sites/4/2015/06/paco-calavera.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/paco-calavera-97844</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.comedycentral.es/wp-content/uploads/sites/4/2015/06/paco-calavera.jpg</thumbnail>
+<fanart>http://www.comedycentral.es/wp-content/uploads/sites/4/2015/06/paco-calavera.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]AGUSTIN JIMENEZ[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://fotografias.lasexta.com/clipping/cmsimages01/2017/01/08/F751EF9E-FBD6-438F-B892-9187AEDCA4D3/58.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages01/2017/01/08/F751EF9E-FBD6-438F-B892-9187AEDCA4D3/58.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/agustin-jimenez-97842</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://fotografias.lasexta.com/clipping/cmsimages01/2017/01/08/F751EF9E-FBD6-438F-B892-9187AEDCA4D3/58.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages01/2017/01/08/F751EF9E-FBD6-438F-B892-9187AEDCA4D3/58.jpg</fanart>
+	</item>
+	
+	
+	<item>
+		<title>[COLOR orange]EVA H[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://ep01.epimg.net/cultura/imagenes/2014/06/13/television/1402688068_615472_1402688182_noticia_normal.jpg</thumbnail>
+<fanart>https://ep01.epimg.net/cultura/imagenes/2014/06/13/television/1402688068_615472_1402688182_noticia_normal.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/eva-h-97841/list,1,6</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://ep01.epimg.net/cultura/imagenes/2014/06/13/television/1402688068_615472_1402688182_noticia_normal.jpg</thumbnail>
+<fanart>https://ep01.epimg.net/cultura/imagenes/2014/06/13/television/1402688068_615472_1402688182_noticia_normal.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]ENRIQUE SAN FRANCISCO[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.culturamas.es/wp-content/uploads/2016/09/QuiqueSanFrancisco1.jpg</thumbnail>
+<fanart>http://www.culturamas.es/wp-content/uploads/2016/09/QuiqueSanFrancisco1.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/enrique-san-francisco-97831</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.culturamas.es/wp-content/uploads/2016/09/QuiqueSanFrancisco1.jpg</thumbnail>
+<fanart>http://www.culturamas.es/wp-content/uploads/2016/09/QuiqueSanFrancisco1.jpg</fanart>
+	</item>
+	
+	
+	<item>
+		<title>[COLOR orange]FLO Y SEGURA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://fotografias.neox.atresmedia.com/clipping/cmsimages01/2012/02/24/4B83A6F7-7D26-4595-9FA8-9287C691A299/58.jpg</thumbnail>
+<fanart>http://fotografias.neox.atresmedia.com/clipping/cmsimages01/2012/02/24/4B83A6F7-7D26-4595-9FA8-9287C691A299/58.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/flo-y-segura-97828</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://fotografias.neox.atresmedia.com/clipping/cmsimages01/2012/02/24/4B83A6F7-7D26-4595-9FA8-9287C691A299/58.jpg</thumbnail>
+<fanart>http://fotografias.neox.atresmedia.com/clipping/cmsimages01/2012/02/24/4B83A6F7-7D26-4595-9FA8-9287C691A299/58.jpg</fanart>
+	</item>
+	
+	
+	
+	
+		
+	<item>
+		<title>[COLOR orange]SANTI RODRIGUEZ [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://fotos01.laopiniondemalaga.es/2013/07/19/646x260/v035pn012.jpg</thumbnail>
+<fanart>http://fotos01.laopiniondemalaga.es/2013/07/19/646x260/v035pn012.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/santi-rodriguez-97826</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://fotos01.laopiniondemalaga.es/2013/07/19/646x260/v035pn012.jpg</thumbnail>
+<fanart>http://fotos01.laopiniondemalaga.es/2013/07/19/646x260/v035pn012.jpg</fanart>
+	</item>
+	
+	
+	
+		
+	<item>
+		<title>[COLOR orange]QUEQUE [/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://image.flooxer.com/clipping/cmsimages02/2016/11/15/557C3385-1E4E-4685-8970-3EF935B4C747/53.jpg</thumbnail>
+<fanart>https://image.flooxer.com/clipping/cmsimages02/2016/11/15/557C3385-1E4E-4685-8970-3EF935B4C747/53.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/queque-97825</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://image.flooxer.com/clipping/cmsimages02/2016/11/15/557C3385-1E4E-4685-8970-3EF935B4C747/53.jpg</thumbnail>
+<fanart>https://image.flooxer.com/clipping/cmsimages02/2016/11/15/557C3385-1E4E-4685-8970-3EF935B4C747/53.jpg</fanart>
+	</item>
+	
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]GOMAESPUMA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/GqUDay47JzA/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/GqUDay47JzA/maxresdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/gomaespuma-97820/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/GqUDay47JzA/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/GqUDay47JzA/maxresdefault.jpg</fanart>
+	</item>
+		
+	
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]EUGENIO,GILA,FELIX EL GATO[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://st-listas.20minutos.es/images/2009-10/157625/1762911_640px.jpg?1496071728</thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2009-10/157625/1762911_640px.jpg?1496071728</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/eugeniogilafelix-el-gato-97819/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://st-listas.20minutos.es/images/2009-10/157625/1762911_640px.jpg?1496071728</thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2009-10/157625/1762911_640px.jpg?1496071728</fanart>
+	</item>
+		
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]LEO HARLEM[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2012/10/26/F028AC01-521B-408F-A59A-66992F97FD98/58.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2012/10/26/F028AC01-521B-408F-A59A-66992F97FD98/58.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/leo-harlem-97814/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2012/10/26/F028AC01-521B-408F-A59A-66992F97FD98/58.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2012/10/26/F028AC01-521B-408F-A59A-66992F97FD98/58.jpg</fanart>
+	</item>
+		
+	
+				
+	
+	
+	<item>
+		<title>[COLOR orange]¡COMO NOS REIMOS![/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://pics.filmaffinity.com/como_nos_reimos_los_clasicos_tv-784461232-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/como_nos_reimos_los_clasicos_tv-784461232-large.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/como-nos-reimos-97799/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://pics.filmaffinity.com/como_nos_reimos_los_clasicos_tv-784461232-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/como_nos_reimos_los_clasicos_tv-784461232-large.jpg</fanart>
+	</item>
+		
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]VALLA SEMANITA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://pbs.twimg.com/media/DDRS_mYXUAMShzI.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/DDRS_mYXUAMShzI.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/valla-semanita-97631/list,1,7</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://pbs.twimg.com/media/DDRS_mYXUAMShzI.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/DDRS_mYXUAMShzI.jpg</fanart>
+	</item>
+		
+	
+	
+	
+	
+	<item>
+		<title>[COLOR orange]EL SHOW DE BENY HILL[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.detodoexpres.com/fotos/el-show-de-benny-hill---serie-completa-the-benny-hill-show-19510-1.jpg</thumbnail>
+<fanart>http://www.detodoexpres.com/fotos/el-show-de-benny-hill---serie-completa-the-benny-hill-show-19510-1.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/el-show-de-beny-hill-95098/list,1,3</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://www.detodoexpres.com/fotos/el-show-de-benny-hill---serie-completa-the-benny-hill-show-19510-1.jpg</thumbnail>
+<fanart>http://www.detodoexpres.com/fotos/el-show-de-benny-hill---serie-completa-the-benny-hill-show-19510-1.jpg</fanart>
+	</item>
+		
+	
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange]LA HORA JOSE MOTA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.pinimg.com/736x/f7/ae/90/f7ae90bcfb4b3e818c5df0d56a5d0908--fans.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/f7/ae/90/f7ae90bcfb4b3e818c5df0d56a5d0908--fans.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/la-hora-jose-mota-94106/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.pinimg.com/736x/f7/ae/90/f7ae90bcfb4b3e818c5df0d56a5d0908--fans.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/f7/ae/90/f7ae90bcfb4b3e818c5df0d56a5d0908--fans.jpg</fanart>
+	</item>
+		
+	
+	
+	
+	<item>
+		<title>[COLOR orange]CAMERA CAFE[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.skyrock.net/5199/72875199/pics/2941018837_1_3.jpg</thumbnail>
+<fanart>https://i.skyrock.net/5199/72875199/pics/2941018837_1_3.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/camera-cafe-94125/list,1,5</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.skyrock.net/5199/72875199/pics/2941018837_1_3.jpg</thumbnail>
+<fanart>https://i.skyrock.net/5199/72875199/pics/2941018837_1_3.jpg</fanart>
+	</item>
+		
+	
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange]JOSE MOTA Y SEMANITA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://ocio.diarioinformacion.com/img_contenido/noticias/2013/03/170105/jose_mota.jpg</thumbnail>
+<fanart>http://ocio.diarioinformacion.com/img_contenido/noticias/2013/03/170105/jose_mota.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/jose-mota-y-semanita-94017/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://ocio.diarioinformacion.com/img_contenido/noticias/2013/03/170105/jose_mota.jpg</thumbnail>
+<fanart>http://ocio.diarioinformacion.com/img_contenido/noticias/2013/03/170105/jose_mota.jpg</fanart>
+	</item>
+		
+	
+	
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange]ESCENAS DE MATRIMONIO[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2011/12/13/29666280.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2011/12/13/29666280.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/escenas-de-matrimonio-completa-93997/list,1,7</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2011/12/13/29666280.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2011/12/13/29666280.jpg</fanart>
+	</item>
+		
+	
+	
+			
+		
+	
+	
+	<item>
+		<title>[COLOR orange]CRUZ Y RAYA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://st-listas.20minutos.es/images/2012-01/315390/list_640px.jpg?1325429935</thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2012-01/315390/list_640px.jpg?1325429935</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/cruz-y-raya-especiales-93958/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://st-listas.20minutos.es/images/2012-01/315390/list_640px.jpg?1325429935</thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2012-01/315390/list_640px.jpg?1325429935</fanart>
+	</item>
+		
+	
+	
+	<item>
+		<title>[COLOR orange]EL CLUB DE LA COMEDIA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://globomedia.es/sites/default/files/image/image/l-noches-club-comedia-700x400.jpg</thumbnail>
+<fanart>https://globomedia.es/sites/default/files/image/image/l-noches-club-comedia-700x400.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/el-club-de-la-comedia-87205/list,1,3</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://globomedia.es/sites/default/files/image/image/l-noches-club-comedia-700x400.jpg</thumbnail>
+<fanart>https://globomedia.es/sites/default/files/image/image/l-noches-club-comedia-700x400.jpg</fanart>
+	</item>
+		
+	
+	
+			
+	<item>
+		<title>[COLOR orange]LOS MORANCOS TODAS LAS CANCIONES[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.pinimg.com/736x/fa/93/25/fa93252343acca523057630d091c5fc3--youtube-com-confirmation.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/fa/93/25/fa93252343acca523057630d091c5fc3--youtube-com-confirmation.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/los-morancos-todas-las-canciones-85633/list,1,2</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.pinimg.com/736x/fa/93/25/fa93252343acca523057630d091c5fc3--youtube-com-confirmation.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/fa/93/25/fa93252343acca523057630d091c5fc3--youtube-com-confirmation.jpg</fanart>
+	</item>
+		
+	
+		
+	<item>
+		<title>[COLOR orange]GALAS INOCENTE INOCENTES[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://i42.tinypic.com/4vmu8k.jpg</thumbnail>
+<fanart>http://i42.tinypic.com/4vmu8k.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/galas-inocente-inocentes-77642/list,1,7</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://i42.tinypic.com/4vmu8k.jpg</thumbnail>
+<fanart>http://i42.tinypic.com/4vmu8k.jpg</fanart>
+	</item>
+		
+	
+	
+	
+		
+	
+			
+		
+	
+	
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange]BROMAS PESADAS[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://laventanalibreria.com/19108/bromas-pesadas-sa.jpg</thumbnail>
+<fanart>https://laventanalibreria.com/19108/bromas-pesadas-sa.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/bromas-pesadas-77641</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://laventanalibreria.com/19108/bromas-pesadas-sa.jpg</thumbnail>
+<fanart>https://laventanalibreria.com/19108/bromas-pesadas-sa.jpg</fanart>
+	</item>
+		
+	
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange]BROMAS GRACIOSAS[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://calendarmedia.blob.core.windows.net/assets/61a85bdf-58ae-4712-a047-8ac1108161e1.jpg</thumbnail>
+<fanart>https://calendarmedia.blob.core.windows.net/assets/61a85bdf-58ae-4712-a047-8ac1108161e1.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/bromas-graciosas-77610/list,1,3</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://calendarmedia.blob.core.windows.net/assets/61a85bdf-58ae-4712-a047-8ac1108161e1.jpg</thumbnail>
+<fanart>https://calendarmedia.blob.core.windows.net/assets/61a85bdf-58ae-4712-a047-8ac1108161e1.jpg</fanart>
+	</item>
+		
+	
+	
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/QhbGxRofLEE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/QhbGxRofLEE/maxresdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/bromas-levantate-cardenas-77602/list,1,11</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/QhbGxRofLEE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/QhbGxRofLEE/maxresdefault.jpg</fanart>
+	</item>
+		
+	
+		
+	
+	
+	<item>
+		<title>[COLOR orange]BROMAS TELEFONICAS[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://i.ytimg.com/vi/To89-TR28a4/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/To89-TR28a4/hqdefault.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/bromas-telefonicas-77601</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>https://i.ytimg.com/vi/To89-TR28a4/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/To89-TR28a4/hqdefault.jpg</fanart>
+	</item>
+		
+		
+	
+	
+	<item>
+		<title>[COLOR orange]EL RINCON DE OMAITA[/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			 <title>[COLOR lime][makelist.param3][/COLOR] [COLOR orange]*chopo*[/COLOR]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2016/09/24/20/61154271.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/series-tv-dvd/tc/2016/09/24/20/61154271.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/jorge-garcia-luis/el-rincon-de-omaita-los-morancos-76953/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+	</item>
+		
+	
+	<item><title>[COLOR blue]TIPARRACO SA (CAMARAS OCULTAS)[/COLOR][COLOR yellow]*chopo*[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1][COLOR yellow]*chopo*[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCW3iVpk5l1EuJc8p2EIAFRQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-27GCu4dyFFU/AAAAAAAAAAI/AAAAAAAAAAA/UbORcYn5_rQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail></item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
