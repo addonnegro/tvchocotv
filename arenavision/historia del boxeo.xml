@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR salmon]CUANDO ERAMOS REYES[/COLOR]</title>
+<title>[COLOR orange]CUANDO ERAMOS REYES[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -62,7 +62,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR pink]MAYWEATHER vs. MCGREGOR[/COLOR]</title>
+<title>[COLOR orange]MAYWEATHER vs. MCGREGOR[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -102,21 +102,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BOXEO EP01 [/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO EP01 [/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8pzHRknG8EQ</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BOXEO ep02[/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO ep02[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XW0Oor__cL8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BOXEO ep03[/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO ep03[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_N8CMljp8Co</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
@@ -124,7 +124,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR green]HISTORIA DEL BOXEO 1x1 Las reglas del ring Lennox Lewis vs Mike Tyson[/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO 1x1 Las reglas del ring Lennox Lewis vs Mike Tyson[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KQiNbhZyOHQ</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
@@ -132,20 +132,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BOXEO 1x2 La lucha del siglo Joe Louis vs Max Schmeling[/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO 1x2 La lucha del siglo Joe Louis vs Max Schmeling[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=912fg6YYfnY</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BOXEO 1x3 Un negocio sucio Sugar Ray Robinson vs Jake [/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO 1x3 Un negocio sucio Sugar Ray Robinson vs Jake [/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=It7uOc8Box8</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR pink]HISTORIA DEL BOXEO 1x4 El boxeo fuera y dentro del ring Muhammad Ali vs Joe Frazier [/COLOR]</title>
+<title>[COLOR orange]HISTORIA DEL BOXEO 1x4 El boxeo fuera y dentro del ring Muhammad Ali vs Joe Frazier [/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qOp_nMVWP48</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3b/1c/69/3b1c6979d3e46579e9a6862b0c64939e.jpg</thumbnail>
 </item>
@@ -157,7 +157,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue]BOXEO EPICO[/COLOR]</title>
+<title>[COLOR orange]BOXEO EPICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -180,7 +180,7 @@ https://www.youtube.com/watch?v=ctKAGKVpCUU&list=PL08E4CEC19DA741F1
 
 
 <item>
-<title>[COLOR coral]BOXEO 1971[/COLOR]</title>
+<title>[COLOR orange]BOXEO 1971[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
