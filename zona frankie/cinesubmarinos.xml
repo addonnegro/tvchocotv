@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] 1941 [/COLOR][COLOR blue](1979)[/COLOR]</title> 
+<year>1979</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Steven Spielberg, Productora: Universal Pictures / Columbia Pictures Corporation / A-Team-->
+<genre>Comedia. Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1618863</page>
+<rawpost>fileId=1618863&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1979-1941,1618863.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1979-1941,1618863.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://2.bp.blogspot.com/--_hDGCJOGAg/WlFdp50mqpI/AAAAAAAADWo/ST0VsACqU7Qnoeb4FkXXdHCtkTZQbNV4wCLcBGAs/s1600/1941-764823484-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>La histeria colectiva se apodera de los habitantes de las costas de California en los días posteriores al ataque japonés contra Pearl Harbor. Un submarino nipón se ha extraviado y la población teme una invasión.</info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] 20.000 Leguas De Viaje Submarino [/COLOR][COLOR blue](1997)[/COLOR]</title> 
+<year>1997</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Michael Anderson, Productora: Hallmark Entertainment / RHI Entertainment-->
+<genre>Aventuras. Fantástico. Romance. Ciencia Ficción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=474693</page>
+<rawpost>fileId=474693&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/PukinG/peliculas-antiguas-41154/20-000-leguas-de-viaje-submarino-tv-1997-michael-anderson,474693.mkv</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/PukinG/peliculas-antiguas-41154/20-000-leguas-de-viaje-submarino-tv-1997-michael-anderson,474693.mkv</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-a0F_vEn0aJk/WlFdpzCAMzI/AAAAAAAADWk/47kN_avrZFQRZCjL0sWAeDn-sVi4DxR4gCLcBGAs/s1600/20_000_leagues_under_the_sea_tv-372766587-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Adaptación para televisión de la famosa novela escrita por Julio Verne. </info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Abajo El Periscopio [/COLOR][COLOR blue](1995)[/COLOR]</title> 
+<year>1995</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: David S. Ward, Productora: 20th Century Fox-->
+<genre>Comedia</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1618920</page>
+<rawpost>fileId=1618920&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1995-abajo-el-periscopio,1618920.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1995-abajo-el-periscopio,1618920.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-OG7Ak5ziVOk/WlFdp8dWeYI/AAAAAAAADWs/C_5TjmmsAEMDEQgu7rfIf1VmyHrcYIoTwCLcBGAs/s1600/Abajo_el_periscopio-103126174-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>El alto almirantazgo de la flota de los Estados Unidos se reúne para decidir si al capitán Dodge le dan su propio submarino. Como no se ponen de acuerdo, deciden darle uno que procede de la Segunda Guerra Mundial, con la peor y más disparatada tripulación, y ponerle a prueba ante una práctica de guerra. </info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Abyss [/COLOR][COLOR blue](1989)[/COLOR]</title> 
+<year>1989</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: James Cameron, Productora: 20th Century Fox / Pacific Western / Lightstorm Entertainment-->
+<genre>Aventuras. Ciencia Ficción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1618923</page>
+<rawpost>fileId=1618923&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1989-abyss,1618923.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1989-abyss,1618923.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-E2VyXiK4ajY/WlFdq-T5YUI/AAAAAAAADWw/Y3F3PQzp9MsGs4aTdA1Vfap_xOH0Y21WACLcBGAs/s1600/Abyss-382384639-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un equipo de científicos de una instalación petrolífera es contratado por la marina norteamericana para llevar a cabo la operación de rescate de un submarino nuclear atrapado, en extrañas circunstancias, en el fondo del mar, justamente al borde de una grieta abisal de varios kilómetros de profundidad. Un grupo de las fuerzas especiales del ejército acompañará a los científicos. Muy pronto éstos últimos empiezan a sospechar que lo que está sucediendo en las profundidades abisales es algo tan extraño que, en principio, escapa a su comprensión.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Acción En El Atlántico Norte [/COLOR][COLOR blue](1943)[/COLOR]</title> 
+<year>1943</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Lloyd Bacon, Productora: Warner Bros. Pictures-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=537114</page>
+<rawpost>fileId=537114&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/PukinG/peliculas-antiguas-6-44636/accion-en-el-atlantico-norte-1943,537114.mkv</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/PukinG/peliculas-antiguas-6-44636/accion-en-el-atlantico-norte-1943,537114.mkv</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-zLmU3n4ZX1s/WlFdrPBt4xI/AAAAAAAADW0/F5vRGtxAjqkm9_WqSkK_UDQo2NJoydIngCLcBGAs/s1600/Acci_n_en_el_Atl_ntico_Norte-370415008-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>El teniente Joe Rossi y su capitán Steve Jarves son los comandantes de un barco de mercancías que es fletado para transportar material desde Halifax a Murmansk. Por desgracia, el convoy es atacado por el ejército nazi y el navío acaba siendo hundido en las aguas del Atlántico. Tras el desesperado regreso a su país a bordo de una chalupa, los supervivientes planean repetir el viaje, un deseo que cumplen poco después, y esta vez con éxito.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Aguas Turbulentas [/COLOR][COLOR blue](1997)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>1997</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: David Drury, Productora: British Broadcasting Corporation (BBC) / Home Box Office (HBO)-->
+<genre>Thriller</genre>
+<thumbnail>https://3.bp.blogspot.com/-yxO49jOJI6M/WlFdrXiEb_I/AAAAAAAADW4/AXm3_-TSg2YdakoAwba1JX53s5RzKFX2QCLcBGAs/s1600/Aguas_turbulentas_TV-381860795-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Pocos días antes de la cumbre de Reykjavik en octubre de 1986, que debe poner fin a la guerra fría entre los Estados Unidos y la Unión Soviética, el submarino comandado por el capitán ruso Igor Britanov choca con un submarino estadounidense, desatando una crisis nuclear que puede devastar los planes pacificadores de ambas potencias.</info>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Alerta Roja: Neptuno Hundido [/COLOR][COLOR blue](1978)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>1978</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: david greene, Productora: Universal Pictures / The Mirisch Corporation-->
+<genre>Aventuras. Intriga</genre>
+<thumbnail>https://4.bp.blogspot.com/-VDMXba_ReEI/WlFdrlapk6I/AAAAAAAADW8/b1R4CPFzi2gPoR9jaqJUaiKrju9KZHpkACLcBGAs/s1600/Alerta_roja_Neptuno_hundido-911070551-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un mercante noruego aborda accidentalmente al USS Neptune, un submarino nuclear que se hunde en una sima alejada de las costas de Connecticut. El laborioso rescate, a cargo de un experimentado capitán, será muy complicado. </info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Below [/COLOR][COLOR blue](2002)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>2002</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: David Twohy, Productora: Miramax-->
+<genre>Terror. Ciencia Ficción. Fantástico. Intriga</genre>
+<thumbnail>https://3.bp.blogspot.com/-BlWWdZbTlmQ/WlFdsSkRm-I/AAAAAAAADXM/95wsiB_ikqoD3tLrMlJnOIqnshzgKgfxQCLcBGAs/s1600/below-318605798-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Durante la II Guerra Mundial, la tripulación de un submarino descubre algo extraño y misterioso en las profundidades del océano, y no tiene nada que ver con los nazis. </info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Black Sea (Mar Tenebroso) [/COLOR][COLOR blue](2014)[/COLOR]</title> 
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657914</page>
+<rawpost>fileId=1657914&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/2014-black-sea-mar-tenebroso,1657914.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/2014-black-sea-mar-tenebroso,1657914.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<year>2014</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Kevin Macdonald, Productora: Cowboy Films / Etalon Film / Film4-->
+<genre>Aventuras. Thriller</genre>
+<thumbnail>https://1.bp.blogspot.com/-0d4jfotFYc4/WlFdrrEMG3I/AAAAAAAADXE/VmDTvqlHwgQL17GU2ChpVsWRO757UBqNACLcBGAs/s1600/Black_Sea_Mar_tenebroso-948404554-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Tras ser apartado de su trabajo, un solitario capitán de submarino (Jude Law) reúne una pintoresca tripulación para buscar un tesoro hundido en el Mar Negro, pero la avaricia y la incertidumbre se van apoderando de la tripulación haciendo estallar luchas internas.</info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Blue Submarine No. 6 [/COLOR][COLOR blue](1998)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>1998</year>  <!-- Alfa, Año, Genero, Pais: Japón, Director: Mahiro Maeda,  Masahiro Ozawa,  Toru Fukushi, Productora: Gonzo-->
+<genre>Animación. Ciencia Ficción. Acción. Bélico</genre>
+<thumbnail>https://1.bp.blogspot.com/-uAhdWyM1kZc/WlFdrqBYgpI/AAAAAAAADXA/AfsYJHDm7VUx7FfXIedya3r_Sszc12pnwCLcBGAs/s1600/BlueSubmarine_go-836376154-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Blue Submarine comprende 4 capítulos (Blues, Pilots, Hearts y Minasoko), los tres primeros duran unos 30 minutos y el último dura 45 minutos. La historia sería la siguiente: La Tierra se encuentra en una situción mas bien compleja dado que los mares han cubierto practicamente todas las zonas habitables. Por otro lado, un hombre llamado Shidora y su joven acompañante Mayumi fueron encomendados a una misión: convencer a Tetsu Hayami de regresar a la Flota Blue. Cuando parecía que no había posibilidades de encontrarle vivo, aparece resguardado en una habitación fumando un cigarrillo. Mayumi intenta razonar con Tetsu, pero él no tiene deseos de regresar. De repente, son atacados por mechas con forma de hormiga, los cuales forman parte del ejército de Zorndyke, la persona que provocó inundaciones con las que ha matado a miles de millones de personas. Dadas todas estas circunstancias y tras ver la aparición de una mujer misteriosa, deciden embarcarse en el gran submarino Blue Nº6.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Das Boot. El Submarino [/COLOR][COLOR blue](1981)[/COLOR]</title> 
+<year>1981</year>  <!-- Alfa, Año, Genero, Pais: Alemania , Director: Wolfgang Petersen, Productora: Bavaria Film / Radiant Film GmbH / Süddeutscher Rundfunk (SDR) / Twin Bros. Productions / Westdeutscher Rundfunk-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657950</page>
+<rawpost>fileId=1657950&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1981-das-boot-el-submarino,1657950.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1981-das-boot-el-submarino,1657950.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-mOiQjwnqrSQ/WlFdsfPxPbI/AAAAAAAADXI/WgQkqgc7KyAmOt9qDkGsz6H53cstwdqpQCLcBGAs/s1600/Das_Boot_El_submarino-792106068-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un submarino alemán de la Segunda Guerra Mundial es el escenario en el que un grupo de jóvenes soldados, dispuesto a defender su patria, tendrá que someterse a una dura convivencia, tras descubrir que han sido enviados a realizar una misión probablemente suicida.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Das Boot 2: La Última Misión [/COLOR][COLOR blue](1993)[/COLOR]</title> 
+<year>1993</year>  <!-- Alfa, Año, Genero, Pais: Alemania, Director: Frank Beyer, Productora: Coproducción Alemania-USA-Japón-Austria; ABC Video Productions Inc. / Manfred Durniok Filmproduktion / NHK / Zweites Deutsches Fernsehen (ZDF) / Österreichischer Rundfunk (ORF)-->
+<genre>Acción. Bélico. Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1658150</page>
+<rawpost>fileId=1658150&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1993-das-boot2-la-ultima-mision,1658150.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1993-das-boot2-la-ultima-mision,1658150.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-mP14vQ2Uxho/WlFdsirv-4I/AAAAAAAADXQ/EIzedhd6LdAJcKo8UAUsF9Jvc2r3F-axwCLcBGAs/s1600/das_letzte_u_boot_tv-775969151-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>El 15 de Abril de 1945 partió desde el puerto noruego de Kristiansand submarino alemán de transporte U-234, de la clase XB, rumbo a Japón, bajo ordenes expresas del Jefe de la Gestapo, Heinrich Müller, y del propio Adolf Hitler. El 13 de mayo del mismo año el submarino alemán decidió rendirse. Por la zona del Atlántico en que se encontraba debía entregarse a los canadienses. Inexplicablemente, sin embargo, el capitán del navío decidió engañar a los canadienses dando sucesivas falsas posiciones, mientras se acercaba al puerto de Portsmouth (USA). El 16 de mayo de 1945 el destructor americano "USS Sutton" tomó el control del U-234 que sería entregado a las autoridades de Portsmouth el 19 de mayo de 1945. </info>
+</item>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Destino Tokio [/COLOR][COLOR blue](1943)[/COLOR]</title> 
+<year>1943</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Delmer Daves, Productora: Warner Bros. Pictures-->
+<genre>Bélico. Aventuras</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1658015</page>
+<rawpost>fileId=1658015&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1943-destino-tokio,1658015.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1943-destino-tokio,1658015.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://2.bp.blogspot.com/-IhunFe5hPWU/WlIWj8ZnGTI/AAAAAAAADYE/e6SGrVd7-o4WVYe-TcGHvnASC1G5j-lOQCLcBGAs/s1600/Destino_Tokio-369939645-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>En plena Segunda Guerra Mundial (1939-1945), a un submarino americano le encargan una misión tan secreta como peligrosa: aventurarse en aguas japonesas y llegar hasta la mismísima bahía de Tokyo.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Duelo En El Atlántico [/COLOR][COLOR blue](1957)[/COLOR]</title> 
+<year>1957</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Dick Powell, Productora: 20th Century Fox-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1658180</page>
+<rawpost>fileId=1658180&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1957-duelo-en-el-atlantico,1658180.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1957-duelo-en-el-atlantico,1658180.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-y62INnzGA0c/WlIWjxitNlI/AAAAAAAADYA/l-6SSm38gXocP5LSFVn8SsnnDPbrfstBQCLcBGAs/s1600/Duelo_en_el_Atl_ntico-437467154-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Durante la Segunda Guerra Mundial, un destructor estadounidense, al mando de un comandante al que la tripulación creía poco experimentado pero que resulta ser un gran estratega, encuentra un submarino alemán al que persigue por todo el Atlántico.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] El Diablo De Las Aguas Turbias [/COLOR][COLOR blue](1954)[/COLOR]</title> 
+<year>1954</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Samuel Fuller, Productora: Twentieth Century-Fox-->
+<genre>Aventuras. Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=71085</page>
+<rawpost>fileId=71085&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/naredo/belicas-20003/cine-belico-el-diablo-de-las-aguas-turbias-richard-widmark-dar-darvi-1954,71085.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/naredo/belicas-20003/cine-belico-el-diablo-de-las-aguas-turbias-richard-widmark-dar-darvi-1954,71085.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-si1EFeUuzLc/WlIWkc7uoTI/AAAAAAAADYI/1vs0wyosl-YP3x7s6R3ZzLuIU_VaKz1AgCLcBGAs/s1600/El_diablo_de_las_aguas_turbias-974425934-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Adam Jones, capitán retirado de la marina, ha sido elegido por un equipo de la inteligencia internacional para una nueva misión: capitanear un submarino que lleve hasta Alaska al Profesor Montel, un científico experto en energía atómica, y a su joven colaboradora. La expedición, en principio científica, se desvela de vital importancia cuando los tres descubren que se está tramando un plan que puede hacer estallar la III Guerra Mundial.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] El Espía Negro [/COLOR][COLOR blue](1939)[/COLOR]</title> 
+<year>1939</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Michael Powell, Productora: Columbia Pictures Corporation-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1658192</page>
+<rawpost>fileId=1658192&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1939-el-espia-negro,1658192.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1939-el-espia-negro,1658192.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-Mz6rRYmKBsY/WlIWkmDcTWI/AAAAAAAADYM/fLULI2GXPQQ4fOq6n83sy_anjgHio7tkACLcBGAs/s1600/El_esp_a_negro-910417554-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un comandante alemán de submarinos, el capitán Hardt, es enviado a la islas Órcadas con la misión de destruir la flota británica apostada en Scapa Flow. Allí encontrará la colaboración del matrimonio Blacklock.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] El Halcón Marino [/COLOR][COLOR blue](1958)[/COLOR]</title> 
+<year>1958</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Spencer Gordon Bennet, Productora: Golden State Productions-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=691561</page>
+<rawpost>fileId=691561&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1959-el-halcon-marino,691561.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1959-el-halcon-marino,691561.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://2.bp.blogspot.com/-GCu0xgel9ak/WlIWr_bk5nI/AAAAAAAADZw/Ogp2faXIqaY-tqrIHUtsSF__JLqqn5a2ACLcBGAs/s1600/el_halcon_submarine_seahawk-179938801-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Paul Turner, un joven guapo y con cierto aire amenazador, sale de la academia naval y se le entrega el mando del submarino Seahawk en una misión altamente especializada.</info>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] El Último Submarino: La Gran Esperanza [/COLOR][COLOR blue](1954)[/COLOR]</title> 
+<year>1954</year>  <!-- Alfa, Año, Genero, Pais: Italia, Director: Duilio Coletti, Productora: Excelsa Film-->
+<genre>Bélico. Drama. Acción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657929</page>
+<rawpost>fileId=1657929&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1954-el-ultimo-submarino-la-gran-esperanza,1657929.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1954-el-ultimo-submarino-la-gran-esperanza,1657929.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-D4bf-LFKkXM/WlIWko1Kw3I/AAAAAAAADYQ/sNsHQp9DSUQHdZjvKpgxbHx9565JUhrVwCLcBGAs/s1600/El_ltimo_submarino_la_gran_esperanza-118078574-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Basada en hechos reales, esta pelicula documenta las proezas que hicieron los tripulantes de un submarino italiano durante la 2ª Guerra Mundial. En medio de los horribles combates por conquistar el mar, los submarinos se vuelven cazadores, aunque a veces ellos son los cazados. Sometidos a una desesperante tension, estos hombres supieron escribir una gesta peculiar: Hacerle generoso al enemigo el amargo deber de combatir.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] El Último Torpedo [/COLOR][COLOR blue](1958)[/COLOR]</title> 
+<year>1958</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Joseph Pevney, Productora: Metro-Goldwyn-Mayer (MGM)-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657934</page>
+<rawpost>fileId=1657934&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1958-el-ultimo-torpedo,1657934.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1958-el-ultimo-torpedo,1657934.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-lihJYvl8NNY/WlIWk4T47-I/AAAAAAAADYU/2zKqYjtIorsXg9uWI7oVCp6IgNH0xVcZgCLcBGAs/s1600/El_ltimo_torpedo-267089700-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Tras el bombardeo de Pearl Harbour (1941), el comandante Barney Doyle (Glenn Ford) se hace cargo del mando de un submarino que se hace famoso por cumplir arriesgadas misiones: una de ellas consiste en cazar a un portaaviones japonés, protegido por un buque que transporta prisioneros. </info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Estado De Alarma [/COLOR][COLOR blue](1965)[/COLOR]</title> 
+<year>1965</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: James B. Harris, Productora: Coproducción Reino Unido-Estados Unidos; Columbia Pictures-->
+<genre>Thriller. Drama. Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1618871</page>
+<rawpost>fileId=1618871&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1965-estado-de-alarma,1618871.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1965-estado-de-alarma,1618871.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-hn5mSIOG0hs/WlIWlBuR1XI/AAAAAAAADYY/NL2Wa23XqVsUZWxu7-xzZ4IQXSmIYAVVwCLcBGAs/s1600/Estado_de_alarma-939386185-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Guerra Fría. A bordo del Bedford, un barco americano al servicio de la OTAN, además de la tripulación, viajan un periodista y un ex oficial nazi de la marina. El capitán Eric Finlander (Richard Widmark), para poner a prueba a sus hombres, decide perseguir a un submarino ruso. Pero Finlander es un neurótico que acaba desquiciando a la tripulación. La irritación de Ben Munceford (Poitier), el fotógrafo de prensa, llega al límite al comprobar que el capitán está obsesionado por hacer salir al submarino a la superficie.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Infierno Bajo Las Aguas [/COLOR][COLOR blue](1959)[/COLOR]</title> 
+<year>1959</year>  <!-- Alfa, Año, Genero, Pais:  Estados Unidos, Director: Gordon Douglas, Productora: Lakeside Productions / Warner Bros. Pictures-->
+<genre>Drama. Bélico. Acción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=725448</page>
+<rawpost>fileId=725448&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/nicolasyyo/cine-belico-53567/infierno-bajo-las-aguas,725448.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/nicolasyyo/cine-belico-53567/infierno-bajo-las-aguas,725448.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-WqgUt58tb5w/WlIWlGLONxI/AAAAAAAADYc/omWb-UbfMuIj5wJPni7DHg4f5d91dB3PQCLcBGAs/s1600/Infierno_bajo_las_aguas-356676470-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>El teniente Ken Braden, un joven oficial que acaba de recibir el título de especialista en submarinos, disfruta de un permiso en San Diego, donde conoce a Sally, una mujer con la que inicia una relación amorosa. Su felicidad se verá truncada, al ser destinado a Pearl Harbor. Nada más llegar a la base naval, averigua que Sally pertenece al servicio de inteligencia y que ha estado investigándolo para determinar su idoneidad para una peligrosa misión: desembarcar en la isla japonesa de Kusaie para fotografiar importantes documentos, gracias a los cuales se podría impedir un ataque nipón contra las islas Gilbert y Marshall y salvar la vida de miles de soldados norteamericanos</info>
+</item>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] K-19: The Widowmaker [/COLOR][COLOR blue](2002)[/COLOR]</title> 
+<year>2002</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Kathryn Bigelow, Productora: Coproducción Estados Unidos-Reino Unido-Alemania; Paramount Pictures / Intermedia Films-->
+<genre>Thriller. Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657906</page>
+<rawpost>fileId=1657906&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/2002-k19-the-widowmaker,1657906.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/2002-k19-the-widowmaker,1657906.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-A5i88ZvEc7Q/WlIWledglvI/AAAAAAAADYg/X-EwXtaBG8svfn8m4FkzzyB4F6ms3-A9gCLcBGAs/s1600/K_19_The_Widowmaker-700667808-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>El Capitán Mihhail Polenin (Liam Neeson), además de contar con la confianza y el cariño de sus hombres, es considerado y respetado como el capitán de submarinos con mayor experiencia de la Marina soviética. Sin embargo, es destituido del mando del K-19 porque sus superiores juzgan que no está en condiciones de ponerlo a punto para la hora y fecha previstas. Su sustituto es el Capitán Alexei Vostrikov (Harrison Ford), un oficial con una voluntad de hierro, que consigue que el K-19 emprenda la travesía exactamente a la hora programada: las 16:00 horas del día 18 de Junio de 1961... Inspirada en hechos reales ocultados por el gobierno ruso durante décadas.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Caza Del Octubre Rojo [/COLOR][COLOR blue](1990)[/COLOR]</title> 
+<year>1990</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: John McTiernan, Productora: Paramount Pictures-->
+<genre>Acción. Intriga</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1500284</page>
+<rawpost>fileId=1500284&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/jose2803/1990-79201/la-caza-del-octubre-rojo-hd-1990,1500284.mkv</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/jose2803/1990-79201/la-caza-del-octubre-rojo-hd-1990,1500284.mkv</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-7fnAA9qNiME/WlIWlu2WfgI/AAAAAAAADYk/NSD9Q2GQ7ogcF4A1F2OqO9h3h_dojsOSACLcBGAs/s1600/La_caza_del_Octubre_rojo-206170798-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética (Connery), se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarles o desertar de su país, encarga al agente Jack Ryan (Baldwin) que se ponga en contacto con él para saber sus verdaderas intenciones. Fue la primera entrega de una saga sobre las aventuras de Jack Ryan, el brillante analista y agente de la inteligencia americana creado por Tom Clancy. </info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Flota Silenciosa [/COLOR][COLOR blue](1951)[/COLOR]</title> 
+<year>1951</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: George Waggner, Productora: Warner Bros. Pictures-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=682981</page>
+<rawpost>fileId=682981&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1951-la-flota-silenciosa,682981.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1951-la-flota-silenciosa,682981.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-S1qqs5Ch1Ok/WlIWmGRpejI/AAAAAAAADYo/s87YJqMV6xY9k77t_AOPF-Vrc-v3K8hQwCLcBGAs/s1600/La_flota_silenciosa-360973529-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Acción, suspense y romance se entremezclan en este filme bélico que narra las aventuras de un submarino americano al que encomiendan una arriesgada misión contra los japoneses durante la II Guerra Mundial. John Wayne interpreta al atormentado comandante al mando del submarino, que se siente culpable por la muerte del anterior oficial y por su matrimonio fallido.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Guerra De Murphy [/COLOR][COLOR blue](1971)[/COLOR]</title> 
+<year>1971</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Peter Yates, Productora: Paramount Pictures-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657936</page>
+<rawpost>fileId=1657936&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1971-la-guerra-de-murphy,1657936.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1971-la-guerra-de-murphy,1657936.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-BzRi4UP04_s/WlIWmiQ37rI/AAAAAAAADYs/-T7GFZRM-lMhhVKWs0x5MIdtrjp-cj2wACLcBGAs/s1600/La_guerra_de_Murphy-923180842-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Última fase de la Segunda Guerra Mundial. Un submarino alemán hunde el barco de Murphy, disparando cruelmente a la tripulación en el agua. Murphy es el único superviviente, y desde ese momento no piensa más que en la venganza. </info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Hora Final [/COLOR][COLOR blue](1959)[/COLOR]</title> 
+<year>1959</year>  <!-- Alfa, Año, Genero, Pais:  Estados Unidos, Director: Stanley Kramer, Productora: Stanley Kramer Productions-->
+<genre>Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657935</page>
+<rawpost>fileId=1657935&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1959-la-hora-final,1657935.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1959-la-hora-final,1657935.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-dB9f9cT3j88/WlIWnNvy-rI/AAAAAAAADY0/IyHtXjgTjWgYtSwEM8MK0v_qTZWjR-YvwCLcBGAs/s1600/La_hora_final-356543955-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un holocausto nuclear ha aniquilado casi por completo a los seres humanos, excepto a un grupo de personas que viven en Australia. Gregory Peck es el comandante de un submarino cuya misión consiste en buscar a los supervivientes. Mientras tanto, la nube radioactiva que ya ha destruido el hemisferio norte, se va acercando al último enclave humano.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Leyenda Del Hunley (El Primer Submarino) [/COLOR][COLOR blue](1999)[/COLOR]</title> 
+<year>1999</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: John Gray, Productora: Adelson Entertainment-->
+<genre>Acción. Bélico. Drama</genre>
+<thumbnail>https://1.bp.blogspot.com/-5Nd53mKErgM/WlIWnrXD5qI/AAAAAAAADYw/SUgl4OLsIDQshkqIb73OwfRj8T8mJ7huACLcBGAs/s1600/La_leyenda_del_Hunley_El_primer_submarino_TV-919521486-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>The Hunley cuenta la historia de la tripulación del submarino confederado CSS Hunley, durante el asedio de Charleston de 1864. Fué el primer sumergible de la historia en hundir una embarcación enemiga en tiempo de guerra. La acción retrata las vicisitudes de los 9 hombres de la tripulación que debían accionar el submarino manualmente superando las condiciones más adversas.</info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] La Liga De Los Hombres Extraordinarios [/COLOR][COLOR blue](2003)[/COLOR]</title> 
+<year>2003</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Stephen Norrington, Productora: Coproducción Estados Unidos-Alemania-República Checa-Reino Unido; 20th Century Fox / Angry Films / International Production Company / JD Productions / Mediastream III-->
+<genre>Fantástico. Acción. Ciencia Ficción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1189319</page>
+<rawpost>fileId=1189319&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/SHIRKAM/super-heroes-76873/la-liga-de-los-hombres-extraordinarios-2003,1189319.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/SHIRKAM/super-heroes-76873/la-liga-de-los-hombres-extraordinarios-2003,1189319.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-Ey1rslOixMs/WlIWoNPNV2I/AAAAAAAADY4/1MGqCezZd3E9ngzYfg_d1J_8hYrcqSwkQCLcBGAs/s1600/La_liga_de_los_hombres_extraordinarios-732768427-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Inglaterra, siglo XIX. En plena Era Victoriana, el gobierno inglés vive dominado por el pánico porque no sabe cómo frenar un diabólico plan, cuyo objetivo es conseguir el dominio del mundo. La única solución para desmantelar el maquiavélico proyecto es contratar a los más grandes aventureros: Allan Quatermain, el doctor Henry Jekyll, el Capitán Nemo y Dorian Gray. Basada en una serie de cómics fantásticos de Alan Moore.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Laconia, El Hundimiento (Miniserie De TV) [/COLOR][COLOR blue](2011)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>2011</year>  <!-- Alfa, Año, Genero, Pais:  Reino Unido, Director: Uwe Janson, Productora: Coproducción Reino Unido-Alemania; Talkback Thames / Teamworx / Two Oceans Production (TOP)-->
+<genre>Bélico</genre>
+<thumbnail>https://1.bp.blogspot.com/-jgH4tjYXKxo/WlIWoY8VHcI/AAAAAAAADY8/zK8AqZLU8Rg_PIBFyp5K4bLuHpkMqgPkQCLcBGAs/s1600/Laconia_el_hundimiento_Miniserie_de_TV-420492359-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Miniserie de dos episodios. El 12 de Septiembre de 1942, el "Laconia", un crucero transformado en barco de transporte para las tropas, fue torpedeado y hundido por el submarino alemán U-156, comandado por Werner Hartenstein. Murieron 1.621 personas y sobrevivieron 1.104. La mayoría de los pasajeros eran mujeres, niños, soldados heridos y prisioneros de guerra italianos. Tras el hundimiento, Hartenstein, en lugar de abandonar a su suerte a los supervivientes, decidió salvar el mayor número de vidas posible. Una historia real de insólita humanidad en medio de la crueldad de la guerra.</info>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Life Aquatic [/COLOR][COLOR blue](2004)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>2004</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Wes Anderson, Productora: Touchstone Pictures / American Empirical Pictures / Scott Rudin Productions-->
+<genre>Comedia</genre>
+<thumbnail>https://1.bp.blogspot.com/-6XmQOg5TMs8/WlIWv6wR-gI/AAAAAAAADaE/B2EQBH3mhL8d-OEVujqABGAsygUB5HkDACLcBGAs/s1600/Life_Aquatic-225710526-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Tras preparar un plan para vengar la muerte de su colega a manos de un mítico tiburón blanco, el oceanógrafo Steve Zissou (Bill Murray) recluta a una tripulación que incluye a su esposa (Anjelica Huston), a una periodista (Cate Blanchett) y a un joven que podría ser su hijo (Owen Wilson).</info>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Lobos Marinos [/COLOR][COLOR blue](1980)[/COLOR]</title> 
+<year>1980</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Andrew V. McLaglen, Productora: Coproducción USA-Reino Unido; Paramount Pictures / Lorimar Productions / Richmond Light Horse Productions-->
+<genre>Bélico. Aventuras</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=657424</page>
+<rawpost>fileId=657424&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1980-lobos-marinos,657424.mkv</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1980-lobos-marinos,657424.mkv</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-co7jIMU2aQM/WlIWozwjzXI/AAAAAAAADZA/y95TCbAc7P8VsDQfVAbXHkr9a-fOO88FACLcBGAs/s1600/Lobos_marinos-451974358-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Durante la Segunda Guerra Mundial (1939-1945), los submarinos alemanes hunden barcos mercantes británicos que transportan miles de toneladas de víveres y material bélico para la marina. La inteligencia británica de la India cree que la información les llega a los submarinos alemanes (U-Boats) a través del transmisor de radio de un buque germano atracado en en la colonia portuguesa de Goa. Como Portugal es neutral en la guerra, los barcos no pueden ser atacados por tropas convencionales, por lo que la inteligencia británica decide encargar la misión a un grupo de veteranos británicos expatriados.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Marea Roja [/COLOR][COLOR blue](1995)[/COLOR]</title> 
+<year>1995</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Tony Scott, Productora: Don Simpson, Jerry Bruckheimer Films-->
+<genre>Acción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1618910</page>
+<rawpost>fileId=1618910&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1995-marea-roja,1618910.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1995-marea-roja,1618910.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-JhXAxybztZA/WlIWo7p6h7I/AAAAAAAADZI/Y49z-u0MMhYvukn92MhSOpeMp0Kg4W1IACLcBGAs/s1600/Marea_roja-195018947-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>El impulsivo Comandante del Alabama, el Capitán Frank Ramsey, y su lugarteniente, el reflexivo Teniente Coronel Ron Hunter, se encuentran en medio de un conflicto mundial. El submarino nuclear que dirigen se ve amenazado por un desequilibrado nacionalista ruso que quiere provocar la Tercera Guerra Mundial. Pero, cuando reciben órdenes de lanzar misiles nucleares, Ramsey y Hunter reaccionan de manera muy distinta y acaban enfrentándose por el control de la nave. </info>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Monturiol, El Señor Del Mar [/COLOR][COLOR blue](1993)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>1993</year>  <!-- Alfa, Año, Genero, Pais: España, Director: Francesc Bellmunt, Productora: Fair Play Produccions S.A.-->
+<genre>Drama</genre>
+<thumbnail>https://3.bp.blogspot.com/-Sfiy-neqRHQ/WlIWpJxeXTI/AAAAAAAADZM/IduNAYSjNsA84ytEX9CNxjuY7q7Nx3s9ACLcBGAs/s1600/Monturiol_el_se_or_del_mar-972646697-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>En plena época romántica el ampurdanés Narcís Monturiol imaginó, como su contemporáneo Julio Verne, que era posible viajar con una nave por el fondo del mar. No quiso conformarse con una fantasía y puso todo su empeño en que su sueño se hiciera realidad. Barcelona iniciaba entonces una etapa de gran crecimiento industrial y acogió con entusiasmo la idea de construir un submarino para la búsqueda de coral. Fue un largo camino el que recorrió Monturiol, casi toda una vida entregada a la conquista del fondo del mar, con alegrías, aventuras, fracasos y momentos de gloria. Un héroe de su tiempo que resolvió los principales enigmas de la navegación submarina a mediados del sigo XIX.</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Operación Pacífico [/COLOR][COLOR blue](1959)[/COLOR]</title> 
+<year>1959</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Blake Edwards, Productora: Universal International Pictures (UI) / Granart Company. Productor: Robert Arthur-->
+<genre>Comedia. Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657942</page>
+<rawpost>fileId=1657942&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1959-operacion-pacifico,1657942.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1959-operacion-pacifico,1657942.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-rqACAl1msgE/WlIWpjkw1uI/AAAAAAAADZQ/YBcIYqRM-i4ezdfhOd0g3QIQ4aaVBSdXQCLcBGAs/s1600/Operaci_n_Pac_fico-917565085-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Segunda Guerra Mundial (1939-1945). Matt T. Sherman y Nicholas Holden son el capitán y el primer oficial de un submarino en el que tienen lugar diversas aventuras, especialmente cuando un grupo de mujeres de la Marina americana se ve obligado a formar parte de la tripulación.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Operación Tirpitz [/COLOR][COLOR blue](1955)[/COLOR]</title> 
+<year>1955</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Ralph Thomas, Productora: London Independent Producers-->
+<genre>Drama. Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=678276</page>
+<rawpost>fileId=678276&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1955-operacion-tirpitz,678276.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1955-operacion-tirpitz,678276.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-3XXVLKq_s9k/WlIWpjzfK7I/AAAAAAAADZU/4_7azlWcAtEyGrIAe6LFA4ooih42Ea76wCLcBGAs/s1600/Operaci_n_Tirpitz-209545925-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Con todas las probabilidades en contra, los aliados lo intentaron todo para hundir el Tirpitz: Torpedos tripulados, minas magnéticas, submarinos en miniatura, e incluso bombardeos masivos.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Phantom [/COLOR][COLOR blue](2013)[/COLOR]</title> 
+<year>2013</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Todd Robinson, Productora: RCR Media Group / Solar Filmworks-->
+<genre>Thriller</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1657916</page>
+<rawpost>fileId=1657916&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/2013-phantom,1657916.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/2013-phantom,1657916.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-HxYhNmG3c2I/WlIWqM0VyVI/AAAAAAAADZY/bpBxLrV2hRca8-VcpcgneIM3RfB1jNlOACLcBGAs/s1600/Phantom-756700421-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Mientras la tensión entre las grandes superpotencias crece, los Estados Unidos realizan maniobras submarinas en el Pacífico. De la tripulación forma parte el capitán Dmitri Zubov, un experto marino que vive atormentado por su pasado. La misión consiste en averiguar cuál es el objetivo del submarino soviético B756. Cuando el B756 deja de emitir un informe de posición, el comando Fleet da al buque por desaparecido. Mientras tanto, en las profundidades del Pacífico, el capitán Zubov y la tripulación del B-756 descubrirán un complot que podría destruir a la humanidad. </info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Presión [/COLOR][COLOR blue](2015)[/COLOR]</title> 
+<urlsolve></urlsolve>
+<year>2015</year>  <!-- Alfa, Año, Genero, Pais: Reino Unido, Director: Ron Scalpello, Productora: Bigscope Films / Pinewood Pictures-->
+<genre>Thriller</genre>
+<thumbnail>https://2.bp.blogspot.com/-mWpFMhBGmlw/WlIWsbs05dI/AAAAAAAADZ4/BDrRaiBHN8wzjh52hHt9jDbBwHhLAcniACLcBGAs/s1600/pressure-720985693-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un equipo de técnicos se sumergen en el fondo del mar en una cápsula submarina para reparar un oleoducto. Pretendía ser un trabajo rutinario pero una inesperada y violenta tormenta hunde el barco al que está unido la cápsula. El equipo de rescate tarda en llegar y el aire se acaba. Mientras la tensión aumenta y las soluciones para salvar las vidas de los cuatro se agotan, ellos deberán decidir qué hacer en su lucha por la supervivencia. </info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Que Vienen Los Rusos! [/COLOR][COLOR blue](1966)[/COLOR]</title> 
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1554313</page>
+<rawpost>fileId=1554313&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/YSAGB/peliculas-q-90703/que-vienen-los-rusos-dvd-rip,1554313.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/YSAGB/peliculas-q-90703/que-vienen-los-rusos-dvd-rip,1554313.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<year>1966</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Norman Jewison, Productora: The Mirisch Corporation. Distribuida por United Artists-->
+<genre>Comedia</genre>
+<thumbnail>https://4.bp.blogspot.com/-qQF1iM_DdkA/WlIWj2sKJuI/AAAAAAAADX8/kzAk2Zt2e2kUa8guy0pOjzOpu2JeY6kjACLcBGAs/s1600/A_Que_vienen_los_rusos-571242038-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Un submarino ruso encalla en un tranquilo lugar de la costa de los Estados Unidos. La tripulación desembarca para pedir ayuda, pero los habitantes del pueblo los toman por invasores.</info>
+</item>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Submarine Patrol [/COLOR][COLOR blue](1938)[/COLOR] V.O.S.E.</title> 
+<year>1938</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: John Ford, Productora: 20th Century-Fox Film Corporation-->
+<genre>Aventuras. Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=677346</page>
+<rawpost>fileId=677346&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1938-submarine-patrol-v-o-s-e,677346.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1938-submarine-patrol-v-o-s-e,677346.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://2.bp.blogspot.com/-f1Lv_3Pqe-s/WlIWs7q7yKI/AAAAAAAADaA/KI8CfmjHXHwwBwUgLCzaVSSrM81l6oaLwCLcBGAs/s1600/submarine_patrol-939971414-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Durante la I Guerra Mundial, y tras cometer una negligencia, un oficial naval es destinado a un viejo submarino. Ansioso por redimirse ante sus superiores, pondrá todo su empeño en convertir a la desastrosa y conflictiva tripulación en un perfecto equipo de combate.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Tiburones De Acero [/COLOR][COLOR blue](1943)[/COLOR]</title> 
+<year>1943</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Archie Mayo (AKA Archie L. Mayo), Productora: Twentieth Century-Fox-->
+<genre>Bélico. Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=678269</page>
+<rawpost>fileId=678269&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1943-tiburones-de-acero,678269.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1943-tiburones-de-acero,678269.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-eDpVEwwc9qg/WlIWqd9Du6I/AAAAAAAADZc/D5XVkjmYh14LZXIu5hVSVJC64eXS9MxXgCLcBGAs/s1600/Tiburones_de_acero-446142930-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Al teniente Ward Stewart y a su equipo les han asignado una importante misión dentro del submarino USS Corsair. Investigan a un pequeño barco que resulta ser un Q-ship nazi. Los miembros del Albacore consiguen escapar de la emboscada, pero cuando llegan a New London, Stewart y el capitán del submarino se ven envueltos en un triángulo amoroso que afectará a la misión más peligrosa que jamás hayan tenido que afrontar en toda su vida.</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Torpedo [/COLOR][COLOR blue](1958)[/COLOR]</title> 
+<year>1958</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Robert Wise, Productora: Hill-Hecht-Lancaster Productions / Jeffrey Pictures Corp.. Distribuida por United Artists-->
+<genre>Bélico. Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1658023</page>
+<rawpost>fileId=1658023&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1958-torpedo,1658023.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/ijordi/submarinos-barcos-aviones-91839/1958-torpedo,1658023.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-uKCdiwgVOwM/WlIWq0jhkgI/AAAAAAAADZg/wFq911tx5WsYKdTIXFtu9WYv_UOzsFwigCLcBGAs/s1600/Torpedo-795335581-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>II Guerra Mundial: la guerra del Pacífico. "Rick" Richardson (Clark Gable) es un duro y abnegado oficial de Marina cuyo único propósito es encontrar y eliminar a un destructor japonés al que cree responsable del hundimiento de su barco. Cuando asume el mando de un nuevo submarino, con un vigilante primer oficial (Burt Lancaster), entrena a sus hombres de manera tan implacable que casi provoca un motín.</info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Tragedia Submarina [/COLOR][COLOR blue](1930)[/COLOR] V.O.S.E.</title> 
+<year>1930</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: John Ford, Productora: Fox Film Corporation-->
+<genre>Acción. Drama</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=813744</page>
+<rawpost>fileId=813744&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/filmografia-john-wayne-41656/1930-men-without-women-tragedia-submarina-vose,813744.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/filmografia-john-wayne-41656/1930-men-without-women-tragedia-submarina-vose,813744.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-3Teajia53dE/WlIWsfcWtBI/AAAAAAAADZ8/BFHHurGuvIk0fCGYad8z_hbjyRzoHiDYACLcBGAs/s1600/men_without_1930women-891830468-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Al colisionar durante una tormenta con un barco, el submarino de la armada americana S13 se hunde en los mares de China, y los catorce hombres que componen la tripulación quedan atrapados en su interior, sin esperanzas de sobrevivir...</info>
+</item>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] U-47 Comandante Prien [/COLOR][COLOR blue](1958)[/COLOR]</title> 
+<year>1958</year>  <!-- Alfa, Año, Genero, Pais: Alemania , Director: Harald Reinl, Productora: Arca-Filmproduktion GmbH-->
+<genre>Bélico</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=691469</page>
+<rawpost>fileId=691469&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1958-u-47-comandante-prien,691469.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/1958-u-47-comandante-prien,691469.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://2.bp.blogspot.com/-PV9JQ5B6slo/WlIWrGhZ1iI/AAAAAAAADZk/dyihjuWuyAQIvMNw03NMJ8qz771yfllUgCLcBGAs/s1600/U_47_Comandante_Prien-837782734-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>En octubre de 1939, apenas comenzada la Segunda Guerra Mundial, el submarino alemán U47, liderado por el comandante Prien, intenta dar caza al buque de guerra británico Royal Oak...</info>
+</item>
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] U-571 [/COLOR][COLOR blue](2000)[/COLOR]</title> 
+<year>2000</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Jonathan Mostow, Productora: Universal Pictures-->
+<genre>Bélico. Intriga</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=788160</page>
+<rawpost>fileId=788160&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/SHIRKAM/cine-belico-61791/u-571-2000,788160.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/SHIRKAM/cine-belico-61791/u-571-2000,788160.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://3.bp.blogspot.com/-bswazkx2_DU/WlIWrPd0ftI/AAAAAAAADZo/2foqiOT5MokBEDaApRN7_NpqNsBgnhGygCLcBGAs/s1600/U_571-332700136-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>En 1942, en plena Segunda Guerra Mundial, la flota alemana está causándole a los Aliados un gran número de bajas. Los submarinos de Hitler hunden cientos de barcos gracias a un sistema de comunicaciones llamado "enigma", que permite establecer con extraordinaria exactitud la posición de los objetivos que hay que destruir. Un capitán norteamericano ha conseguido, sin embargo, detectar que las señales del codificador "enigma" proceden de un submarino alemán averiado, el U-571, que se encuentra en mitad del Atlántico Norte. Rápidamente, un grupo de oficiales aliados que se hacen pasar por alemanes, son enviados para reducir a la tripulación del U-571 y apoderarse del codificador con el fin de interceptar las comunicaciones alemanas.</info>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] U-Boat [/COLOR][COLOR blue](2004)[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year>2004</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Tony Giglio, Productora: Artisan Entertainment / Splendid Pictures. Distribuida por Lions Gate Films Home Entertainment-->
+<genre>Bélico. Acción</genre>
+<thumbnail>https://2.bp.blogspot.com/-PACSxNh_LDA/WlIWrWqz7WI/AAAAAAAADZs/bkiUDPX-8D4pBwQCC3qMdb82US_pjfRHQCLcBGAs/s1600/U_Boat-833834449-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Océano Atlántico, Segunda Guerra Mundial. El capitán de un U-Boat alemán rescata a los superviviente de un submarino norteamericano hundido. Su intención es entregarlo a las autoridades alemanas. Pero, inesperadamente, una plaga ataca a la tripulación extendiéndose con rapidez y cobrándose numerosas víctimas entre los alemanes. La única alternativa de sobrevivir a la plaga, para los hombres de a bordo, es trabajar en equipo para llegar a puerto lo antes posible. Alemanes y norteamericanos se alían entonces en un pacto de supervivencia..</info>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white] Viaje Al Fondo Del Mar [/COLOR][COLOR blue](1961)[/COLOR]</title> 
+<year>1961</year>  <!-- Alfa, Año, Genero, Pais: Estados Unidos, Director: Irwin Allen, Productora: 20th Century-Fox-->
+<genre>Aventuras. Ciencia Ficción</genre>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1305918</page>
+<rawpost>fileId=1305918&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/SHIRKAM/cine-de-aventuras-51380/viaje-al-fondo-del-mar-1961,1305918.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/SHIRKAM/cine-de-aventuras-51380/viaje-al-fondo-del-mar-1961,1305918.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://4.bp.blogspot.com/-EWf-DUL6DSQ/WlIWr7VmoyI/AAAAAAAADZ0/T-GUFiTlBd0rLfiLHWFB6_XZzPyfTMWbQCLcBGAs/s1600/Viaje_al_fondo_del_mar-935290007-large.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info>Una expedición rutinaria al Polo Norte se convierte repentinamente en una trepidante carrera por salvar a toda la humanidad cuando un cinturón de radiación en el espacio convierte la Tierra en un verdadero infierno. El almirante Nelson y la tripulación del submarino atómico Seaview lucharán contra saboteadores, enormes criaturas marinas y ataques de submarinos enemigos, mientras intentan prevenir una catástrofe mundial...</info>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR purple] • [/COLOR][COLOR white]  [/COLOR][COLOR blue]()[/COLOR]</title> 
+<link></link>
+<link></link>
+<link></link>
+<year></year>  <!-- Alfa, Año, Genero, Pais: , Director: , Productora: -->
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart>https://2.bp.blogspot.com/-cVoQnkv1c8I/WlFqbnY1sjI/AAAAAAAADXk/wdltHN9FKnoIvQb3mXc02FUvh-V5t9XWwCLcBGAs/s1600/farnartsuub.jpg</fanart>
+<info></info>
+</item>

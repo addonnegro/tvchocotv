@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+ <item>
+<title>[COLOR yellow]Música [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-Uxg7grjMaPs/WlNDFhHM2QI/AAAAAAAADcw/vk54E-_-N9kN3Ngyq_3USU9EqlMgumJgACLcBGAs/s1600/IconoZonaCarnaval.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>METE NUEVA MUSICA CARNAVAL</externallink>
+</item>
+
+
+
+<item><title>[COLOR yellow]Canarias [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/CarnavalTVC</page>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-XV7lIJV3oU0/WltGDm7DVpI/AAAAAAAAEHE/8yMQAVuqAOsSqX9LKrSh14jSZ0VunBBHgCLcBGAs/s1600/canarias.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+
+<item><title>[COLOR yellow]Cadiz [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/carnavalsur</page>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-6WFcuzFo1CU/WltGDM6HPkI/AAAAAAAAEG4/CDovnPH4mfAUU1VTLu9KR0noA8uj9PP0gCLcBGAs/s1600/cadiz2.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item><title>[COLOR yellow]Onda Cadiz [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCpOz3CN6mDlxkE7-m5AS1aQ</page>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-6Om9j0xs2tw/WltGCXPl1zI/AAAAAAAAEGw/oQdrTIvdXaUj0xuHrox_XiiakuAj16wdACLcBGAs/s1600/cadiz.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item><title>[COLOR yellow]Cadiz Por Un Tubo [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/71Javier</page>
+</regex>
+<thumbnail>https://3.bp.blogspot.com/-Y6rRJS7DYHU/WltGDY_9e8I/AAAAAAAAEG8/PG7ax4waR-YtjHr7dyWNPb6yJuExHW5KgCLcBGAs/s1600/cadiz3.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+
+
+item>
+<title>[COLOR yellow]Retro Cadiz [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+<thumbnail>https://1.bp.blogspot.com/-pUD1tl8KBYo/WltGDYw0XfI/AAAAAAAAEHA/m9CfcfskPEAooEjDf7PdQc3Gs0VR2DNhwCLcBGAs/s1600/cadiz4.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/carvanales-de-cadiz-antiguos-74053/list,1,24</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/carvanales-de-cadiz-antiguos-74053/list,1,24</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-pUD1tl8KBYo/WltGDYw0XfI/AAAAAAAAEHA/m9CfcfskPEAooEjDf7PdQc3Gs0VR2DNhwCLcBGAs/s1600/cadiz4.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+<items>
+
+
+
+
+item>
+<title>[COLOR yellow]Finales Cadiz [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+<thumbnail>https://1.bp.blogspot.com/-pUD1tl8KBYo/WltGDYw0XfI/AAAAAAAAEHA/m9CfcfskPEAooEjDf7PdQc3Gs0VR2DNhwCLcBGAs/s1600/cadiz4.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/carnavales-de-cadiz-finales-69330/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/carnavales-de-cadiz-finales-69330/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-pUD1tl8KBYo/WltGDYw0XfI/AAAAAAAAEHA/m9CfcfskPEAooEjDf7PdQc3Gs0VR2DNhwCLcBGAs/s1600/cadiz4.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+<items>
+
+
+<item><title>[COLOR yellow]Malaga [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCTeh6qspW04YdH_sqBDWSlg</page>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-iny7ppvADOA/WltGDwHJTRI/AAAAAAAAEHQ/lL6fWzeMo7wlsPtcmX4UFP9mF4uTm1wHACLcBGAs/s1600/malaga.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item><title>[COLOR yellow]Al Son Del [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/alsondelcarnaval</page>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-ygZRwCCzfIc/WltGCb7KVFI/AAAAAAAAEGs/bj3gVLjs5UgJnKi17yoXrOXQusYQMAAbACLcBGAs/s1600/alsondel.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item><title>[COLOR yellow]Brasil Mais [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCCOyS2deQ4IoT5F-S0qqgjA</page>
+</regex>
+<thumbnail>https://3.bp.blogspot.com/-9FK8UVTkzIM/WltGCTKy-RI/AAAAAAAAEG0/IDPU53z-pFAgUv_sdWUnuXYvsXRFWzETACLcBGAs/s1600/brazil.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Uruguay [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=9J_CYmrHTps&amp;list=PLF2xKodIQsVDC88B6o6fT4KOP12-AWdb9</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://4.bp.blogspot.com/-_ApjQSyNSGo/WltGEponKtI/AAAAAAAAEHg/wEmC_OkMPxYoHBuDOM4h9w3q0cVJnbCbACLcBGAs/s1600/uruguay.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+
+
+<item><title>[COLOR yellow]Veracruz [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/carnavalveroficial</page>
+</regex>
+<thumbnail>https://3.bp.blogspot.com/-K2lpRzOU6kk/WltGExV2uDI/AAAAAAAAEHk/AYaj6xQWyfMhpvfthqBRJj3wrWHe6lI7ACLcBGAs/s1600/veracruz.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item><title>[COLOR yellow]Dominicano [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCFsuBYPeP6gWuyzcb48xkjQ</page>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-PA2EwamFm-A/WltGDssONVI/AAAAAAAAEHI/aM6G4Z-yJPoES8Q-U2qhnheXFcofoM8_QCLcBGAs/s1600/dominicano.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]Sitges [/COLOR]-[COLOR green] Carnaval [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Ti4AKVQNkec&amp;list=PLgrNB94oM0AJ5MZDftn3CaPj1A124cEMU</page>
+             <cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://1.bp.blogspot.com/-c1Q6b-gLYTI/WltGEgnWeVI/AAAAAAAAEHc/WEi8-u1ZMcE3px0a4kMM9Hy6gqrXqPGIQCLcBGAs/s1600/sitges.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Negros Y Blancos [/COLOR]-[COLOR green] Carnaval Pasto [/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=5GUxkYIws1Y&amp;list=PLV07VxpMK2QC1TPSVGVORRyuESh_YxuJW</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://2.bp.blogspot.com/-RuHsua0JXVs/WltGEI34rLI/AAAAAAAAEHU/KQzEUUSJc8ALaFoJ5FnpI3iR-jzv8ubPQCLcBGAs/s1600/negros.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Punta Cana [/COLOR]-[COLOR green] Carnaval 2017[/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=CUZRSO0BvEA&amp;list=PL_0TjJvVeygRBQUqWrPJuz5iqwek4MB2o</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://3.bp.blogspot.com/-KF9Eq6D3zGY/WltGEbrXHwI/AAAAAAAAEHY/P6-KZcIfA9kH0sYza7x9HGNuK4ALKDpLgCLcBGAs/s1600/puntacana.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Geographic [/COLOR]-[COLOR green] Carnaval Cadiz[/COLOR]-[COLOR blue] (TvChopo)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=h81FvyGCzSY&amp;list=PL832C3B8E31D68EDF</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://2.bp.blogspot.com/-aRRVZGVEJr0/WltGDwqBnwI/AAAAAAAAEHM/KTBv0xKjqb89TtYRZnLAt9ok9iCy_KiSgCLcBGAs/s1600/geo.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-YDVUBEB4lPU/WlNDFsZvnuI/AAAAAAAADc0/gsFpkTVBegoGwAXQsgPwxcS8oVhRuVnsgCLcBGAs/s1600/carnavalFarnart.jpg</fanart>
+</item>
+
+
+
+
+
+
