@@ -9,7 +9,7 @@
 
 
 
-<item>
+item>
  
 <title>[COLOR orange]Formula One (2018)-[COLOR red]servidor 2[/COLOR]</title>
  
@@ -63,7 +63,23 @@
  </item>
 
 
-
+<item>
+<title>[COLOR orange]Formula One (2018)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://seriesblanco.com/files/uploads/5821.jpg</thumbnail>
+<fanart>https://seriesblanco.com/files/uploads/5821.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=qmS7mHrqiFE&amp;list=PLqdMwxr9WNxY1-3-6bWyiVtMz88qI6-bM</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=qmS7mHrqiFE&t=262s&list=PLqdMwxr9WNxY1-3-6bWyiVtMz88qI6-bM
+</item>
  
  <item>
 <title>[COLOR orange]F1 2017[/COLOR]</title>
