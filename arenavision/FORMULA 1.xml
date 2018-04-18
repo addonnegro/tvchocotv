@@ -15,7 +15,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <title>[COLOR orange][makelist.param2] *chopo*[/COLOR]</title>
         <link>$doregex[getUrl]</link>
 <thumbnail>https://seriesblanco.com/files/uploads/5821.jpg</thumbnail>
 <fanart>https://seriesblanco.com/files/uploads/5821.jpg</fanart>
